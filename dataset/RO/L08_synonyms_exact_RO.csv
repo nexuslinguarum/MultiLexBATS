@@ -1,0 +1,236 @@
+,ID,Relation,Source,Target,RO
+0,L08_1,synonyms - exact,airplane,,avion
+1,,,,aeroplane,DUPLICATE_avion
+2,,,,plane,DUPLICATE_avion
+4,L08_2,synonyms - exact,auto,,automat
+5,,,,car,mașină
+6,,,,automobile,automobil
+7,,,,motorcar,motocar
+9,L08_3,synonyms - exact,baby,,bebeluș
+10,,,,infant,copil
+11,,,,babe,prunc
+13,L08_4,synonyms - exact,bicycle,,bicicletă
+14,,,,bike,DUPLICATE_bicicletă
+15,,,,wheel,roată
+16,,,,cycle,ciclu
+18,L08_5,synonyms - exact,child,,copil
+19,,,,kid,DUPLICATE_copil
+20,,,,youngster,tânăr
+21,,,,minor,minor
+22,,,,shaver,DUPLICATE_tânăr
+23,,,,nipper,băiețaș
+24,,,,small_fry,copii
+25,,,,tiddler,NO_TRANSLATION
+26,,,,tike,DUPLICATE_NO_TRANSLATION
+27,,,,tyke,copil_mic
+28,,,,fry,plevușcă
+29,,,,nestling,cuibărit
+31,L08_6,synonyms - exact,cloth,,pânză
+32,,,,fabric,țesătură
+33,,,,material,material
+34,,,,textile,textile
+36,L08_7,synonyms - exact,clothes,,haine
+37,,,,clothing,îmbrăcăminte
+38,,,,apparel,veșmânt
+39,,,,dress,rochie
+41,L08_8,synonyms - exact,confused,,confuz
+42,,,,baffled,uimit
+43,,,,befuddled,încurcat
+44,,,,bemused,nedumerit
+45,,,,bewildered,dezorientat
+46,,,,confounded,DUPLICATE_încurcat
+47,,,,lost,pierdut
+48,,,,mazed,zăpăcit
+49,,,,mixed-up,amestecat
+51,L08_9,synonyms - exact,dollars,,dolari
+52,,,,bucks,DUPLICATE_dolari
+54,L08_10,synonyms - exact,emphasis,,subliniere
+55,,,,accent,accent
+56,,,,accentuaion,accentuare
+57,,,,importance,importanţă
+58,,,,stress,sublinia
+59,,,,significance,semnificaţie
+61,L08_11,synonyms - exact,father,,tată
+62,,,,dad,tata
+63,,,,daddy,tati
+65,L08_12,synonyms - exact,flower,,floare
+66,,,,blossom,înflorire
+67,,,,bloom,înflori
+69,L08_13,synonyms - exact,harbor,,port
+70,,,,seaport,port_maritim
+71,,,,haven,refugiu
+72,,,,harbour,DUPLICATE_port
+74,L08_14,synonyms - exact,help,,ajurot
+75,,,,aid,asistență
+76,,,,assist,asista
+78,L08_15,synonyms - exact,hieroglyph,,hieroglifă
+79,,,,hieroglyphic,hieroglific
+80,,,,pictogram,pictogramă
+82,L08_16,synonyms - exact,homogeneous,,omogen
+83,,,,uniform,uniformă
+84,,,,unvarying,nevariabil
+86,L08_17,synonyms - exact,honest,,onest
+87,,,,sincere,sincer
+88,,,,ingenuous,ingenuu
+89,,,,True,adevărat
+90,,,,direct,direct
+91,,,,truthful,corect
+93,L08_18,synonyms - exact,identical,,identic
+94,,,,same,la_fel
+95,,,,indistinguishable,de_nedistins
+97,L08_19,synonyms - exact,incorrect,,incorect
+98,,,,wrong,greșit
+99,,,,counterfactual,contrafactual
+100,,,,erroneous,eronat
+101,,,,inaccurate,inexacte
+102,,,,specious,înșelător
+103,,,,unsound,nesănătos
+104,,,,untrue,neadevărat
+105,,,,False,fals
+107,L08_20,synonyms - exact,intelligent,,inteligent
+108,,,,clever,ingenios
+109,,,,smart,isteț
+111,L08_21,synonyms - exact,jewel,,bijuterie
+112,,,,gem,nestemată
+113,,,,stone,piatră_preţioasă
+115,L08_22,synonyms - exact,lad,,flăcău
+116,,,,chap,băiat
+117,,,,fellow,individ
+118,,,,feller,DUPLICAT_fellow
+119,,,,fella,DUPLICATE_DUPLICAT_fellow
+120,,,,gent,boieraș
+121,,,,blighter,derbedeu
+122,,,,cuss,persoană
+123,,,,bloke,tip
+125,L08_23,synonyms - exact,lady,,doamnă
+126,,,,madam,DUPLICATE_doamnă
+127,,,,dame,damă
+128,,,,ma'am,DUPLICATE_doamnă
+129,,,,gentlewoman,domnișoară
+130,,,,madame,DUPLICATE_doamnă
+131,,,,woman,femeie
+133,L08_24,synonyms - exact,lazy,,leneș
+134,,,,indolent,indolent
+135,,,,faineant,ineficient
+136,,,,otiose,zadarnic
+137,,,,slothful,comod
+138,,,,work-shy,timid
+140,L08_25,synonyms - exact,list,,listă
+141,,,,listing,listare
+142,,,,enumeration,enumerare
+144,L08_26,synonyms - exact,loyal,,loial
+145,,,,faithful,credincios
+146,,,,True,adevărat
+147,,,,dependable,de_încredere
+148,,,,devoted,devotat
+149,,,,reliable,de_nădejdie
+151,L08_27,synonyms - exact,market,,piață
+152,,,,marketplace,piașă_de_desfacere
+153,,,,mart,centru_comercial
+154,,,,bazaar,bazar
+156,L08_28,synonyms - exact,mend,,repara
+157,,,,repair,reparație
+158,,,,fix,fixa
+159,,,,fixing,fixarea
+160,,,,fixture,fixare
+161,,,,mending,reparând
+162,,,,reparation,reparaţie
+163,,,,patch,plasture
+164,,,,darn,cărpi
+165,,,,darning,cărpeală
+167,L08_29,synonyms - exact,mesh,,împletitură
+168,,,,gauze,tifon
+169,,,,netting,țesătură
+170,,,,veiling,voal
+171,,,,hairnet,plasă_de_păr
+172,,,,reseau,grilaj
+173,,,,net,plasă
+174,,,,save-all,dispozitiv_de_protecție
+175,,,,snood,fileu
+176,,,,sparker,scânteietor
+177,,,,tulle,tul
+178,,,,wirework,sârmă
+179,,,,grillwork,grilaj_de_fier
+181,L08_30,synonyms - exact,monument,,monument
+182,,,,memorial,memorial
+184,L08_31,synonyms - exact,mother,,mamă
+185,,,,mom,mama
+186,,,,mommy,mami
+187,,,,mum,mămică
+189,L08_32,synonyms - exact,murder,,crimă
+190,,,,slaying,uciderea
+191,,,,slay,ucide
+192,,,,execution,execuție
+194,L08_33,synonyms - exact,new,,nou
+195,,,,modern,modern
+196,,,,recent,recent
+198,L08_34,synonyms - exact,obsolete,,învechit
+199,,,,outdated,demodat
+200,,,,out-of-date,expirat
+201,,,,superannuated,perinat
+203,L08_35,synonyms - exact,organized,,organizat
+204,,,,arranged,amenajat
+205,,,,configured,configurat
+206,,,,corporate,corporative
+207,,,,incorporated,încorporate
+208,,,,re-formed,reformat
+209,,,,reorganized,reorganizat
+210,,,,reorganised,DUPLICATE_reorganizat
+212,L08_36,synonyms - exact,package,,pachet
+213,,,,parcel,colet
+214,,,,pack,ambalaj
+215,,,,packet,balot
+216,,,,bundle,mănunchi
+218,L08_37,synonyms - exact,phone,,telefon
+219,,,,telephone,DUPLICATE_telefon
+220,,,,cell,telefon_mobil
+221,,,,cellphone,telefon_celular
+222,,,,smartphone,telefon_inteligent
+224,L08_38,synonyms - exact,portion,,fragment
+225,,,,part,parte
+226,,,,component_part,parte_compnentă
+227,,,,component,componentă
+228,,,,constituent,element_consitutiv
+230,L08_39,synonyms - exact,railway,,cale_ferată
+231,,,,railroad,DUPLICATE_cale_ferată
+233,L08_40,synonyms - exact,rational,,rațional
+234,,,,logical,logic
+235,,,,coherent,coerent
+236,,,,reasonable,rezonabil
+237,,,,sane,citov
+239,L08_41,synonyms - exact,reasonable,,rezonabil
+240,,,,sensible,de_bun-simț
+242,L08_42,synonyms - exact,rock,,stâncă
+243,,,,stone,piatră
+245,L08_43,synonyms - exact,shore,,țărm
+246,,,,coast,coastă
+247,,,,strand,liman
+248,,,,bank,mal
+249,,,,beach,plajă
+251,L08_44,synonyms - exact,snake,,șarpe
+252,,,,serpent,DUPLICATE_șarpe
+253,,,,ophidian,ofidian
+255,L08_45,synonyms - exact,sofa,,canapea
+256,,,,couch,divan
+257,,,,lounge,șezlong
+259,L08_46,synonyms - exact,spouse,,consoartă
+260,,,,partner,partener
+261,,,,mate,pereche
+262,,,,better_half,jumătate_mai_bună
+264,L08_47,synonyms - exact,style,,stil
+265,,,,manner,manieră
+266,,,,mode,mod
+267,,,,fashion,modă
+268,,,,way,cale
+270,L08_48,synonyms - exact,sweets,,dulciuri
+271,,,,confectionery,cofetărie
+272,,,,dessert,desert
+273,,,,confection,prăjitură
+275,L08_49,synonyms - exact,villain,,răufăcător
+276,,,,scoundrel,nemernic
+277,,,,rascal,ticălos
+279,L08_50,synonyms - exact,vocabulary,,vocabular
+280,,,,lexicon,lexicon
+281,,,,wordbook,carte_de_cuvinte
+282,,,,dictionary,dicționar
+283,,,,glossary,glosar

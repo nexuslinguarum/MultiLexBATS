@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,HE
+0,L07_1,synonyms - intensity,afraid,,חוֹשֵׁשׁ
+1,,,,terrified,מבועת
+2,,,,horrified,מזועזע
+3,,,,scared,מפוחד
+4,,,,stiff,נוּקשֶׁה
+5,,,,petrified,מאובן
+6,,,,fearful,חוֹשֵׁשׁ
+7,,,,panicky,לחוץ
+9,L07_2,synonyms - intensity,angry,,כּוֹעֵס
+10,,,,furious,זוֹעֵם
+11,,,,enraged,נִזעָם
+12,,,,outraged,DUPLICATE_זועם
+13,,,,aggrivated,חָמוּר
+14,,,,irate,DUPLICATE_נזעם
+15,,,,seething,סוער
+17,L07_3,synonyms - intensity,ask,,לִשְׁאוֹל
+18,,,,beg,לְהִתְחַנֵן
+19,,,,implore,להפציר
+20,,,,pray,לְהִתְפַּלֵל
+21,,,,entreat,DUPLICATE_להפציר
+22,,,,supplicate,DUPLICATE_להתחנן
+23,,,,insist,להתעקש
+25,L07_4,synonyms - intensity,bad,,רַע
+26,,,,awful,DUPLICATE_נורא
+27,,,,atrocious,DUPLICATE_מתועב
+28,,,,abominable,מְתוֹעָב
+29,,,,dreadful,אָיוֹם
+30,,,,painful,כּוֹאֵב
+31,,,,terrible,נורא
+32,,,,unspeakable,בלתי_ניתן_לתיאור
+34,L07_5,synonyms - intensity,boring,,מְשַׁעֲמֵם
+35,,,,tedious,DUPLICATE_משתעמם
+36,,,,deadening,קהוי
+37,,,,dull,DUPLICATE_משתעמם
+38,,,,ho-hum,NO_TRANSLATION
+39,,,,irksome,מַטרִיד
+40,,,,tiresome,DUPLICATE_משתעמם
+41,,,,wearisome,מְיַגֵעַ
+43,L07_6,synonyms - intensity,cat,,חתול
+44,,,,lion,אַריֵה
+45,,,,tiger,נָמֵר
+46,,,,leopard,DUPLICATE_נמר
+47,,,,panther,פַּנתֵר
+48,,,,jaguar,יָגוּאָר
+50,L07_7,synonyms - intensity,chuckle,,צחקוק
+51,,,,laugh,לִצְחוֹק
+52,,,,guffaw,תרועת_צחוק
+53,,,,chortle,DUPLICATE_צחקוק
+54,,,,snicker,לְצַחְקֵק
+55,,,,snigger,DUPLICATE_צחקוק
+56,,,,titter,לְגַחֵך
+57,,,,roar,שְׁאָגָה
+59,L07_8,synonyms - intensity,confused,,מְבוּלבָּל
+60,,,,lost,אבוד
+61,,,,bewildered,נָבוֹך
+62,,,,trapped,לכוד
+63,,,,desperate,נוֹאָשׁ
+65,L07_9,synonyms - intensity,creative,,יְצִירָתִי
+66,,,,ingenious,מְחוּכָּם
+67,,,,inventive,תַחבְּלָנִי
+68,,,,demiurgic,בורא
+69,,,,deviceful,סטייה
+70,,,,innovational,DUPLICATE_חדשני
+71,,,,innovative,חדשני
+72,,,,innovatory,DUPLICATE_חדשני
+73,,,,original,מְקוֹרִי
+74,,,,originative,DUPLICATE_מקורי
+76,L07_10,synonyms - intensity,cry,,בוכה
+77,,,,scream,לִצְרוֹחַ
+78,,,,shriek,DUPLICATE_לצרוח
+79,,,,screech,לִצווֹחַ
+80,,,,screeching,צורח
+82,L07_11,synonyms - intensity,damp,,לח
+83,,,,drenched,סחוט
+84,,,,dripping,טִפטוּף
+85,,,,saturated,רָווּי
+86,,,,soaked,מוּספָּג
+87,,,,soaking,שְׁרִיָה
+88,,,,sodden,DUPLICATE_רָווּי
+89,,,,sopping,ספוג
+90,,,,soppy,רטוב
+91,,,,soused,שרוי
+92,,,,wringing-wet,סחוט_רטוב
+94,L07_12,synonyms - intensity,dinner,,ארוחת_ערב
+95,,,,feast,חַג
+96,,,,banquet,סְעוּדָה
+97,,,,fiesta,חגיגה
+99,L07_13,synonyms - intensity,dislike,,לִשְׂנוֹא
+100,,,,hate,שִׂנאָה
+101,,,,abhor,DUPLICATE_לתעב
+102,,,,detest,DUPLICATE_לתעב
+103,,,,loathe,לתעב
+104,,,,abominate,תִּעֵב
+105,,,,execrate,DUPLICATE_לתעב
+106,,,,contemn,לגנות
+107,,,,despise,לָבוּז
+108,,,,scorn,לַעַג
+109,,,,disdain,בּוּז
+111,L07_14,synonyms - intensity,doze,,לְנַמְנֵם
+112,,,,sleep,לִישׁוֹן
+113,,,,slumber,תְנוּמָה
+115,L07_15,synonyms - intensity,drizzle,,זרזיף
+116,,,,rain,גֶשֶׁם
+117,,,,shower,מִקלַחַת
+118,,,,raifall,ירידת_גשמים
+119,,,,deluge,מַבּוּל
+122,L07_16,synonyms - intensity,excited,,נִרגָשׁ
+123,,,,agitated,נִסעָר
+124,,,,nervous,עַצבָּנִי
+126,L07_17,synonyms - intensity,faith,,אֱמוּנָה
+127,,,,fanatism,פנאטיזם
+128,,,,fanaticism,קַנָאוּת
+129,,,,zealotry,DUPLICATE_קנאות
+131,L07_18,synonyms - intensity,giggle,,צִחקוּק
+132,,,,laugh,לִצְחוֹק
+133,,,,guffaw,תרועת_צחוק
+134,,,,chortle,DUPLICATE_צחקוק
+135,,,,snicker,לְצַחְקֵק
+136,,,,snigger,DUPLICATE_צחקוק
+137,,,,titter,לְגַחֵך
+138,,,,roar,שְׁאָגָה
+140,L07_19,synonyms - intensity,guilty,,אָשֵׁם
+141,,,,remorseful,מלא_חרטה
+142,,,,sorrowful,עָצוּב
+143,,,,unworthy,לא_ראוי
+145,L07_20,synonyms - intensity,happy,,שַׂמֵחַ
+146,,,,ecstatic,אֶקסְטָטִי
+147,,,,enraptured,נטוש
+148,,,,rapturous,מְשׁוּלהָב
+149,,,,rapt,נלהב
+150,,,,rhapsodic,נלהב_ביותר
+152,L07_21,synonyms - intensity,house,,בַּיִת
+153,,,,palace,אַרְמוֹן
+154,,,,castle,טִירָה
+156,L07_22,synonyms - intensity,hungry,,רעב
+157,,,,starving,מת_מרעב
+158,,,,famished,DUPLICATE_מורעב
+159,,,,peckish,רעב_במקצת
+160,,,,ravenous,DUPLICATE_מורעב
+161,,,,starved,מוּרעָב
+163,L07_23,synonyms - intensity,indulge,,לְפַנֵק
+164,,,,pamper,DUPLICATE_לפנק
+165,,,,spoil,לְקַלְקֵל
+166,,,,coddle,DUPLICATE_לפנק
+168,L07_24,synonyms - intensity,interesting,,מעניין
+169,,,,exciting,מְרַגֵשׁ
+170,,,,exhilarant,מרנין
+171,,,,exhilarating,DUPLICATE_מרגש
+172,,,,exhilarative,DUPLICATE_מלהיב
+173,,,,eye-popping,מַדְהִים
+174,,,,inspiring,מעורר_השראה
+175,,,,intoxicating,מְשַׁכֵּר
+176,,,,rousing,מַלהִיב
+177,,,,stimulating,מְגָרֶה
+178,,,,stirring,DUPLICATE_מרגש
+179,,,,arresting,מושך_לב
+180,,,,interesting,מעניין
+181,,,,intriguing,מסקרן
+182,,,,moving,מעבר_דירה
+183,,,,provocative,פּרוֹבוֹקָטִיבִי
+184,,,,heady,DUPLICATE_משכר
+185,,,,thrilling,DUPLICATE_מרגש
+187,L07_25,synonyms - intensity,irritate,,לְגָרוֹת
+188,,,,enrage,לְהַכעִיס
+189,,,,incense,להעלות_חמה
+190,,,,infuriate,לְהַרְתִיחַ
+191,,,,ire,כַּעַס
+192,,,,mad,מְטוּרָף
+193,,,,madden,לְשַׁגֵעַ
+194,,,,steam,קִיטוֹר
+195,,,,umbrage,עֶלבּוֹן
+197,L07_26,synonyms - intensity,jog,,לָרוּץ
+198,,,,run,DUPLICATE_לרוץ
+199,,,,scarper,הִתְחָפֵף
+200,,,,flee,לברוח
+201,,,,fly,לטוס
+203,L07_27,synonyms - intensity,lake,,אֲגַם
+204,,,,sea,יָם
+205,,,,ocean,אוקיינוס
+207,L07_28,synonyms - intensity,like,,לחבב
+208,,,,love,אהבה
+209,,,,care,לְטַפֵּל
+210,,,,fond,מחבב
+211,,,,crush,הדלקות
+212,,,,infatuate,אהוב
+214,L07_29,synonyms - intensity,love,,אהבה
+215,,,,adore,לְהַעֲרִיץ
+216,,,,fetishize,פטיש
+217,,,,idolize,DUPLICATE_להעריץ
+218,,,,idolise,DUPLICATE_להעריץ
+219,,,,worship,לסגוד
+220,,,,hero-worship,פולחן_גיבורים
+221,,,,revere,DUPLICATE_להעריץ
+223,L07_30,synonyms - intensity,monkey,,קוֹף
+224,,,,gorilla,גוֹרִילָה
+226,L07_31,synonyms - intensity,nap,,תְנוּמָה
+227,,,,sleep,לִישׁוֹן
+228,,,,slumber,תרדמה
+230,L07_32,synonyms - intensity,necessary,,נחוץ
+231,,,,essential,חִיוּנִי
+232,,,,indispensable,DUPLICATE_חיוני
+233,,,,vital,DUPLICATE_חיוני
+234,,,,required,נדרש
+236,L07_33,synonyms - intensity,opposed,,מתנגד
+237,,,,averse,DUPLICATE_מתנגד
+238,,,,antipathetic,סוֹלֵד
+239,,,,antipathetical,DUPLICATE_סולד
+240,,,,indisposed,סַרְבָנִי
+241,,,,loath,מְתַעֵב
+242,,,,loth,ממאן
+244,L07_34,synonyms - intensity,pain,,כְּאֵב
+245,,,,torment,DUPLICATE_לענות
+246,,,,torture,לַעֲנוֹת
+247,,,,agony,יסורים
+249,L07_35,synonyms - intensity,pony,,פוני
+250,,,,horse,סוּס
+252,L07_36,synonyms - intensity,poorly,,בצורה_גרועה
+253,,,,afflicted,מְעוּנֶה
+254,,,,sick,חוֹלֶה
+255,,,,ill,DUPLICATE_חולה
+256,,,,stricken,מוּכֶּה
+258,L07_37,synonyms - intensity,rain,,גֶשֶׁם
+259,,,,deluge,מַבּוּל
+260,,,,shower,מטר
+262,L07_38,synonyms - intensity,sad,,עָצוּב
+263,,,,desparate,נואש
+264,,,,despondent,מְדוּכדָך
+265,,,,despairing,מיואש
+266,,,,desponding,נדנדה
+267,,,,forlorn,גַלמוּד
+268,,,,hopeless,אָבוּד
+269,,,,melancholy,עֶצֶב
+272,L07_39,synonyms - intensity,sea,,יָם
+273,,,,ocean,אוקיינוס
+275,L07_40,synonyms - intensity,snack,,חָטִיף
+276,,,,meal,ארוחה
+277,,,,eat,לאכול
+279,L07_41,synonyms - intensity,sniffles,,נַזֶלֶת
+280,,,,pneumonia,דלקת_ריאות
+282,L07_42,synonyms - intensity,soon,,בקרוב
+283,,,,immediately,מיד
+284,,,,promptly,באופן_מיידי
+285,,,,straightaway,DUPLICATE_מיד
+287,L07_43,synonyms - intensity,strong,,חָזָק
+288,,,,powerful,DUPLICATE_חזק
+289,,,,forceful,DUPLICATE_חזק
+290,,,,super,סוּפֶּר
+291,,,,potent,DUPLICATE_חזק
+293,L07_44,synonyms - intensity,tasty,,טָעִים
+294,,,,delicious,DUPLICATE_טעים
+295,,,,delectable,DUPLICATE_טעים
+296,,,,luscious,DUPLICATE_טעים
+297,,,,pleasant-tasting,טעם_נעים
+298,,,,scrumptious,toothsome
+299,,,,toothsome,מעורר_תיאבון
+300,,,,yummy,DUPLICATE_toothsome
+301,,,,mouth-watering,מגרה
+302,,,,ambrosial,אמברוזיאלי
+303,,,,heavenly,שְׁמֵימִי
+305,L07_45,synonyms - intensity,tired,,עייף
+306,,,,exhausted,תָשׁוּשׁ
+307,,,,drained,סחוט
+309,L07_46,synonyms - intensity,unfortunate,,חסר_מזל
+310,,,,tragic,טְרָגִי
+311,,,,woeful,עָצוּב
+312,,,,grievous,חָמוּר
+313,,,,wretched,DUPLICATE_אומלל
+314,,,,miserable,אוּמלָל
+315,,,,awful,נורא
+316,,,,lamentable,DUPLICATE_מעצר
+317,,,,regrettable,מְצַעֵר
+318,,,,desperate,נוֹאָשׁ
+319,,,,hopeless,אָבוּד
+320,,,,disastrous,אסון
+322,L07_47,synonyms - intensity,unhappy,,אוּמלָל
+323,,,,miserable,DUPLICATE_אומלל
+324,,,,suffering,סֵבֶל
+325,,,,wretched,DUPLICATE_אומלל
+327,L07_48,synonyms - intensity,want,,רוצה
+328,,,,crave,לְהִשְׁתוֹקֵק
+329,,,,hunger,רעב
+330,,,,thirst,צָמָא
+331,,,,starve,לְהַרְעִיב
+332,,,,lust,תְשׁוּקָה
+334,L07_49,synonyms - intensity,warm,,נעים
+335,,,,hot,חַם
+336,,,,fiery,לוֹהֵט
+337,,,,flaming,DUPLICATE_לוהט
+338,,,,heated,מְחוּמָם
+339,,,,red-hot,רותח
+340,,,,sizzling,רוחש
+341,,,,sensual,חוּשָׁנִי
+342,,,,sultry,מַחֲנִיק
+343,,,,torrid,DUPLICATE_לוהט
+344,,,,white-hot,DUPLICATE_לוהט
+346,L07_50,synonyms - intensity,well,,טוב
+347,,,,flourishing,פְּרִיחָה
+348,,,,robust,חָסוֹן
+349,,,,booming,פורץ
+350,,,,prospering,DUPLICATE_משגשג
+351,,,,prosperous,מְשַׂגשֵׂג
+352,,,,thriving,DUPLICATE_משגשג

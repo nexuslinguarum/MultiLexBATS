@@ -1,0 +1,256 @@
+,ID,Relation,Source,Target,EL
+0,L04_1,meronyms - substance,atmosphere,,ατμόσφαιρα
+1,,,,gas,διοξείδιο
+2,,,,oxygen,οξυγόνο
+3,,,,hydrogen,υδρογόνο
+4,,,,nitrogen,νιτρογόνο
+5,,,,ozone,όζον
+7,L04_2,meronyms - substance,bag,,τσάντα
+8,,,,leather,δέρμα
+9,,,,fabric,ύφασμα
+10,,,,plastic,πλαστικό
+12,L04_3,meronyms - substance,beach,,παραλία
+13,,,,sand,άμμος
+14,,,,silicon,πυρίτιο
+15,,,,rocks,βράχος
+16,,,,pebbles,βότσαλο
+17,,,,atomic_number_14,ατομικός_αριθμός_14
+18,,,,si,si
+20,L04_4,meronyms - substance,beard,,γενειάδα
+21,,,,hair,τρίχα
+23,L04_5,meronyms - substance,body,,κορμί
+24,,,,flesh,δέρμα
+25,,,,bones,κόκαλο
+27,L04_6,meronyms - substance,boots,,μπότα
+28,,,,leather,δέρμα
+29,,,,canvas,καμβάς
+31,L04_7,meronyms - substance,bottle,,μπουκάλι
+32,,,,glass,γυαλί
+33,,,,plastic,πλαστικό
+35,L04_8,meronyms - substance,bowl,,μπολ
+36,,,,glass,γυαλί
+37,,,,china,πορσελάνη
+38,,,,aluminium,αλουμίνιο
+39,,,,wood,ξύλο
+40,,,,steel,μέταλο
+41,,,,plastic,πλαστικό
+42,,,,clay,πηλός
+44,L04_9,meronyms - substance,box,,κουτί
+45,,,,cardboard,χαρτόνι
+46,,,,tin,κασσίτερος
+47,,,,boxwood,πυξάρι
+48,,,,turkish_boxwood,DUPLICATE_πυξάρι
+49,,,,,πύξος
+50,L04_10,meronyms - substance,bread,,ψωμί
+51,,,,flour,αλεύρι
+52,,,,yeast,μαγιά
+54,L04_11,meronyms - substance,bronze,,μπρούντζος
+55,,,,copper,χαλκός
+56,,,,tin,κασσίτερος
+57,,,,cu,cu
+58,,,,atomic_number_29,ατομικός_αριθμός_29
+60,L04_12,meronyms - substance,candy,,καραμέλα
+61,,,,sugar,ζάχαρη
+62,,,,nougat,αμυγδαλωτό
+63,,,,chocolate,σοκολάτα
+64,,,,gelatin,ζελατίνη
+65,,,,molasses,μελάσσα
+66,,,,syrup,σιρόπι
+67,,,,honey,μέλι
+68,,,,fruit,φρούτο
+69,,,,nuts,ξηρός_καρπός
+71,L04_13,meronyms - substance,chocolate,,σοκολάτα
+72,,,,cocoa,κακάο
+73,,,,bean,σπόρος
+74,,,,cacao,DUPLICATE_κακάο
+75,,,,cacao_bean,σπόρος_κακάο
+76,,,,cocoa_bean,DUPLICATE_σπόρος_κακάο
+78,L04_14,meronyms - substance,clothing,,ρούχο
+79,,,,fabric,ύφασμα
+80,,,,leather,δέρμα
+82,L04_15,meronyms - substance,cloud,,σύννεφο
+83,,,,vapor,ατμός
+84,,,,water,νερό
+85,,,,vapour,DUPLICATE_ατμός
+86,,,,water_vapour,υδρατμός
+87,,,,water_vapor,DUPLICATE_υδρατμός
+89,L04_16,meronyms - substance,cocktail,,κοκτέιλ
+90,,,,alcohol,αλκοόλ
+91,,,,juice,χυμός
+92,,,,water,νερό
+93,,,,,οινόπνευμα
+94,L04_17,meronyms - substance,concrete,,μπετόν
+95,,,,silicon,πυρίτιο
+96,,,,cement,τσιμέντο
+97,,,,water,νερό
+98,,,,sand,άμμος
+99,,,,atomic_number_14,ατομικός_αριθμός_14
+100,,,,si,si
+102,L04_18,meronyms - substance,desk,,γραφείο
+103,,,,wood,ξύλο
+104,,,,metal,μέταλο
+105,,,,steel,ατσάλι
+107,L04_19,meronyms - substance,diamond,,διαμάντι
+108,,,,carbon,άνθρακας
+110,L04_20,meronyms - substance,doorknob,,πόμολο
+111,,,,metal,μέταλο
+112,,,,steel,ατσάλι
+113,,,,bronze,μπρούντζος
+114,,,,wood,ξύλο
+116,L04_21,meronyms - substance,flag,,σημαία
+117,,,,fabric,ύφασμα
+118,,,,paper,χαρτί
+120,L04_22,meronyms - substance,glacier,,παγετώνας
+121,,,,ice,πάγος
+122,,,,water,νερό
+123,,,,oxygen,οξυγόνο
+124,,,,hydrogen,υδρογόνο
+125,,,,h,h
+126,,,,h2o,h2o
+127,,,,atomic_number_8,ατομικός_αριθμός_8
+128,,,,atomic_number_1,ατομικός_αριθμός_1
+129,,,,o,o
+130,,,,water_ice,παγωμένο_νερό
+132,L04_23,meronyms - substance,glass,,γυαλί
+133,,,,silicone,πυρίτιο
+135,L04_24,meronyms - substance,house,,σπίτι
+136,,,,bricks,τούβλο
+137,,,,cement,τσιμέντο
+138,,,,wood,ξύλο
+139,,,,clay,πηλός
+141,L04_25,meronyms - substance,ice,,παγός
+142,,,,water,νερό
+143,,,,oxygen,οξυγόνο
+144,,,,hydrogen,υδρογόνο
+145,,,,h2o,h2o
+146,,,,atomic_number_1,ατομικός_αριθμός_1
+147,,,,atomic_number_8,ατομικός_αριθμός_8
+148,,,,h,h
+149,,,,o,o
+151,L04_26,meronyms - substance,icicle,,παγάκι
+152,,,,ice,πάγος
+153,,,,water,νερό
+155,L04_27,meronyms - substance,jam,,μαρμελάδα
+156,,,,fruit,φρούτο
+157,,,,sugar,ζάχαρη
+158,,,,berries,μούρο
+160,L04_28,meronyms - substance,jeans,,τζιν
+161,,,,fabric,ύφασμα
+162,,,,denim,ντένιμ
+164,L04_29,meronyms - substance,lawn,,γκαζόν
+165,,,,grass,γρασίδι
+166,,,,,χορτάρι
+167,L04_30,meronyms - substance,lens,,φακός
+168,,,,glass,γυαλί
+169,,,,plastic,πλαστικό
+171,L04_31,meronyms - substance,mirror,,καθρέφτης
+172,,,,glass,γυαλί
+173,,,,bronze,μπρούντζος
+175,L04_32,meronyms - substance,money,,χρήμα
+176,,,,paper,χαρτί
+177,,,,metal,μέταλο
+178,,,,silver,ασήμι
+179,,,,gold,χρυσός
+180,,,,iron,σίδηρος
+181,,,,copper,χαλκός
+182,,,,tin,κασσίτερος
+184,L04_33,meronyms - substance,ocean,,ωκεανός
+185,,,,water,νερό
+187,L04_34,meronyms - substance,omelette,,ομελέτα
+188,,,,eggs,αυγά
+189,,,,egg,αυγό
+190,,,,milk,γάλα
+191,,,,cheese,τυρί
+193,L04_35,meronyms - substance,pastry,,ζύμη
+194,,,,flour,αλεύρι
+195,,,,egg,αυγό
+196,,,,butter,βούτυρο
+197,,,,filling,γέμιση
+199,L04_36,meronyms - substance,penny,,πένα
+200,,,,metal,μέταλο
+201,,,,alloy,κράμα
+202,,,,bronze,μπρούντζος
+203,,,,nickel,νικέλιο
+204,,,,zinc,ψευδάργυρος
+205,,,,copper,χαλκός
+206,,,,tin,κασσίτερος
+207,,,,,τσίγκος
+208,L04_37,meronyms - substance,pill,,χάπι
+209,,,,medicine,φάρμακο
+210,,,,drug,DUPLICATE_φάρμακο
+212,L04_38,meronyms - substance,plastic,,πλαστικό
+213,,,,polymer,πολυμερές
+214,,,,oil,πετρέλαιο
+215,,,,gas,βενζίνη
+216,,,,coal,άνθρακας
+217,,,,,κάρβουνο
+218,L04_39,meronyms - substance,roof,,οροφή
+219,,,,shingles,πλάκα
+220,,,,tiles,κεραμίδι
+221,,,,wood,ξύλο
+222,,,,metal,μέταλο
+223,,,,,σανίδι
+224,L04_40,meronyms - substance,sea,,θάλασσα
+225,,,,water,νερό
+227,L04_41,meronyms - substance,snow,,χιόνι
+228,,,,water,νερό
+229,,,,oxygen,οξυγόνο
+230,,,,hydrogen,υδρογόνο
+231,,,,flake,νιφάδα
+232,,,,ice,πάγος
+233,,,,snowflake,νιφάδα_χιονιού
+234,,,,snowflakes,νιφάδες_χιονιού
+235,,,,h2o,h2o
+236,,,,atomic_number_1,ατομικός_αριθμός_1
+237,,,,atomic_number_8,ατομικός_αριθμός_8
+238,,,,h,h
+239,,,,o,o
+241,L04_42,meronyms - substance,spoon,,κουτάλι
+242,,,,aluminium,αλουμίνιο
+243,,,,wood,ξύλο
+244,,,,steel,ατσάλι
+246,L04_43,meronyms - substance,steel,,ατσάλι
+247,,,,iron,σίδηρος
+248,,,,pearlite,περλίτης
+249,,,,carbon,άνθρακος
+250,,,,cementite,τσιμεντίτης
+251,,,,ferrite,φερρίτης
+252,,,,iron_carbide,καρβίδιο_σιδήρου
+253,,,,fe,fe
+254,,,,atomic_number_26,ατομικός_αριθμός_26
+255,,,,alpha_iron,α-σίδηρος
+256,,,,,α-Fe
+257,L04_44,meronyms - substance,table,,τραπέζι
+258,,,,wood,ξύλο
+259,,,,metal,μέταλλο
+260,,,,plastic,πλαστικό
+262,L04_45,meronyms - substance,wall,,τοίχος
+263,,,,cement,τσιμέντο
+264,,,,bricks,τούβλο
+265,,,,stones,πέτρα
+266,,,,rocks,βράχος
+267,,,,wood,ξύλο
+268,,,,cardboard,χαρτόνι
+269,,,,board,σανίδα
+270,,,,plank,μαδέρι
+271,,,,clay,πήλος
+272,,,,mud,λάσπη
+273,,,,,"τάβλα,σανίδι"
+274,L04_46,meronyms - substance,water,,νερό
+275,,,,oxygen,οξυγόνο
+276,,,,hydrogen,υδρογόνο
+277,,,,water,νερό
+278,,,,h2o,h2o
+279,,,,atomic_number_1,ατομικός_αριθμός_1
+280,,,,atomic_number_8,ατομικός_αριθμός_8
+281,,,,h,h
+282,,,,o,o
+284,L04_47,meronyms - substance,wig,,περούκα
+285,,,,hair,τρίχα
+287,L04_48,meronyms - substance,wine,,κρασί
+288,,,,grapes,σταφύλια
+289,,,,grape,σταφύλι
+291,L04_49,meronyms - substance,wire,,σύρμα
+292,,,,metal,μέταλλο
+294,L04_50,meronyms - substance,yogurt,,γιαούρτι
+295,,,,milk,γάλα

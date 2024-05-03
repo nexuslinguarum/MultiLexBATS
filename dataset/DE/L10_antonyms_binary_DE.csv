@@ -1,0 +1,245 @@
+,ID,Relation,Source,Target,DE
+0,L10_1,antonyms - binary,after,,danach
+1,,,,before,davor
+2,,,,earlier,vorhin
+3,,,,previously,zuvor
+5,L10_2,antonyms - binary,ahead,,vorne
+6,,,,behind,hinten
+7,,,,rear,rückseitig
+8,,,,after,nach
+9,,,,tail,Heck
+10,,,,beforehand,zuvor
+12,L10_3,antonyms - binary,anterior,,vorne
+13,,,,posterior,hinten
+15,L10_4,antonyms - binary,backward,,rückwärts
+16,,,,forward,vorwärts
+17,,,,forwards,vornüber
+18,,,,frontward,DUPLICATE_nach_vorne
+19,,,,frontwards,nach_vorne
+20,,,,forrad,NO_TRANSLATION
+21,,,,forrard,DUPLICATE_NO_TRANSLATION
+22,,,,forth,voran
+23,,,,onward,fortschreitend
+24,,,,,"weiter,rücklings"
+25,L10_5,antonyms - binary,before,,zuvor
+26,,,,after,danach
+27,,,,subsequently,anschließend
+28,,,,later,später
+29,,,,afterwards,nachher
+30,,,,afterward,DUPLICATE_nachher
+31,,,,ahead,kommend
+33,L10_6,antonyms - binary,beginning,,Anfang
+34,,,,end,Ende
+35,,,,terminal,Endpunkt
+36,,,,ending,Schluss
+37,,,,last,Letztes
+38,,,,final,Endspiel
+39,,,,finish,Endpsurt
+40,,,,finale,Finale
+41,,,,conclusion,Abschluss
+43,L10_7,antonyms - binary,below,,unten
+44,,,,above,oberhalb
+45,,,,higher,höher
+46,,,,up,oben
+48,L10_8,antonyms - binary,climb,,aufsteigend
+49,,,,descend,absinkend
+50,,,,declivitous,abschüssig
+51,,,,downhill,bergab
+52,,,,downward-sloping,absteigend
+53,,,,degressive,degressiv
+54,,,,descendant,DUPLICATE_absteigend
+55,,,,descendent,DUPLICATE_absteigend
+56,,,,down,nach_unten
+57,,,,downward,abwärts
+58,,,,downward-arching,nach_unten_gewölbt
+59,,,,drizzling,nieselnd
+60,,,,dropping,fallenlassend
+61,,,,falling,fallend
+62,,,,raining,regnend
+63,,,,,"abfallend,rückläufig"
+64,L10_9,antonyms - binary,dead,,tot
+65,,,,alive,am_Leben
+66,,,,living,lebendig
+67,,,,live,lebend
+69,L10_10,antonyms - binary,decrement,,vermindern
+70,,,,increment,erhöhen
+72,L10_11,antonyms - binary,descend,,absteigen
+73,,,,ascend,hinaufsteigen
+74,,,,climb,aufsteigend
+75,,,,rise,steigen
+76,,,,upward,aufwärts
+77,,,,ascendent,DUPLICATE_aufsteigend
+78,,,,ascendant,aszendent
+80,L10_12,antonyms - binary,dive,,abtauchen
+81,,,,emerge,auftauchen
+83,L10_13,antonyms - binary,down,,herunter
+84,,,,up,hinauf
+85,,,,above,über
+86,,,,ahead,voraus
+87,,,,lead,leitend
+88,,,,leading,führend
+89,,,,aweigh,gelichtet
+90,,,,dormie,Dormie
+91,,,,dormy,DUPLICATE_Dormie
+92,,,,heavenward,himmelwärts
+93,,,,skyward,gen_Himmel_gerichtet
+94,,,,risen,aufgestanden
+95,,,,sprouted,gewachsen
+96,,,,upbound,emporsteigend
+97,,,,upfield,hochfeld
+98,,,,upward,aufwärts
+99,,,,,nach_oben
+100,L10_14,antonyms - binary,downslope,,hangabwärts
+101,,,,upslope,hangaufwärts
+102,,,,ascent,Anstieg
+104,L10_15,antonyms - binary,drop,,fallenlassen
+105,,,,lift,hochheben
+106,,,,pick_up,aufheben
+108,L10_16,antonyms - binary,dynamic,,dynamisch
+109,,,,static,statisch
+110,,,,still,still
+111,,,,unmoving,regungslos
+112,,,,unchanging,unveränderlich
+114,L10_17,antonyms - binary,employ,,anstellen
+115,,,,dismiss,kündigen
+116,,,,fire,feuern
+117,,,,sack,entlassen
+118,,,,displace,absetzen
+119,,,,terminate,aufkündigen
+121,L10_18,antonyms - binary,exit,,Ausgang
+122,,,,entrance,Eingange
+123,,,,entranceway,Zugang
+124,,,,entryway,Zugangsweg
+125,,,,entry,Einfahrt
+126,,,,entree,Eintritt
+128,L10_19,antonyms - binary,fall,,fallen
+129,,,,rise,steigen
+130,,,,upward,aufwärts
+131,,,,climb,aufsteigen
+133,L10_20,antonyms - binary,first,,Erstes
+134,,,,last,Letztes
+135,,,,end,Ende
+136,,,,terminal,Endpunkt
+137,,,,ending,Schluss
+138,,,,final,Endspiel
+139,,,,finish,Endpsurt
+140,,,,finale,Finale
+141,,,,conclusion,Abschluss
+143,L10_21,antonyms - binary,forget,,vergessen
+144,,,,remember,erinnern
+145,,,,retrieve,abrufen
+146,,,,recall,entsinnen
+147,,,,call_back,zurückrufen
+148,,,,call_up,heraufrufen
+149,,,,recollect,ins_Gedächntis_rufen
+151,L10_22,antonyms - binary,forward,,vorwärts
+152,,,,backward,rückwärts
+153,,,,back,zurück
+154,,,,backwards,nach_hinten
+155,,,,rearward,rückwärtig
+156,,,,rearwards,DUPLICATE_rückwärts
+158,L10_23,antonyms - binary,front,,vorne
+159,,,,back,hinten
+160,,,,rear,rückseitig
+161,,,,forepart,Vorderseite
+163,L10_24,antonyms - binary,in,,innen
+164,,,,out,außen
+165,,,,outer,äußerlich
+166,,,,exterior,äußere
+167,,,,outside,draußen
+169,L10_25,antonyms - binary,inbound,,eingehend
+170,,,,outbound,ausgehend
+172,L10_26,antonyms - binary,inhale,,einatmen
+173,,,,exhale,ausatmen
+175,L10_27,antonyms - binary,input,,Eingabe
+176,,,,output,Ausgabe
+178,L10_28,antonyms - binary,inside,,drinnen
+179,,,,outside,draußen
+180,,,,exterior,außen
+181,,,,out,außerhalb
+183,L10_29,antonyms - binary,interior,,innen
+184,,,,exterior,außen
+185,,,,outdoor,im_Freien
+186,,,,out-of-door,auswärts
+187,,,,outside,draußen
+189,L10_30,antonyms - binary,internal,,intern
+190,,,,external,extern
+191,,,,outer,außen
+192,,,,outside,draußen
+194,L10_31,antonyms - binary,inverse,,Invertierung
+195,,,,reverse,Kehrseite
+196,,,,reversion,Rückkehr
+197,,,,reversal,Wende
+198,,,,turnabout,Umkehr
+199,,,,turnaround,Kehrtwendung
+201,L10_32,antonyms - binary,mortal,,sterblich
+202,,,,immortal,unsterblich
+204,L10_33,antonyms - binary,occupied,,besetzt
+205,,,,vacant,unbesetzt
+206,,,,free,frei
+208,L10_34,antonyms - binary,off,,aus
+209,,,,on,ein
+211,L10_35,antonyms - binary,out,,hinaus
+212,,,,in,hinein
+213,,,,inside,drinnen
+215,L10_36,antonyms - binary,outward,,auswärts
+216,,,,upward,aufwärts
+217,,,,up,auf
+218,,,,upwards,aufsteigend
+220,L10_37,antonyms - binary,over,,über
+221,,,,under,unter
+222,,,,below,unterhalb
+223,,,,beneath,darunter
+225,L10_38,antonyms - binary,previously,,bevor
+226,,,,subsequently,darauffolgend
+227,,,,later,später
+228,,,,afterwards,anschließend
+229,,,,afterward,nachher
+230,,,,after,danach
+231,,,,subsequent,DUPLICATE_anschließend
+233,L10_39,antonyms - binary,proceed,,fortfahren
+234,,,,retreat,zurückweichen
+235,,,,return,zurückkehren
+237,L10_40,antonyms - binary,rise,,steigen
+238,,,,sink,sinken
+239,,,,drop,abfallen
+240,,,,fall,fallen
+242,L10_41,antonyms - binary,south,,Süden
+243,,,,north,Norden
+245,L10_42,antonyms - binary,southeast,,Südosten
+246,,,,southwest,Südwesten
+247,,,,northeast,Nordosten
+249,L10_43,antonyms - binary,submerge,,untertauchen
+250,,,,emerge,auftauchen
+252,L10_44,antonyms - binary,top,,Oberseite
+253,,,,bottom,Unterseite
+254,,,,underside,Schattenseite
+255,,,,undersurface,Unterfläche
+257,L10_45,antonyms - binary,toward,,zu
+258,,,,away,weg
+259,,,,off,ab
+260,,,,forth,voran
+261,,,,aside,beiseite
+263,L10_46,antonyms - binary,True,,wahr
+264,,,,False,falsch
+265,,,,incorrect,inkorrekt
+266,,,,wrong,DUPLICATE_falsch
+267,,,,mistaken,fälschlich
+268,,,,,"unrichtig,"
+269,L10_47,antonyms - binary,under,,unter
+270,,,,over,über
+271,,,,above,darüber
+272,,,,up,hinauf
+274,L10_48,antonyms - binary,up,,hinauf
+275,,,,down,hinunter
+276,,,,downwards,abwärts
+277,,,,downward,absteigend
+278,,,,downwardly,sinkend
+280,L10_49,antonyms - binary,uphill,,bergauf
+281,,,,downhill,bergab
+282,,,,decline,neigen
+283,,,,fall,abfallend
+284,,,,declivitous,abschüssig
+285,,,,downward-sloping,absteigend
+287,L10_50,antonyms - binary,west,,Westen
+288,,,,east,Osten

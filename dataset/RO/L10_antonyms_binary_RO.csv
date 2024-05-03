@@ -1,0 +1,241 @@
+,ID,Relation,Source,Target,RO
+0,L10_1,antonyms - binary,after,,după
+1,,,,before,înainte
+2,,,,earlier,mai_devreme
+3,,,,previously,anterior
+5,L10_2,antonyms - binary,ahead,,înainte
+6,,,,behind,în_spate
+7,,,,rear,spate
+8,,,,after,după
+9,,,,tail,la_coadă
+10,,,,beforehand,în_prealabil
+12,L10_3,antonyms - binary,anterior,,anterior
+13,,,,posterior,posterior
+15,L10_4,antonyms - binary,backward,,înapoi
+16,,,,forward,înainte
+17,,,,forwards,DUPLICATE_înainte
+18,,,,frontward,în_față
+19,,,,frontwards,DUPLICATE_în_față
+20,,,,forrad,NO_TRANSLATION
+21,,,,forrard,DUPLICATE_înainte
+22,,,,forth,mai_departe
+23,,,,onward,DUPLICATE_mai_departe
+25,L10_5,antonyms - binary,before,,înainte
+26,,,,after,după
+27,,,,subsequently,ulterior
+28,,,,later,mai_târziu
+29,,,,afterwards,DUPLICATE_după_acceea
+30,,,,afterward,după_acceea
+31,,,,ahead,în_față
+33,L10_6,antonyms - binary,beginning,,început
+34,,,,end,sfărșit
+35,,,,terminal,terminal
+36,,,,ending,final
+37,,,,last,ultimul
+38,,,,final,DUPLICATE_final
+39,,,,finish,finalizare
+40,,,,finale,finală
+41,,,,conclusion,concluzie
+43,L10_7,antonyms - binary,below,,dedesupt
+44,,,,above,deaupra
+45,,,,higher,mai_sus
+46,,,,up,sus
+48,L10_8,antonyms - binary,climb,,urca
+49,,,,descend,coborî
+50,,,,declivitous,declinat
+51,,,,downhill,la_vale
+52,,,,downward-sloping,înlinată_în_jos
+53,,,,degressive,scadere_proporțională
+54,,,,descendant,descendent
+55,,,,descendent,DUPLICATE_descendent
+56,,,,down,jos
+57,,,,downward,DUPLICATE_la_vale
+58,,,,downward-arching,arcuit_în_jo
+59,,,,drizzling,burniță
+60,,,,dropping,căzând
+61,,,,falling,cădere
+62,,,,raining,ploua
+64,L10_9,antonyms - binary,dead,,mort
+65,,,,alive,viu
+66,,,,living,viață
+67,,,,live,trai
+69,L10_10,antonyms - binary,decrement,,scădere
+70,,,,increment,creștere
+72,L10_11,antonyms - binary,descend,,coborâ
+73,,,,ascend,urca
+74,,,,climb,urcare
+75,,,,rise,creștere
+76,,,,upward,în_sus
+77,,,,ascendent,ascendent
+78,,,,ascendant,DUPLICATE_ascendent
+80,L10_12,antonyms - binary,dive,,scufunda
+81,,,,emerge,reieși
+83,L10_13,antonyms - binary,down,,jos
+84,,,,up,sus
+85,,,,above,deasupra
+86,,,,ahead,înainte
+87,,,,lead,în_față
+88,,,,leading,înaintaș
+89,,,,aweigh,ridicat_deasupra_apei
+90,,,,dormie,cămin
+91,,,,dormy,DUPLICATE_cămin
+92,,,,heavenward,spre_cer
+93,,,,skyward,DUPLICATE_spre_cer
+94,,,,risen,înviat
+95,,,,sprouted,încolțit
+96,,,,upbound,în_sus
+97,,,,upfield,DUPLICATE_în_sus
+98,,,,upward,DUPLICATE_în_sus
+100,L10_14,antonyms - binary,downslope,,pantă_în_jos
+101,,,,upslope,pantă_în_sus
+102,,,,ascent,ascensiune
+104,L10_15,antonyms - binary,drop,,cădea
+105,,,,lift,ridica
+106,,,,pick_up,a_ridica
+108,L10_16,antonyms - binary,dynamic,,dinamic
+109,,,,static,static
+110,,,,still,calm
+111,,,,unmoving,nemișcat
+112,,,,unchanging,neschimbat
+114,L10_17,antonyms - binary,employ,,angajat
+115,,,,dismiss,demite
+116,,,,fire,condedia
+117,,,,sack,da_afară
+118,,,,displace,deplasa
+119,,,,terminate,termina
+121,L10_18,antonyms - binary,exit,,ieșire
+122,,,,entrance,intrare
+123,,,,entranceway,vestibul
+124,,,,entryway,cale_de_intrare
+125,,,,entry,intra
+126,,,,entree,antreu
+128,L10_19,antonyms - binary,fall,,cădea
+129,,,,rise,creștere
+130,,,,upward,în_sus
+131,,,,climb,urca
+133,L10_20,antonyms - binary,first,,primul
+134,,,,last,ultimul
+135,,,,end,sfărșit
+136,,,,terminal,terminal
+137,,,,ending,final
+138,,,,final,DUPLICATE_final
+139,,,,finish,finalizare
+140,,,,finale,finală
+141,,,,conclusion,concluzie
+143,L10_21,antonyms - binary,forget,,uita
+144,,,,remember,aminti
+145,,,,retrieve,recupera
+146,,,,recall,reamintire
+147,,,,call_back,rechema
+148,,,,call_up,suna
+149,,,,recollect,amintesc
+151,L10_22,antonyms - binary,forward,,înainte
+152,,,,backward,înapoi
+153,,,,back,spate
+154,,,,backwards,invers
+155,,,,rearward,urmă
+156,,,,rearwards,spre_sparte
+158,L10_23,antonyms - binary,front,,față
+159,,,,back,spate
+160,,,,rear,dos
+161,,,,forepart,înainte
+163,L10_24,antonyms - binary,in,,în
+164,,,,out,afară
+165,,,,outer,periferic
+166,,,,exterior,exterior
+167,,,,outside,în_afară
+169,L10_25,antonyms - binary,inbound,,către
+170,,,,outbound,înspre
+172,L10_26,antonyms - binary,inhale,,inhala
+173,,,,exhale,expira
+175,L10_27,antonyms - binary,input,,intrare
+176,,,,output,ieșire
+178,L10_28,antonyms - binary,inside,,interior
+179,,,,outside,în_afară
+180,,,,exterior,exterior
+181,,,,out,afară
+183,L10_29,antonyms - binary,interior,,interior
+184,,,,exterior,exterior
+185,,,,outdoor,în_aer_liber
+186,,,,out-of-door,în_afara_ușii
+187,,,,outside,în_afară
+189,L10_30,antonyms - binary,internal,,intern
+190,,,,external,extern
+191,,,,outer,periferic
+192,,,,outside,în_afară
+194,L10_31,antonyms - binary,inverse,,invers
+195,,,,reverse,verso
+196,,,,reversion,reversiune
+197,,,,reversal,insersare
+198,,,,turnabout,cotitură
+199,,,,turnaround,întorsătură
+201,L10_32,antonyms - binary,mortal,,muritor
+202,,,,immortal,nemuritor
+204,L10_33,antonyms - binary,occupied,,ocupat
+205,,,,vacant,vacant
+206,,,,free,liber
+208,L10_34,antonyms - binary,off,,oprit
+209,,,,on,deschis
+211,L10_35,antonyms - binary,out,,afară
+212,,,,in,în
+213,,,,inside,înauntru
+215,L10_36,antonyms - binary,outward,,exterior
+216,,,,upward,în_sus
+217,,,,up,sus
+218,,,,upwards,DUPLICATE_în_sus
+220,L10_37,antonyms - binary,over,,peste
+221,,,,under,sub
+222,,,,below,dedesupt
+223,,,,beneath,DUPLICATE_dedesupt
+225,L10_38,antonyms - binary,previously,,anterior
+226,,,,subsequently,ulterior
+227,,,,later,mai_târziu
+228,,,,afterwards,DUPLICATE_după_acceea
+229,,,,afterward,după_acceea
+230,,,,after,după
+231,,,,subsequent,posterior
+233,L10_39,antonyms - binary,proceed,,continua
+234,,,,retreat,retragere
+235,,,,return,întoarcere
+237,L10_40,antonyms - binary,rise,,ridica
+238,,,,sink,scufunda
+239,,,,drop,cădere
+240,,,,fall,DUPLICATE_cădere
+242,L10_41,antonyms - binary,south,,sud
+243,,,,north,nord
+245,L10_42,antonyms - binary,southeast,,sud-est
+246,,,,southwest,sud-vest
+247,,,,northeast,nord-est
+249,L10_43,antonyms - binary,submerge,,scufunda
+250,,,,emerge,reieși
+252,L10_44,antonyms - binary,top,,vârf
+253,,,,bottom,bază
+254,,,,underside,partea_inferioară
+255,,,,undersurface,sub_suprafață
+257,L10_45,antonyms - binary,toward,,către
+258,,,,away,dinspre
+259,,,,off,oprit
+260,,,,forth,mai_departe
+261,,,,aside,deoparte
+263,L10_46,antonyms - binary,True,,adevărat
+264,,,,False,False
+265,,,,incorrect,incorect
+266,,,,wrong,greșit
+267,,,,mistaken,greșeală
+269,L10_47,antonyms - binary,under,,sub
+270,,,,over,peste
+271,,,,above,deasupra
+272,,,,up,sus
+274,L10_48,antonyms - binary,up,,sus
+275,,,,down,jos
+276,,,,downwards,DUPLICATE_la_vale
+277,,,,downward,la_vale
+278,,,,downwardly,DUPLICATE_la_vale
+280,L10_49,antonyms - binary,uphill,,în_sus
+281,,,,downhill,în_jos
+282,,,,decline,declin
+283,,,,fall,cădea
+284,,,,declivitous,declinat
+285,,,,downward-sloping,înclinat_în_jos
+287,L10_50,antonyms - binary,west,,vest
+288,,,,east,est

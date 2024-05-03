@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,IT
+0,L04_1,meronyms - substance,atmosphere,,atmosfera
+1,,,,gas,gas
+2,,,,oxygen,ossigeno
+3,,,,hydrogen,idrogeno
+4,,,,nitrogen,azoto
+5,,,,ozone,ozono
+7,L04_2,meronyms - substance,bag,,borsa
+8,,,,leather,pelle
+9,,,,fabric,tessuto
+10,,,,plastic,plastica
+12,L04_3,meronyms - substance,beach,,spiaggia
+13,,,,sand,sabbia
+14,,,,silicon,silicio
+15,,,,rocks,rocce
+16,,,,pebbles,ciottoli
+17,,,,atomic_number_14,numero_atomico_14
+18,,,,si,Si
+20,L04_4,meronyms - substance,beard,,barba
+21,,,,hair,peli
+23,L04_5,meronyms - substance,body,,corpo
+24,,,,flesh,carne
+25,,,,bones,ossa
+27,L04_6,meronyms - substance,boots,,stivali
+28,,,,leather,DUPLICATE_pelle
+29,,,,canvas,tela
+31,L04_7,meronyms - substance,bottle,,bottiglia
+32,,,,glass,vetro
+33,,,,plastic,plastica
+35,L04_8,meronyms - substance,bowl,,ciotola
+36,,,,glass,vetro
+37,,,,china,porcellana
+38,,,,aluminium,alluminio
+39,,,,wood,legno
+40,,,,steel,acciaio
+41,,,,plastic,plastica
+42,,,,clay,argilla
+44,L04_9,meronyms - substance,box,,scatola
+45,,,,cardboard,cartone
+46,,,,tin,lattina
+47,,,,boxwood,bosso
+48,,,,turkish_boxwood,bosso_turco
+50,L04_10,meronyms - substance,bread,,pane
+51,,,,flour,farina
+52,,,,yeast,lievito
+54,L04_11,meronyms - substance,bronze,,bronzo
+55,,,,copper,rame
+56,,,,tin,lattina
+57,,,,cu,Cu
+58,,,,atomic_number_29,numero_atomico_29
+60,L04_12,meronyms - substance,candy,,caramella
+61,,,,sugar,zucchero
+62,,,,nougat,torrone
+63,,,,chocolate,cioccolato
+64,,,,gelatin,gelatina
+65,,,,molasses,melassa
+66,,,,syrup,sciroppo
+67,,,,honey,miele
+68,,,,fruit,frutta
+69,,,,nuts,noci
+71,L04_13,meronyms - substance,chocolate,,cioccolato
+72,,,,cocoa,cacao
+73,,,,bean,chicco
+74,,,,cacao,DUPLICATE_cacao
+75,,,,cacao_bean,chicco_di_cacao
+76,,,,cocoa_bean,DUPLICATE_chicco_di_cacao
+78,L04_14,meronyms - substance,clothing,,abbigliamento
+79,,,,fabric,tessuto
+80,,,,leather,DUPLICATE_pelle
+82,L04_15,meronyms - substance,cloud,,nuvola
+83,,,,vapor,vapore
+84,,,,water,acqua
+85,,,,vapour,DUPLICATE_vapore
+86,,,,water_vapour,vapore_acqueo
+87,,,,water_vapor,DUPLICATE_vapore_acqueo
+89,L04_16,meronyms - substance,cocktail,,cocktail
+90,,,,alcohol,alcool
+91,,,,juice,succo
+92,,,,water,acqua
+94,L04_17,meronyms - substance,concrete,,calcestruzzo
+95,,,,silicon,silicio
+96,,,,cement,cemento
+97,,,,water,acqua
+98,,,,sand,sabbia
+99,,,,atomic_number_14,numero_atomico_14
+100,,,,si,Si
+102,L04_18,meronyms - substance,desk,,scrivania
+103,,,,wood,legno
+104,,,,metal,metallo
+105,,,,steel,acciaio
+107,L04_19,meronyms - substance,diamond,,diamante
+108,,,,carbon,carbonio
+110,L04_20,meronyms - substance,doorknob,,pomello
+111,,,,metal,metallo
+112,,,,steel,acciaio
+113,,,,bronze,bronzo
+114,,,,wood,legno
+116,L04_21,meronyms - substance,flag,,bandiera
+117,,,,fabric,tessuto
+118,,,,paper,carta
+120,L04_22,meronyms - substance,glacier,,ghiacciaio
+121,,,,ice,ghiaccio
+122,,,,water,acqua
+123,,,,oxygen,ossigeno
+124,,,,hydrogen,idrogeno
+125,,,,h,H
+126,,,,h2o,H2O
+127,,,,atomic_number_8,numero_atomico_8
+128,,,,atomic_number_1,numero_atomico_1
+129,,,,o,O
+130,,,,water_ice,ghiaccio_di_acqua
+132,L04_23,meronyms - substance,glass,,vetro
+133,,,,silicone,silicio
+135,L04_24,meronyms - substance,house,,casa
+136,,,,bricks,mattoni
+137,,,,cement,cemento
+138,,,,wood,legno
+139,,,,clay,argilla
+141,L04_25,meronyms - substance,ice,,ghiaccio
+142,,,,water,acqua
+143,,,,oxygen,ossigeno
+144,,,,hydrogen,idrogeno
+145,,,,h2o,H2O
+146,,,,atomic_number_1,numero_atomico_1
+147,,,,atomic_number_8,numero_atomico_8
+148,,,,h,H
+149,,,,o,O
+151,L04_26,meronyms - substance,icicle,,ghiacciolo
+152,,,,ice,ghiaccio
+153,,,,water,acqua
+155,L04_27,meronyms - substance,jam,,marmellata
+156,,,,fruit,frutta
+157,,,,sugar,zucchero
+158,,,,berries,bacche
+160,L04_28,meronyms - substance,jeans,,jeans
+161,,,,fabric,tessuto
+162,,,,denim,denim
+164,L04_29,meronyms - substance,lawn,,prato
+165,,,,grass,erba
+167,L04_30,meronyms - substance,lens,,obiettivo
+168,,,,glass,vetro
+169,,,,plastic,plastica
+171,L04_31,meronyms - substance,mirror,,specchio
+172,,,,glass,vetro
+173,,,,bronze,bronzo
+175,L04_32,meronyms - substance,money,,denaro
+176,,,,paper,carta
+177,,,,metal,metallo
+178,,,,silver,argento
+179,,,,gold,oro
+180,,,,iron,ferro
+181,,,,copper,rame
+182,,,,tin,lattina
+184,L04_33,meronyms - substance,ocean,,oceano
+185,,,,water,acqua
+187,L04_34,meronyms - substance,omelette,,omelette
+188,,,,eggs,uova
+189,,,,egg,uovo
+190,,,,milk,latte
+191,,,,cheese,formaggio
+193,L04_35,meronyms - substance,pastry,,impasto
+194,,,,flour,farina
+195,,,,egg,uovo
+196,,,,butter,burro
+197,,,,filling,ripieno
+199,L04_36,meronyms - substance,penny,,penny
+200,,,,metal,metallo
+201,,,,alloy,lega
+202,,,,bronze,bronzo
+203,,,,nickel,nichel
+204,,,,zinc,zinco
+205,,,,copper,rame
+206,,,,tin,lattina
+208,L04_37,meronyms - substance,pill,,pillola
+209,,,,medicine,medicina
+210,,,,drug,farmaco
+212,L04_38,meronyms - substance,plastic,,plastica
+213,,,,polymer,polimero
+214,,,,oil,petrolio
+215,,,,gas,gas
+216,,,,coal,carbone
+218,L04_39,meronyms - substance,roof,,tetto
+219,,,,shingles,ghiaia
+220,,,,tiles,tegole
+221,,,,wood,legno
+222,,,,metal,metallo
+224,L04_40,meronyms - substance,sea,,mare
+225,,,,water,acqua
+227,L04_41,meronyms - substance,snow,,neve
+228,,,,water,acqua
+229,,,,oxygen,ossigeno
+230,,,,hydrogen,idrogeno
+231,,,,flake,fiocco
+232,,,,ice,ghiaccio
+233,,,,snowflake,fiocco_di_neve
+234,,,,snowflakes,fiocchi_di_neve
+235,,,,h2o,H2O
+236,,,,atomic_number_1,numero_atomico_1
+237,,,,atomic_number_8,numero_atomico_8
+238,,,,h,H
+239,,,,o,O
+241,L04_42,meronyms - substance,spoon,,cucchiaio
+242,,,,aluminium,alluminio
+243,,,,wood,legno
+244,,,,steel,acciaio
+246,L04_43,meronyms - substance,steel,,acciaio
+247,,,,iron,ferro
+248,,,,pearlite,perlite
+249,,,,carbon,carbonio
+250,,,,cementite,cementite
+251,,,,ferrite,ferrite
+252,,,,iron_carbide,DUPLICATE_cementite
+253,,,,fe,Fe
+254,,,,atomic_number_26,numero_atomico_26
+255,,,,alpha_iron,DUPLICATE_ferrite
+257,L04_44,meronyms - substance,table,,tavolo
+258,,,,wood,legno
+259,,,,metal,metallo
+260,,,,plastic,plastica
+262,L04_45,meronyms - substance,wall,,muro
+263,,,,cement,cemento
+264,,,,bricks,mattoni
+265,,,,stones,pietre
+266,,,,rocks,rocce
+267,,,,wood,legno
+268,,,,cardboard,cartone
+269,,,,board,tabellone
+270,,,,plank,asse
+271,,,,clay,argilla
+272,,,,mud,fango
+274,L04_46,meronyms - substance,water,,acqua
+275,,,,oxygen,ossigeno
+276,,,,hydrogen,idrogeno
+277,,,,water,acqua
+278,,,,h2o,H2O
+279,,,,atomic_number_1,numero_atomico_1
+280,,,,atomic_number_8,numero_atomico_8
+281,,,,h,H
+282,,,,o,O
+284,L04_47,meronyms - substance,wig,,parrucca
+285,,,,hair,capelli
+287,L04_48,meronyms - substance,wine,,vino
+288,,,,grapes,grappoli_di_uva
+289,,,,grape,chicco_di_uva
+291,L04_49,meronyms - substance,wire,,filo_elettrico
+292,,,,metal,metallo
+294,L04_50,meronyms - substance,yogurt,,yogurt
+295,,,,milk,latte

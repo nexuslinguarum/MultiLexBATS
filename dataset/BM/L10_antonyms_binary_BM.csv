@@ -1,0 +1,236 @@
+,ID,Relation,Source,Target,BM
+0,L10_1,antonyms - binary,after,,kɔfɛ
+1,,,,before,fɔlɔ
+2,,,,earlier,joona
+3,,,,previously,ka_kɔn_o_ɲɛ
+5,L10_2,antonyms - binary,ahead,,ɲɛ_fɛ
+6,,,,behind,kɔfɛ
+7,,,,rear,kɔfɛla
+8,,,,after,DUPLICATE_kɔfɛ
+9,,,,tail,kukala
+10,,,,beforehand,ka_kɔn_o_ɲɛ
+12,L10_3,antonyms - binary,anterior,,ɲɛfɛla
+13,,,,posterior,kɔfɛla
+15,L10_4,antonyms - binary,backward,,kɔfɛ
+16,,,,forward,ɲɛ
+17,,,,forwards,ɲɛfɛlamɔgɔw
+18,,,,frontward,ɲɛfɛla_la
+19,,,,frontwards,DUPLICATE_ɲɛfɛla_la
+20,,,,forrad,NO_TRANSLATION
+21,,,,forrard,DUPLICATE_NO_TRANSLATION
+22,,,,forth,ɲɛfɛ
+23,,,,onward,ka_taa_ɲɛ
+25,L10_5,antonyms - binary,before,,fɔlɔ
+26,,,,after,kɔfɛ
+27,,,,subsequently,o_kɔfɛ
+28,,,,later,DUPLICATE_kɔfɛ
+29,,,,afterwards,tɛmɛnen_kɔ
+30,,,,afterward,DUPLICATE_o_kɔfɛ
+31,,,,ahead,ɲɛ_fɛ
+33,L10_6,antonyms - binary,beginning,,daminɛ
+34,,,,end,laban
+35,,,,terminal,DUPLICATE_laban
+36,,,,ending,labanko
+37,,,,last,DUPLICATE_laban
+38,,,,final,laban_na
+39,,,,finish,DUPLICATE_laban
+40,,,,finale,DUPLICATE_laban
+41,,,,conclusion,kuncɛli
+43,L10_7,antonyms - binary,below,,jukɔrɔ
+44,,,,above,sanfɛ
+45,,,,higher,DUPLICATE_sanfɛ
+46,,,,up,DUPLICATE_sanfɛ
+48,L10_8,antonyms - binary,climb,,ka_yɛlɛ
+49,,,,descend,jigin
+50,,,,declivitous,dɔgɔyalen
+51,,,,downhill,jiginɛ
+52,,,,downward-sloping,duguma-sɔgɔli
+53,,,,degressive,ka_dɔgɔya
+54,,,,descendant,bɔnsɔn
+55,,,,descendent,DUPLICATE_bɔnsɔn
+56,,,,down,duguma
+57,,,,downward,ka_taa_duguma
+58,,,,downward-arching,jiginɛ-kɔnɔ-fɛnw
+59,,,,drizzling,ji_bɛ_ka_jigin
+60,,,,dropping,k'a_bila_ka_bin
+61,,,,falling,ka_bin
+62,,,,raining,sanji_bɛ_na
+64,L10_9,antonyms - binary,dead,,su
+65,,,,alive,"bɛ_balo_la,_ɲɛnama"
+66,,,,living,baloli
+67,,,,live,ka_balo
+69,L10_10,antonyms - binary,decrement,,dɔgɔyali
+70,,,,increment,dɔ_farali_kan
+72,L10_11,antonyms - binary,descend,,jigin
+73,,,,ascend,wuli_ka_wuli
+74,,,,climb,ka_yɛlɛ
+75,,,,rise,ka_funun
+76,,,,upward,sanfɛ
+77,,,,ascendent,bɔna
+78,,,,ascendant,DUPLICATE_bɔna
+80,L10_12,antonyms - binary,dive,,jikurunba
+81,,,,emerge,ka_poyi
+83,L10_13,antonyms - binary,down,,duguma
+84,,,,up,sanfɛ
+85,,,,above,DUPLICATE_sanfɛ
+86,,,,ahead,ɲɛ_fɛ
+87,,,,lead,ka_ɲɛminɛ
+88,,,,leading,ɲɛmɔgɔya
+89,,,,aweigh,aweigh
+90,,,,dormie,NO_TRANSLATION
+91,,,,dormy,siyɔrɔ_la
+92,,,,heavenward,sankolo_fan_fɛ
+93,,,,skyward,DUPLICATE_sankolo_fan_fɛ
+94,,,,risen,wulila
+95,,,,sprouted,a_falen_don
+96,,,,upbound,wulilen
+97,,,,upfield,sanfɛ_foro
+98,,,,upward,DUPLICATE_sanfɛ
+100,L10_14,antonyms - binary,downslope,,jiginɛ
+101,,,,upslope,sanfɛyɔrɔ
+102,,,,ascent,jiginni
+104,L10_15,antonyms - binary,drop,,k'a_bila_ka_bin
+105,,,,lift,ka_lawili
+106,,,,pick_up,ka_a_tɔmɔ
+108,L10_16,antonyms - binary,dynamic,,dynamiki
+109,,,,static,statiki
+110,,,,still,hali_bi
+111,,,,unmoving,min_tɛ_lamaga
+112,,,,unchanging,fɛn_min_tɛ_falen
+114,L10_17,antonyms - binary,employ,,ka_baara_kɛ
+115,,,,dismiss,ka_gɛn
+116,,,,fire,tasuma
+117,,,,sack,bɔrɛ
+118,,,,displace,ka_bɔ_yɔrɔ_la
+119,,,,terminate,ka_ban
+121,L10_18,antonyms - binary,exit,,ka_bɔ
+122,,,,entrance,donda
+123,,,,entranceway,dondaw_la
+124,,,,entryway,DUPLICATE_dondaw_la
+125,,,,entry,doncogo
+126,,,,entree,DUPLICATE_donda
+128,L10_19,antonyms - binary,fall,,ka_bi
+129,,,,rise,ka_funun
+130,,,,upward,sanfɛ
+131,,,,climb,ka_yɛlɛ
+133,L10_20,antonyms - binary,first,,fɔlɔ
+134,,,,last,laban
+135,,,,end,DUPLICATE_laban
+136,,,,terminal,labanko
+137,,,,ending,DUPLICATE_laban
+138,,,,final,laban_na
+139,,,,finish,DUPLICATE_laban
+140,,,,finale,DUPLICATE_laban
+141,,,,conclusion,kuncɛli
+143,L10_21,antonyms - binary,forget,,ka_ɲina
+144,,,,remember,ka_hakilina_jigi
+145,,,,retrieve,Sigikamine
+146,,,,recall,ka_segin_ka_wele
+147,,,,call_back,weleli_kɛ_ka_segin
+148,,,,call_up,weleli_kɛ
+149,,,,recollect,hakili_jigin
+151,L10_22,antonyms - binary,forward,,ɲɛ
+152,,,,backward,kɔfɛ
+153,,,,back,kɔ
+154,,,,backwards,kɔ_fɛ
+155,,,,rearward,DUPLICATE_kɔfɛ
+156,,,,rearwards,kɔfɛla_la
+158,L10_23,antonyms - binary,front,,ɲɛfɛla
+159,,,,back,kɔ
+160,,,,rear,kɔfɛla
+161,,,,forepart,DUPLICATE_ɲɛfɛla
+163,L10_24,antonyms - binary,in,,kɔnɔ
+164,,,,out,kɛnɛma
+165,,,,outer,DUPLICATE_kɛnɛma
+166,,,,exterior,DUPLICATE_kɛnɛma
+167,,,,outside,DUPLICATE_kɛnɛma
+169,L10_25,antonyms - binary,inbound,,"ka_don,_min_bɛ_na"
+170,,,,outbound,bɔli_kɛnɛ_kan
+172,L10_26,antonyms - binary,inhale,,fiɲɛ_sama
+173,,,,exhale,ninakili_bɔ
+175,L10_27,antonyms - binary,input,,donnakow
+176,,,,output,bɔli
+178,L10_28,antonyms - binary,inside,,kɔnɔ
+179,,,,outside,kɛnɛma
+180,,,,exterior,DUPLICATE_kɛnɛma
+181,,,,out,DUPLICATE_kɛnɛma
+183,L10_29,antonyms - binary,interior,,kɔnɔna_na
+184,,,,exterior,kɛnɛma
+185,,,,outdoor,DUPLICATE_kɛnɛma
+186,,,,out-of-door,DUPLICATE_kɛnɛma
+187,,,,outside,DUPLICATE_kɛnɛma
+189,L10_30,antonyms - binary,internal,,kɔnɔna_na
+190,,,,external,kɔfɛla
+191,,,,outer,kɛnɛma
+192,,,,outside,DUPLICATE_kɛnɛma
+194,L10_31,antonyms - binary,inverse,,ka_yɛlɛma
+195,,,,reverse,DUPLICATE_ka_yɛlɛma
+196,,,,reversion,kɔsegincogo
+197,,,,reversal,DUPLICATE_kɔsegincogo
+198,,,,turnabout,fɛn_caman_tigɛli
+199,,,,turnaround,ka_lamini
+201,L10_32,antonyms - binary,mortal,,mɔgɔ_satalen
+202,,,,immortal,min_tɛ_sa
+203,,,,,min_bɛ_sa
+204,L10_33,antonyms - binary,occupied,,okipe
+205,,,,vacant,yɔrɔ_lakolon
+206,,,,free,ka_kunmabɔ
+207,,,,,minɛlen_don
+208,L10_34,antonyms - binary,off,,k'a_bɔ_a_la
+209,,,,on,kan
+211,L10_35,antonyms - binary,out,,kɛnɛma
+212,,,,in,kɔnɔ
+213,,,,inside,DUPLICATE_kɔnɔ
+215,L10_36,antonyms - binary,outward,,kɛnɛma
+216,,,,upward,sanfɛ
+217,,,,up,DUPLICATE_sanfɛ
+218,,,,upwards,DUPLICATE_sanfɛ
+220,L10_37,antonyms - binary,over,,a_kan
+221,,,,under,jukɔrɔ
+222,,,,below,DUPLICATE_jukɔrɔ
+223,,,,beneath,duguma
+233,L10_39,antonyms - binary,proceed,,ka_tɛ̀mɛ_a_fɛ
+234,,,,retreat,ka_senbɔ
+235,,,,return,segin
+237,L10_40,antonyms - binary,rise,,ka_funun
+238,,,,sink,lawabo
+239,,,,drop,k'a_bila_ka_bin
+240,,,,fall,ka_bi
+242,L10_41,antonyms - binary,south,,worodugu
+243,,,,north,saheli
+245,L10_42,antonyms - binary,southeast,,saheli-kɔrɔn_fɛ
+246,,,,southwest,saheli-tlebi_fɛ
+247,,,,northeast,worodugu-kɔrɔn_fɛ
+249,L10_43,antonyms - binary,submerge,,ka_jigin
+250,,,,emerge,ka_poyi
+252,L10_44,antonyms - binary,top,,san_fɛ
+253,,,,bottom,jukɔrɔla
+254,,,,underside,jukɔrɔla_fan_fɛ
+255,,,,undersurface,dugukolo_jukɔrɔla
+257,L10_45,antonyms - binary,toward,,toward
+258,,,,away,jàn
+259,,,,off,k'a_bɔ_a_la
+260,,,,forth,ɲɛfɛ
+261,,,,aside,kɛrɛfɛ
+263,L10_46,antonyms - binary,True,,tiɲɛ
+264,,,,False,galon
+265,,,,incorrect,min_tɛ__tiɲɛ_ye
+266,,,,wrong,hakɛ
+267,,,,mistaken,fili
+269,L10_47,antonyms - binary,under,,jukɔrɔ
+270,,,,over,a_kan
+271,,,,above,sanfɛ
+272,,,,up,DUPLICATE_sanfɛ
+274,L10_48,antonyms - binary,up,,sanfɛ
+275,,,,down,duguma
+276,,,,downwards,ka_taa_duguma
+277,,,,downward,DUPLICATE_duguma
+278,,,,downwardly,DUPLICATE_duguma
+280,L10_49,antonyms - binary,uphill,,sanfɛ_kuluw_kan
+281,,,,downhill,jiginɛ
+282,,,,decline,ka_ban
+283,,,,fall,ka_bi
+284,,,,declivitous,dɔgɔyalen
+285,,,,downward-sloping,duguma-sɔgɔli
+287,L10_50,antonyms - binary,west,,tilebinyanfan
+288,,,,east,kɔrɔnyanfan

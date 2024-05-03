@@ -1,0 +1,245 @@
+,ID,Relation,Source,Target,EL
+0,L10_1,antonyms - binary,after,,μετά
+1,,,,before,πριν_από
+2,,,,earlier,νωρίτερα
+3,,,,previously,προηγουμένως
+5,L10_2,antonyms - binary,ahead,,εμπρός
+6,,,,behind,πίσω_από
+7,,,,rear,πίσω
+8,,,,after,μετά
+9,,,,tail,NO_TRANSLATION
+10,,,,beforehand,πριν
+12,L10_3,antonyms - binary,anterior,,πρόσθιος
+13,,,,posterior,οπίσθιος
+15,L10_4,antonyms - binary,backward,,προς_τα_πίσω
+16,,,,forward,προς_τα_μπρος
+17,,,,forwards,DUPLICATE_προς_τα_εμπρός
+18,,,,frontward,προς_τα_μπροστά
+19,,,,frontwards,DUPLICATE_προς_τα_εμπρός
+20,,,,forrad,DUPLICATE_προς_τα_εμπρός
+21,,,,forrard,DUPLICATE_προς_τα_εμπρός
+22,,,,forth,εμπρός
+23,,,,onward,προς_τα_εμπρός
+25,L10_5,antonyms - binary,before,,πριν
+26,,,,after,μετά
+27,,,,subsequently,στη_συνέχεια
+28,,,,later,αργότερα
+29,,,,afterwards,έπειτα
+30,,,,afterward,κατόπιν
+31,,,,ahead,ύστερα
+33,L10_6,antonyms - binary,beginning,,αρχή
+34,,,,end,τέλος
+35,,,,terminal,τερματικό
+36,,,,ending,τέλειωμα
+37,,,,last,τελευταίο
+38,,,,final,τελικό
+39,,,,finish,τέρμα
+40,,,,finale,φινάλε
+41,,,,conclusion,συμπέρασμα
+43,L10_7,antonyms - binary,below,,κάτω
+44,,,,above,πάνω
+45,,,,higher,ψηλότερα
+46,,,,up,ψηλά
+48,L10_8,antonyms - binary,climb,,ανέβασμα
+49,,,,descend,κατέβασμα
+50,,,,declivitous,κατηφορικός
+51,,,,downhill,κατηφόρα
+52,,,,downward-sloping,με_κλίση_προς_τα_κάτω
+53,,,,degressive,φθίνων
+54,,,,descendant,κατερχόμενος
+55,,,,descendent,DUPLICATE_κατερχόμενος
+56,,,,down,κάτω
+57,,,,downward,προς_τα_κάτω
+58,,,,downward-arching,DUPLICATE_προς_τα_κάτω
+59,,,,drizzling,ψιλόβροχο
+60,,,,dropping,που_πέφτει
+61,,,,falling,DUPLICATE_που_πέφτει
+62,,,,raining,βροχερός
+64,L10_9,antonyms - binary,dead,,νεκρός
+65,,,,alive,ζωντανός
+66,,,,living,ζων
+67,,,,live,DUPLICATE_ζωντανός
+69,L10_10,antonyms - binary,decrement,,μείωση
+70,,,,increment,αύξηση
+72,L10_11,antonyms - binary,descend,,κατεβαίνω
+73,,,,ascend,ανεβαίνω
+74,,,,climb,σκαρφαλώνω
+75,,,,rise,αυξάνομαι
+76,,,,upward,προς_τα_πάνω
+77,,,,ascendent,ανερχόμενος
+78,,,,ascendant,DUPLICATE_ανερχόμενος
+80,L10_12,antonyms - binary,dive,,καταδύομαι
+81,,,,emerge,αναδύομαι
+82,,,,,βουτάω
+83,L10_13,antonyms - binary,down,,κάτω
+84,,,,up,πάνω
+85,,,,above,πάνω_από
+86,,,,ahead,μπροστά
+87,,,,lead,επικεφαλής
+88,,,,leading,προπορευόμενος
+89,,,,aweigh,βίρα
+90,,,,dormie,NO_TRANSLATION
+91,,,,dormy,DUPLICATE_NO_TRANSLATION
+92,,,,heavenward,προς_τον_ουρανό
+93,,,,skyward,DUPLICATE_προς_τον_ουρανό
+94,,,,risen,σηκωμένος
+95,,,,sprouted,φυτρωμένος
+96,,,,upbound,ανοδικός
+97,,,,upfield,προς_τα_πάνω
+98,,,,upward,προς_τα_επάνω
+100,L10_14,antonyms - binary,downslope,,κατηφόρα
+101,,,,upslope,ανηφόρα
+102,,,,ascent,άνοδος
+104,L10_15,antonyms - binary,drop,,ρίχνω
+105,,,,lift,σηκώνω
+106,,,,pick_up,μαζεύω_από_κάτω
+108,L10_16,antonyms - binary,dynamic,,δυναμικός
+109,,,,static,στατικός
+110,,,,still,ακίνητος
+111,,,,unmoving,DUPLICATE_ακίνητος
+112,,,,unchanging,αμετάβλητος
+114,L10_17,antonyms - binary,employ,,προσλαμβάνω
+115,,,,dismiss,απολύω
+116,,,,fire,διώχνω_από_τη_δουλειά
+117,,,,sack,σχολάω
+118,,,,displace,απομακρύνω
+119,,,,terminate,παύω
+120,,,,,καθαιρώ
+121,L10_18,antonyms - binary,exit,,έξοδος
+122,,,,entrance,είσοδος
+123,,,,entranceway,θύρα_εισόδου
+124,,,,entryway,DUPLICATE_είσοδος
+125,,,,entry,DUPLICATE_είσοδος
+126,,,,entree,DUPLICATE_είσοδος
+128,L10_19,antonyms - binary,fall,,πτώση
+129,,,,rise,άνοδος
+130,,,,upward,πορεία_προς_τα_πάνω
+131,,,,climb,ανοδική_πορεία
+133,L10_20,antonyms - binary,first,,πρώτος
+134,,,,last,τελευταίος
+135,,,,end,τέλος
+136,,,,terminal,τερματικός
+137,,,,ending,DUPLICATE_τέλος
+138,,,,final,τελικός
+139,,,,finish,τέρμα
+140,,,,finale,φινάλε
+141,,,,conclusion,συμπέρασμα
+143,L10_21,antonyms - binary,forget,,ξεχνάω
+144,,,,remember,θυμάμαι
+145,,,,retrieve,ανασύρω_στη_μνήμη
+146,,,,recall,ανακαλώ
+147,,,,call_back,ξανακαλώ
+148,,,,call_up,καλώ
+149,,,,recollect,DUPLICATE_ανακαλώ
+151,L10_22,antonyms - binary,forward,,προς_τα_εμπρός
+152,,,,backward,προς_τα_πίσω
+153,,,,back,πίσω
+154,,,,backwards,DUPLICATE_προς_τα_πίσω
+155,,,,rearward,προς_την_όπισθεν
+156,,,,rearwards,όπισθεν
+158,L10_23,antonyms - binary,front,,μπροστινός
+159,,,,back,πίσω
+160,,,,rear,οπίσθιος
+161,,,,forepart,εμπρόσθιος
+163,L10_24,antonyms - binary,in,,μέσα
+164,,,,out,έξω
+165,,,,outer,εξώτερος
+166,,,,exterior,εξωτερικός
+167,,,,outside,DUPLICATE_εξωτερικός
+169,L10_25,antonyms - binary,inbound,,προς_τα_μέσα
+170,,,,outbound,προς_τα_έξω
+172,L10_26,antonyms - binary,inhale,,εισπνέω
+173,,,,exhale,εκπνέω
+175,L10_27,antonyms - binary,input,,είσοδος
+176,,,,output,έξοδος
+178,L10_28,antonyms - binary,inside,,μέσα
+179,,,,outside,έξω
+180,,,,exterior,εξωτερικό
+181,,,,out,DUPLICATE_έξω
+183,L10_29,antonyms - binary,interior,,εσωτερικός
+184,,,,exterior,εξωτερικός
+185,,,,outdoor,DUPLICATE_εξωτερικός
+186,,,,out-of-door,έξω_από_την_πόρτα
+187,,,,outside,έξω
+189,L10_30,antonyms - binary,internal,,εσωτερικός
+190,,,,external,εξωτερικός
+191,,,,outer,εξώτερος
+192,,,,outside,έξω
+194,L10_31,antonyms - binary,inverse,,αντίστροφος
+195,,,,reverse,αντίθετος
+196,,,,reversion,αντίθεση
+197,,,,reversal,αναστροφή
+198,,,,turnabout,DUPLICATE_αναστροφή
+199,,,,turnaround,ανατροπή
+201,L10_32,antonyms - binary,mortal,,θνητός
+202,,,,immortal,αθάνατος
+204,L10_33,antonyms - binary,occupied,,κατειλημμένος
+205,,,,vacant,κενός
+206,,,,free,ελεύθερος
+208,L10_34,antonyms - binary,off,,εκτός
+209,,,,on,εντός
+211,L10_35,antonyms - binary,out,,έξω
+212,,,,in,μέσα
+213,,,,inside,εσωτερικά
+215,L10_36,antonyms - binary,outward,,προς_τα_έξω
+216,,,,upward,προς_τα_πάνω
+217,,,,up,επάνω
+218,,,,upwards,DUPLICATE_προς_τα_πάνω
+220,L10_37,antonyms - binary,over,,πάνω_από
+221,,,,under,κάτω_από
+222,,,,below,υπό
+223,,,,beneath,DUPLICATE_υπό
+225,L10_38,antonyms - binary,previously,,νωρίτερα
+226,,,,subsequently,ακολούθως
+227,,,,later,αργότερα
+228,,,,afterwards,μετά
+229,,,,afterward,στη_συνέχεια
+230,,,,after,κατόπιν
+231,,,,subsequent,μεταγενέστερος
+233,L10_39,antonyms - binary,proceed,,προχωρώ
+234,,,,retreat,υποχωρώ
+235,,,,return,επιστρέφω
+237,L10_40,antonyms - binary,rise,,σηκώνομαι
+238,,,,sink,βυθίζομαι
+239,,,,drop,πέφτω
+240,,,,fall,DUPLICATE_πέφτω
+241,,,,,βουτάω
+242,L10_41,antonyms - binary,south,,νότος
+243,,,,north,βορράς
+245,L10_42,antonyms - binary,southeast,,νοτιοανατολικός
+246,,,,southwest,νοτιοδυτικός
+247,,,,northeast,βορειοανατολικός
+249,L10_43,antonyms - binary,submerge,,βυθίζομαι
+250,,,,emerge,αναδύομαι
+252,L10_44,antonyms - binary,top,,πάνω
+253,,,,bottom,κάτω
+254,,,,underside,κάτω_μέρος
+255,,,,undersurface,κάτω_από_την_επιφάνεια
+257,L10_45,antonyms - binary,toward,,προς
+258,,,,away,μακριά
+259,,,,off,DUPLICATE_μακριά
+260,,,,forth,προς_τα_εμπρός
+261,,,,aside,στο_πλάι
+263,L10_46,antonyms - binary,True,,αληθής
+264,,,,False,ψευδής
+265,,,,incorrect,λανθασμένος
+266,,,,wrong,λάθος
+267,,,,mistaken,εσφαλμένος
+269,L10_47,antonyms - binary,under,,κάτω_από
+270,,,,over,πάνω_από
+271,,,,above,επάνω_από
+272,,,,up,πάνω
+273,,,,,επάνω
+274,L10_48,antonyms - binary,up,,πάνω
+275,,,,down,κάτω
+276,,,,downwards,προς_τα_κάτω
+277,,,,downward,DUPLICATE_προς_τα_κάτω
+278,,,,downwardly,DUPLICATE_προς_τα_κάτω
+280,L10_49,antonyms - binary,uphill,,ανηφορικός
+281,,,,downhill,κατηφορικός
+282,,,,decline,πτώση
+283,,,,fall,DUPLICATE_πτώση
+284,,,,declivitous,DUPLICATE_κατηφορικός
+285,,,,downward-sloping,με_κλίση_προς_τα_κάτω
+287,L10_50,antonyms - binary,west,,δύση
+288,,,,east,ανατολή

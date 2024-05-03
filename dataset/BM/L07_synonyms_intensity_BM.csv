@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,BM
+0,L07_1,synonyms - intensity,afraid,,siranya
+1,,,,terrified,a_sirannen_don_kosɛbɛ
+2,,,,horrified,a_siranna_kosɛbɛ
+3,,,,scared,lasiran
+4,,,,stiff,fɛgɛma
+5,,,,petrified,farakurunba
+6,,,,fearful,siran_bɛ_mɔgɔ_la
+7,,,,panicky,DUPLICATE_siran_bɛ_mɔgɔ_la
+9,L07_2,synonyms - intensity,angry,,dimilen
+10,,,,furious,DUPLICATE_dimilen
+11,,,,enraged,dimina_kosɛbɛ
+12,,,,outraged,a_dimina_kosɛbɛ
+13,,,,aggrivated,min_bɛ_juguya
+14,,,,irate,dimi
+15,,,,seething,min_bɛ_wuli
+17,L07_3,synonyms - intensity,ask,,ka_ɲininka
+18,,,,beg,delili_kɛ
+19,,,,implore,DUPLICATE_delili_kɛ
+20,,,,pray,ka_seli
+21,,,,entreat,DUPLICATE_delili_kɛ
+22,,,,supplicate,DUPLICATE_delili_kɛ
+23,,,,insist,sinsin
+25,L07_4,synonyms - intensity,bad,,jugu
+26,,,,awful,cɛjuguman
+27,,,,atrocious,jugumanba
+28,,,,abominable,ko_haramulen
+29,,,,dreadful,siranfɛn
+30,,,,painful,dimi_bɛ_mɔgɔ_la
+31,,,,terrible,DUPLICATE_jugu
+32,,,,unspeakable,min_tɛ_se_ka_fɔ
+34,L07_5,synonyms - intensity,boring,,taabataaba
+35,,,,tedious,sɛgɛnbagatɔw
+36,,,,deadening,bɔgɔbɔgɔ
+37,,,,dull,manamantanya
+38,,,,ho-hum,NO_TRANSLATION
+39,,,,irksome,tɔɔrɔlan
+40,,,,tiresome,sɛgɛn
+41,,,,wearisome,DUPLICATE_taabataaba
+43,L07_6,synonyms - intensity,cat,,jakuma
+44,,,,lion,wara
+45,,,,tiger,tigiri
+46,,,,leopard,waranikala
+47,,,,panther,waraninkalan
+48,,,,jaguar,DUPLICATE_wara
+50,L07_7,synonyms - intensity,chuckle,,sɔgɔsɔgɔ
+51,,,,laugh,yɛlɛ
+52,,,,guffaw,yɛlɛ_kosobɛ
+53,,,,chortle,DUPLICATE_sɔgɔsɔgɔ
+54,,,,snicker,NO_TRANSLATION
+55,,,,snigger,DUPLICATE_NO_TRANSLATION
+56,,,,titter,DUPLICATE_NO_TRANSLATION
+57,,,,roar,mankanba
+59,L07_8,synonyms - intensity,confused,,ɲaamilen
+60,,,,lost,tununi
+61,,,,bewildered,a_hakili_ɲagamina
+62,,,,trapped,minɛlen_don
+63,,,,desperate,jigitigɛ
+65,L07_9,synonyms - intensity,creative,,kekuman
+66,,,,ingenious,hakilitigi
+67,,,,inventive,daɲɛw_labɛncogo
+68,,,,demiurgic,NO_TRANSLATION
+69,,,,deviceful,minɛnw_na
+70,,,,innovational,kokuradonni
+71,,,,innovative,DUPLICATE_innovational
+72,,,,innovatory,DUPLICATE_innovational
+73,,,,original,yɛrɛyɛrɛ
+74,,,,originative,daminɛcogo
+76,L07_10,synonyms - intensity,cry,,ka_kasi
+77,,,,scream,kulekan
+78,,,,shriek,kulekan_bɔ
+79,,,,screech,DUPLICATE_screech
+80,,,,screeching,ka_kulekan_bɔ
+82,L07_11,synonyms - intensity,damp,,suma
+83,,,,drenched,min_bɛ_jigin
+84,,,,dripping,jibɔcogo
+85,,,,saturated,min__fa_len
+86,,,,soaked,DUPLICATE_min_bɛ_jigin
+87,,,,soaking,ka_jisuma_kɛ
+88,,,,sodden,NO_TRANSLATION
+89,,,,sopping,ka_ɲigin
+90,,,,soppy,dusukunnataw_ta_fan_fɛ
+91,,,,soused,DUPLICATE_min_bɛ_jigin
+92,,,,wringing-wet,ɲigin
+94,L07_12,synonyms - intensity,dinner,,surafana
+95,,,,feast,ɲɛnajɛ
+96,,,,banquet,ɲɛnajɛba
+97,,,,fiesta,DUPLICATE_ɲɛnajɛ
+99,L07_13,synonyms - intensity,dislike,,a_man_di_a_ye
+100,,,,hate,kɔniya
+101,,,,abhor,koniya
+102,,,,detest,DUPLICATE_koniya
+103,,,,loathe,DUPLICATE_koniya
+104,,,,abominate,ko_haramulen
+105,,,,execrate,ka_mɔgɔ_tɔɔrɔ
+106,,,,contemn,mafiɲɛyali
+107,,,,despise,ka_mafiɲɛya
+108,,,,scorn,DUPLICATE_mafiɲɛyali
+109,,,,disdain,DUPLICATE_mafiɲɛyali
+111,L07_14,synonyms - intensity,doze,,sunɔgɔbaliya
+112,,,,sleep,ka_sunɔgɔ
+113,,,,slumber,DUPLICATE_doze
+115,L07_15,synonyms - intensity,drizzle,,jisigiyɔrɔ
+116,,,,rain,sanji
+117,,,,shower,ɲɛgɛn
+119,,,,deluge,sanjiba
+120,,,,rainfall,sanji_bɛ_na
+122,L07_16,synonyms - intensity,excited,,nisondiyalen
+123,,,,agitated,a_bɛ_jɔrɔ
+124,,,,nervous,dimilen
+126,L07_17,synonyms - intensity,faith,,dannaya
+127,,,,fanatism,fanatikɛbaliya
+128,,,,fanaticism,DUPLICATE_fanatikɛbaliya
+129,,,,zealotry,timinandiya_fanatikɛbaliya
+131,L07_18,synonyms - intensity,giggle,,sɔgɔsɔgɔ
+132,,,,laugh,yɛlɛ
+133,,,,guffaw,yɛlɛ_kosobɛ
+134,,,,chortle,DUPLICATE_sɔgɔsɔgɔ
+135,,,,snicker,NO_TRANSLATION
+136,,,,snigger,DUPLICATE_NO_TRANSLATION
+137,,,,titter,DUPLICATE_NO_TRANSLATION
+138,,,,roar,mankanba
+140,L07_19,synonyms - intensity,guilty,,hakɛtigi
+141,,,,remorseful,nimisara
+142,,,,sorrowful,dusukasibagatɔ
+143,,,,unworthy,min_man_kan
+145,L07_20,synonyms - intensity,happy,,ɲagali
+146,,,,ecstatic,nisɔndiyaba
+147,,,,enraptured,nisɔndiyalen_don
+148,,,,rapturous,NO_TRANSLATION
+149,,,,rapt,DUPLICATE_NO_TRANSLATION
+150,,,,rhapsodic,DUPLICATE_NO_TRANSLATION
+152,L07_21,synonyms - intensity,house,,so
+153,,,,palace,masaso_kɔnɔ
+154,,,,castle,so_belebele
+156,L07_22,synonyms - intensity,hungry,,kɔngɔ
+157,,,,starving,DUPLICATE_kɔngɔ
+158,,,,famished,kɔngɔ_bɛ_u_la
+159,,,,peckish,NO_TRANSLATION
+160,,,,ravenous,DUPLICATE_NO_TRANSLATION
+161,,,,starved,kɔngɔ_tun_bɛ_u_la
+163,L07_23,synonyms - intensity,indulge,,ka_i_yɛrɛ_bila
+164,,,,pamper,NO_TRANSLATION
+165,,,,spoil,tiɲɛ
+166,,,,coddle,kodɔn
+168,L07_24,synonyms - intensity,interesting,,nafama
+169,,,,exciting,sugubalan
+170,,,,exhilarant,nisɔndiyako
+171,,,,exhilarating,min_bɛ_mɔgɔ_nisɔndiya
+172,,,,exhilarative,DUPLICATE_nisɔndiyako
+173,,,,eye-popping,ɲɛ-bɔn
+174,,,,inspiring,min_bɛ_dusu_don_mɔgɔ_kɔnɔ
+175,,,,intoxicating,min_bɛ_mɔgɔ_dɔlɔ
+176,,,,rousing,lawulili
+177,,,,stimulating,min_bɛ_mɔgɔ_bila_ka_miiri
+178,,,,stirring,ka_wuli_ka_wuli
+179,,,,arresting,ka_mɔgɔ_minɛ
+181,,,,intriguing,min_bɛ_mɔgɔ_kɔnɔnafili
+182,,,,moving,lamaga-lamagali
+183,,,,provocative,min_bɛ_mɔgɔ_bila_ka_wuli
+184,,,,heady,kungolodimi
+185,,,,thrilling,DUPLICATE_min_bɛ_mɔgɔ_nisɔndiya
+187,L07_25,synonyms - intensity,irritate,,ka_mɔgɔw_dimi
+188,,,,enrage,ka_dimi
+189,,,,incense,wusulan
+190,,,,infuriate,DUPLICATE_ka_dimi
+191,,,,ire,NO_TRANSLATION
+192,,,,mad,fatɔ
+193,,,,madden,dibi_don
+194,,,,steam,sisi
+195,,,,umbrage,DUPLICATE_NO_TRANSLATION
+197,L07_26,synonyms - intensity,jog,,NO_TRANSLATION
+198,,,,run,ka_boli
+199,,,,scarper,NO_TRANSLATION
+200,,,,flee,DUPLICATE_ka_boli
+201,,,,fly,dimɔgɔ
+203,L07_27,synonyms - intensity,lake,,dala
+204,,,,sea,kɔgɔji
+205,,,,ocean,kɔgɔjiba
+207,L07_28,synonyms - intensity,like,,fɛ
+208,,,,love,kanu
+209,,,,care,ladonni
+210,,,,fond,kanubaganci
+211,,,,crush,nɔɔni
+212,,,,infatuate,kunkolo_wulicogo
+214,L07_29,synonyms - intensity,love,,kanu
+215,,,,adore,kanu
+216,,,,fetishize,NO_TRANSLATION
+217,,,,idolize,nɔgɔman
+218,,,,idolise,DUPLICATE_nɔgɔman
+219,,,,worship,batoli
+220,,,,hero-worship,DUPLICATE_NO_TRANSLATION
+221,,,,revere,ka_bonya_da_a_kan
+223,L07_30,synonyms - intensity,monkey,,warabilen
+224,,,,gorilla,"gon_,_gonjigi"
+226,L07_31,synonyms - intensity,nap,,sunɔgɔbaliya
+227,,,,sleep,ka__unɔgɔ
+228,,,,slumber,DUPLICATE_sunɔgɔbaliya
+230,L07_32,synonyms - intensity,necessary,,kan
+231,,,,essential,nafa_bala
+232,,,,indispensable,DUPLICATE_
+233,,,,vital,ɲɛnama
+234,,,,required,laɲininnen
+236,L07_33,synonyms - intensity,opposed,,a_bɛ_kɛlɛ_kɛ
+237,,,,averse,sanjiba_bɛ_na
+238,,,,antipathetic,hinɛ_tɛ_min_na
+239,,,,antipathetical,dɔwɛrɛ
+240,,,,indisposed,NO_TRANSLATION
+241,,,,loath,"koniya,farinya"
+242,,,,loth,caman
+244,L07_34,synonyms - intensity,pain,,dimi
+245,,,,torment,tɔɔrɔ
+246,,,,torture,ka_tɔɔrɔ
+247,,,,agony,tɔɔrɔko
+248,,,,,"nimagara,sigara"
+249,L07_35,synonyms - intensity,pony,,soden
+250,,,,horse,so
+252,L07_36,synonyms - intensity,poorly,,ka_dɛsɛ
+253,,,,afflicted,tɔɔrɔlen_don
+254,,,,sick,banabagatɔ
+255,,,,ill,bana
+256,,,,stricken,a_gosira
+258,L07_37,synonyms - intensity,rain,,sanji
+259,,,,deluge,sanjiba
+260,,,,shower,ɲɛgɛn
+262,L07_38,synonyms - intensity,sad,,dusukasiko_don
+263,,,,desparate,jigitigɛ
+264,,,,despondent,jigitigɛlen
+265,,,,despairing,jigitigɛ_bɛ_mɔgɔ_la
+266,,,,desponding,DUPLICATE_jigitigɛlen
+267,,,,forlorn,DUPLICATE_jigitigɛ
+268,,,,hopeless,jigidan
+269,,,,melancholy,dusukasi
+272,L07_39,synonyms - intensity,sea,,kɔgɔji
+273,,,,ocean,kɔgɔjiba
+275,L07_40,synonyms - intensity,snack,,daladumini
+276,,,,meal,dumuni
+277,,,,eat,ka_dun
+279,L07_41,synonyms - intensity,sniffles,,bɛ_sɔgɔsɔgɔ
+280,,,,pneumonia,sɔgɔsɔgɔninjɛ
+282,L07_42,synonyms - intensity,soon,,sɔɔni
+283,,,,immediately,o_yɔrɔnin_bɛɛ
+284,,,,promptly,teliya_la
+285,,,,straightaway,DUPLICATE_o_yɔrɔnin_bɛɛ
+287,L07_43,synonyms - intensity,strong,,fɔrɔlen
+288,,,,powerful,barikama
+289,,,,forceful,fanga_bɛ_min_na
+290,,,,super,a_kaɲi
+291,,,,potent,fangatigi
+293,L07_44,synonyms - intensity,tasty,,timi
+294,,,,delicious,dumanba
+295,,,,delectable,fɛn_dumanw
+296,,,,luscious,dumuni_duman
+297,,,,pleasant-tasting,min_ka_di
+298,,,,scrumptious,DUPLICATE_dumanba
+299,,,,toothsome,DUPLICATE_timi
+300,,,,yummy,timiman
+301,,,,mouth-watering,daji_bɛ_kɛ_a_la
+302,,,,ambrosial,NO_TRANSLATION
+303,,,,heavenly,sankololafɛnw
+305,L07_45,synonyms - intensity,tired,,sɛgɛnnen
+306,,,,exhausted,sɛgɛnlen
+307,,,,drained,jibɔlen_don
+309,L07_46,synonyms - intensity,unfortunate,,nisɔndiyabaliya
+310,,,,tragic,dusukasiko_don
+311,,,,woeful,bɔnɛ
+312,,,,grievous,dusukasilen_don
+313,,,,wretched,bɔnɛnenw
+314,,,,miserable,mìsikinɛ
+315,,,,awful,cɛjuguman
+316,,,,lamentable,DUPLICATE_dusukasiko_don
+317,,,,regrettable,nimisa_bɛ_mɔgɔ_la
+318,,,,desperate,jigitigɛ
+319,,,,hopeless,jigidan
+320,,,,disastrous,balawu_ye
+322,L07_47,synonyms - intensity,unhappy,,nisɔndiyabaliya
+323,,,,miserable,mìsikinɛ
+324,,,,suffering,dimi
+325,,,,wretched,bɔnɛnenw
+327,L07_48,synonyms - intensity,want,,b'a_fɛ_ka
+328,,,,crave,nege_don
+329,,,,hunger,kɔngɔ
+330,,,,thirst,minɔgɔ
+331,,,,starve,kɔngɔ_tun_bɛ_u_la
+332,,,,lust,nege_nege
+334,L07_49,synonyms - intensity,warm,,wɔlɔkɔ
+335,,,,hot,kalanman
+336,,,,fiery,tasuma_bɛ_min_na
+337,,,,flaming,tasuma_bɛ_bɔ
+338,,,,heated,ka_sumaya
+339,,,,red-hot,bilenman_funteniman
+340,,,,sizzling,NO_TRANSLATION
+341,,,,sensual,dusukunnataw_ta_fan_fɛ
+342,,,,sultry,bɔgɔbɔgɔ
+343,,,,torrid,DUPLICATE_NO_TRANSLATION
+344,,,,white-hot,finman-funteni
+346,L07_50,synonyms - intensity,well,,Kɔsɛbɛ
+347,,,,flourishing,ka_ɲɛtaa_sɔrɔ
+348,,,,robust,ka_fɔri
+349,,,,booming,NO_TRANSLATION
+350,,,,prospering,sabatili
+351,,,,prosperous,DUPLICATE_prospering
+352,,,,thriving,DUPLICATE_ka_ɲɛtaa_sɔrɔ

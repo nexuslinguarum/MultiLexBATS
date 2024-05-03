@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,SK
+0,L08_1,synonyms - exact,airplane,,lietadlo
+1,,,,aeroplane,eroplán
+2,,,,plane,NO_TRANSLATION
+4,L08_2,synonyms - exact,auto,,auto
+5,,,,car,NO_TRANSLATION
+6,,,,automobile,automobil
+7,,,,motorcar,motorové_vozidlo
+9,L08_3,synonyms - exact,baby,,bábätko
+10,,,,infant,novorodeniatko
+11,,,,babe,bábä
+13,L08_4,synonyms - exact,bicycle,,bicykel
+14,,,,bike,bike
+15,,,,wheel,NO_TRANSLATION
+16,,,,cycle,DUPLICATE_NO_TRANSLATION
+17,,,,,bajk
+18,L08_5,synonyms - exact,child,,dieťa
+19,,,,kid,decko
+20,,,,youngster,NO_TRANSLATION
+21,,,,minor,DUPLICATE_NO_TRANSLATION
+22,,,,shaver,DUPLICATE_NO_TRANSLATION
+23,,,,nipper,DUPLICATE_NO_TRANSLATION
+24,,,,small_fry,DUPLICATE_NO_TRANSLATION
+25,,,,tiddler,DUPLICATE_NO_TRANSLATION
+26,,,,tike,DUPLICATE_NO_TRANSLATION
+27,,,,tyke,DUPLICATE_NO_TRANSLATION
+28,,,,fry,DUPLICATE_NO_TRANSLATION
+29,,,,nestling,DUPLICATE_NO_TRANSLATION
+30,,,,,"ratolesť,drobec,špunt,fafrnok"
+31,L08_6,synonyms - exact,cloth,,látka
+32,,,,fabric,textília
+33,,,,material,NO_TRANSLATION
+34,,,,textile,textil
+36,L08_7,synonyms - exact,clothes,,šaty
+37,,,,clothing,oblečenie
+38,,,,apparel,odev
+39,,,,dress,NO_TRANSLATION
+41,L08_8,synonyms - exact,confused,,zmätený
+42,,,,baffled,NO_TRANSLATION
+43,,,,befuddled,DUPLICATE_NO_TRANSLATION
+44,,,,bemused,DUPLICATE_NO_TRANSLATION
+45,,,,bewildered,DUPLICATE_NO_TRANSLATION
+46,,,,confounded,DUPLICATE_NO_TRANSLATION
+47,,,,lost,stratený
+48,,,,mazed,poblúdený
+49,,,,mixed-up,DUPLICATE_NO_TRANSLATION
+50,,,,,"rozpačitý,neistý"
+51,L08_9,synonyms - exact,dollars,,doláre
+52,,,,bucks,doláče
+54,L08_10,synonyms - exact,emphasis,,zvýraznenie
+55,,,,accent,DUPLICATE_zdôraznenie
+56,,,,accentuaion,zdôraznenie
+57,,,,importance,DUPLICATE_dôraz
+58,,,,stress,dôraz
+59,,,,significance,DUPLICATE_dôraz
+60,,,,,podčiarknutie
+61,L08_11,synonyms - exact,father,,otec
+62,,,,dad,oco
+63,,,,daddy,tato
+65,L08_12,synonyms - exact,flower,,kvet
+66,,,,blossom,kvietok
+67,,,,bloom,NO_TRANSLATION
+69,L08_13,synonyms - exact,harbor,,prístav
+70,,,,seaport,prístavisko
+71,,,,haven,DUPLICATE_prístavisko
+72,,,,harbour,DUPLICATE_prístavisko
+74,L08_14,synonyms - exact,help,,pomoc
+75,,,,aid,NO_TRANSLATION
+76,,,,assist,asistencia
+78,L08_15,synonyms - exact,hieroglyph,,hieroglyf
+79,,,,hieroglyphic,NO_TRANSLATION
+80,,,,pictogram,piktogram
+82,L08_16,synonyms - exact,homogeneous,,homogénny
+83,,,,uniform,uniformný
+84,,,,unvarying,nemenný
+86,L08_17,synonyms - exact,honest,,čestný
+87,,,,sincere,úprimný
+88,,,,ingenuous,NO_TRANSLATION
+89,,,,True,DUPLICATE_pravdivý
+90,,,,direct,priamy
+91,,,,truthful,pravdivý
+92,,,,,pravdovravný
+93,L08_18,synonyms - exact,identical,,identický
+94,,,,same,rovnaký
+95,,,,indistinguishable,nerozlíšiteľný
+97,L08_19,synonyms - exact,incorrect,,nesprávny
+98,,,,wrong,zlý
+99,,,,counterfactual,kontrafaktuálny
+100,,,,erroneous,chybný
+101,,,,inaccurate,nepresný
+102,,,,specious,zdanlivý
+103,,,,unsound,nekonzistentný
+104,,,,untrue,nepravdivý
+105,,,,False,DUPLICATE_nepravdivý
+106,,,,,"nenáležitý,nekorektný,klamlivý"
+107,L08_20,synonyms - exact,intelligent,,inteligentný
+108,,,,clever,múdry
+109,,,,smart,bystrý
+111,L08_21,synonyms - exact,jewel,,šperk
+112,,,,gem,perla
+113,,,,stone,vzácny_kameň
+115,L08_22,synonyms - exact,lad,,chalan
+116,,,,chap,NO_TRANSLATION
+117,,,,fellow,DUPLICATE_NO_TRANSLATION
+118,,,,feller,DUPLICATE_NO_TRANSLATION
+119,,,,fella,DUPLICATE_NO_TRANSLATION
+120,,,,gent,DUPLICATE_NO_TRANSLATION
+121,,,,blighter,DUPLICATE_NO_TRANSLATION
+122,,,,cuss,DUPLICATE_NO_TRANSLATION
+123,,,,bloke,DUPLICATE_NO_TRANSLATION
+124,,,,,"chlap,chlapík,chlapák"
+125,L08_23,synonyms - exact,lady,,lady
+126,,,,madam,madam
+127,,,,dame,dáma
+128,,,,ma'am,pani
+129,,,,gentlewoman,NO_TRANSLATION
+130,,,,madame,DUPLICATE_madam
+131,,,,woman,žena
+132,,,,,lejdy
+133,L08_24,synonyms - exact,lazy,,lenivý
+134,,,,indolent,pohodlný
+135,,,,faineant,NO_TRANSLATION
+136,,,,otiose,DUPLICATE_NO_TRANSLATION
+137,,,,slothful,DUPLICATE_NO_TRANSLATION
+138,,,,work-shy,DUPLICATE_NO_TRANSLATION
+139,,,,,"hnilý,darebný,daromný,zaháľčivý,zaháľavý,povaľačský"
+140,L08_25,synonyms - exact,list,,zoznam
+141,,,,listing,súpis
+142,,,,enumeration,enumerácia
+144,L08_26,synonyms - exact,loyal,,lojálny
+145,,,,faithful,verný
+146,,,,True,NO_TRANSLATION
+147,,,,dependable,zodpovedný
+148,,,,devoted,oddaný
+149,,,,reliable,spoľahlivý
+151,L08_27,synonyms - exact,market,,trh
+152,,,,marketplace,trhovisko
+153,,,,mart,tržnica
+154,,,,bazaar,bazár
+156,L08_28,synonyms - exact,mend,,opravovanie
+157,,,,repair,oprava
+158,,,,fix,DUPLICATE_oprava
+159,,,,fixing,opravenie
+160,,,,fixture,DUPLICATE_oprava
+161,,,,mending,opravovanie
+162,,,,reparation,DUPLICATE_oprava
+163,,,,patch,záplata
+164,,,,darn,štopkanie
+165,,,,darning,NO_TRANSLATION
+167,L08_29,synonyms - exact,mesh,,sieťka
+168,,,,gauze,NO_TRANSLATION
+169,,,,netting,DUPLICATE_NO_TRANSLATION
+170,,,,veiling,DUPLICATE_NO_TRANSLATION
+171,,,,hairnet,DUPLICATE_NO_TRANSLATION
+172,,,,reseau,DUPLICATE_NO_TRANSLATION
+173,,,,net,sieť
+174,,,,save-all,DUPLICATE_NO_TRANSLATION
+175,,,,snood,DUPLICATE_NO_TRANSLATION
+176,,,,sparker,DUPLICATE_NO_TRANSLATION
+177,,,,tulle,DUPLICATE_NO_TRANSLATION
+178,,,,wirework,DUPLICATE_NO_TRANSLATION
+179,,,,grillwork,mriežka
+180,,,,,pletivo
+181,L08_30,synonyms - exact,monument,,monument
+182,,,,memorial,pamätník
+184,L08_31,synonyms - exact,mother,,matka
+185,,,,mom,mama
+186,,,,mommy,mamka
+187,,,,mum,mamička
+189,L08_32,synonyms - exact,murder,,vražda
+190,,,,slaying,zabíjanie
+191,,,,slay,zabitie
+192,,,,execution,poprava
+194,L08_33,synonyms - exact,new,,nový
+195,,,,modern,moderný
+196,,,,recent,nedávny
+198,L08_34,synonyms - exact,obsolete,,zastaraly
+199,,,,outdated,zastaraný
+200,,,,out-of-date,neaktuálny
+203,L08_35,synonyms - exact,organized,,organizovaný
+204,,,,arranged,usporiadaný
+205,,,,configured,nakonfigurovaný
+206,,,,corporate,NO_TRANSLATION
+207,,,,incorporated,DUPLICATE_NO_TRANSLATION
+208,,,,re-formed,DUPLICATE_NO_TRANSLATION
+209,,,,reorganized,reorganizovaný
+210,,,,reorganised,DUPLICATE_reorganizovaný
+211,,,,,združený
+212,L08_36,synonyms - exact,package,,balíček
+213,,,,parcel,balík
+214,,,,pack,NO_TRANSLATION
+215,,,,packet,paket
+216,,,,bundle,DUPLICATE_NO_TRANSLATION
+218,L08_37,synonyms - exact,phone,,telefón
+219,,,,telephone,NO_TRANSLATION
+220,,,,cell,mobilný_telefón
+221,,,,cellphone,mobil
+222,,,,smartphone,smartfón
+224,L08_38,synonyms - exact,portion,,diel
+225,,,,part,časť
+226,,,,component_part,DUPLICATE_komponent
+227,,,,component,komponent
+228,,,,constituent,konštituent
+230,L08_39,synonyms - exact,railway,,železnica
+231,,,,railroad,NO_TRANSLATION
+232,,,,,trať
+233,L08_40,synonyms - exact,rational,,racionálny
+234,,,,logical,logický
+235,,,,coherent,koherentný
+236,,,,reasonable,rozumný
+237,,,,sane,pri_zmysloch
+239,L08_41,synonyms - exact,reasonable,,rozumný
+240,,,,sensible,dávajúci_zmysel
+242,L08_42,synonyms - exact,rock,,kameň
+243,,,,stone,skala
+245,L08_43,synonyms - exact,shore,,pobrežie
+246,,,,coast,breh
+247,,,,strand,NO_TRANSLATION
+248,,,,bank,nábrežie
+249,,,,beach,pláž
+251,L08_44,synonyms - exact,snake,,had
+252,,,,serpent,plaz
+253,,,,ophidian,NO_TRANSLATION
+255,L08_45,synonyms - exact,sofa,,pohovka
+256,,,,couch,gauč
+257,,,,lounge,NO_TRANSLATION
+258,,,,,diván
+259,L08_46,synonyms - exact,spouse,,manželský_partner
+260,,,,partner,partner
+261,,,,mate,DUPLICATE_partner
+262,,,,better_half,lepšia_polovička
+264,L08_47,synonyms - exact,style,,štýl
+265,,,,manner,spôsob
+266,,,,mode,móda
+267,,,,fashion,DUPLICATE_móda
+268,,,,way,DUPLICATE_spôsob
+270,L08_48,synonyms - exact,sweets,,sladkosti
+271,,,,confectionery,DUPLICATE_cukríky
+272,,,,dessert,dezert
+273,,,,confection,cukríky
+275,L08_49,synonyms - exact,villain,,"zloduch,_zlosyn"
+276,,,,scoundrel,ničomník
+277,,,,rascal,darebák
+279,L08_50,synonyms - exact,vocabulary,,slovná_zásoba
+280,,,,lexicon,lexikón
+281,,,,wordbook,NO_TRANSLATION
+282,,,,dictionary,slovník
+283,,,,glossary,glosár

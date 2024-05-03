@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,HE
+0,L04_1,meronyms - substance,atmosphere,,אַטמוֹספֵרָה
+1,,,,gas,גַז
+2,,,,oxygen,חַמצָן
+3,,,,hydrogen,מֵימָן
+4,,,,nitrogen,חַנקָן
+5,,,,ozone,אוֹזוֹן
+7,L04_2,meronyms - substance,bag,,תיק
+8,,,,leather,עוֹר
+9,,,,fabric,בד
+10,,,,plastic,פלסטי
+12,L04_3,meronyms - substance,beach,,החוף
+13,,,,sand,חוֹל
+14,,,,silicon,סִילִיקוֹן
+15,,,,rocks,סלעים
+16,,,,pebbles,חלוקי_נחל
+17,,,,atomic_number_14,מספר_אטומי_14
+18,,,,si,סִי
+20,L04_4,meronyms - substance,beard,,זָקָן
+21,,,,hair,שיער
+23,L04_5,meronyms - substance,body,,גוּף
+24,,,,flesh,בשר
+25,,,,bones,עצמות
+27,L04_6,meronyms - substance,boots,,מגפיים
+28,,,,leather,עוֹר
+29,,,,canvas,בַּד
+31,L04_7,meronyms - substance,bottle,,בקבוק
+32,,,,glass,זכוכית
+33,,,,plastic,פלסטי
+35,L04_8,meronyms - substance,bowl,,קְעָרָה
+36,,,,glass,זכוכית
+37,,,,china,חרסינה
+38,,,,aluminium,אֲלוּמִינְיוּם
+39,,,,wood,עץ
+40,,,,steel,פְּלָדָה
+41,,,,plastic,פלסטי
+42,,,,clay,חֶרֶס
+44,L04_9,meronyms - substance,box,,קופסא
+45,,,,cardboard,קַרטוֹן
+46,,,,tin,פַּח
+47,,,,boxwood,עץ_תאשור
+48,,,,turkish_boxwood,בוקסווד_טורקי
+50,L04_10,meronyms - substance,bread,,לחם
+51,,,,flour,קמח
+52,,,,yeast,שמרים
+54,L04_11,meronyms - substance,bronze,,בְּרוֹנזָה
+55,,,,copper,נְחוֹשֶׁת
+56,,,,tin,פַּח
+57,,,,cu,DUPLICATE_נחושת
+58,,,,atomic_number_29,מספר_אטומי_29
+60,L04_12,meronyms - substance,candy,,ממתק
+61,,,,sugar,סוכר
+62,,,,nougat,נוגט
+63,,,,chocolate,שוקולד
+64,,,,gelatin,ג'לטין
+65,,,,molasses,דִבשָׁה
+66,,,,syrup,סירופ
+67,,,,honey,דבש
+68,,,,fruit,פרי
+69,,,,nuts,אֱגוֹזִים
+71,L04_13,meronyms - substance,chocolate,,שוקולד
+72,,,,cocoa,קקאו
+73,,,,bean,אפונה
+74,,,,cacao,DUPLICATE_קקאו
+75,,,,cacao_bean,DUPLICATE_פולי_קקאו
+76,,,,cocoa_bean,פולי_קקאו
+78,L04_14,meronyms - substance,clothing,,הַלבָּשָׁה
+79,,,,fabric,בד
+80,,,,leather,עוֹר
+82,L04_15,meronyms - substance,cloud,,ענן
+83,,,,vapor,אדים
+84,,,,water,מים
+85,,,,vapour,DUPLICATE_אדים
+86,,,,water_vapour,אדי_מים
+87,,,,water_vapor,DUPLICATE_אדי_מים
+89,L04_16,meronyms - substance,cocktail,,קוקטייל
+90,,,,alcohol,כּוֹהֶל
+91,,,,juice,מיץ
+92,,,,water,מים
+94,L04_17,meronyms - substance,concrete,,בֵּטוֹן
+95,,,,silicon,סִילִיקוֹן
+96,,,,cement,בטון
+97,,,,water,מים
+98,,,,sand,חוֹל
+99,,,,atomic_number_14,מספר_אטומי_14
+100,,,,si,סִי
+102,L04_18,meronyms - substance,desk,,שולחן_כתיבה
+103,,,,wood,עץ
+104,,,,metal,מַתֶכֶת
+105,,,,steel,פְּלָדָה
+107,L04_19,meronyms - substance,diamond,,יהלום
+108,,,,carbon,פַּחמָן
+110,L04_20,meronyms - substance,doorknob,,ידית_של_דלת
+111,,,,metal,מַתֶכֶת
+112,,,,steel,פְּלָדָה
+113,,,,bronze,בְּרוֹנזָה
+114,,,,wood,עץ
+116,L04_21,meronyms - substance,flag,,דֶגֶל
+117,,,,fabric,בד
+118,,,,paper,עיתון
+120,L04_22,meronyms - substance,glacier,,קַרחוֹן
+121,,,,ice,קרח
+122,,,,water,מים
+123,,,,oxygen,חַמצָן
+124,,,,hydrogen,מֵימָן
+125,,,,h,DUPLICATE_מימן
+126,,,,h2o,h2o
+127,,,,atomic_number_8,מספר_אטומי_8
+128,,,,atomic_number_1,מספר_אטומי_1
+129,,,,o,DUPLICATE_חמצן
+130,,,,water_ice,מי_קרח
+132,L04_23,meronyms - substance,glass,,זכוכית
+133,,,,silicone,סיליקון
+135,L04_24,meronyms - substance,house,,בַּיִת
+136,,,,bricks,לבנים
+137,,,,cement,בטון
+138,,,,wood,עץ
+139,,,,clay,חֶרֶס
+141,L04_25,meronyms - substance,ice,,קרח
+142,,,,water,מים
+143,,,,oxygen,חַמצָן
+144,,,,hydrogen,מֵימָן
+145,,,,h2o,h2o
+146,,,,atomic_number_1,מספר_אטומי_8
+147,,,,atomic_number_8,מספר_אטומי_1
+148,,,,h,DUPLICATE_מימן
+149,,,,o,DUPLICATE_חמצן
+151,L04_26,meronyms - substance,icicle,,נטיף_קרח
+152,,,,ice,קרח
+153,,,,water,מים
+155,L04_27,meronyms - substance,jam,,ריבה
+156,,,,fruit,פרי
+157,,,,sugar,סוכר
+158,,,,berries,פירות_יער
+160,L04_28,meronyms - substance,jeans,,גִ'ינס
+161,,,,fabric,בד
+162,,,,denim,דֵנִים
+164,L04_29,meronyms - substance,lawn,,דֶשֶׁא
+165,,,,grass,DUPLICATE_דשא
+167,L04_30,meronyms - substance,lens,,עֲדָשָׁה
+168,,,,glass,זכוכית
+169,,,,plastic,פלסטי
+171,L04_31,meronyms - substance,mirror,,מַרְאָה
+172,,,,glass,זכוכית
+173,,,,bronze,בְּרוֹנזָה
+175,L04_32,meronyms - substance,money,,כֶּסֶף
+176,,,,paper,עיתון
+177,,,,metal,מַתֶכֶת
+178,,,,silver,צבע_כסף
+179,,,,gold,צבע_זהב
+180,,,,iron,בַּרזֶל
+181,,,,copper,נְחוֹשֶׁת
+182,,,,tin,פַּח
+184,L04_33,meronyms - substance,ocean,,אוקיינוס
+185,,,,water,מים
+187,L04_34,meronyms - substance,omelette,,חֲבִיתָה
+188,,,,eggs,ביצים
+189,,,,egg,ביצה
+190,,,,milk,חלב
+191,,,,cheese,גבינה
+193,L04_35,meronyms - substance,pastry,,מאפה
+194,,,,flour,קמח
+195,,,,egg,ביצה
+196,,,,butter,חמאה
+197,,,,filling,מילוי
+199,L04_36,meronyms - substance,penny,,פֶּנִי
+200,,,,metal,מַתֶכֶת
+201,,,,alloy,סַגסוֹגֶת
+202,,,,bronze,בְּרוֹנזָה
+203,,,,nickel,ניקל
+204,,,,zinc,אָבָץ
+205,,,,copper,נְחוֹשֶׁת
+206,,,,tin,פַּח
+208,L04_37,meronyms - substance,pill,,כַּדוּר
+209,,,,medicine,תרופה
+210,,,,drug,תְרוּפָה
+212,L04_38,meronyms - substance,plastic,,פלסטי
+213,,,,polymer,פּוֹלִימֵר
+214,,,,oil,שמן
+215,,,,gas,גַז
+216,,,,coal,פֶּחָם
+218,L04_39,meronyms - substance,roof,,גג
+219,,,,shingles,קירוי
+220,,,,tiles,אריחים
+221,,,,wood,עץ
+222,,,,metal,מַתֶכֶת
+224,L04_40,meronyms - substance,sea,,יָם
+225,,,,water,מים
+227,L04_41,meronyms - substance,snow,,שֶׁלֶג
+228,,,,water,מים
+229,,,,oxygen,חַמצָן
+230,,,,hydrogen,מֵימָן
+231,,,,flake,לְהִתְקַלֵף
+232,,,,ice,קרח
+233,,,,snowflake,פְּתִית_שֶׁלֶג
+234,,,,snowflakes,פתיתי_שלג
+235,,,,h2o,H2O
+236,,,,atomic_number_1,מספר_אטומי_8
+237,,,,atomic_number_8,מספר_אטומי_1
+238,,,,h,DUPLICATE_מימן
+239,,,,o,DUPLICATE_חמצן
+241,L04_42,meronyms - substance,spoon,,כף
+242,,,,aluminium,אֲלוּמִינְיוּם
+243,,,,wood,עץ
+244,,,,steel,פְּלָדָה
+246,L04_43,meronyms - substance,steel,,פְּלָדָה
+247,,,,iron,בַּרזֶל
+248,,,,pearlite,פרלייט
+249,,,,carbon,פַּחמָן
+250,,,,cementite,מלט
+251,,,,ferrite,פֵרִיט
+252,,,,iron_carbide,ברזל_קרביד
+253,,,,fe,DUPLICATE_ברזל
+254,,,,atomic_number_26,מספר_אטומי_26
+255,,,,alpha_iron,ברזל_אלפא
+257,L04_44,meronyms - substance,table,,שולחן
+258,,,,wood,עץ
+259,,,,metal,מַתֶכֶת
+260,,,,plastic,פלסטי
+262,L04_45,meronyms - substance,wall,,קִיר
+263,,,,cement,בטון
+264,,,,bricks,לבנים
+265,,,,stones,אבנים
+266,,,,rocks,סלעים
+267,,,,wood,עץ
+268,,,,cardboard,קַרטוֹן
+269,,,,board,גלשן
+270,,,,plank,קֶרֶשׁ
+271,,,,clay,חֶרֶס
+272,,,,mud,בּוֹץ
+274,L04_46,meronyms - substance,water,,מים
+275,,,,oxygen,חַמצָן
+276,,,,hydrogen,מֵימָן
+277,,,,water,מים
+278,,,,h2o,H2O
+279,,,,atomic_number_1,מספר_אטומי_8
+280,,,,atomic_number_8,מספר_אטומי_1
+281,,,,h,DUPLICATE_מימן
+282,,,,o,DUPLICATE_חמצן
+284,L04_47,meronyms - substance,wig,,פֵּאָה
+285,,,,hair,שיער
+287,L04_48,meronyms - substance,wine,,יַיִן
+288,,,,grapes,ענבים
+289,,,,grape,עַנָב
+291,L04_49,meronyms - substance,wire,,חוּט
+292,,,,metal,מַתֶכֶת
+294,L04_50,meronyms - substance,yogurt,,יוגורט
+295,,,,milk,חלב

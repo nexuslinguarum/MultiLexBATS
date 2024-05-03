@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,SL
+0,L04_1,meronyms - substance,atmosphere,,atmosfera
+1,,,,gas,plin
+2,,,,oxygen,kisik
+3,,,,hydrogen,vodik
+4,,,,nitrogen,dušik
+5,,,,ozone,ozon
+7,L04_2,meronyms - substance,bag,,torba
+8,,,,leather,usnje
+9,,,,fabric,tkanina
+10,,,,plastic,plastika
+12,L04_3,meronyms - substance,beach,,plaža
+13,,,,sand,pesek
+14,,,,silicon,silicij
+15,,,,rocks,skale
+16,,,,pebbles,kamenčki
+17,,,,atomic_number_14,atomsko_število_14
+18,,,,si,DUPLICATE_silicij
+20,L04_4,meronyms - substance,beard,,brada
+21,,,,hair,lazje
+23,L04_5,meronyms - substance,body,,telo
+24,,,,flesh,meso
+25,,,,bones,kosti
+27,L04_6,meronyms - substance,boots,,škornji
+28,,,,leather,usnje
+29,,,,canvas,platno
+31,L04_7,meronyms - substance,bottle,,steklenica
+32,,,,glass,kozarec
+33,,,,plastic,plastika
+35,L04_8,meronyms - substance,bowl,,skleda
+36,,,,glass,kozared
+37,,,,china,keramika
+38,,,,aluminium,aluminij
+39,,,,wood,les
+40,,,,steel,jeklo
+41,,,,plastic,plastika
+42,,,,clay,glina
+44,L04_9,meronyms - substance,box,,škatla
+45,,,,cardboard,karton
+46,,,,tin,kositer
+47,,,,boxwood,lesena_škatla
+48,,,,turkish_boxwood,turška_lesena_škatla
+50,L04_10,meronyms - substance,bread,,kruh
+51,,,,flour,moka
+52,,,,yeast,kvas
+54,L04_11,meronyms - substance,bronze,,bron
+55,,,,copper,baker
+56,,,,tin,kositer
+57,,,,cu,DUPLICATE_baker
+58,,,,atomic_number_29,atomsko_število_29
+60,L04_12,meronyms - substance,candy,,sladkarije
+61,,,,sugar,sladkor
+62,,,,nougat,lešnik
+63,,,,chocolate,čokolada
+64,,,,gelatin,želatina
+65,,,,molasses,melasa
+66,,,,syrup,sirup
+67,,,,honey,med
+68,,,,fruit,sadje
+69,,,,nuts,oreški
+71,L04_13,meronyms - substance,chocolate,,čokolada
+72,,,,cocoa,kakav
+73,,,,bean,fižol
+74,,,,cacao,DUPLICATE_kakav
+75,,,,cacao_bean,kakavova_zrna
+76,,,,cocoa_bean,DUPLICATE_kakavova_zrna
+78,L04_14,meronyms - substance,clothing,,oblačila
+79,,,,fabric,tkanina
+80,,,,leather,usnje
+82,L04_15,meronyms - substance,cloud,,oblak
+83,,,,vapor,para
+84,,,,water,voda
+85,,,,vapour,DUPLICATE_para
+86,,,,water_vapour,vodna_para
+87,,,,water_vapor,DUPLICATE_vodna_para
+89,L04_16,meronyms - substance,cocktail,,koktejl
+90,,,,alcohol,alkohol
+91,,,,juice,sok
+92,,,,water,voda
+94,L04_17,meronyms - substance,concrete,,beton
+95,,,,silicon,silicij
+96,,,,cement,cement
+97,,,,water,voda
+98,,,,sand,pesek
+99,,,,atomic_number_14,atomsko_število_14
+100,,,,si,DUPLICATE_silicij
+102,L04_18,meronyms - substance,desk,,miza
+103,,,,wood,les
+104,,,,metal,kovina
+105,,,,steel,jeklo
+107,L04_19,meronyms - substance,diamond,,diamant
+108,,,,carbon,ogljik
+110,L04_20,meronyms - substance,doorknob,,kljuka
+111,,,,metal,kovina
+112,,,,steel,jeklo
+113,,,,bronze,bron
+114,,,,wood,les
+116,L04_21,meronyms - substance,flag,,zastava
+117,,,,fabric,tkanina
+118,,,,paper,papir
+120,L04_22,meronyms - substance,glacier,,ledenik
+121,,,,ice,led
+122,,,,water,voda
+123,,,,oxygen,kisik
+124,,,,hydrogen,vodik
+125,,,,h,h
+126,,,,h2o,h20
+127,,,,atomic_number_8,atomsko_število_8
+128,,,,atomic_number_1,atomsko_število_1
+129,,,,o,o
+130,,,,water_ice,ledena_voda
+132,L04_23,meronyms - substance,glass,,kozarec
+133,,,,silicone,silikon
+135,L04_24,meronyms - substance,house,,hiša
+136,,,,bricks,opeke
+137,,,,cement,cement
+138,,,,wood,les
+139,,,,clay,glina
+141,L04_25,meronyms - substance,ice,,led
+142,,,,water,voda
+143,,,,oxygen,kisik
+144,,,,hydrogen,vodik
+145,,,,h2o,h2o
+146,,,,atomic_number_1,atomsko_število_1
+147,,,,atomic_number_8,atomsko_število_8
+148,,,,h,h
+149,,,,o,o
+151,L04_26,meronyms - substance,icicle,,ledena_sveča
+152,,,,ice,led
+153,,,,water,voda
+155,L04_27,meronyms - substance,jam,,džem
+156,,,,fruit,sadje
+157,,,,sugar,sladkor
+158,,,,berries,jagode
+160,L04_28,meronyms - substance,jeans,,kavbojke
+161,,,,fabric,tkanina
+162,,,,denim,denim
+164,L04_29,meronyms - substance,lawn,,trata
+165,,,,grass,trava
+167,L04_30,meronyms - substance,lens,,leča
+168,,,,glass,steklo
+169,,,,plastic,plastika
+171,L04_31,meronyms - substance,mirror,,ogledalo
+172,,,,glass,kozarec
+173,,,,bronze,bron
+175,L04_32,meronyms - substance,money,,denar
+176,,,,paper,papir
+177,,,,metal,jeklo
+178,,,,silver,srebro
+179,,,,gold,zlato
+180,,,,iron,železo
+181,,,,copper,baker
+182,,,,tin,kositer
+184,L04_33,meronyms - substance,ocean,,ocean
+185,,,,water,voda
+187,L04_34,meronyms - substance,omelette,,omleta
+188,,,,eggs,jajca
+189,,,,egg,jajce
+190,,,,milk,mleko
+191,,,,cheese,sir
+193,L04_35,meronyms - substance,pastry,,pecivo
+194,,,,flour,moka
+195,,,,egg,jajce
+196,,,,butter,maslo
+197,,,,filling,polnilo
+199,L04_36,meronyms - substance,penny,,peni
+200,,,,metal,kovina
+201,,,,alloy,zlitina
+202,,,,bronze,bron
+203,,,,nickel,nikelj
+204,,,,zinc,cink
+205,,,,copper,baker
+206,,,,tin,kositer
+208,L04_37,meronyms - substance,pill,,tableta
+209,,,,medicine,zdravilo
+210,,,,drug,DUPLICATE_zdravilo
+212,L04_38,meronyms - substance,plastic,,plastika
+213,,,,polymer,polimer
+214,,,,oil,olje
+215,,,,gas,plin
+216,,,,coal,premog
+218,L04_39,meronyms - substance,roof,,streha
+219,,,,shingles,skodle
+220,,,,tiles,ploščice
+221,,,,wood,les
+222,,,,metal,kovina
+224,L04_40,meronyms - substance,sea,,morje
+225,,,,water,voda
+227,L04_41,meronyms - substance,snow,,sneg
+228,,,,water,voda
+229,,,,oxygen,kisik
+230,,,,hydrogen,vodik
+231,,,,flake,kosmiči
+232,,,,ice,led
+233,,,,snowflake,snežinka
+234,,,,snowflakes,snežinke
+235,,,,h2o,h2o
+236,,,,atomic_number_1,atomsko_število_1
+237,,,,atomic_number_8,atomsko_število_8
+238,,,,h,h
+239,,,,o,o
+241,L04_42,meronyms - substance,spoon,,žlica
+242,,,,aluminium,aluminij
+243,,,,wood,les
+244,,,,steel,jeklo
+246,L04_43,meronyms - substance,steel,,jeklo
+247,,,,iron,železo
+248,,,,pearlite,perlit
+249,,,,carbon,ogljik
+250,,,,cementite,cementit
+251,,,,ferrite,ferit
+252,,,,iron_carbide,železov_karbid
+253,,,,fe,fe
+254,,,,atomic_number_26,atomsko_število_26
+255,,,,alpha_iron,alfa_železo
+257,L04_44,meronyms - substance,table,,miza
+258,,,,wood,les
+259,,,,metal,kovina
+260,,,,plastic,plastika
+262,L04_45,meronyms - substance,wall,,zid
+263,,,,cement,cement
+264,,,,bricks,opeke
+265,,,,stones,kamni
+266,,,,rocks,skale
+267,,,,wood,les
+268,,,,cardboard,karton
+269,,,,board,deska
+270,,,,plank,DUPLICATE_deska
+271,,,,clay,glina
+272,,,,mud,blato
+274,L04_46,meronyms - substance,water,,voda
+275,,,,oxygen,kisik
+276,,,,hydrogen,vodik
+277,,,,water,voda
+278,,,,h2o,h2o
+279,,,,atomic_number_1,atomsko_število_1
+280,,,,atomic_number_8,atomsko_število_8
+281,,,,h,h
+282,,,,o,o
+284,L04_47,meronyms - substance,wig,,lasulja
+285,,,,hair,lasje
+287,L04_48,meronyms - substance,wine,,vino
+288,,,,grapes,grozdje
+289,,,,grape,DUPLICATE_grozdje
+291,L04_49,meronyms - substance,wire,,žica
+292,,,,metal,kovina
+294,L04_50,meronyms - substance,yogurt,,jogurt
+295,,,,milk,mleko

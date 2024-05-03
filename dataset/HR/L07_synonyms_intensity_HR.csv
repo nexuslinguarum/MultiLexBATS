@@ -1,0 +1,313 @@
+,ID,Relation,Source,Target,HR
+0,L07_1,synonyms - intensity,afraid,,uplašen
+1,,,,terrified,prestravljen
+2,,,,horrified,užasnut
+3,,,,scared,prestrašen
+4,,,,stiff,ukočen
+5,,,,petrified,skamenjen
+6,,,,fearful,plašljiv
+7,,,,panicky,uspaničen
+9,L07_2,synonyms - intensity,angry,,ljut
+10,,,,furious,bijesan
+11,,,,enraged,gnjevan
+12,,,,outraged,pobjesnio
+13,,,,aggrivated,ogorčen
+14,,,,irate,srdit
+15,,,,seething,ražešćen
+16,,,,,iritiran
+17,L07_3,synonyms - intensity,ask,,pitati
+18,,,,beg,tražiti
+19,,,,implore,preklinjati
+20,,,,pray,moliti
+21,,,,entreat,zaklinjati
+22,,,,supplicate,DUPLICATE_preklinjati
+23,,,,insist,insistirati
+24,,,,,salijetati
+25,L07_4,synonyms - intensity,bad,,loš
+26,,,,awful,grozan
+27,,,,atrocious,okrutan
+28,,,,abominable,gnjusan
+29,,,,dreadful,strahovit
+30,,,,painful,mučan
+31,,,,terrible,užasan
+32,,,,unspeakable,neizreciv
+33,,,,,"bezdušan,svirep"
+34,L07_5,synonyms - intensity,boring,,dosadan
+35,,,,tedious,monoton
+36,,,,deadening,zatupljujući
+37,,,,dull,suhoparan
+38,,,,ho-hum,DUPLICATE_dosadan
+39,,,,irksome,zamoran
+40,,,,tiresome,DUPLICATE_zamoran
+41,,,,wearisome,naporan
+43,L07_6,synonyms - intensity,cat,,mačka
+44,,,,lion,lav
+45,,,,tiger,tigar
+46,,,,leopard,leopard
+47,,,,panther,pantera
+48,,,,jaguar,jaguar
+50,L07_7,synonyms - intensity,chuckle,,cerekanje
+51,,,,laugh,smijeh
+52,,,,guffaw,grohot
+53,,,,chortle,kikot
+54,,,,snicker,smijuljenje
+55,,,,snigger,DUPLICATE_smijuljenje
+56,,,,titter,hihot
+57,,,,roar,rika
+59,L07_8,synonyms - intensity,confused,,zbunjen
+60,,,,lost,izgubljen
+61,,,,bewildered,DUPLICATE_zbunjen
+62,,,,trapped,zarobljen
+63,,,,desperate,očajan
+65,L07_9,synonyms - intensity,creative,,kreativan
+66,,,,ingenious,genijalan
+67,,,,inventive,domišljat
+68,,,,demiurgic,stvoriteljski
+69,,,,deviceful,dovitljiv
+70,,,,innovational,inovativan
+71,,,,innovative,DUPLICATE_inovativan
+72,,,,innovatory,DUPLICATE_inovativan
+73,,,,original,originalan
+74,,,,originative,kreativan
+75,,,,,"dosjetljiv,izvoran"
+76,L07_10,synonyms - intensity,cry,,plakati
+77,,,,scream,vrištati
+78,,,,shriek,DUPLICATE_vrištati
+79,,,,screech,vrisnuti
+80,,,,screeching,vrišteći
+82,L07_11,synonyms - intensity,damp,,vlažan
+83,,,,drenched,prokisao
+84,,,,dripping,kapajući
+85,,,,saturated,natopljen
+86,,,,soaked,mokar
+87,,,,soaking,smočen
+88,,,,sodden,nakvašen
+89,,,,sopping,pokisao
+90,,,,soppy,vlažan
+91,,,,soused,DUPLICATE_natopljen
+92,,,,wringing-wet,potpuno_mokar
+93,,,,,mokar_do_kože
+94,L07_12,synonyms - intensity,dinner,,večera
+95,,,,feast,gozba
+96,,,,banquet,banket
+97,,,,fiesta,fešta
+99,L07_13,synonyms - intensity,dislike,,ne_voljeti
+100,,,,hate,mrziti
+101,,,,abhor,gnušati_se
+102,,,,detest,prezirati
+103,,,,loathe,DUPLICATE_prezirati
+104,,,,abominate,zazirati
+105,,,,execrate,proklinjati
+106,,,,contemn,DUPLICATE_prezirati
+107,,,,despise,DUPLICATE_prezirati
+108,,,,scorn,prezreti
+109,,,,disdain,odbaciti
+110,,,,,"ismijati,omalovažavati"
+111,L07_14,synonyms - intensity,doze,,kunjati
+112,,,,sleep,spavati
+113,,,,slumber,drijemati
+115,L07_15,synonyms - intensity,drizzle,,rominjanje
+116,,,,rain,kiša
+117,,,,shower,pljusak
+118,,,,raifall,jaka_kiša
+119,,,,deluge,potop
+122,L07_16,synonyms - intensity,excited,,uzbuđen
+123,,,,agitated,nemiran
+124,,,,nervous,nervozan
+126,L07_17,synonyms - intensity,faith,,vjera
+127,,,,fanatism,fanatizam
+128,,,,fanaticism,DUPLICATE_fanatizam
+129,,,,zealotry,fanatičnost
+131,L07_18,synonyms - intensity,giggle,,hihot
+132,,,,laugh,smijeh
+133,,,,guffaw,grohot
+134,,,,chortle,kikot
+135,,,,snicker,smijuljenje
+136,,,,snigger,DUPLICATE_smijuljenje
+137,,,,titter,DUPLICATE_hihot
+138,,,,roar,rika
+140,L07_19,synonyms - intensity,guilty,,kriv
+141,,,,remorseful,pokajnički
+142,,,,sorrowful,ožalošćen
+143,,,,unworthy,nedostojan
+144,,,,,bezvrijedan
+145,L07_20,synonyms - intensity,happy,,sretan
+146,,,,ecstatic,ekstatičan
+147,,,,enraptured,razdragan
+148,,,,rapturous,ushićen
+149,,,,rapt,DUPLICATE_ushićen
+150,,,,rhapsodic,DUPLICATE_ushićen
+152,L07_21,synonyms - intensity,house,,kuća
+153,,,,palace,palača
+154,,,,castle,dvorac
+156,L07_22,synonyms - intensity,hungry,,gladan
+157,,,,starving,izgladnio
+158,,,,famished,izgladnjen
+159,,,,peckish,DUPLICATE_gladan
+160,,,,ravenous,proždrljiv
+161,,,,starved,DUPLICATE_izgladnjen
+163,L07_23,synonyms - intensity,indulge,,popuštati
+164,,,,pamper,ugađati
+165,,,,spoil,razmaziti
+166,,,,coddle,tetošiti
+168,L07_24,synonyms - intensity,interesting,,zanimljiv
+169,,,,exciting,uzbudljiv
+170,,,,exhilarant,razdragan
+171,,,,exhilarating,DUPLICATE_uzbudljiv
+172,,,,exhilarative,DUPLICATE_uzbudljiv
+173,,,,eye-popping,bode_oči
+174,,,,inspiring,inspirativan
+175,,,,intoxicating,opojan
+176,,,,rousing,DUPLICATE_uzbudljiv
+177,,,,stimulating,stimulativan
+178,,,,stirring,uzburkan
+179,,,,arresting,zaokuplja_pažnju
+180,,,,interesting,DUPLICATE_zanimljiv
+181,,,,intriguing,intrigantan
+182,,,,moving,dirljiv
+183,,,,provocative,provokativan
+184,,,,heady,DUPLICATE_opojan
+185,,,,thrilling,uzbuđujući
+187,L07_25,synonyms - intensity,irritate,,iritirati
+188,,,,enrage,razbjesniti
+189,,,,incense,razjariti
+190,,,,infuriate,DUPLICATE_razbjesniti
+191,,,,ire,razgnjeviti
+192,,,,mad,naljutiti
+193,,,,madden,razljutiti
+194,,,,steam,uzrujati
+195,,,,umbrage,uvrijediti
+196,,,,,ražestiti
+197,L07_26,synonyms - intensity,jog,,džogirati
+198,,,,run,trčati
+199,,,,scarper,zbrisati
+200,,,,flee,bježati
+201,,,,fly,letjeti
+203,L07_27,synonyms - intensity,lake,,jezero
+204,,,,sea,more
+205,,,,ocean,ocean
+207,L07_28,synonyms - intensity,like,,sviđati_se
+208,,,,love,voljeti
+209,,,,care,brinuti
+210,,,,fond,DUPLICATE_voljeti
+211,,,,crush,zatreskati_se
+212,,,,infatuate,zaluditi
+214,L07_29,synonyms - intensity,love,,voljeti
+215,,,,adore,obožavati
+216,,,,fetishize,fetišizirati
+217,,,,idolize,idolizirati
+218,,,,idolise,DUPLICATE_idolizirati
+219,,,,worship,DUPLICATE_obožavati
+220,,,,hero-worship,DUPLICATE_obožavati
+221,,,,revere,duboko_poštovati
+223,L07_30,synonyms - intensity,monkey,,majmun
+224,,,,gorilla,gorila
+226,L07_31,synonyms - intensity,nap,,drijemati
+227,,,,sleep,spavati
+228,,,,slumber,drijemati
+230,L07_32,synonyms - intensity,necessary,,nužan
+231,,,,essential,DUPLICATE_nužan
+232,,,,indispensable,neizostavan
+233,,,,vital,vitalan
+234,,,,required,potreban
+235,,,,,neophodan
+236,L07_33,synonyms - intensity,opposed,,suprotstavljen
+237,,,,averse,nesklon
+238,,,,antipathetic,antipatičan
+239,,,,antipathetical,DUPLICATE_antipatičan
+240,,,,indisposed,spriječen
+241,,,,loath,omrznut
+242,,,,loth,DUPLICATE_omrznut
+243,,,,,indisponiran
+244,L07_34,synonyms - intensity,pain,,bol
+245,,,,torment,muka
+246,,,,torture,tortura
+247,,,,agony,agonija
+249,L07_35,synonyms - intensity,pony,,poni
+250,,,,horse,konj
+252,L07_36,synonyms - intensity,poorly,,slab
+253,,,,afflicted,napaćen
+254,,,,sick,bolestan
+255,,,,ill,DUPLICATE_bolestan
+256,,,,stricken,pogođen
+258,L07_37,synonyms - intensity,rain,,kiša
+259,,,,deluge,potop
+260,,,,shower,pljusak
+262,L07_38,synonyms - intensity,sad,,tužan
+263,,,,desparate,očajan
+264,,,,despondent,malodušan
+265,,,,despairing,očajavajući
+266,,,,desponding,klonuo_duhom
+267,,,,forlorn,odbačen
+268,,,,hopeless,beznadan
+269,,,,melancholy,melankoličan
+272,L07_39,synonyms - intensity,sea,,more
+273,,,,ocean,ocean
+275,L07_40,synonyms - intensity,snack,,užina
+276,,,,meal,obrok
+277,,,,eat,jelo
+279,L07_41,synonyms - intensity,sniffles,,hunjavica
+280,,,,pneumonia,upala_pluća
+282,L07_42,synonyms - intensity,soon,,uskoro
+283,,,,immediately,odmah
+284,,,,promptly,hitno
+285,,,,straightaway,isti_tren
+287,L07_43,synonyms - intensity,strong,,jak
+288,,,,powerful,snažan
+289,,,,forceful,silovit
+290,,,,super,super
+291,,,,potent,moćan
+293,L07_44,synonyms - intensity,tasty,,ukusan
+294,,,,delicious,slastan
+295,,,,delectable,sladak
+296,,,,luscious,sočan
+297,,,,pleasant-tasting,ugodnog_okusa
+298,,,,scrumptious,DUPLICATE_slastan
+299,,,,toothsome,DUPLICATE_ukusan
+300,,,,yummy,njami
+301,,,,mouth-watering,DUPLICATE_slastan
+302,,,,ambrosial,neodoljiv
+303,,,,heavenly,nebeski
+305,L07_45,synonyms - intensity,tired,,umoran
+306,,,,exhausted,iscrpljen
+307,,,,drained,ispražnjen
+309,L07_46,synonyms - intensity,unfortunate,,nesretan
+310,,,,tragic,tragičan
+311,,,,woeful,DUPLICATE_jadan
+312,,,,grievous,tužan
+313,,,,wretched,DUPLICATE_nesretan
+314,,,,miserable,jadan
+315,,,,awful,grozan
+316,,,,lamentable,vrijedan_žaljenje
+317,,,,regrettable,DUPLICATE_vrijedan_žaljenje
+318,,,,desperate,očajan
+319,,,,hopeless,beznadan
+320,,,,disastrous,poguban
+322,L07_47,synonyms - intensity,unhappy,,nesretan
+323,,,,miserable,jadan
+324,,,,suffering,koji_pati
+325,,,,wretched,nesretan
+327,L07_48,synonyms - intensity,want,,želja
+328,,,,crave,žudnja
+329,,,,hunger,glad
+330,,,,thirst,žeđ
+331,,,,starve,izgladnjelost
+332,,,,lust,požuda
+334,L07_49,synonyms - intensity,warm,,topao
+335,,,,hot,vruć
+336,,,,fiery,vatren
+337,,,,flaming,plamen
+338,,,,heated,zagrijan
+339,,,,red-hot,usijan
+340,,,,sizzling,ključajući
+341,,,,sensual,senzualan
+342,,,,sultry,sparan
+343,,,,torrid,vreo
+344,,,,white-hot,užaren
+346,L07_50,synonyms - intensity,well,,dobar
+347,,,,flourishing,uspješan
+348,,,,robust,otporan
+349,,,,booming,napredan
+350,,,,prospering,napredujući
+351,,,,prosperous,prosperitetan
+352,,,,thriving,DUPLICATE_napredan

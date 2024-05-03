@@ -1,0 +1,268 @@
+,ID,Relation,Source,Target,LT
+0,L08_1,synonyms - exact,airplane,,lėktuvas
+1,,,,aeroplane,DUPLICATE_lėktuvas
+2,,,,plane,DUPLICATE_lėktuvas
+3,,,,,"aeroplanas,orlaivis"
+4,L08_2,synonyms - exact,auto,,lengvasis_automobilis
+5,,,,car,mašina
+6,,,,automobile,automobilis
+7,,,,motorcar,DUPLICATE_automobilis
+8,,,,,automašina
+9,L08_3,synonyms - exact,baby,,kūdikis
+10,,,,infant,DUPLICATE_kūdikis
+11,,,,babe,DUPLICATE_kūdikis
+12,,,,,naujagimis
+13,L08_4,synonyms - exact,bicycle,,dviratis
+14,,,,bike,DUPLICATE_dviratis
+15,,,,wheel,DUPLICATE_dviratis
+16,,,,cycle,DUPLICATE_dviratis
+18,L08_5,synonyms - exact,child,,vaikas
+19,,,,kid,DUPLICATE_vaikas
+20,,,,youngster,DUPLICATE_vaikas
+21,,,,minor,nepilnametis
+22,,,,shaver,vaikėzas
+23,,,,nipper,vaikiūkštis
+24,,,,small_fry,smulkmė
+25,,,,tiddler,mažutėlis
+26,,,,tike,išdykėlis
+27,,,,tyke,DUPLICATE_išdykėlis
+28,,,,fry,mailius
+29,,,,nestling,jauniklis
+30,,,,,"vaikis,vaikutis,vaikiščias,vaikigalis,vaikpalaikis,mažulis,bamblys,atžala,mažylis"
+31,L08_6,synonyms - exact,cloth,,audinys
+32,,,,fabric,audeklas
+33,,,,material,medžiaga
+34,,,,textile,tekstilė
+36,L08_7,synonyms - exact,clothes,,drabužiai
+37,,,,clothing,apranga
+38,,,,apparel,apdaras
+39,,,,dress,drabužis
+41,L08_8,synonyms - exact,confused,,sutrikęs
+42,,,,baffled,suglumęs
+43,,,,befuddled,susipainiojęs
+44,,,,bemused,suglumintas
+45,,,,bewildered,sumišęs
+46,,,,confounded,apstulbęs
+47,,,,lost,pasimetęs
+48,,,,mazed,DUPLICATE_susipainiojęs
+49,,,,mixed-up,DUPLICATE_susipainiojęs
+50,,,,,"apstulbintas,pritrenktas"
+51,L08_9,synonyms - exact,dollars,,doleriai
+52,,,,bucks,baksai
+54,L08_10,synonyms - exact,emphasis,,pabrėžimas
+55,,,,accent,DUPLICATE_pabrėžimas
+56,,,,accentuaion,DUPLICATE_pabrėžimas
+57,,,,importance,svarba
+58,,,,stress,DUPLICATE_pabrėžimas
+59,,,,significance,reikšmingumas
+60,,,,,"svarbumas,reikšmė,vaidmuo"
+61,L08_11,synonyms - exact,father,,tėvas
+62,,,,dad,tėtis
+63,,,,daddy,tėvelis
+64,,,,,"tėtė,tėtukas,tėvukas,tėtušis,tėvužėlis"
+65,L08_12,synonyms - exact,flower,,gėlė
+66,,,,blossom,žiedas
+67,,,,bloom,DUPLICATE_žiedas
+69,L08_13,synonyms - exact,harbor,,uostas
+70,,,,seaport,jūros_uostas
+71,,,,haven,DUPLICATE_uostas
+72,,,,harbour,DUPLICATE_uostas
+73,,,,,uostamiestis
+74,L08_14,synonyms - exact,help,,pagalba
+75,,,,aid,parama
+76,,,,assist,asistavimas
+78,L08_15,synonyms - exact,hieroglyph,,hieroglifas
+79,,,,hieroglyphic,hieroglifai
+80,,,,pictogram,piktograma
+82,L08_16,synonyms - exact,homogeneous,,vienarūšis
+83,,,,uniform,vienodas
+84,,,,unvarying,nekintamas
+85,,,,,"homogeniškas,vienalytis"
+86,L08_17,synonyms - exact,honest,,sąžiningas
+87,,,,sincere,nuoširdus
+88,,,,ingenuous,atviras
+89,,,,True,tikras
+90,,,,direct,tiesus
+91,,,,truthful,teisingas
+92,,,,,doras
+93,L08_18,synonyms - exact,identical,,identiškas
+94,,,,same,toks_pats
+95,,,,indistinguishable,neatskiriamas
+97,L08_19,synonyms - exact,incorrect,,neteisingas
+98,,,,wrong,klaidingas
+99,,,,counterfactual,neatitinkantis_tikrovės
+100,,,,erroneous,DUPLICATE_klaidingas
+101,,,,inaccurate,netikslus
+102,,,,specious,apgaulingas
+103,,,,unsound,nepagrįstas
+104,,,,untrue,netikras
+105,,,,False,DUPLICATE_klaidingas
+106,,,,,"klaidinantis,netaisyklingas"
+107,L08_20,synonyms - exact,intelligent,,protingas
+108,,,,clever,sumanus
+109,,,,smart,išmanus
+110,,,,,išmintingas
+111,L08_21,synonyms - exact,jewel,,brangakmenis
+112,,,,gem,DUPLICATE_brangakmenis
+113,,,,stone,DUPLICATE_brangakmenis
+114,,,,,"brangus_akmuo,brangenybė"
+115,L08_22,synonyms - exact,lad,,vaikinas
+116,,,,chap,vaikinas
+117,,,,fellow,vyrukas
+118,,,,feller,DUPLICATE_vyrukas
+119,,,,fella,DUPLICATE_vyrukas
+120,,,,gent,džentelmenas
+121,,,,blighter,atgrasus_tipas
+122,,,,cuss,DUPLICATE_atgrasus_tipas
+123,,,,bloke,DUPLICATE_vyrukas
+124,,,,,vyras
+125,L08_23,synonyms - exact,lady,,ponia
+126,,,,madam,DUPLICATE_ponia
+127,,,,dame,dama
+128,,,,ma'am,DUPLICATE_ponia
+129,,,,gentlewoman,DUPLICATE_dama
+130,,,,madame,madam
+131,,,,woman,moteris
+133,L08_24,synonyms - exact,lazy,,tingus
+134,,,,indolent,DUPLICATE_tingus
+135,,,,faineant,DUPLICATE_tingus
+136,,,,otiose,DUPLICATE_tingus
+137,,,,slothful,DUPLICATE_tingus
+138,,,,work-shy,vengiantis_darbo
+139,,,,,"tingintis,nenorintis_dirbti"
+140,L08_25,synonyms - exact,list,,sąrašas
+141,,,,listing,DUPLICATE_sąrašas
+142,,,,enumeration,DUPLICATE_sąrašas
+143,,,,,"registras,rodyklė"
+144,L08_26,synonyms - exact,loyal,,lojalus
+145,,,,faithful,ištikimas
+146,,,,True,tikras
+147,,,,dependable,patikimas
+148,,,,devoted,atsidavęs
+149,,,,reliable,DUPLICATE_patikimas
+150,,,,,pasiaukojęs
+151,L08_27,synonyms - exact,market,,turgus
+152,,,,marketplace,turgavietė
+153,,,,mart,DUPLICATE_turgus
+154,,,,bazaar,DUPLICATE_turgus
+155,,,,,prekyvietė
+156,L08_28,synonyms - exact,mend,,užtaisytas_plyšys
+157,,,,repair,suremontuota_vieta
+158,,,,fix,sutaisymas
+159,,,,fixing,DUPLICATE_sutaisymas
+160,,,,fixture,įmontuota_įranga
+161,,,,mending,taisymas
+162,,,,reparation,remontavimas
+163,,,,patch,lopas
+164,,,,darn,adinys
+165,,,,darning,adymas
+166,,,,,"lopinys,lopymas,suadyta_vieta,remontas"
+167,L08_29,synonyms - exact,mesh,,tinklas
+168,,,,gauze,gazas
+169,,,,netting,DUPLICATE_tinklas
+170,,,,veiling,šydas
+171,,,,hairnet,plaukų_tinklelis
+172,,,,reseau,DUPLICATE_tinklas
+173,,,,net,DUPLICATE_tinklas
+174,,,,save-all,gaudyklė
+175,,,,snood,tinklelis_plaukams
+176,,,,sparker,kibirkščių_gaudyklė
+177,,,,tulle,tiulis
+178,,,,wirework,dirbinys_iš_vielos
+179,,,,grillwork,grotelės
+180,,,,,"tinklelis,tinkliukas,gaudiklis"
+181,L08_30,synonyms - exact,monument,,paminklas
+182,,,,memorial,memorialas
+183,,,,,monumentas
+184,L08_31,synonyms - exact,mother,,motina
+185,,,,mom,mama
+186,,,,mommy,mamytė
+187,,,,mum,DUPLICATE_mama
+188,,,,,"motulė,motinėlė,motušė,mamelė,mamutė,mamužė"
+189,L08_32,synonyms - exact,murder,,žmogžudystė
+190,,,,slaying,nužudymas
+191,,,,slay,užmušimas
+192,,,,execution,egzekucija
+194,L08_33,synonyms - exact,new,,naujas
+195,,,,modern,modernus
+196,,,,recent,pastarojo_meto
+198,L08_34,synonyms - exact,obsolete,,pasenęs
+199,,,,outdated,atgyvenęs
+200,,,,out-of-date,senamadiškas
+201,,,,superannuated,DUPLICATE_pasenęs
+202,,,,,senamadis
+203,L08_35,synonyms - exact,organized,,sistemiškai_sukomponuotas
+204,,,,arranged,sutvarkytas
+205,,,,configured,sukonfigūruotas
+206,,,,corporate,korporacinis
+207,,,,incorporated,įregistruotas_kaip_juridinis_asmuo
+208,,,,re-formed,pertvarkytas
+209,,,,reorganized,reorganizuotas
+210,,,,reorganised,DUPLICATE_reorganizuotas
+212,L08_36,synonyms - exact,package,,paketas
+213,,,,parcel,siuntinys
+214,,,,pack,pakas
+215,,,,packet,DUPLICATE_paketas
+216,,,,bundle,ryšulys
+217,,,,,"ryšuliukas,pakelis"
+218,L08_37,synonyms - exact,phone,,telefonas
+219,,,,telephone,DUPLICATE_telefonas
+220,,,,cell,mobilusis_telefonas
+221,,,,cellphone,DUPLICATE_mobilusis_telefonas
+222,,,,smartphone,išmanusis_telefonas
+223,,,,,"mobiliojo_ryšio_telefonas,judriojo_ryšio_telefonas"
+224,L08_38,synonyms - exact,portion,,dalis
+225,,,,part,DUPLICATE_dalis
+226,,,,component_part,komponentas
+227,,,,component,DUPLICATE_komponentas
+228,,,,constituent,sudedamoji_dalis
+229,,,,,"dėmuo,dedamoji"
+230,L08_39,synonyms - exact,railway,,geležinkelis
+231,,,,railroad,DUPLICATE_geležinkelis
+232,,,,,geležinkelio_linija
+233,L08_40,synonyms - exact,rational,,racionalus
+234,,,,logical,logiškas
+235,,,,coherent,nuoseklus
+236,,,,reasonable,protingas
+237,,,,sane,blaiviai_galvojantis
+239,L08_41,synonyms - exact,reasonable,,protingas
+240,,,,sensible,nuovokus
+241,,,,,supratingas
+242,L08_42,synonyms - exact,rock,,uola
+243,,,,stone,akmuo
+245,L08_43,synonyms - exact,shore,,krantas
+246,,,,coast,pajūris
+247,,,,strand,pakrantė
+248,,,,bank,paupys
+249,,,,beach,paplūdimys
+250,,,,,"paežerė,jūros_pakraštys"
+251,L08_44,synonyms - exact,snake,,gyvatė
+252,,,,serpent,DUPLICATE_gyvatė
+253,,,,ophidian,DUPLICATE_gyvatė
+254,,,,,"šnypštėlė,piktoji,ilgoji,dryžoji"
+255,L08_45,synonyms - exact,sofa,,sofa
+256,,,,couch,DUPLICATE_sofa
+257,,,,lounge,kušetė
+258,,,,,minkštasuolis
+259,L08_46,synonyms - exact,spouse,,sutuoktinis
+260,,,,partner,partneris
+261,,,,mate,mylimasis
+262,,,,better_half,antroji_pusė
+264,L08_47,synonyms - exact,style,,stilius
+265,,,,manner,maniera
+266,,,,mode,būdas
+267,,,,fashion,mada
+268,,,,way,įprotis
+270,L08_48,synonyms - exact,sweets,,saldainiai
+271,,,,confectionery,kondiferijos_gaminiai
+272,,,,dessert,desertas
+273,,,,confection,saldumynas
+275,L08_49,synonyms - exact,villain,,piktadarys
+276,,,,scoundrel,niekšas
+277,,,,rascal,nenaudėlis
+279,L08_50,synonyms - exact,vocabulary,,žodynas
+280,,,,lexicon,leksikonas
+281,,,,wordbook,DUPLICATE_žodynas
+282,,,,dictionary,DUPLICATE_žodynas
+283,,,,glossary,glosarijus
+284,,,,,žodynėlis

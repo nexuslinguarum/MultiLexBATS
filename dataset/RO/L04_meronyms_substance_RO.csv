@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,RO
+0,L04_1,meronyms - substance,atmosphere,,atmosfera
+1,,,,gas,gaz
+2,,,,oxygen,oxigen
+3,,,,hydrogen,hidrogen
+4,,,,nitrogen,azot
+5,,,,ozone,ozon
+7,L04_2,meronyms - substance,bag,,sacoșă
+8,,,,leather,piele
+9,,,,fabric,țesătură
+10,,,,plastic,plastic
+12,L04_3,meronyms - substance,beach,,plajă
+13,,,,sand,nisip
+14,,,,silicon,silicon
+15,,,,rocks,stânci
+16,,,,pebbles,pietricele
+17,,,,atomic_number_14,număr_atomic_14
+18,,,,si,SI
+20,L04_4,meronyms - substance,beard,,barbă
+21,,,,hair,păr
+23,L04_5,meronyms - substance,body,,corp
+24,,,,flesh,carne
+25,,,,bones,oase
+27,L04_6,meronyms - substance,boots,,cizme
+28,,,,leather,piele
+29,,,,canvas,pânză
+31,L04_7,meronyms - substance,bottle,,sticla
+32,,,,glass,sticlă
+33,,,,plastic,plastic
+35,L04_8,meronyms - substance,bowl,,castron
+36,,,,glass,sticlă
+37,,,,china,porțelan
+38,,,,aluminium,aluminiu
+39,,,,wood,lemn
+40,,,,steel,oțel
+41,,,,plastic,plastic
+42,,,,clay,lut
+44,L04_9,meronyms - substance,box,,cutie
+45,,,,cardboard,cutie_de_carton
+46,,,,tin,consersă
+47,,,,boxwood,cimișir
+48,,,,turkish_boxwood,cimi_turcesc
+50,L04_10,meronyms - substance,bread,,pâine
+51,,,,flour,făină
+52,,,,yeast,drojdie
+54,L04_11,meronyms - substance,bronze,,bronz
+55,,,,copper,cupru
+56,,,,tin,cositor
+57,,,,cu,cu
+58,,,,atomic_number_29,număr_atomic_29
+60,L04_12,meronyms - substance,candy,,bomboană
+61,,,,sugar,zahăr
+62,,,,nougat,nuga
+63,,,,chocolate,ciocolată
+64,,,,gelatin,gelatină
+65,,,,molasses,melasă
+66,,,,syrup,sirop
+67,,,,honey,miere
+68,,,,fruit,fruct
+69,,,,nuts,nuci
+71,L04_13,meronyms - substance,chocolate,,ciocolată
+72,,,,cocoa,cacao
+73,,,,bean,bob
+74,,,,cacao,DUPLICATE_cacao
+75,,,,cacao_bean,bob_de_cacao
+76,,,,cocoa_bean,DUPLICATE_bob_de_cacao
+78,L04_14,meronyms - substance,clothing,,îmbrăcăminte
+79,,,,fabric,țesătură
+80,,,,leather,piele
+82,L04_15,meronyms - substance,cloud,,nor
+83,,,,vapor,abur
+84,,,,water,apă
+85,,,,vapour,DUPLICATE_abur
+86,,,,water_vapour,abur_de_apă
+87,,,,water_vapor,DUPLICATE_abur_de_apă
+89,L04_16,meronyms - substance,cocktail,,cocktail
+90,,,,alcohol,alcool
+91,,,,juice,suc
+92,,,,water,apă
+94,L04_17,meronyms - substance,concrete,,beton
+95,,,,silicon,silicon
+96,,,,cement,ciment
+97,,,,water,apă
+98,,,,sand,nisip
+99,,,,atomic_number_14,număr_atomic_14
+100,,,,si,Si
+102,L04_18,meronyms - substance,desk,,birou
+103,,,,wood,lemn
+104,,,,metal,metal
+105,,,,steel,oțel
+107,L04_19,meronyms - substance,diamond,,diamant
+108,,,,carbon,carbon
+110,L04_20,meronyms - substance,doorknob,,clanță
+111,,,,metal,metal
+112,,,,steel,oțel
+113,,,,bronze,bronz
+114,,,,wood,lemn
+116,L04_21,meronyms - substance,flag,,steag
+117,,,,fabric,țăsătură
+118,,,,paper,hârtie
+120,L04_22,meronyms - substance,glacier,,ghețar
+121,,,,ice,gheață
+122,,,,water,apă
+123,,,,oxygen,oxigen
+124,,,,hydrogen,hidrogen
+125,,,,h,h
+126,,,,h2o,h2o
+127,,,,atomic_number_8,număr_atomic_8
+128,,,,atomic_number_1,număr_atomic_1
+129,,,,o,o
+130,,,,water_ice,apă_cu_gheață
+132,L04_23,meronyms - substance,glass,,sticlă
+133,,,,silicone,silicon
+135,L04_24,meronyms - substance,house,,casă
+136,,,,bricks,cărămizi
+137,,,,cement,ciment
+138,,,,wood,lemn
+139,,,,clay,clei
+141,L04_25,meronyms - substance,ice,,gheață
+142,,,,water,apă
+143,,,,oxygen,oxigen
+144,,,,hydrogen,hidrogen
+145,,,,h2o,h2o
+146,,,,atomic_number_1,număr_atomic_1
+147,,,,atomic_number_8,număr_atomic_8
+148,,,,h,h
+149,,,,o,o
+151,L04_26,meronyms - substance,icicle,,sloi_de_gheață
+152,,,,ice,gheață
+153,,,,water,apă
+155,L04_27,meronyms - substance,jam,,gen
+156,,,,fruit,fruct
+157,,,,sugar,zahăr
+158,,,,berries,fructe_de_pădure
+160,L04_28,meronyms - substance,jeans,,blugi
+161,,,,fabric,țesătură
+162,,,,denim,NO_TRANSLATION
+164,L04_29,meronyms - substance,lawn,,gazon
+165,,,,grass,iarbă
+167,L04_30,meronyms - substance,lens,,lentilă
+168,,,,glass,sticlă
+169,,,,plastic,plastic
+171,L04_31,meronyms - substance,mirror,,oglindă
+172,,,,glass,sticlă
+173,,,,bronze,bronz
+175,L04_32,meronyms - substance,money,,bani
+176,,,,paper,hârtie
+177,,,,metal,metal
+178,,,,silver,argint
+179,,,,gold,aur
+180,,,,iron,fier
+181,,,,copper,cupru
+182,,,,tin,staniu
+184,L04_33,meronyms - substance,ocean,,ocean
+185,,,,water,apă
+187,L04_34,meronyms - substance,omelette,,ompletă
+188,,,,eggs,ouă
+189,,,,egg,ou
+190,,,,milk,lapte
+191,,,,cheese,brânză
+193,L04_35,meronyms - substance,pastry,,patiserie
+194,,,,flour,făină
+195,,,,egg,ou
+196,,,,butter,unt
+197,,,,filling,umplutură
+199,L04_36,meronyms - substance,penny,,bănuț
+200,,,,metal,metal
+201,,,,alloy,aloe
+202,,,,bronze,bronz
+203,,,,nickel,nichel
+204,,,,zinc,zinc
+205,,,,copper,cupru
+206,,,,tin,cositor
+208,L04_37,meronyms - substance,pill,,pastilă
+209,,,,medicine,medicament
+210,,,,drug,drog
+212,L04_38,meronyms - substance,plastic,,plastic
+213,,,,polymer,polimer
+214,,,,oil,petrol
+215,,,,gas,gaz
+216,,,,coal,cărbune
+218,L04_39,meronyms - substance,roof,,acoperiș
+219,,,,shingles,zona_zoster
+220,,,,tiles,gresie
+221,,,,wood,lemn
+222,,,,metal,metal
+224,L04_40,meronyms - substance,sea,,mare
+225,,,,water,apă
+227,L04_41,meronyms - substance,snow,,zăpadă
+228,,,,water,apă
+229,,,,oxygen,oxigen
+230,,,,hydrogen,hidrogen
+231,,,,flake,fulg
+232,,,,ice,gheată
+233,,,,snowflake,fulg_de_nea
+234,,,,snowflakes,fulgi_de_nea
+235,,,,h2o,h2o
+236,,,,atomic_number_1,număr_atomic_1
+237,,,,atomic_number_8,număr_atomic_8
+238,,,,h,h
+239,,,,o,o
+241,L04_42,meronyms - substance,spoon,,lingură
+242,,,,aluminium,aluminiu
+243,,,,wood,lemn
+244,,,,steel,oțel
+246,L04_43,meronyms - substance,steel,,oțel
+247,,,,iron,fier
+248,,,,pearlite,perlită
+249,,,,carbon,carbon
+250,,,,cementite,ciment
+251,,,,ferrite,ferită
+252,,,,iron_carbide,carbură_de_fier
+253,,,,fe,Fe
+254,,,,atomic_number_26,număr_atomic_26
+255,,,,alpha_iron,alfa_fier
+257,L04_44,meronyms - substance,table,,masă
+258,,,,wood,lemn
+259,,,,metal,metal
+260,,,,plastic,plastic
+262,L04_45,meronyms - substance,wall,,zid
+263,,,,cement,ciment
+264,,,,bricks,cărămizi
+265,,,,stones,pietre
+266,,,,rocks,stânci
+267,,,,wood,lemn
+268,,,,cardboard,carton
+269,,,,board,scândură
+270,,,,plank,blană
+271,,,,clay,clei
+272,,,,mud,noroi
+274,L04_46,meronyms - substance,water,,apă
+275,,,,oxygen,oxigen
+276,,,,hydrogen,hidrogen
+277,,,,water,DUPLICATE_apă
+278,,,,h2o,h2o
+279,,,,atomic_number_1,număr_atoc_1
+280,,,,atomic_number_8,număr_atoc_8
+281,,,,h,h
+282,,,,o,o
+284,L04_47,meronyms - substance,wig,,perucă
+285,,,,hair,păr
+287,L04_48,meronyms - substance,wine,,vin
+288,,,,grapes,struguri
+289,,,,grape,strugure
+291,L04_49,meronyms - substance,wire,,vin
+292,,,,metal,metal
+294,L04_50,meronyms - substance,yogurt,,iaurt
+295,,,,milk,lapte

@@ -1,0 +1,164 @@
+,ID,Relation,Source,Target,DE
+0,L05_1,meronyms - member,acrobat,,Akrobat
+1,,,,troupe,Truppe
+3,L05_2,meronyms - member,antelope,,Antilope
+4,,,,herd,Herde
+6,L05_3,meronyms - member,bee,,Biene
+7,,,,swarm,Schwarm
+8,,,,hive,Bienenstock
+9,,,,colony,Kolonie
+10,,,,drift,Treiben
+11,,,,cast,NO_TRANSLATION
+12,,,,nest,Nest
+13,,,,rabble,Volk
+14,,,,stand,DUPLICATE_NO_TRANSLATION
+16,L05_4,meronyms - member,bird,,Vogel
+17,,,,flock,Schwarm
+19,L05_5,meronyms - member,book,,Buch
+20,,,,library,Bibliothek
+21,,,,shelf,Regal
+22,,,,collection,Sammlung
+23,,,,accounting,Buchhaltung
+24,,,,accounting_system,"Buchhaltungssystem,_Rechnungswesen"
+25,,,,method_of_accounting,Bilanzierungsmethode
+27,L05_6,meronyms - member,calf,,Kalb
+28,,,,cattle,Rind
+29,,,,herd,Herde
+31,L05_7,meronyms - member,car,,Wagen
+32,,,,train,Zug
+33,,,,procession,Umzug
+35,L05_8,meronyms - member,cat,,Katze
+36,,,,clowder,Katzenrudel
+37,,,,glaring,DUPLICATE_Katzenrudel
+38,,,,clutter,Durcheinander
+39,,,,pounce,aufspringen
+41,L05_9,meronyms - member,cattle,,Rind
+42,,,,herd,Herde
+44,L05_10,meronyms - member,christian,,Christ
+45,,,,congregation,Kongregation
+46,,,,church,Kirche
+47,,,,parish,Pfarrei
+49,L05_11,meronyms - member,citizen,,Bürger_
+50,,,,citizenry,Staatsbürgerschaft
+51,,,,country,Land
+52,,,,state,Staat
+54,L05_12,meronyms - member,college,,Hochschule
+55,,,,university,Universität
+57,L05_13,meronyms - member,county,,Landkreis
+58,,,,state,Staat
+59,,,,country,Land
+61,L05_14,meronyms - member,cow,,Kuh
+62,,,,herd,Herde
+64,L05_15,meronyms - member,crow,,Krähe
+65,,,,murder,Schwarm
+67,L05_16,meronyms - member,division,,Abteilung
+68,,,,company,Firma
+69,,,,business,Geschäft
+70,,,,platoon,Zug
+71,,,,battle_group,Gefechtsverband
+73,L05_17,meronyms - member,elephant,,Elefant
+74,,,,herd,Herde
+76,L05_18,meronyms - member,employee,,Arbeitnehmer
+77,,,,staff,Personal
+78,,,,company,Unternehmen
+80,L05_19,meronyms - member,fish,,Fisch
+81,,,,school,Schwarm
+83,L05_20,meronyms - member,flower,,Blume
+84,,,,bouquet,Blumenstrauß
+85,,,,bunch,Strauß
+87,L05_21,meronyms - member,galaxy,,Galaxie
+88,,,,universe,Universum
+90,L05_22,meronyms - member,goose,,Gans
+91,,,,gaggle,Schar
+93,L05_23,meronyms - member,juror,,Jurymitglied
+94,,,,jury,Jury
+96,L05_24,meronyms - member,kitten,,Kätzchen
+97,,,,litter,Wurf
+99,L05_25,meronyms - member,letter,,Buchstabe
+100,,,,alphabet,Alphabet
+102,L05_26,meronyms - member,lion,,Löwe
+103,,,,pride,Rudel
+105,L05_27,meronyms - member,listener,,Zuhörer
+106,,,,audience,Publikum
+108,L05_28,meronyms - member,member,,Mitglied
+109,,,,club,Club
+110,,,,team,Team
+111,,,,group,Gruppe
+112,,,,band,Band
+113,,,,community,Gemeinschaft
+115,L05_29,meronyms - member,musician,,Musiker
+116,,,,orchestra,Orchester
+117,,,,band,Band
+119,L05_30,meronyms - member,nomad,,Nomade
+120,,,,horde,Horde
+122,L05_31,meronyms - member,page,,Seite
+123,,,,book,Buch
+124,,,,notebook,Notizbuch
+125,,,,website,Website
+126,,,,web-site,Webseite
+128,L05_32,meronyms - member,parishioner,,Gemeindemitglied
+129,,,,parish,Pfarrei
+130,,,,church,Kirche
+132,L05_33,meronyms - member,person,,Person
+133,,,,society,Gesellschaft
+134,,,,company,Unternehmen
+135,,,,party,Party
+136,,,,world,Welt
+138,L05_34,meronyms - member,photo,,Foto
+139,,,,album,Album
+140,,,,collection,Sammlung
+141,,,,library,Archiv
+143,L05_35,meronyms - member,player,,Spieler
+144,,,,team,Team
+145,,,,group,Gruppe
+146,,,,orchestra,Orchester
+148,L05_36,meronyms - member,policeman,,Polizist
+149,,,,police,Polizei
+151,L05_37,meronyms - member,secretary,,Sekretär
+152,,,,staff,Personal
+154,L05_38,meronyms - member,senator,,Senator
+155,,,,senate,Senat
+156,,,,house,Kammer
+158,L05_39,meronyms - member,sheep,,Schaf
+159,,,,flock,Herde
+161,L05_40,meronyms - member,shrub,,Busch
+162,,,,shrubbery,Gebüsch
+164,L05_41,meronyms - member,singer,,Sänger
+165,,,,choir,Chor
+166,,,,band,Band
+167,,,,duo,Duo
+168,,,,trio,Trio
+169,,,,quartet,Quartett
+171,L05_42,meronyms - member,soldier,,Soldat
+172,,,,army,Armee
+173,,,,unit,Einheit
+174,,,,division,Division
+175,,,,troop,Truppe
+177,L05_43,meronyms - member,song,,Lied
+178,,,,album,Album
+179,,,,collection,Bestand
+180,,,,antology,Sammlung
+181,,,,library,Musikbibliothek
+183,L05_44,meronyms - member,spouse,,Ehepartner
+184,,,,couple,Paar
+185,,,,relationship,Beziehung
+186,,,,family,Familie
+188,L05_45,meronyms - member,star,,Stern
+189,,,,constellation,Konstellation
+190,,,,galaxy,Galaxie
+192,L05_46,meronyms - member,state,,Staatsgebiet
+193,,,,country,Staat
+194,,,,province,Provinz
+196,L05_47,meronyms - member,student,,Schüler
+197,,,,class,Klasse
+198,,,,school,Schule
+200,L05_48,meronyms - member,tree,,Baum
+201,,,,forest,Wald
+202,,,,wood,Holz
+203,,,,grove,Hain
+205,L05_49,meronyms - member,wolf,,Wolf
+206,,,,pack,Rudel
+208,L05_50,meronyms - member,word,,Wort
+209,,,,paragraph,Absatz
+210,,,,sentence,Satz
+211,,,,text,Text

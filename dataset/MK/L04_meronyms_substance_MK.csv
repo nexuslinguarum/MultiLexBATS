@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,MK
+0,L04_1,meronyms - substance,atmosphere,,атмосфера
+1,,,,gas,гас
+2,,,,oxygen,кислород
+3,,,,hydrogen,водород
+4,,,,nitrogen,азот
+5,,,,ozone,озон
+7,L04_2,meronyms - substance,bag,,торба
+8,,,,leather,кожа
+9,,,,fabric,ткаенина
+10,,,,plastic,пластика
+12,L04_3,meronyms - substance,beach,,плажа
+13,,,,sand,песок
+14,,,,silicon,силициум
+15,,,,rocks,карпи
+16,,,,pebbles,чакал
+17,,,,atomic_number_14,атомски_бројj_14
+18,,,,si,Si
+20,L04_4,meronyms - substance,beard,,брада
+21,,,,hair,коса
+23,L04_5,meronyms - substance,body,,тело
+24,,,,flesh,месо
+25,,,,bones,коски
+27,L04_6,meronyms - substance,boots,,чизми
+28,,,,leather,кожа
+29,,,,canvas,платно
+31,L04_7,meronyms - substance,bottle,,шише
+32,,,,glass,стакло
+33,,,,plastic,пластика
+35,L04_8,meronyms - substance,bowl,,вангла
+36,,,,glass,стакло
+37,,,,china,порцелан
+38,,,,aluminium,алуминиум
+39,,,,wood,дрво
+40,,,,steel,челик
+41,,,,plastic,пластика
+42,,,,clay,глина
+44,L04_9,meronyms - substance,box,,кутија
+45,,,,cardboard,картон
+46,,,,tin,лим
+47,,,,boxwood,зеленика
+48,,,,turkish_boxwood,турска_зеленика
+50,L04_10,meronyms - substance,bread,,леб
+51,,,,flour,брашно
+52,,,,yeast,квасец
+54,L04_11,meronyms - substance,bronze,,бронза
+55,,,,copper,бакар
+56,,,,tin,лим
+57,,,,cu,Cu
+58,,,,atomic_number_29,атомски_број_29
+60,L04_12,meronyms - substance,candy,,бонбона
+61,,,,sugar,шеќер
+62,,,,nougat,нугат
+63,,,,chocolate,чоколадо
+64,,,,gelatin,желатин
+65,,,,molasses,меласа
+66,,,,syrup,сируп
+67,,,,honey,мед
+68,,,,fruit,овошје
+69,,,,nuts,јаткасти_плодови
+71,L04_13,meronyms - substance,chocolate,,чоколадо
+72,,,,cocoa,какао
+73,,,,bean,грав
+74,,,,cacao,DUPLICATE_какао
+75,,,,cacao_bean,зрно_какао
+76,,,,cocoa_bean,DUPLICATE_зрно_какао
+78,L04_14,meronyms - substance,clothing,,облека
+79,,,,fabric,ткаенина
+80,,,,leather,кожа
+82,L04_15,meronyms - substance,cloud,,облак
+83,,,,vapor,пареа
+84,,,,water,вода
+85,,,,vapour,DUPLICATE_пареа
+86,,,,water_vapour,водена_пареа
+87,,,,water_vapor,DUPLICATE_водена_пареа
+89,L04_16,meronyms - substance,cocktail,,коктел
+90,,,,alcohol,алкохол
+91,,,,juice,сок
+92,,,,water,вода
+94,L04_17,meronyms - substance,concrete,,бетон
+95,,,,silicon,силициум
+96,,,,cement,цемент
+97,,,,water,вода
+98,,,,sand,песок
+99,,,,atomic_number_14,атомски_броj_14
+100,,,,si,Si
+102,L04_18,meronyms - substance,desk,,биро
+103,,,,wood,дрво
+104,,,,metal,метал
+105,,,,steel,челик
+107,L04_19,meronyms - substance,diamond,,дијамант
+108,,,,carbon,јаглерод
+110,L04_20,meronyms - substance,doorknob,,квака
+111,,,,metal,метал
+112,,,,steel,челик
+113,,,,bronze,бронза
+114,,,,wood,дрво
+116,L04_21,meronyms - substance,flag,,знаме
+117,,,,fabric,ткаенина
+118,,,,paper,хартија
+120,L04_22,meronyms - substance,glacier,,глечер
+121,,,,ice,мраз
+122,,,,water,вода
+123,,,,oxygen,кислород
+124,,,,hydrogen,водород
+125,,,,h,H
+126,,,,h2o,H2O
+127,,,,atomic_number_8,атомски_број_8
+128,,,,atomic_number_1,атомскиi_број_1
+129,,,,o,O
+130,,,,water_ice,DUPLICATE_мраз
+132,L04_23,meronyms - substance,glass,,стакло
+133,,,,silicone,силикон
+135,L04_24,meronyms - substance,house,,куќа
+136,,,,bricks,цигли
+137,,,,cement,цемент
+138,,,,wood,дрво
+139,,,,clay,глина
+141,L04_25,meronyms - substance,ice,,мраз
+142,,,,water,вода
+143,,,,oxygen,кислород
+144,,,,hydrogen,водород
+145,,,,h2o,H2O
+146,,,,atomic_number_1,атомски_број_1
+147,,,,atomic_number_8,атомски_бројj_8
+148,,,,h,H
+149,,,,o,O
+151,L04_26,meronyms - substance,icicle,,мразулец
+152,,,,ice,мраз
+153,,,,water,вода
+155,L04_27,meronyms - substance,jam,,џем
+156,,,,fruit,овошје
+157,,,,sugar,шеќер
+158,,,,berries,бобинки
+160,L04_28,meronyms - substance,jeans,,фармерки
+161,,,,fabric,ткаенина
+162,,,,denim,тексас
+164,L04_29,meronyms - substance,lawn,,тревник
+165,,,,grass,трева
+167,L04_30,meronyms - substance,lens,,леќи
+168,,,,glass,стакло
+169,,,,plastic,пластика
+171,L04_31,meronyms - substance,mirror,,огледало
+172,,,,glass,стакло
+173,,,,bronze,бронза
+175,L04_32,meronyms - substance,money,,пари
+176,,,,paper,хартија
+177,,,,metal,метал
+178,,,,silver,сребро
+179,,,,gold,злато
+180,,,,iron,железо
+181,,,,copper,бакар
+182,,,,tin,калај
+184,L04_33,meronyms - substance,ocean,,океан
+185,,,,water,вода
+187,L04_34,meronyms - substance,omelette,,омлет
+188,,,,eggs,јајца
+189,,,,egg,јајце
+190,,,,milk,млеко
+191,,,,cheese,сирење
+193,L04_35,meronyms - substance,pastry,,тестенини
+194,,,,flour,брашно
+195,,,,egg,јајце
+196,,,,butter,путер
+197,,,,filling,фил
+199,L04_36,meronyms - substance,penny,,пени
+200,,,,metal,метал
+201,,,,alloy,легура
+202,,,,bronze,бронза
+203,,,,nickel,никел
+204,,,,zinc,цинк
+205,,,,copper,бакар
+206,,,,tin,калај
+208,L04_37,meronyms - substance,pill,,таблетка
+209,,,,medicine,лек
+210,,,,drug,"медикамент,_дрога"
+212,L04_38,meronyms - substance,plastic,,пластика
+213,,,,polymer,полимер
+214,,,,oil,масло
+215,,,,gas,гас
+216,,,,coal,ќумур
+218,L04_39,meronyms - substance,roof,,кров
+219,,,,shingles,шиндра
+220,,,,tiles,керамиди
+221,,,,wood,дрво
+222,,,,metal,метал
+224,L04_40,meronyms - substance,sea,,море
+225,,,,water,вода
+227,L04_41,meronyms - substance,snow,,снег
+228,,,,water,вода
+229,,,,oxygen,кислород
+230,,,,hydrogen,водород
+231,,,,flake,снегулка
+232,,,,ice,мраз
+233,,,,snowflake,DUPLICATE_снегулка
+234,,,,snowflakes,снегулки
+235,,,,h2o,H2O
+236,,,,atomic_number_1,атосмки_бројj_1
+237,,,,atomic_number_8,атомски_бројj_8
+238,,,,h,H
+239,,,,o,O
+241,L04_42,meronyms - substance,spoon,,лажица
+242,,,,aluminium,алуминиум
+243,,,,wood,дрво
+244,,,,steel,челик
+246,L04_43,meronyms - substance,steel,,челик
+247,,,,iron,железо
+248,,,,pearlite,перлит
+249,,,,carbon,јаглерод
+250,,,,cementite,цементит
+251,,,,ferrite,ферит
+252,,,,iron_carbide,железен_карбид
+253,,,,fe,Fe
+254,,,,atomic_number_26,атомски_број_26
+255,,,,alpha_iron,алфа-железо
+257,L04_44,meronyms - substance,table,,маса
+258,,,,wood,дрво
+259,,,,metal,метал
+260,,,,plastic,пластика
+262,L04_45,meronyms - substance,wall,,ѕид
+263,,,,cement,цемент
+264,,,,bricks,цигли
+265,,,,stones,камења
+266,,,,rocks,карпи
+267,,,,wood,дрво
+268,,,,cardboard,картон
+269,,,,board,штица
+270,,,,plank,талпа
+271,,,,clay,глина
+272,,,,mud,лак
+274,L04_46,meronyms - substance,water,,вода
+275,,,,oxygen,кислород
+276,,,,hydrogen,водород
+277,,,,water,вода
+278,,,,h2o,H2O
+279,,,,atomic_number_1,атомски_број_1
+280,,,,atomic_number_8,атомски_број_8
+281,,,,h,H
+282,,,,o,O
+284,L04_47,meronyms - substance,wig,,перика
+285,,,,hair,коса
+287,L04_48,meronyms - substance,wine,,вино
+288,,,,grapes,грозје
+289,,,,grape,грозд
+291,L04_49,meronyms - substance,wire,,жица
+292,,,,metal,метал
+294,L04_50,meronyms - substance,yogurt,,јогурт
+295,,,,milk,млеко

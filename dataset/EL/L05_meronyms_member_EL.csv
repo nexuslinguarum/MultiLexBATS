@@ -1,0 +1,187 @@
+,ID,Relation,Source,Target,EL
+0,L05_1,meronyms - member,acrobat,,ακροβάτης
+1,,,,troupe,θίασος
+3,L05_2,meronyms - member,antelope,,αντιλόπη
+4,,,,herd,αγέλη
+5,,,,,κοπάδι
+6,L05_3,meronyms - member,bee,,μέλισσα
+7,,,,swarm,σμήνος
+8,,,,hive,κυψέλη
+9,,,,colony,αποικία
+10,,,,drift,σωρός
+11,,,,cast,NO_TRANSLATION
+12,,,,nest,φωλιά
+13,,,,rabble,όχλος
+14,,,,stand,υπερηψωμένη_κυψέλη
+15,,,,,σμάρι
+16,L05_4,meronyms - member,bird,,πουλί
+17,,,,flock,σμήνος
+18,,,,,σμάρι
+19,L05_5,meronyms - member,book,,βιβλίο
+20,,,,library,βιβλιοθήκη
+21,,,,shelf,ράφι
+22,,,,collection,συλλογή
+23,,,,accounting,λογιστικά
+24,,,,accounting_system,λογιστικό_σύστημα
+25,,,,method_of_accounting,λογισιτκή_μέθοδος
+27,L05_6,meronyms - member,calf,,μοσχάρι
+28,,,,cattle,βοοειδή
+29,,,,herd,κοπάδι
+30,,,,,αγέλη
+31,L05_7,meronyms - member,car,,αυτοκίνητο
+32,,,,train,σειρά
+33,,,,procession,πομπή
+34,,,,,"ακολουθία,αυτοκινητοπομπή"
+35,L05_8,meronyms - member,cat,,γάτα
+36,,,,clowder,ομάδα_γάτων
+37,,,,glaring,DUPLICATE_ομάδα_γάτων
+38,,,,clutter,DUPLICATE_ομάδα_γάτων
+39,,,,pounce,DUPLICATE_ομάδα_γάτων
+40,,,,,"συμμορία_γάτων,γατοσυμμορία"
+41,L05_9,meronyms - member,cattle,,βοοειδή
+42,,,,herd,κοπάδι
+43,,,,,αγέλη
+44,L05_10,meronyms - member,christian,,Χριστιανός
+45,,,,congregation,εκκλησίασμα
+46,,,,church,εκκλησία
+47,,,,parish,ενορία
+49,L05_11,meronyms - member,citizen,,πολίτης
+50,,,,citizenry,πολιτεία
+51,,,,country,χώρα
+52,,,,state,κράτος
+54,L05_12,meronyms - member,college,,κολέγιο
+55,,,,university,πανεπιστήμιο
+57,L05_13,meronyms - member,county,,κομητεία
+58,,,,state,πολιτεία
+59,,,,country,χώρα
+60,,,,,κράτος
+61,L05_14,meronyms - member,cow,,αγελάδα
+62,,,,herd,κοπάδι
+63,,,,,αγέλη
+64,L05_15,meronyms - member,crow,,κοράκι
+65,,,,murder,σμήνος
+66,,,,,"σμάρι,πλήθος"
+67,L05_16,meronyms - member,division,,τμήμα
+68,,,,company,εταιρεία
+69,,,,business,επιχείρηση
+70,,,,platoon,διμοιρία
+71,,,,battle_group,πολεμική_ομάδα
+73,L05_17,meronyms - member,elephant,,ελέφαντας
+74,,,,herd,αγέλη
+75,,,,,κοπάδι
+76,L05_18,meronyms - member,employee,,υπάλληλος
+77,,,,staff,προσωπικό
+78,,,,company,εταιρεία
+80,L05_19,meronyms - member,fish,,ψάρι
+81,,,,school,κοπάδι
+83,L05_20,meronyms - member,flower,,άνθος
+84,,,,bouquet,μπουκέτο
+85,,,,bunch,μάτσο
+86,,,,,ανθοδέσμη
+87,L05_21,meronyms - member,galaxy,,γαλαξίας
+88,,,,universe,σύμπαν
+90,L05_22,meronyms - member,goose,,χήνα
+91,,,,gaggle,σμήνος
+92,,,,,"σμάρι,κοπάδι"
+93,L05_23,meronyms - member,juror,,δικαστής
+94,,,,jury,δικασστήριο
+96,L05_24,meronyms - member,kitten,,γατάκι
+97,,,,litter,γέννα
+98,,,,,"τσούρμο,μάτσο"
+99,L05_25,meronyms - member,letter,,γράμμα
+100,,,,alphabet,αλφάβητο
+102,L05_26,meronyms - member,lion,,λιοντάρι
+103,,,,pride,αγέλη
+104,,,,,κοπάδι
+105,L05_27,meronyms - member,listener,,ακροατής
+106,,,,audience,ακροατήριο
+108,L05_28,meronyms - member,member,,μέλος
+109,,,,club,λέσχη
+110,,,,team,ομάδα
+111,,,,group,γκρουπ
+112,,,,band,μπάντα
+113,,,,community,κοινότητα
+114,,,,,"σύνολο,όμιλος"
+115,L05_29,meronyms - member,musician,,μουσικός
+116,,,,orchestra,ορχήστρα
+117,,,,band,συγκρότημα
+118,,,,,"γκρουπ,μπάντα"
+119,L05_30,meronyms - member,nomad,,νομάδας
+120,,,,horde,ορδή
+122,L05_31,meronyms - member,page,,σελίδα
+123,,,,book,βιβλίο
+124,,,,notebook,σημειωματάριο
+125,,,,website,ιστότοπος
+126,,,,web-site,DUPLICATE_ιστότοπος
+128,L05_32,meronyms - member,parishioner,,ενορίτης
+129,,,,parish,ενορία
+130,,,,church,εκκλησία
+131,,,,,εκκλησίασμα
+132,L05_33,meronyms - member,person,,πρόσωπο
+133,,,,society,κοινωνία
+134,,,,company,συντροφιά
+135,,,,party,κόμμα
+136,,,,world,κόσμος
+138,L05_34,meronyms - member,photo,,φωτογραφία
+139,,,,album,άλμπουμ
+140,,,,collection,συλλογή
+141,,,,library,βιβλιοθήκη
+143,L05_35,meronyms - member,player,,παίκτης
+144,,,,team,ομάδα
+145,,,,group,συγκρότημα
+146,,,,orchestra,ορχήστρα
+147,,,,,"γκρουπ,μπάντα"
+148,L05_36,meronyms - member,policeman,,αστυνομικός
+149,,,,police,αστυνομία
+151,L05_37,meronyms - member,secretary,,γραμματέας
+152,,,,staff,προσωπικό
+154,L05_38,meronyms - member,senator,,γερουσιαστής
+155,,,,senate,γερουσία
+156,,,,house,οίκος
+158,L05_39,meronyms - member,sheep,,πρόβατο
+159,,,,flock,κοπάδι
+160,,,,,αγέλη
+161,L05_40,meronyms - member,shrub,,θάμνος
+162,,,,shrubbery,συστάδα
+164,L05_41,meronyms - member,singer,,τραγουδιστής
+165,,,,choir,χορωδία
+166,,,,band,συγκρότημα
+167,,,,duo,ντούο
+168,,,,trio,τρίο
+169,,,,quartet,κουαρτέτο
+170,,,,,"μπάντα,γκρουπ"
+171,L05_42,meronyms - member,soldier,,στρατιώτης
+172,,,,army,στρατός
+173,,,,unit,μονάδα
+174,,,,division,λόχος
+175,,,,troop,στράτευμα
+177,L05_43,meronyms - member,song,,τραγούδι
+178,,,,album,άλμπουμ
+179,,,,collection,συλλογή
+180,,,,antology,ανθολογία
+181,,,,library,βιβλιοθήκη
+183,L05_44,meronyms - member,spouse,,σύζυγος
+184,,,,couple,ζευγάρι
+185,,,,relationship,σχέση
+186,,,,family,οικογένεια
+187,,,,,ζεύγος
+188,L05_45,meronyms - member,star,,αστέρι
+189,,,,constellation,αστερισμός
+190,,,,galaxy,γαλαξία
+192,L05_46,meronyms - member,state,,πολιτεία
+193,,,,country,χώρα
+194,,,,province,επαρχία
+196,L05_47,meronyms - member,student,,μαθητής
+197,,,,class,τάξη
+198,,,,school,σχολείο
+200,L05_48,meronyms - member,tree,,δέντρο
+201,,,,forest,δάσος
+202,,,,wood,DUPLICATE_δάσος
+203,,,,grove,μικρός_κήπος
+205,L05_49,meronyms - member,wolf,,λύκος
+206,,,,pack,αγέλη
+207,,,,,κοπάδι
+208,L05_50,meronyms - member,word,,λέξη
+209,,,,paragraph,παράγραφος
+210,,,,sentence,πρόταση
+211,,,,text,κείμενο

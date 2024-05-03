@@ -1,0 +1,259 @@
+,ID,Relation,Source,Target,LT
+0,L04_1,meronyms - substance,atmosphere,,atmosfera
+1,,,,gas,dujos
+2,,,,oxygen,deguonis
+3,,,,hydrogen,vandenilis
+4,,,,nitrogen,azotas
+5,,,,ozone,ozonas
+7,L04_2,meronyms - substance,bag,,krepšys
+8,,,,leather,oda
+9,,,,fabric,audeklas
+10,,,,plastic,plastikas
+11,,,,,audinys
+12,L04_3,meronyms - substance,beach,,paplūdimys
+13,,,,sand,smėlis
+14,,,,silicon,silicis
+15,,,,rocks,uolos
+16,,,,pebbles,apvalainukai
+17,,,,atomic_number_14,atominis_skaičius_14
+18,,,,si,Si
+19,,,,,"žvirgždas,gargždas"
+20,L04_4,meronyms - substance,beard,,barzda
+21,,,,hair,plaukai
+23,L04_5,meronyms - substance,body,,kūnas
+24,,,,flesh,minkštieji_audiniai
+25,,,,bones,kaulai
+27,L04_6,meronyms - substance,boots,,batai
+28,,,,leather,oda
+29,,,,canvas,kanva
+31,L04_7,meronyms - substance,bottle,,butelis
+32,,,,glass,stiklas
+33,,,,plastic,plastikas
+35,L04_8,meronyms - substance,bowl,,dubuo
+36,,,,glass,stiklas
+37,,,,china,porcelianas
+38,,,,aluminium,aliuminis
+39,,,,wood,medis
+40,,,,steel,plienas
+41,,,,plastic,plastikas
+42,,,,clay,molis
+44,L04_9,meronyms - substance,box,,dėžė
+45,,,,cardboard,kartonas
+46,,,,tin,skarda
+47,,,,boxwood,buksmedis
+48,,,,turkish_boxwood,paprastasis_buksmedis
+50,L04_10,meronyms - substance,bread,,duona
+51,,,,flour,miltai
+52,,,,yeast,mielės
+54,L04_11,meronyms - substance,bronze,,bronza
+55,,,,copper,varis
+56,,,,tin,alavas
+57,,,,cu,Cu
+58,,,,atomic_number_29,atominis_skaičius_29
+60,L04_12,meronyms - substance,candy,,saldainiai
+61,,,,sugar,cukrus
+62,,,,nougat,nuga
+63,,,,chocolate,šokoladas
+64,,,,gelatin,želatina
+65,,,,molasses,melasa
+66,,,,syrup,sirupas
+67,,,,honey,medus
+68,,,,fruit,vaisiai
+69,,,,nuts,riešutai
+71,L04_13,meronyms - substance,chocolate,,šokoladas
+72,,,,cocoa,kakava
+73,,,,bean,pupelė
+74,,,,cacao,DUPLICATE_kakava
+75,,,,cacao_bean,kakavos_pupelė
+76,,,,cocoa_bean,DUPLICATE_kakavos_pupelė
+77,,,,,"kakavos_sviestas,kakavos_milteliai"
+78,L04_14,meronyms - substance,clothing,,apranga
+79,,,,fabric,audeklas
+80,,,,leather,oda
+81,,,,,audinys
+82,L04_15,meronyms - substance,cloud,,debesis
+83,,,,vapor,garai
+84,,,,water,vanduo
+85,,,,vapour,DUPLICATE_garai
+86,,,,water_vapour,vandens_garai
+87,,,,water_vapor,DUPLICATE_vandens_garai
+88,,,,,"vandens_lašeliai,ledo_kristalai"
+89,L04_16,meronyms - substance,cocktail,,kokteilis
+90,,,,alcohol,alkoholis
+91,,,,juice,sultys
+92,,,,water,vanduo
+94,L04_17,meronyms - substance,concrete,,betonas
+95,,,,silicon,silicis
+96,,,,cement,cementas
+97,,,,water,vanduo
+98,,,,sand,smėlis
+99,,,,atomic_number_14,atominis_skaičius_14
+100,,,,si,Si
+102,L04_18,meronyms - substance,desk,,rašomasis_stalas
+103,,,,wood,medis
+104,,,,metal,metalas
+105,,,,steel,plienas
+107,L04_19,meronyms - substance,diamond,,deimantas
+108,,,,carbon,anglis
+110,L04_20,meronyms - substance,doorknob,,rutulio_formos_durų_rankena
+111,,,,metal,metalas
+112,,,,steel,plienas
+113,,,,bronze,bronza
+114,,,,wood,medis
+116,L04_21,meronyms - substance,flag,,vėliava
+117,,,,fabric,audeklas
+118,,,,paper,popierius
+119,,,,,audinys
+120,L04_22,meronyms - substance,glacier,,ledynas
+121,,,,ice,ledas
+122,,,,water,vanduo
+123,,,,oxygen,deguonis
+124,,,,hydrogen,vandenilis
+125,,,,h,H
+126,,,,h2o,H2O
+127,,,,atomic_number_8,atominis_skaičius_8
+128,,,,atomic_number_1,atominis_skaičius_1
+129,,,,o,O
+130,,,,water_ice,vandens_ledas
+132,L04_23,meronyms - substance,glass,,stiklas
+133,,,,silicone,silikonas
+135,L04_24,meronyms - substance,house,,namas
+136,,,,bricks,plytos
+137,,,,cement,cementas
+138,,,,wood,medis
+139,,,,clay,molis
+141,L04_25,meronyms - substance,ice,,ledas
+142,,,,water,vanduo
+143,,,,oxygen,deguonis
+144,,,,hydrogen,vandenilis
+145,,,,h2o,H2O
+146,,,,atomic_number_1,atominis_skaičius_1
+147,,,,atomic_number_8,atominis_skaičius_8
+148,,,,h,H
+149,,,,o,O
+150,,,,,vandens_molekulė
+151,L04_26,meronyms - substance,icicle,,varveklis
+152,,,,ice,ledas
+153,,,,water,vanduo
+155,L04_27,meronyms - substance,jam,,uogienė
+156,,,,fruit,vaisiai
+157,,,,sugar,cukrus
+158,,,,berries,uogos
+160,L04_28,meronyms - substance,jeans,,džinsai
+161,,,,fabric,audinys
+162,,,,denim,džinsas
+163,,,,,audeklas
+164,L04_29,meronyms - substance,lawn,,veja
+165,,,,grass,žolė
+167,L04_30,meronyms - substance,lens,,lęšis
+168,,,,glass,stiklas
+169,,,,plastic,plastikas
+171,L04_31,meronyms - substance,mirror,,veidrodis
+172,,,,glass,stiklas
+173,,,,bronze,bonza
+175,L04_32,meronyms - substance,money,,pinigai
+176,,,,paper,popierius
+177,,,,metal,metalas
+178,,,,silver,sidabras
+179,,,,gold,auksas
+180,,,,iron,geležis
+181,,,,copper,varis
+182,,,,tin,alavas
+184,L04_33,meronyms - substance,ocean,,vandenynas
+185,,,,water,vanduo
+187,L04_34,meronyms - substance,omelette,,omletas
+188,,,,eggs,kiaušiniai
+189,,,,egg,kiaušinis
+190,,,,milk,pienas
+191,,,,cheese,sūris
+193,L04_35,meronyms - substance,pastry,,tešlainis
+194,,,,flour,miltai
+195,,,,egg,kiaušinis
+196,,,,butter,sviestas
+197,,,,filling,įdaras
+198,,,,,pyragaitis
+199,L04_36,meronyms - substance,penny,,pensas
+200,,,,metal,metalas
+201,,,,alloy,lydinys
+202,,,,bronze,bronza
+203,,,,nickel,nikelis
+204,,,,zinc,cinkas
+205,,,,copper,varis
+206,,,,tin,alavas
+208,L04_37,meronyms - substance,pill,,piliulė
+209,,,,medicine,vaistas
+210,,,,drug,vaistinė_medžiaga
+212,L04_38,meronyms - substance,plastic,,plastikas
+213,,,,polymer,polimeras
+214,,,,oil,nafta
+215,,,,gas,dujos
+216,,,,coal,akmens_anglys
+218,L04_39,meronyms - substance,roof,,stogas
+219,,,,shingles,stogo_danga
+220,,,,tiles,čerpė
+221,,,,wood,medis
+222,,,,metal,metalas
+223,,,,,malksna
+224,L04_40,meronyms - substance,sea,,jūra
+225,,,,water,vanduo
+227,L04_41,meronyms - substance,snow,,sniegas
+228,,,,water,vanduo
+229,,,,oxygen,deguonis
+230,,,,hydrogen,vandenilis
+231,,,,flake,sniego_dribsnis
+232,,,,ice,ledas
+233,,,,snowflake,snaigė
+234,,,,snowflakes,snaigės
+235,,,,h2o,H2O
+236,,,,atomic_number_1,atominis_skaičius_1
+237,,,,atomic_number_8,atominis_skaičius_8
+238,,,,h,H
+239,,,,o,O
+241,L04_42,meronyms - substance,spoon,,šaukštas
+242,,,,aluminium,aliuminis
+243,,,,wood,medis
+244,,,,steel,plienas
+246,L04_43,meronyms - substance,steel,,plienas
+247,,,,iron,geležis
+248,,,,pearlite,perlitas
+249,,,,carbon,anglis
+250,,,,cementite,cementitas
+251,,,,ferrite,feritas
+252,,,,iron_carbide,geležies_karbidas
+253,,,,fe,Fe
+254,,,,atomic_number_26,atominis_skaičius_26
+255,,,,alpha_iron,DUPLICATE_feritas
+256,,,,,C
+257,L04_44,meronyms - substance,table,,stalas
+258,,,,wood,medis
+259,,,,metal,metalas
+260,,,,plastic,plastikas
+262,L04_45,meronyms - substance,wall,,siena
+263,,,,cement,cementas
+264,,,,bricks,plytos
+265,,,,stones,akmenys
+266,,,,rocks,uolos
+267,,,,wood,medis
+268,,,,cardboard,kartonas
+269,,,,board,lenta
+270,,,,plank,lentjuostė
+271,,,,clay,molis
+272,,,,mud,purvas
+274,L04_46,meronyms - substance,water,,vanduo
+275,,,,oxygen,deguonis
+276,,,,hydrogen,vandenilis
+277,,,,water,DUPLICATE_vanduo
+278,,,,h2o,H2O
+279,,,,atomic_number_1,atominis_skaičius_1
+280,,,,atomic_number_8,atominis_skaičius_8
+281,,,,h,H
+282,,,,o,O
+284,L04_47,meronyms - substance,wig,,perukas
+285,,,,hair,plaukai
+287,L04_48,meronyms - substance,wine,,vynas
+288,,,,grapes,vynuogės
+289,,,,grape,vynuogė
+291,L04_49,meronyms - substance,wire,,viela
+292,,,,metal,metalas
+294,L04_50,meronyms - substance,yogurt,,jogurtas
+295,,,,milk,pienas

@@ -1,0 +1,306 @@
+,ID,Relation,Source,Target,LT
+0,L07_1,synonyms - intensity,afraid,,įsibaiminęs
+1,,,,terrified,labai_išsigandęs
+2,,,,horrified,pasibaisėjęs
+3,,,,scared,išsigandęs
+4,,,,stiff,sustingęs
+5,,,,petrified,suakmenėjęs
+6,,,,fearful,bijantis
+7,,,,panicky,paniškas
+9,L07_2,synonyms - intensity,angry,,piktas
+10,,,,furious,įsiutęs
+11,,,,enraged,įniršęs
+12,,,,outraged,pasipiktinęs
+13,,,,aggrivated,suerzintas
+14,,,,irate,DUPLICATE_pasipiktinęs
+15,,,,seething,verdantis_pykčiu
+17,L07_3,synonyms - intensity,ask,,prašyti
+18,,,,beg,elgetauti
+19,,,,implore,melstis
+20,,,,pray,DUPLICATE_melstis
+21,,,,entreat,maldauti
+22,,,,supplicate,nuolankiai_prašyti
+23,,,,insist,reikalauti
+25,L07_4,synonyms - intensity,bad,,blogas
+26,,,,awful,siaubingas
+27,,,,atrocious,žiaurus
+28,,,,abominable,bjaurus
+29,,,,dreadful,klaikus
+30,,,,painful,skausmingas
+31,,,,terrible,baisus
+32,,,,unspeakable,neapsakomas
+34,L07_5,synonyms - intensity,boring,,nuobodus
+35,,,,tedious,varginantis
+36,,,,deadening,bukinantis
+37,,,,dull,nuobodokas
+38,,,,ho-hum,nuobodybė
+39,,,,irksome,įkyrus
+40,,,,tiresome,įgrysus
+41,,,,wearisome,alinantis
+43,L07_6,synonyms - intensity,cat,,katė
+44,,,,lion,liūtas
+45,,,,tiger,tigras
+46,,,,leopard,leopardas
+47,,,,panther,pantera
+48,,,,jaguar,jaguaras
+50,L07_7,synonyms - intensity,chuckle,,kikenti
+51,,,,laugh,juoktis
+52,,,,guffaw,kvatoti
+53,,,,chortle,čiurlenimas
+54,,,,snicker,prunkštimas
+55,,,,snigger,prislopintas_juokas
+56,,,,titter,krizenti
+57,,,,roar,kriokimas
+59,L07_8,synonyms - intensity,confused,,sutrikęs
+60,,,,lost,pasimetęs
+61,,,,bewildered,suglumęs
+62,,,,trapped,įstrigęs
+63,,,,desperate,beviltiškas
+65,L07_9,synonyms - intensity,creative,,kūrybingas
+66,,,,ingenious,sumanus
+67,,,,inventive,Išradingas
+68,,,,demiurgic,demiurginis
+69,,,,deviceful,išmoningas
+70,,,,innovational,naujoviškas
+71,,,,innovative,inovatyvus
+72,,,,innovatory,novatoriškas
+73,,,,original,originalus
+74,,,,originative,DUPLICATE_originalus
+76,L07_10,synonyms - intensity,cry,,verkti
+77,,,,scream,rėkti
+78,,,,shriek,spiegti
+79,,,,screech,žviegimas
+80,,,,screeching,žviegdamas
+82,L07_11,synonyms - intensity,damp,,drėgnas
+83,,,,drenched,permirkęs
+84,,,,dripping,varvantis
+85,,,,saturated,prisotintas
+86,,,,soaked,išmirkytas
+87,,,,soaking,mirkstantis
+88,,,,sodden,peršlapęs
+89,,,,sopping,DUPLICATE_mirkstantis
+90,,,,soppy,įmirkęs
+91,,,,soused,sumirkęs
+92,,,,wringing-wet,šlapias
+94,L07_12,synonyms - intensity,dinner,,pietūs
+95,,,,feast,vaišės
+96,,,,banquet,pokylis
+97,,,,fiesta,šventė
+99,L07_13,synonyms - intensity,dislike,,nemėgti
+100,,,,hate,neapkęsti
+101,,,,abhor,baisėtis
+102,,,,detest,nekęsti
+103,,,,loathe,bjaurėtis
+104,,,,abominate,šlykštėtis
+105,,,,execrate,prakeikti
+106,,,,contemn,paniekinti
+107,,,,despise,niekinti
+108,,,,scorn,pajuoka
+109,,,,disdain,nepaisyti
+111,L07_14,synonyms - intensity,doze,,užsnūsti
+112,,,,sleep,miegoti
+113,,,,slumber,snausti
+115,L07_15,synonyms - intensity,drizzle,,dulksna
+116,,,,rain,lietus
+117,,,,shower,stiprus_lietus
+118,,,,raifall,liūtis
+119,,,,deluge,tvanas
+122,L07_16,synonyms - intensity,excited,,susijaudinęs
+123,,,,agitated,įaudrintas
+124,,,,nervous,nervingas
+126,L07_17,synonyms - intensity,faith,,tikėjimas
+127,,,,fanatism,fanatizmas
+128,,,,fanaticism,DUPLICATE_fanatizmas
+129,,,,zealotry,uolumas
+130,,,,,religingumas
+131,L07_18,synonyms - intensity,giggle,,juokeliai
+132,,,,laugh,juoktis
+133,,,,guffaw,kvatoti
+134,,,,chortle,čiurlenimas
+135,,,,snicker,prunkštimas
+136,,,,snigger,prislopintas_juokas
+137,,,,titter,krizenti
+138,,,,roar,kriokimas
+140,L07_19,synonyms - intensity,guilty,,kaltas
+141,,,,remorseful,atgailaujantis
+142,,,,sorrowful,liūdnas
+143,,,,unworthy,nevertas
+145,L07_20,synonyms - intensity,happy,,laimingas
+146,,,,ecstatic,ekstaziškas
+147,,,,enraptured,sužavėtas
+148,,,,rapturous,džiūgaujantis
+149,,,,rapt,susižavėjęs
+150,,,,rhapsodic,rapsodinis
+152,L07_21,synonyms - intensity,house,,namas
+153,,,,palace,rūmai
+154,,,,castle,pilis
+156,L07_22,synonyms - intensity,hungry,,alkanas
+157,,,,starving,badaujantis
+158,,,,famished,išbadėjęs
+159,,,,peckish,skurdus
+160,,,,ravenous,alkanas_kaip_vilkas
+161,,,,starved,badavo
+163,L07_23,synonyms - intensity,indulge,,mėgautis
+164,,,,pamper,palepinti
+165,,,,spoil,lepinti
+166,,,,coddle,slaugyti
+168,L07_24,synonyms - intensity,interesting,,įdomus
+169,,,,exciting,jaudinantis
+170,,,,exhilarant,džiuginantis
+171,,,,exhilarating,pagyvintas
+172,,,,exhilarative,DUPLICATE_džiuginantis
+173,,,,eye-popping,akį_rėžiantis
+174,,,,inspiring,įkvepiantis
+175,,,,intoxicating,svaiginantis
+176,,,,rousing,DUPLICATE_įkvepiantis
+177,,,,stimulating,skatinantis
+178,,,,stirring,judrus
+179,,,,arresting,patraukiantis
+180,,,,interesting,įdomus
+181,,,,intriguing,intriguojantis
+182,,,,moving,graudus
+183,,,,provocative,provokuojantis
+184,,,,heady,svaigus
+185,,,,thrilling,suvirpinantis
+186,,,,,"žavintis,kerintis"
+187,L07_25,synonyms - intensity,irritate,,pasipiktinęs
+188,,,,enrage,įsiutinti
+189,,,,incense,siutinti
+190,,,,infuriate,įniršinti
+191,,,,ire,pyktis
+192,,,,mad,pamišęs
+193,,,,madden,išvesti_iš_proto
+194,,,,steam,garas
+195,,,,umbrage,šmeižtas
+197,L07_26,synonyms - intensity,jog,,bėgioti
+198,,,,run,bėgti
+199,,,,scarper,skardinė
+200,,,,flee,pabėgti
+201,,,,fly,skristi
+203,L07_27,synonyms - intensity,lake,,ežeras
+204,,,,sea,jūra
+205,,,,ocean,vandenynas
+207,L07_28,synonyms - intensity,like,,mėgti
+208,,,,love,mylėti
+209,,,,care,rūpintis
+210,,,,fond,meilus
+211,,,,crush,sutraiškyti
+212,,,,infatuate,susižavėti
+214,L07_29,synonyms - intensity,love,,mylėti
+215,,,,adore,garbinti
+216,,,,fetishize,fetišizuoti
+217,,,,idolize,dievinti
+218,,,,idolise,DUPLICATE_dievinti
+219,,,,worship,melstis
+220,,,,hero-worship,didvyrio_garbinimas
+221,,,,revere,gerbti
+222,,,,,garbstyti
+223,L07_30,synonyms - intensity,monkey,,beždžionė
+224,,,,gorilla,gorila
+226,L07_31,synonyms - intensity,nap,,pogulis
+227,,,,sleep,miegas
+228,,,,slumber,snaudulys
+230,L07_32,synonyms - intensity,necessary,,reikalingas
+231,,,,essential,esminis
+232,,,,indispensable,nepakeičiamas
+233,,,,vital,svarbus
+234,,,,required,privalomas
+236,L07_33,synonyms - intensity,opposed,,prieštaraujantis
+237,,,,averse,nelinkęs
+238,,,,antipathetic,antipatinis
+239,,,,antipathetical,DUPLICATE_antipatinis
+240,,,,indisposed,neapsikentęs
+241,,,,loath,bjaurumas
+242,,,,loth,lotas
+244,L07_34,synonyms - intensity,pain,,skausmas
+245,,,,torment,kankynė
+246,,,,torture,kankinimas
+247,,,,agony,agonija
+249,L07_35,synonyms - intensity,pony,,ponis
+250,,,,horse,arklys
+252,L07_36,synonyms - intensity,poorly,,prastai
+253,,,,afflicted,kamuojamas
+254,,,,sick,sergantis
+255,,,,ill,ligotas
+256,,,,stricken,sužeistas
+258,L07_37,synonyms - intensity,rain,,lietus
+259,,,,deluge,tvanas
+260,,,,shower,stiprus_lietus
+262,L07_38,synonyms - intensity,sad,,liūdnas
+263,,,,desparate,žūtbūtinis
+264,,,,despondent,nusiminęs
+265,,,,despairing,netekęs_vilties
+266,,,,desponding,nuliūdęs
+267,,,,forlorn,apleistas
+268,,,,hopeless,beviltiškas
+269,,,,melancholy,melancholija
+272,L07_39,synonyms - intensity,sea,,jūra
+273,,,,ocean,vandenynas
+275,L07_40,synonyms - intensity,snack,,užkandis
+276,,,,meal,patiekalas
+277,,,,eat,valgyti
+279,L07_41,synonyms - intensity,sniffles,,šnarpštimas
+280,,,,pneumonia,plaučių_uždegimas
+282,L07_42,synonyms - intensity,soon,,greitai
+283,,,,immediately,nedelsiant
+284,,,,promptly,operatyviai
+285,,,,straightaway,iškart
+287,L07_43,synonyms - intensity,strong,,stiprus
+288,,,,powerful,galingas
+289,,,,forceful,valingas
+290,,,,super,puikus
+291,,,,potent,veiksmingas
+293,L07_44,synonyms - intensity,tasty,,skanus
+294,,,,delicious,labai_skanus
+295,,,,delectable,žavingas
+296,,,,luscious,švytintis
+297,,,,pleasant-tasting,malonaus_skonio
+298,,,,scrumptious,nuostabus
+299,,,,toothsome,dantytas
+300,,,,yummy,niam
+301,,,,mouth-watering,tirpstantis_burnoje
+302,,,,ambrosial,ambrozija
+303,,,,heavenly,dangiškasis
+305,L07_45,synonyms - intensity,tired,,pavargęs
+306,,,,exhausted,išsekęs
+307,,,,drained,nusausintas
+309,L07_46,synonyms - intensity,unfortunate,,nesėkmingas
+310,,,,tragic,tragiškas
+311,,,,woeful,apgailėtinas
+312,,,,grievous,sielvartingas
+313,,,,wretched,varganas
+314,,,,miserable,vargšas
+315,,,,awful,siaubingas
+316,,,,lamentable,liūdnas
+317,,,,regrettable,DUPLICATE_apgailėtinas
+318,,,,desperate,žūtbūtinis
+319,,,,hopeless,beviltiškas
+320,,,,disastrous,pražūtingas
+322,L07_47,synonyms - intensity,unhappy,,nelaiminags
+323,,,,miserable,vargšas
+324,,,,suffering,kenčiantis
+325,,,,wretched,varganas
+327,L07_48,synonyms - intensity,want,,norėti
+328,,,,crave,trokšti
+329,,,,hunger,alkis
+330,,,,thirst,troškulys
+331,,,,starve,badauti
+332,,,,lust,geismas
+334,L07_49,synonyms - intensity,warm,,šiltas
+335,,,,hot,karštas
+336,,,,fiery,ugningas
+337,,,,flaming,liepsnojantis
+338,,,,heated,šildomas
+339,,,,red-hot,įkaitęs_iki_raudonumo
+340,,,,sizzling,šnypščiantis
+341,,,,sensual,jausmingas
+342,,,,sultry,temperamentingas
+343,,,,torrid,aistringas
+344,,,,white-hot,įkaitintas_iki_baltumo
+346,L07_50,synonyms - intensity,well,,gerai
+347,,,,flourishing,žydintis
+348,,,,robust,tvirtas
+349,,,,booming,klestėjimas
+350,,,,prospering,klestintis
+351,,,,prosperous,pasiturintis
+352,,,,thriving,sėkmingas

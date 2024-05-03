@@ -1,0 +1,241 @@
+,ID,Relation,Source,Target,AL
+0,L10_1,antonyms - binary,after,,pas
+1,,,,before,para
+2,,,,earlier,herët
+3,,,,previously,DUPLICATE_herët
+5,L10_2,antonyms - binary,ahead,,para
+6,,,,behind,prapa
+7,,,,rear,i_pasëm
+8,,,,after,pas
+9,,,,tail,pjesë_e_pasme
+10,,,,beforehand,paraprakisht
+12,L10_3,antonyms - binary,anterior,,e_përparme
+13,,,,posterior,e_pasme
+15,L10_4,antonyms - binary,backward,,prapa
+16,,,,forward,para
+17,,,,forwards,përpara
+18,,,,frontward,DUPLICATE_përpara
+19,,,,frontwards,DUPLICATE_përpara
+20,,,,forrad,DUPLICATE_prapa
+21,,,,forrard,DUPLICATE_prapa
+22,,,,forth,tutje
+23,,,,onward,"DUPLICATE_përpara,_progres"
+25,L10_5,antonyms - binary,before,,para
+26,,,,after,pas
+27,,,,subsequently,më_pas
+28,,,,later,vonë
+29,,,,afterwards,më_vonë
+30,,,,afterward,pastaj
+31,,,,ahead,"DUPLICATE_para,_përpara"
+33,L10_6,antonyms - binary,beginning,,fillim
+34,,,,end,mbarim
+35,,,,terminal,fundor
+36,,,,ending,fundi
+37,,,,last,i_fundit
+38,,,,final,final
+39,,,,finish,mbaron
+40,,,,finale,finale
+41,,,,conclusion,përmbyllje
+43,L10_7,antonyms - binary,below,,poshtë
+44,,,,above,sipër
+45,,,,higher,më_lart
+46,,,,up,lart
+48,L10_8,antonyms - binary,climb,,ngjitem
+49,,,,descend,zbres
+50,,,,declivitous,"i_pjerrët,_zbritës"
+51,,,,downhill,tatëpjetë
+52,,,,downward-sloping,përpjetë
+53,,,,degressive,degradues
+54,,,,descendant,"pasardhës,_prejardhës"
+55,,,,descendent,"DUPLICATE_pasardhës,_DUPLICATE_prejardhës"
+56,,,,down,poshtë
+57,,,,downward,DUPLICATE_tatëpjetë
+58,,,,downward-arching,i_harkuar_poshtë
+59,,,,drizzling,shi_i_imët
+60,,,,dropping,duke_rënë
+61,,,,falling,DUPLICATE_duke_rënë
+62,,,,raining,bie_shi
+64,L10_9,antonyms - binary,dead,,i_vdekur
+65,,,,alive,gjallë
+66,,,,living,duke_jetuar
+67,,,,live,"DUPLICATE_gjallë,_direkt"
+69,L10_10,antonyms - binary,decrement,,pakësim
+70,,,,increment,shtim
+72,L10_11,antonyms - binary,descend,,zbritje
+73,,,,ascend,ngjitje
+74,,,,climb,ngjitem
+75,,,,rise,ngjitem_lart
+76,,,,upward,lart
+77,,,,ascendent,ngjitëse
+78,,,,ascendant,DUPLICATE_ngjitëse
+80,L10_12,antonyms - binary,dive,,zhytje
+81,,,,emerge,dal_në_shesh
+83,L10_13,antonyms - binary,down,,poshtë
+84,,,,up,lart
+85,,,,above,sipër
+86,,,,ahead,para
+87,,,,lead,kryesoj
+88,,,,leading,kryesim
+89,,,,aweigh,peshoj
+90,,,,dormie,konvikt
+91,,,,dormy,DUPLICATE_konvikt
+92,,,,heavenward,drejt_parajsës
+93,,,,skyward,drejt_qiellit
+94,,,,risen,i_ngritur
+95,,,,sprouted,i_mbirë
+96,,,,upbound,DUPLICATE_lart
+97,,,,upfield,DUPLICATE_lart
+98,,,,upward,përpjetë
+100,L10_14,antonyms - binary,downslope,,tatëpjetë
+101,,,,upslope,përpjetë
+102,,,,ascent,ngjitje
+104,L10_15,antonyms - binary,drop,,rënie
+105,,,,lift,ngritje
+106,,,,pick_up,me_e_ngrit
+108,L10_16,antonyms - binary,dynamic,,dinamike
+109,,,,static,statike
+110,,,,still,e_pa_lëvizshme
+111,,,,unmoving,DUPLICATE_e_pa_lëvizshme
+112,,,,unchanging,e_pa_ndryshueshme
+114,L10_17,antonyms - binary,employ,,përdor
+115,,,,dismiss,përjashtoj
+116,,,,fire,largoj
+117,,,,sack,DUPLICATE_përjashtoj
+118,,,,displace,zhvendos
+119,,,,terminate,ndërprej
+121,L10_18,antonyms - binary,exit,,dalje
+122,,,,entrance,hyrje
+123,,,,entranceway,rruga_e_hyrjes
+124,,,,entryway,DUPLICATE_rruga_e_hyrjes
+125,,,,entry,DUPLICATE_hyrje
+126,,,,entree,DUPLICATE_hyrje
+128,L10_19,antonyms - binary,fall,,rënie
+129,,,,rise,ngritje
+130,,,,upward,përpjetë
+131,,,,climb,ngjitu
+133,L10_20,antonyms - binary,first,,"e_para,_i_pari"
+134,,,,last,"e_fundit,_i_fundit"
+135,,,,end,fund
+136,,,,terminal,terminale
+137,,,,ending,duke_mbaruar
+138,,,,final,finale
+139,,,,finish,DUPLICATE_fund
+140,,,,finale,DUPLICATE_finale
+141,,,,conclusion,konkluzion
+143,L10_21,antonyms - binary,forget,,harro
+144,,,,remember,kujto
+145,,,,retrieve,kthe
+146,,,,recall,rikujto
+147,,,,call_back,thirrje_mbrapa
+148,,,,call_up,thërras
+149,,,,recollect,DUPLICATE_kujtoj
+151,L10_22,antonyms - binary,forward,,përpara
+152,,,,backward,mbrapa
+153,,,,back,DUPLICATE_mbrapa
+154,,,,backwards,mbrapsht
+155,,,,rearward,"praparojë,_prapavijë"
+156,,,,rearwards,"DUPLICATE_praparojë,_DUPLICATE_prapavijë"
+158,L10_23,antonyms - binary,front,,para
+159,,,,back,mbrapa
+160,,,,rear,DUPLICATE_mbrapa
+161,,,,forepart,përpara
+163,L10_24,antonyms - binary,in,,brenda
+164,,,,out,jashtë
+165,,,,outer,i_jashtëm
+166,,,,exterior,DUPLICATE_i_jashtëm
+167,,,,outside,DUPLICATE_jashtë
+169,L10_25,antonyms - binary,inbound,,përbrenda
+170,,,,outbound,jashtë
+172,L10_26,antonyms - binary,inhale,,marr_frymë
+173,,,,exhale,nxjerr_frymë
+175,L10_27,antonyms - binary,input,,hyrje
+176,,,,output,dalje
+178,L10_28,antonyms - binary,inside,,brenda
+179,,,,outside,jashtë
+180,,,,exterior,i_jashtëm
+181,,,,out,DUPLICATE_jashtë
+183,L10_29,antonyms - binary,interior,,e_brendshme
+184,,,,exterior,e_jashtme
+185,,,,outdoor,jashtë
+186,,,,out-of-door,DUPLICATE_jashtë
+187,,,,outside,DUPLICATE_jashtë
+189,L10_30,antonyms - binary,internal,,e_brendshme
+190,,,,external,e_jashtme
+191,,,,outer,i_jashtëm
+192,,,,outside,jashtë
+194,L10_31,antonyms - binary,inverse,,anasjelltas
+195,,,,reverse,e_kundërta
+196,,,,reversion,mbrapa
+197,,,,reversal,kthim_mbrapa
+198,,,,turnabout,DUPLICATE_kthim_mbrapa
+199,,,,turnaround,DUPLICATE_kthim_mbrapa
+201,L10_32,antonyms - binary,mortal,,i_vdekshëm
+202,,,,immortal,i_pavdekshëm
+204,L10_33,antonyms - binary,occupied,,i_zënë
+205,,,,vacant,i_lirë
+206,,,,free,DUPLICATE_i_lirë
+208,L10_34,antonyms - binary,off,,ndalur
+209,,,,on,ndezur
+211,L10_35,antonyms - binary,out,,jashtë
+212,,,,in,brenda
+213,,,,inside,DUPLICATE_brenda
+215,L10_36,antonyms - binary,outward,,jashtë
+216,,,,upward,DUPLICATE_lart
+217,,,,up,lart
+218,,,,upwards,DUPLICATE_lart
+220,L10_37,antonyms - binary,over,,mbi
+221,,,,under,"nën,_poshtë"
+222,,,,below,"DUPLICATE_nën,_DUPLICATE_poshtë"
+223,,,,beneath,"DUPLICATE_nën,_DUPLICATE_poshtë"
+225,L10_38,antonyms - binary,previously,,më_parë
+226,,,,subsequently,më_pas
+227,,,,later,më_vonë
+228,,,,afterwards,DUPLICATE_më_pas
+229,,,,afterward,DUPLICATE_më_pas
+230,,,,after,pas
+231,,,,subsequent,pasuese
+233,L10_39,antonyms - binary,proceed,,vazhdo
+234,,,,retreat,kthehu_mbrapa
+235,,,,return,kthim
+237,L10_40,antonyms - binary,rise,,ngrihem
+238,,,,sink,fundoset
+239,,,,drop,DUPLICATE_rënie
+240,,,,fall,rënie
+242,L10_41,antonyms - binary,south,,jug
+243,,,,north,veri
+245,L10_42,antonyms - binary,southeast,,juglindje
+246,,,,southwest,jupërendim
+247,,,,northeast,verilindje
+249,L10_43,antonyms - binary,submerge,,zhyt
+250,,,,emerge,dal
+252,L10_44,antonyms - binary,top,,krye
+253,,,,bottom,fund
+254,,,,underside,pjesa_e_poshtme
+255,,,,undersurface,nën_sipërfaqe
+257,L10_45,antonyms - binary,toward,,drejt
+258,,,,away,larg
+259,,,,off,fikur
+260,,,,forth,me_radhë
+261,,,,aside,mënjanë
+263,L10_46,antonyms - binary,True,,saktë
+264,,,,False,pasaktë
+265,,,,incorrect,jo_e_saktë
+266,,,,wrong,gabim
+267,,,,mistaken,DUPLICATE_gabim
+269,L10_47,antonyms - binary,under,,nën
+270,,,,over,mbi
+271,,,,above,sipër
+272,,,,up,lart
+274,L10_48,antonyms - binary,up,,lart
+275,,,,down,poshtë
+276,,,,downwards,në_agim
+277,,,,downward,DUPLICATE_poshtë
+278,,,,downwardly,DUPLICATE_poshtë
+280,L10_49,antonyms - binary,uphill,,përpjetë
+281,,,,downhill,tatëpjetë
+282,,,,decline,rënie
+283,,,,fall,bien
+284,,,,declivitous,i_pjerrët
+285,,,,downward-sloping,me_pjerrësi_poshtë
+287,L10_50,antonyms - binary,west,,perëndim
+288,,,,east,lindje

@@ -1,0 +1,236 @@
+,ID,Relation,Source,Target,MK
+0,L10_1,antonyms - binary,after,,по
+1,,,,before,пред
+2,,,,earlier,порано
+3,,,,previously,претходно
+5,L10_2,antonyms - binary,ahead,,напред
+6,,,,behind,зад
+7,,,,rear,одзади
+8,,,,after,по
+9,,,,tail,опашка
+10,,,,beforehand,претходно
+12,L10_3,antonyms - binary,anterior,,NO_TRANSLATION
+13,,,,posterior,апостериоори
+15,L10_4,antonyms - binary,backward,,назад
+16,,,,forward,пред
+17,,,,forwards,напред
+18,,,,frontward,NO_TRANSLATION
+19,,,,frontwards,DUPLICATE_NO_TRANSLATION
+20,,,,forrad,DUPLICATE_NO_TRANSLATION
+21,,,,forrard,DUPLICATE_NO_TRANSLATION
+22,,,,forth,повратен
+25,L10_5,antonyms - binary,before,,пред
+26,,,,after,по
+27,,,,subsequently,последователно
+28,,,,later,подоцна
+29,,,,afterwards,отпосле
+30,,,,afterward,DUPLICATE_отпосле
+31,,,,ahead,напред
+33,L10_6,antonyms - binary,beginning,,почеток
+34,,,,end,крај
+35,,,,terminal,завршен
+36,,,,ending,"завршеток,_епилог"
+37,,,,last,последен
+38,,,,final,конечен
+39,,,,finish,завршница
+40,,,,finale,финале
+41,,,,conclusion,заклучок
+43,L10_7,antonyms - binary,below,,под
+44,,,,above,над
+45,,,,higher,горен
+46,,,,up,горе
+48,L10_8,antonyms - binary,climb,,искачува
+49,,,,descend,слегува
+50,,,,declivitous,NO_TRANSLATION
+51,,,,downhill,удолница
+52,,,,downward-sloping,DUPLICATE_NO_TRANSLATION
+53,,,,degressive,DUPLICATE_NO_TRANSLATION
+54,,,,descendant,DUPLICATE_NO_TRANSLATION
+55,,,,descendent,DUPLICATE_NO_TRANSLATION
+56,,,,down,долу
+57,,,,downward,надолу
+58,,,,downward-arching,DUPLICATE_NO_TRANSLATION
+59,,,,drizzling,DUPLICATE_NO_TRANSLATION
+60,,,,dropping,испуштен
+61,,,,falling,паѓање
+62,,,,raining,врнежлив
+64,L10_9,antonyms - binary,dead,,мртов
+65,,,,alive,жив
+66,,,,living,живо
+67,,,,live,живее
+69,L10_10,antonyms - binary,decrement,,декремент
+70,,,,increment,инкремент
+72,L10_11,antonyms - binary,descend,,слегува
+73,,,,ascend,искачува
+74,,,,climb,качува
+75,,,,rise,виши
+76,,,,upward,нагорен
+77,,,,ascendent,асцедент
+78,,,,ascendant,DUPLICATE_асцедент
+80,L10_12,antonyms - binary,dive,,нурка
+81,,,,emerge,исплови
+83,L10_13,antonyms - binary,down,,долу
+84,,,,up,горе
+85,,,,above,над
+86,,,,ahead,врз
+87,,,,lead,води
+88,,,,leading,водечки
+89,,,,aweigh,NO_TRANSLATION
+90,,,,dormie,DUPLICATE_NO_TRANSLATION
+91,,,,dormy,DUPLICATE_NO_TRANSLATION
+92,,,,heavenward,DUPLICATE_NO_TRANSLATION
+93,,,,skyward,DUPLICATE_NO_TRANSLATION
+94,,,,risen,DUPLICATE_NO_TRANSLATION
+95,,,,sprouted,DUPLICATE_NO_TRANSLATION
+96,,,,upbound,DUPLICATE_NO_TRANSLATION
+97,,,,upfield,DUPLICATE_NO_TRANSLATION
+98,,,,upward,нагорен
+100,L10_14,antonyms - binary,downslope,,нагорнина
+101,,,,upslope,надолнина
+102,,,,ascent,искачување
+104,L10_15,antonyms - binary,drop,,испушта
+105,,,,lift,крева
+106,,,,pick_up,прибира
+108,L10_16,antonyms - binary,dynamic,,динамички
+109,,,,static,статичен
+110,,,,still,неподвижен
+111,,,,unmoving,DUPLICATE_неподвижен
+112,,,,unchanging,непроменлив
+114,L10_17,antonyms - binary,employ,,вработува
+115,,,,dismiss,распушта
+116,,,,fire,отпушта
+117,,,,sack,NO_TRANSLATION
+118,,,,displace,истиснува
+119,,,,terminate,раскинува
+121,L10_18,antonyms - binary,exit,,излез
+122,,,,entrance,влез
+123,,,,entranceway,NO_TRANSLATION
+124,,,,entryway,DUPLICATE_NO_TRANSLATION
+125,,,,entry,пристап
+126,,,,entree,антре
+128,L10_19,antonyms - binary,fall,,паѓа
+129,,,,rise,искачува
+130,,,,upward,нагоре
+131,,,,climb,крева
+133,L10_20,antonyms - binary,first,,прв
+134,,,,last,последен
+135,,,,end,краен
+136,,,,terminal,конечен
+137,,,,ending,завршница
+138,,,,final,заклучен
+139,,,,finish,завршува
+140,,,,finale,финале
+141,,,,conclusion,заклучок
+143,L10_21,antonyms - binary,forget,,заборава
+144,,,,remember,помни
+145,,,,retrieve,прибира
+146,,,,recall,обновува
+147,,,,call_back,NO_TRANSLATION
+148,,,,call_up,DUPLICATE_NO_TRANSLATION
+149,,,,recollect,повтори
+151,L10_22,antonyms - binary,forward,,напред
+152,,,,backward,назад
+153,,,,back,зад
+154,,,,backwards,назачки
+155,,,,rearward,NO_TRANSLATION
+156,,,,rearwards,DUPLICATE_NO_TRANSLATION
+158,L10_23,antonyms - binary,front,,пред
+159,,,,back,по
+160,,,,rear,одзади
+161,,,,forepart,NO_TRANSLATION
+163,L10_24,antonyms - binary,in,,во
+164,,,,out,надвор
+165,,,,outer,надворешен
+166,,,,exterior,DUPLICATE_надворешен
+167,,,,outside,вон
+169,L10_25,antonyms - binary,inbound,,влезен
+170,,,,outbound,излезен
+172,L10_26,antonyms - binary,inhale,,вдишува
+173,,,,exhale,издишува
+175,L10_27,antonyms - binary,input,,влез
+176,,,,output,излез
+178,L10_28,antonyms - binary,inside,,внатре
+179,,,,outside,надвор
+180,,,,exterior,надворешен
+181,,,,out,DUPLICATE_надвор
+183,L10_29,antonyms - binary,interior,,ентериер
+184,,,,exterior,екстериер
+185,,,,outdoor,надвор
+186,,,,out-of-door,NO_TRANSLATION
+187,,,,outside,DUPLICATE_надвор
+189,L10_30,antonyms - binary,internal,,внатрешен
+190,,,,external,надворешен
+191,,,,outer,згорница
+192,,,,outside,DUPLICATE_надворешен
+194,L10_31,antonyms - binary,inverse,,инверзен
+195,,,,reverse,обратен
+196,,,,reversion,реверзија
+197,,,,reversal,NO_TRANSLATION
+198,,,,turnabout,DUPLICATE_NO_TRANSLATION
+199,,,,turnaround,DUPLICATE_NO_TRANSLATION
+201,L10_32,antonyms - binary,mortal,,смртен
+202,,,,immortal,бесмртен
+204,L10_33,antonyms - binary,occupied,,зафатен
+205,,,,vacant,упразнет
+206,,,,free,слободен
+208,L10_34,antonyms - binary,off,,исклучен
+209,,,,on,вклучен
+211,L10_35,antonyms - binary,out,,надвор
+212,,,,in,во
+213,,,,inside,внатре
+220,L10_37,antonyms - binary,over,,врз
+221,,,,under,под
+222,,,,below,DUPLICATE_под
+223,,,,beneath,DUPLICATE_под
+225,L10_38,antonyms - binary,previously,,претходно
+226,,,,subsequently,последователно
+227,,,,later,попосле
+228,,,,afterwards,отпосле
+229,,,,afterward,потем
+230,,,,after,по
+231,,,,subsequent,последователен
+233,L10_39,antonyms - binary,proceed,,продолжува
+234,,,,retreat,повлекува
+235,,,,return,враќа
+237,L10_40,antonyms - binary,rise,,изгрева
+238,,,,sink,тоне
+239,,,,drop,испушта
+240,,,,fall,паѓа
+242,L10_41,antonyms - binary,south,,север
+243,,,,north,југ
+245,L10_42,antonyms - binary,southeast,,југоисточен
+246,,,,southwest,југозападен
+247,,,,northeast,североисточен
+249,L10_43,antonyms - binary,submerge,,потопува
+250,,,,emerge,зароди
+252,L10_44,antonyms - binary,top,,врв
+253,,,,bottom,дно
+254,,,,underside,внатрешност
+255,,,,undersurface,подповршински
+257,L10_45,antonyms - binary,toward,,кон
+258,,,,away,надвор
+259,,,,off,исклучен
+260,,,,forth,повратен
+261,,,,aside,настрана
+263,L10_46,antonyms - binary,True,,вистина
+264,,,,False,лага
+265,,,,incorrect,неточно
+266,,,,wrong,неисправно
+267,,,,mistaken,погрешно
+269,L10_47,antonyms - binary,under,,врз
+270,,,,over,над
+271,,,,above,згора
+272,,,,up,горе
+274,L10_48,antonyms - binary,up,,горе
+275,,,,down,долу
+276,,,,downwards,удолу
+277,,,,downward,DUPLICATE_удолу
+278,,,,downwardly,удолен
+280,L10_49,antonyms - binary,uphill,,нагорнина
+281,,,,downhill,удолнина
+282,,,,decline,пад
+283,,,,fall,DUPLICATE_пад
+284,,,,declivitous,NO_TRANSLATION
+285,,,,downward-sloping,DUPLICATE_NO_TRANSLATION
+287,L10_50,antonyms - binary,west,,запад
+288,,,,east,исток

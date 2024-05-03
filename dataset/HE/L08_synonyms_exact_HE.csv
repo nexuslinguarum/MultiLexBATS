@@ -1,0 +1,234 @@
+,ID,Relation,Source,Target,HE
+0,L08_1,synonyms - exact,airplane,,מטוס
+1,,,,aeroplane,DUPLICATE_מטוס
+2,,,,plane,DUPLICATE_מטוס
+4,L08_2,synonyms - exact,auto,,אוטו
+5,,,,car,מכונית
+6,,,,automobile,אוטומוביל
+7,,,,motorcar,DUPLICATE_מכונית
+9,L08_3,synonyms - exact,baby,,תִינוֹק
+10,,,,infant,DUPLICATE_תינוק
+11,,,,babe,DUPLICATE_תינוק
+13,L08_4,synonyms - exact,bicycle,,אופניים
+14,,,,bike,DUPLICATE_אופניים
+15,,,,wheel,גַלגַל
+16,,,,cycle,DUPLICATE_אופניים
+18,L08_5,synonyms - exact,child,,יֶלֶד
+19,,,,kid,DUPLICATE_ילד
+20,,,,youngster,צָעִיר
+21,,,,minor,קַטִין
+22,,,,shaver,נער
+23,,,,nipper,זַאֲטוּט
+24,,,,small_fry,DUPLICATE_ילד
+25,,,,tiddler,דגיג
+26,,,,tike,פרחח
+27,,,,tyke,DUPLICATE_זאטוט
+28,,,,fry,דג_צעיר
+29,,,,nestling,גוֹזָל
+31,L08_6,synonyms - exact,cloth,,בַּד
+32,,,,fabric,DUPLICATE_בד
+33,,,,material,חוֹמֶר
+34,,,,textile,טֶקסטִיל
+36,L08_7,synonyms - exact,clothes,,בגדים
+37,,,,clothing,הַלבָּשָׁה
+38,,,,apparel,הלבשה
+39,,,,dress,שמלה
+41,L08_8,synonyms - exact,confused,,מְבוּלבָּל
+42,,,,baffled,DUPLICATE_מבולבל
+43,,,,befuddled,DUPLICATE_מבולבל
+44,,,,bemused,DUPLICATE_נבוף
+45,,,,bewildered,נָבוֹך
+46,,,,confounded,DUPLICATE_מבולבל
+47,,,,lost,אבוד
+48,,,,mazed,מבוכה
+49,,,,mixed-up,מעורבב
+51,L08_9,synonyms - exact,dollars,,דולרים
+52,,,,bucks,DUPLICATE_דולרים
+54,L08_10,synonyms - exact,emphasis,,דָגֵשׁ
+55,,,,accent,אקצנט
+56,,,,accentuaion,הטעמה
+57,,,,importance,חֲשִׁיבוּת
+58,,,,stress,לחץ
+59,,,,significance,מַשְׁמָעוּת
+61,L08_11,synonyms - exact,father,,אַבָּא
+62,,,,dad,DUPLICATE_אבא
+63,,,,daddy,DUPLICATE_אבא
+65,L08_12,synonyms - exact,flower,,פֶּרַח
+66,,,,blossom,DUPLICATE_לפרוח
+67,,,,bloom,לִפְרוֹחַ
+69,L08_13,synonyms - exact,harbor,,נמל
+70,,,,seaport,DUPLICATE_נמל
+71,,,,haven,DUPLICATE_נמל
+72,,,,harbour,DUPLICATE_נמל
+74,L08_14,synonyms - exact,help,,עֶזרָה
+75,,,,aid,סיוע
+76,,,,assist,לסייע
+78,L08_15,synonyms - exact,hieroglyph,,הירוגליף
+79,,,,hieroglyphic,הירוגליפי
+80,,,,pictogram,פיקטוגרמה
+82,L08_16,synonyms - exact,homogeneous,,הוֹמוֹגֵנִי
+83,,,,uniform,אחיד
+84,,,,unvarying,לא_משתנה
+86,L08_17,synonyms - exact,honest,,יָשָׁר
+87,,,,sincere,כן
+88,,,,ingenuous,תָמִים
+89,,,,True,נָכוֹן
+90,,,,direct,ישיר
+91,,,,truthful,דובר_אמת
+93,L08_18,synonyms - exact,identical,,זֵהֶה
+94,,,,same,אותו
+95,,,,indistinguishable,בלתי_נבדל
+97,L08_19,synonyms - exact,incorrect,,לא_נכון
+98,,,,wrong,לא_בסדר
+99,,,,counterfactual,נגדי
+100,,,,erroneous,DUPLICATE_שגוי
+101,,,,inaccurate,לא_מדויק
+102,,,,specious,מַטעֶה
+103,,,,unsound,רָעוּעַ
+104,,,,untrue,כּוֹזֵב
+107,L08_20,synonyms - exact,intelligent,,אִינְטֶלִיגֶנְטִי
+108,,,,clever,נבון
+109,,,,smart,חכם
+111,L08_21,synonyms - exact,jewel,,תַכשִׁיט
+112,,,,gem,פְּנִינָה
+113,,,,stone,אֶבֶן
+115,L08_22,synonyms - exact,lad,,בָּחוּר
+116,,,,chap,DUPLICATE_בחור
+117,,,,fellow,עָמִית
+118,,,,feller,DUPLICATE_חבר
+119,,,,fella,חבר
+120,,,,gent,ג'ֶנטֶלמֶן
+121,,,,blighter,DUPLICATE_חבר
+122,,,,cuss,DUPLICATE_ברנש
+123,,,,bloke,בַּרנַשׁ
+125,L08_23,synonyms - exact,lady,,גברת
+126,,,,madam,DUPLICATE_גברת
+127,,,,dame,DUPLICATE_גברת
+128,,,,ma'am,גְבִירתִי
+129,,,,gentlewoman,אַצִילָה
+130,,,,madame,DUPLICATE_גברת
+131,,,,woman,אִשָׁה
+133,L08_24,synonyms - exact,lazy,,עָצֵל
+134,,,,indolent,DUPLICATE_עצל
+135,,,,faineant,DUPLICATE_עצל
+136,,,,otiose,חסר_תועלת
+137,,,,slothful,DUPLICATE_עצל
+138,,,,work-shy,עצלן
+140,L08_25,synonyms - exact,list,,רשימה
+141,,,,listing,רישום
+142,,,,enumeration,ספירה
+144,L08_26,synonyms - exact,loyal,,נֶאֱמָן
+145,,,,faithful,DUPLICATE_נאמן
+147,,,,dependable,מְהֵימָן
+148,,,,devoted,מסור
+149,,,,reliable,אָמִין
+151,L08_27,synonyms - exact,market,,שׁוּק
+152,,,,marketplace,זירת_מסחר
+153,,,,mart,מרכז_מסחיר
+154,,,,bazaar,באזאר
+156,L08_28,synonyms - exact,mend,,לְתַקֵן
+157,,,,repair,DUPLICATE_לתקן
+158,,,,fix,DUPLICATE_לתקן
+159,,,,fixing,תיקון
+160,,,,fixture,מִתקָן
+161,,,,mending,אִחוּי
+162,,,,reparation,פיצוי
+163,,,,patch,DUPLICATE_תיקון
+164,,,,darn,DUPLICATE_לתקן
+165,,,,darning,הטליא
+167,L08_29,synonyms - exact,mesh,,רֶשֶׁת
+168,,,,gauze,גָזָה
+169,,,,netting,רישות
+170,,,,veiling,רעלה
+171,,,,hairnet,רשת_שיער
+172,,,,reseau,DUPLICATE_רשת
+173,,,,net,DUPLICATE_רשת
+174,,,,save-all,שמור_הכל
+175,,,,snood,רשת_לאיסוף_שיער
+176,,,,sparker,ניצוף
+177,,,,tulle,טוּל
+178,,,,wirework,תיל
+179,,,,grillwork,שבכה
+181,L08_30,synonyms - exact,monument,,אַנדַרטָה
+182,,,,memorial,זִכָּרוֹן
+184,L08_31,synonyms - exact,mother,,אִמָא
+185,,,,mom,DUPLICATE_אמא
+186,,,,mommy,DUPLICATE_אמא
+187,,,,mum,DUPLICATE_אמא
+189,L08_32,synonyms - exact,murder,,רֶצַח
+190,,,,slaying,הֶרֶג
+191,,,,slay,לִקְטוֹל
+192,,,,execution,הוצאה_להורג
+194,L08_33,synonyms - exact,new,,חָדָשׁ
+195,,,,modern,מוֹדֶרנִי
+196,,,,recent,לאחרונה
+198,L08_34,synonyms - exact,obsolete,,מְיוּשָׁן
+199,,,,outdated,DUPLICATE_מיושן
+200,,,,out-of-date,פג_תוקף
+201,,,,superannuated,הפך_למיושן
+203,L08_35,synonyms - exact,organized,,מְאוּרגָן
+204,,,,arranged,מְסוּדָר
+205,,,,configured,מוגדר
+206,,,,corporate,תאגידי
+207,,,,incorporated,משולב
+208,,,,re-formed,נוצר_מחדש
+209,,,,reorganized,ארגון_מחדש
+210,,,,reorganised,DUPLICATE_ארגון_מחדש
+212,L08_36,synonyms - exact,package,,חֲבִילָה
+213,,,,parcel,DUPLICATE_חבילה
+214,,,,pack,DUPLICATE_חבילה
+215,,,,packet,DUPLICATE_חבילה
+216,,,,bundle,DUPLICATE_חבילה
+218,L08_37,synonyms - exact,phone,,טלפון
+219,,,,telephone,DUPLICATE_טלפון
+220,,,,cell,תָא
+221,,,,cellphone,טלפון_נייד
+222,,,,smartphone,סמארטפון
+224,L08_38,synonyms - exact,portion,,חֵלֶק
+225,,,,part,DUPLICATE_חלק
+226,,,,component_part,חלק_מרכיב
+227,,,,component,רְכִיב
+228,,,,constituent,מַרכִּיב
+230,L08_39,synonyms - exact,railway,,מסילת_רכבת
+231,,,,railroad,רכבת
+233,L08_40,synonyms - exact,rational,,רַצִיוֹנָלִי
+234,,,,logical,הגיוני
+235,,,,coherent,קוהרנטי
+236,,,,reasonable,סביר
+237,,,,sane,שפוי_בדעתו
+239,L08_41,synonyms - exact,reasonable,,סביר
+240,,,,sensible,הגיוני
+242,L08_42,synonyms - exact,rock,,סלע
+243,,,,stone,אֶבֶן
+245,L08_43,synonyms - exact,shore,,חוף
+246,,,,coast,DUPLICATE_חוף
+247,,,,strand,DUPLICATE_חוף
+248,,,,bank,גדה
+249,,,,beach,DUPLICATE_חוף
+251,L08_44,synonyms - exact,snake,,נָחָשׁ
+252,,,,serpent,DUPLICATE_נחש
+253,,,,ophidian,אופידיאן
+255,L08_45,synonyms - exact,sofa,,סַפָּה
+256,,,,couch,DUPLICATE_ספה
+257,,,,lounge,טְרַקלִין
+259,L08_46,synonyms - exact,spouse,,בן_זוג
+260,,,,partner,שותף
+261,,,,mate,DUPLICATE_בן_זוג
+262,,,,better_half,חצי_טוב_יותר
+264,L08_47,synonyms - exact,style,,סִגְנוֹן
+265,,,,manner,DUPLICATE_סגנון
+266,,,,mode,DUPLICATE_אופנה
+267,,,,fashion,אופנה
+268,,,,way,דֶרֶך
+270,L08_48,synonyms - exact,sweets,,דִברֵי_מְתִיקָה
+271,,,,confectionery,מַמתָקִים
+272,,,,dessert,קינוח
+273,,,,confection,מִרקַחַת
+275,L08_49,synonyms - exact,villain,,נָבָל
+276,,,,scoundrel,DUPLICATE_נבל
+277,,,,rascal,בן_בליעל
+279,L08_50,synonyms - exact,vocabulary,,אוצר_מילים
+280,,,,lexicon,לֵקסִיקוֹן
+281,,,,wordbook,ספר_מילים
+282,,,,dictionary,מילון
+283,,,,glossary,מילון_מונחים

@@ -1,0 +1,161 @@
+,ID,Relation,Source,Target,MK
+0,L05_1,meronyms - member,acrobat,,акробат
+1,,,,troupe,трупа
+3,L05_2,meronyms - member,antelope,,антилопа
+4,,,,herd,булук
+6,L05_3,meronyms - member,bee,,пчела
+7,,,,swarm,рој
+8,,,,hive,кошница
+9,,,,colony,колонија
+10,,,,drift,NO_TRANSLATION
+11,,,,cast,DUPLICATE_NO_TRANSLATION
+12,,,,nest,гнездо
+13,,,,rabble,DUPLICATE_roj
+14,,,,stand,поило
+16,L05_4,meronyms - member,bird,,птица
+17,,,,flock,јато
+19,L05_5,meronyms - member,book,,книга
+20,,,,library,книжарница
+21,,,,shelf,полица
+22,,,,collection,збирка
+23,,,,accounting,сметководтсво
+24,,,,accounting_system,сметководен_систем
+25,,,,method_of_accounting,сметководнa_метода
+27,L05_6,meronyms - member,calf,,теле
+28,,,,cattle,добиток
+29,,,,herd,стадо
+31,L05_7,meronyms - member,car,,автомобил
+32,,,,train,воз
+33,,,,procession,композиција
+35,L05_8,meronyms - member,cat,,мачка
+36,,,,clowder,NO_TRANSLATION
+37,,,,glaring,DUPLICATE_NO_TRANSLATION
+38,,,,clutter,DUPLICATE_NO_TRANSLATION
+39,,,,pounce,DUPLICATE_NO_TRANSLATION
+41,L05_9,meronyms - member,cattle,,добиток
+42,,,,herd,стадо
+44,L05_10,meronyms - member,christian,,христијанин
+45,,,,congregation,заедница
+46,,,,church,црква
+47,,,,parish,парохија
+49,L05_11,meronyms - member,citizen,,граѓанин
+50,,,,citizenry,граѓанство
+51,,,,country,земја
+52,,,,state,држава
+54,L05_12,meronyms - member,college,,колеџ
+55,,,,university,универзитет
+57,L05_13,meronyms - member,county,,округ
+58,,,,state,држава
+59,,,,country,земја
+61,L05_14,meronyms - member,cow,,крава
+62,,,,herd,стадо
+64,L05_15,meronyms - member,crow,,врана
+65,,,,murder,јато
+67,L05_16,meronyms - member,division,,оддел
+68,,,,company,"компанија,_фирма"
+69,,,,business,бизнис
+70,,,,platoon,"вод,_десетина"
+71,,,,battle_group,борбена_единица
+73,L05_17,meronyms - member,elephant,,слон
+74,,,,herd,булук
+76,L05_18,meronyms - member,employee,,вработен
+77,,,,staff,персонал
+78,,,,company,фирма
+80,L05_19,meronyms - member,fish,,риба
+81,,,,school,јато
+83,L05_20,meronyms - member,flower,,цвет
+84,,,,bouquet,букет
+85,,,,bunch,китка
+87,L05_21,meronyms - member,galaxy,,галаксија
+88,,,,universe,вселена
+90,L05_22,meronyms - member,goose,,гуска
+91,,,,gaggle,јато
+93,L05_23,meronyms - member,juror,,поротник
+94,,,,jury,порота
+96,L05_24,meronyms - member,kitten,,маче
+97,,,,litter,легло
+99,L05_25,meronyms - member,letter,,буква
+100,,,,alphabet,азбука
+102,L05_26,meronyms - member,lion,,лав
+103,,,,pride,стадо
+105,L05_27,meronyms - member,listener,,слушател
+106,,,,audience,публика
+108,L05_28,meronyms - member,member,,член
+109,,,,club,клуб
+110,,,,team,тим
+111,,,,group,група
+112,,,,band,бенд
+113,,,,community,заедница
+115,L05_29,meronyms - member,musician,,музичар
+116,,,,orchestra,оркестар
+117,,,,band,бенд
+119,L05_30,meronyms - member,nomad,,номад
+120,,,,horde,орда
+122,L05_31,meronyms - member,page,,страница
+123,,,,book,книга
+124,,,,notebook,бележник
+125,,,,website,веб-сајт
+126,,,,web-site,DUPLICATE_веб-сајт
+132,L05_33,meronyms - member,person,,личност
+133,,,,society,друштво
+134,,,,company,компанија
+135,,,,party,забава
+136,,,,world,свет
+138,L05_34,meronyms - member,photo,,слика
+139,,,,album,албум
+140,,,,collection,збирка
+141,,,,library,библиотека
+143,L05_35,meronyms - member,player,,играч
+144,,,,team,тим
+145,,,,group,група
+146,,,,orchestra,оркестар
+148,L05_36,meronyms - member,policeman,,полицаец
+149,,,,police,полиција
+151,L05_37,meronyms - member,secretary,,секретар
+152,,,,staff,персонал
+154,L05_38,meronyms - member,senator,,сенатор
+155,,,,senate,сенат
+156,,,,house,дом
+158,L05_39,meronyms - member,sheep,,овца
+159,,,,flock,стадо
+161,L05_40,meronyms - member,shrub,,грмушка
+162,,,,shrubbery,DUPLICATE_грмушка
+164,L05_41,meronyms - member,singer,,пеач
+165,,,,choir,хор
+166,,,,band,бенд
+167,,,,duo,дует
+168,,,,trio,трио
+169,,,,quartet,квартет
+171,L05_42,meronyms - member,soldier,,војник
+172,,,,army,армија
+173,,,,unit,единица
+174,,,,division,дивизија
+175,,,,troop,чета
+177,L05_43,meronyms - member,song,,песма
+178,,,,album,албум
+179,,,,collection,колекција
+180,,,,antology,антологија
+181,,,,library,библиотека
+183,L05_44,meronyms - member,spouse,,сопружник
+184,,,,couple,пар
+185,,,,relationship,врска
+186,,,,family,семејство
+188,L05_45,meronyms - member,star,,ѕвезда
+189,,,,constellation,соѕвездие
+190,,,,galaxy,галаксија
+192,L05_46,meronyms - member,state,,држава
+193,,,,country,земја
+194,,,,province,провинција
+196,L05_47,meronyms - member,student,,ученик
+197,,,,class,"одделение,_клас"
+198,,,,school,училиште
+200,L05_48,meronyms - member,tree,,дрво
+201,,,,forest,шума
+202,,,,wood,DUPLICATE_дрво
+203,,,,grove,лаг
+205,L05_49,meronyms - member,wolf,,волк
+206,,,,pack,чопор
+208,L05_50,meronyms - member,word,,збор
+209,,,,paragraph,пасус
+210,,,,sentence,реченица
+211,,,,text,текст

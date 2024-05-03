@@ -1,0 +1,246 @@
+,ID,Relation,Source,Target,EL
+0,L08_1,synonyms - exact,airplane,,αεροπλάνο
+1,,,,aeroplane,αεροσκάφος
+2,,,,plane,DUPLICATE_αεροπλάνο
+4,L08_2,synonyms - exact,auto,,αυτοκίνητο
+5,,,,car,αμάξι
+6,,,,automobile,αυτοκινούμενο
+7,,,,motorcar,μηχανοκίνητο_όχημα
+9,L08_3,synonyms - exact,baby,,μωρό
+10,,,,infant,βρέφος
+11,,,,babe,μπέμπης
+12,,,,,μπέμπα
+13,L08_4,synonyms - exact,bicycle,,ποδήλατο
+14,,,,bike,DUPLICATE_ποδήλατο
+15,,,,wheel,ρόδα
+16,,,,cycle,κύκλος
+18,L08_5,synonyms - exact,child,,παιδί
+19,,,,kid,παιδάκι
+20,,,,youngster,νεαρός
+21,,,,minor,ανήλικος
+22,,,,shaver,αμούστακος
+23,,,,nipper,πιτσιρίκος
+24,,,,small_fry,πιτσιρίκι
+25,,,,tiddler,μικράκι
+26,,,,tike,παιδάριο
+27,,,,tyke,παιδόπουλο
+28,,,,fry,μικρός
+29,,,,nestling,μικρούλης
+31,L08_6,synonyms - exact,cloth,,πανί
+32,,,,fabric,ύφασμα
+33,,,,material,υλικό
+34,,,,textile,DUPLICATE_ύφασμα
+36,L08_7,synonyms - exact,clothes,,ρούχα
+37,,,,clothing,ένδυση
+38,,,,apparel,αμφίεση
+39,,,,dress,ένδυμα
+41,L08_8,synonyms - exact,confused,,συγκεχυμένος
+42,,,,baffled,μπερδεμένος
+43,,,,befuddled,αναστατωμένος
+44,,,,bemused,ανακατεμένος
+45,,,,bewildered,μπλεγμένος
+46,,,,confounded,σε_σύγχυση
+47,,,,lost,χαμένος
+48,,,,mazed,ζαλισμένος
+49,,,,mixed-up,DUPLICATE_μπερδεμένος
+51,L08_9,synonyms - exact,dollars,,δολάρια
+52,,,,bucks,χρήματα
+54,L08_10,synonyms - exact,emphasis,,έμφαση
+55,,,,accent,τόνος
+56,,,,accentuaion,τονισμός
+57,,,,importance,σημασία
+58,,,,stress,DUPLICATE_έμφαση
+59,,,,significance,σπουδαιότητα
+61,L08_11,synonyms - exact,father,,πατέρας
+62,,,,dad,μπαμπάς
+63,,,,daddy,μπαμπάκας
+65,L08_12,synonyms - exact,flower,,λουλούδι
+66,,,,blossom,άνθος
+67,,,,bloom,λελούδι
+69,L08_13,synonyms - exact,harbor,,λιμάνι
+70,,,,seaport,θαλάσσιο_λιμάνι
+71,,,,haven,επίνειο
+72,,,,harbour,λιμένας
+73,,,,,αραξοβόλι
+74,L08_14,synonyms - exact,help,,βοηθάω
+75,,,,aid,στηρίζω
+76,,,,assist,συντρέχω
+78,L08_15,synonyms - exact,hieroglyph,,ιερογλυφικό
+79,,,,hieroglyphic,ιδεόγραμμα
+80,,,,pictogram,εικονόγραμμα
+82,L08_16,synonyms - exact,homogeneous,,ομοιογενής
+83,,,,uniform,ομοιόμορφος
+84,,,,unvarying,χωρίς_ποικιλία
+86,L08_17,synonyms - exact,honest,,έντιμος
+87,,,,sincere,ειλικρινής
+88,,,,ingenuous,αφελής
+89,,,,True,αληθής
+90,,,,direct,άμεσος
+91,,,,truthful,αληθινός
+92,,,,,τίμιος
+93,L08_18,synonyms - exact,identical,,πανομοιότυπος
+94,,,,same,ίδιος
+95,,,,indistinguishable,δυσδιάκριτος
+96,,,,,όμοιος
+97,L08_19,synonyms - exact,incorrect,,λανθασμένος
+98,,,,wrong,λάθος
+99,,,,counterfactual,αντίθετος_με_τα_γεγονότα
+100,,,,erroneous,γεμάτος_λάθη
+101,,,,inaccurate,ανακριβής
+102,,,,specious,απατηλός
+103,,,,unsound,ακατάλληλος
+104,,,,untrue,αναληθής
+105,,,,False,ψευδής
+107,L08_20,synonyms - exact,intelligent,,έξυπνος
+108,,,,clever,ευφυής
+109,,,,smart,εύστροφος
+110,,,,,ξύπνιος
+111,L08_21,synonyms - exact,jewel,,κόσμημα
+112,,,,gem,πολύτιμος_λίθος
+113,,,,stone,πέτρα
+115,L08_22,synonyms - exact,lad,,παλικάρι
+116,,,,chap,φιλαράκος
+117,,,,fellow,σύντροφος
+118,,,,feller,συντρόφι
+119,,,,fella,νεαρός
+120,,,,gent,καρντάσης
+121,,,,blighter,καρντάσι
+122,,,,cuss,φιλάρα
+123,,,,bloke,τύπος
+125,L08_23,synonyms - exact,lady,,κυρία
+126,,,,madam,μαντάμ
+127,,,,dame,λαίδη
+128,,,,ma'am,κυρά
+129,,,,gentlewoman,αριστοκράτισσα
+130,,,,madame,DUPLICATE_κυρία
+131,,,,woman,γυναίκα
+133,L08_24,synonyms - exact,lazy,,τεμπέλης
+134,,,,indolent,νωθρός
+135,,,,faineant,οκνηρός
+136,,,,otiose,ακαμάτης
+137,,,,slothful,οκνός
+138,,,,work-shy,άεργος
+139,,,,,"φυγόπονος,αργόσχολος"
+140,L08_25,synonyms - exact,list,,κατάλογος
+141,,,,listing,λίστα
+142,,,,enumeration,απαρίθμηση
+144,L08_26,synonyms - exact,loyal,,πιστός
+145,,,,faithful,DUPLICATE_πιστός
+146,,,,True,αληθής
+147,,,,dependable,φερέγγυος
+148,,,,devoted,αφοσιωμένος
+149,,,,reliable,αξιόπιστος
+151,L08_27,synonyms - exact,market,,αγορά
+152,,,,marketplace,πιάτσα
+153,,,,mart,μαγαζί
+154,,,,bazaar,παζάρι
+156,L08_28,synonyms - exact,mend,,επιδιόρθωση
+157,,,,repair,επισκευή
+158,,,,fix,φτιάξιμο
+159,,,,fixing,τακτοποίηση
+160,,,,fixture,τακτοποίημα
+161,,,,mending,DUPLICATE_επιδιόρθωση
+162,,,,reparation,διόρθωση
+163,,,,patch,μπάλωμα
+164,,,,darn,διόρθωμα
+165,,,,darning,DUPLICATE_διόρθωση
+167,L08_29,synonyms - exact,mesh,,πλέγμα
+168,,,,gauze,γάζα
+169,,,,netting,δίχτυ
+170,,,,veiling,πέπλο
+171,,,,hairnet,δίχτυ_μαλλιών
+172,,,,reseau,δίκτυο
+173,,,,net,DUPLICATE_δίκτυο
+174,,,,save-all,δίκτυ_ασφαλείας
+175,,,,snood,διακλάδωση
+176,,,,sparker,σπινθηριστής
+177,,,,tulle,τύλιγμα
+178,,,,wirework,συρματόπλεγμα
+179,,,,grillwork,σχάρα
+181,L08_30,synonyms - exact,monument,,μνημείο
+182,,,,memorial,ηρώο
+184,L08_31,synonyms - exact,mother,,μητέρα
+185,,,,mom,μαμά
+186,,,,mommy,μανούλα
+187,,,,mum,μάνα
+189,L08_32,synonyms - exact,murder,,φόνος
+190,,,,slaying,δολοφονία
+191,,,,slay,φονικό
+192,,,,execution,εκτέλεση
+193,,,,,σκοτωμός
+194,L08_33,synonyms - exact,new,,νέος
+195,,,,modern,σύγχρονος
+196,,,,recent,πρόσφατος
+197,,,,,μοντέρνος
+198,L08_34,synonyms - exact,obsolete,,παρωχημένος
+199,,,,outdated,ξεπερασμένος
+200,,,,out-of-date,παλιός
+201,,,,superannuated,υπεραιωνόβιος
+203,L08_35,synonyms - exact,organized,,οργανωμένος
+204,,,,arranged,τακτοποιημένος
+205,,,,configured,διαμορφωμένος
+206,,,,corporate,εταιρικός
+207,,,,incorporated,ενσωματωμένος
+208,,,,re-formed,αναδιαμορφωμένος
+209,,,,reorganized,αναδιοργανωμένος
+210,,,,reorganised,DUPLICATE_αναδιοργανωμένος
+212,L08_36,synonyms - exact,package,,πακέτο
+213,,,,parcel,δέμα
+214,,,,pack,πάκος
+215,,,,packet,πάκο
+216,,,,bundle,δέσμη
+218,L08_37,synonyms - exact,phone,,τηλέφωνο
+219,,,,telephone,DUPLICATE_τηλέφωνο
+220,,,,cell,κινητό
+221,,,,cellphone,κινητό_τηλέφωνο
+222,,,,smartphone,έξυπνο_κινητό
+224,L08_38,synonyms - exact,portion,,μερίδα
+225,,,,part,μέρος
+226,,,,component_part,συστατικό_μέρος
+227,,,,component,τμήμα
+228,,,,constituent,συστατικό
+230,L08_39,synonyms - exact,railway,,σιδηρόδρομος
+231,,,,railroad,DUPLICATE_σιδηρόδρομος
+233,L08_40,synonyms - exact,rational,,ορθολογικός
+234,,,,logical,λογικός
+235,,,,coherent,συνεκτικός
+236,,,,reasonable,έλλογος
+237,,,,sane,συνετός
+239,L08_41,synonyms - exact,reasonable,,λογικός
+240,,,,sensible,συνετός
+242,L08_42,synonyms - exact,rock,,βράχος
+243,,,,stone,πέτρα
+245,L08_43,synonyms - exact,shore,,ακρογιάλι
+246,,,,coast,ακτή
+247,,,,strand,ακρογιαλιά
+248,,,,bank,όχθη
+249,,,,beach,παραλία
+250,,,,,"γιαλός,περιγιάλι,ακροθαλασσιά,πλαζ"
+251,L08_44,synonyms - exact,snake,,φίδι
+252,,,,serpent,DUPLICATE_φίδι
+253,,,,ophidian,NO_TRANSLATION
+255,L08_45,synonyms - exact,sofa,,καναπές
+256,,,,couch,DUPLICATE_καναπές
+257,,,,lounge,σαλόνι
+259,L08_46,synonyms - exact,spouse,,σύζυγος
+260,,,,partner,σύντροφος
+261,,,,mate,ταίρι
+262,,,,better_half,άλλο_μισό
+264,L08_47,synonyms - exact,style,,στιλ
+265,,,,manner,τρόπος
+266,,,,mode,μέθοδος
+267,,,,fashion,DUPLICATE_τρόπος
+268,,,,way,DUPLICATE_τρόπος
+270,L08_48,synonyms - exact,sweets,,γλυκό
+271,,,,confectionery,ζαχαροπλαστική
+272,,,,dessert,επιδόρπιο
+273,,,,confection,γλύκισμα
+275,L08_49,synonyms - exact,villain,,κακός
+276,,,,scoundrel,αχρείος
+277,,,,rascal,παλιάνθρωπος
+278,,,,,κακοποιός
+279,L08_50,synonyms - exact,vocabulary,,λεξιλόγιο
+280,,,,lexicon,λεξικό
+281,,,,wordbook,DUPLICATE_λεξιλόγιο
+282,,,,dictionary,DUPLICATE_λεξικό
+283,,,,glossary,γλωσσάρι

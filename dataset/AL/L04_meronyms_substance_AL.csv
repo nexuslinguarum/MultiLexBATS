@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,AL
+0,L04_1,meronyms - substance,atmosphere,,atmosferë
+1,,,,gas,gaz
+2,,,,oxygen,oksigjen
+3,,,,hydrogen,hidrogjen
+4,,,,nitrogen,nitrogjen
+5,,,,ozone,ozon
+7,L04_2,meronyms - substance,bag,,çantë
+8,,,,leather,lëkure
+9,,,,fabric,pëlhure
+10,,,,plastic,plastike
+12,L04_3,meronyms - substance,beach,,plazh
+13,,,,sand,rërë
+14,,,,silicon,silikon
+15,,,,rocks,shkëmbinj
+16,,,,pebbles,guralecë
+17,,,,atomic_number_14,numri_atomik.14
+18,,,,si,si
+20,L04_4,meronyms - substance,beard,,mjekër
+21,,,,hair,qime
+23,L04_5,meronyms - substance,body,,trup
+24,,,,flesh,mish
+25,,,,bones,kocka
+27,L04_6,meronyms - substance,boots,,çizme
+28,,,,leather,lëkure
+29,,,,canvas,kanavace
+31,L04_7,meronyms - substance,bottle,,shishe
+32,,,,glass,qelqi
+33,,,,plastic,plastike
+35,L04_8,meronyms - substance,bowl,,tas
+36,,,,glass,qelqi
+37,,,,china,porcelani
+38,,,,aluminium,alumini
+39,,,,wood,druri
+40,,,,steel,çeliku
+41,,,,plastic,plastik
+42,,,,clay,argjili
+44,L04_9,meronyms - substance,box,,kuti
+45,,,,cardboard,karton
+46,,,,tin,teneqe
+47,,,,boxwood,dru
+48,,,,turkish_boxwood,DUPLICATE_dru
+50,L04_10,meronyms - substance,bread,,bukë
+51,,,,flour,miell
+52,,,,yeast,maja
+54,L04_11,meronyms - substance,bronze,,bronz
+55,,,,copper,bakër
+56,,,,tin,teneqe
+57,,,,cu,cu
+58,,,,atomic_number_29,numri_atomik_29
+60,L04_12,meronyms - substance,candy,,karamele
+61,,,,sugar,sheqer
+62,,,,nougat,nuga
+63,,,,chocolate,çokollatë
+64,,,,gelatin,xhel
+65,,,,molasses,melasë
+66,,,,syrup,shurup
+67,,,,honey,mjaltë
+68,,,,fruit,frut
+69,,,,nuts,arra
+71,L04_13,meronyms - substance,chocolate,,çokollatë
+72,,,,cocoa,kakao
+73,,,,bean,kokërr
+74,,,,cacao,DUPLICATE_kakao
+75,,,,cacao_bean,kokërr_kakao
+76,,,,cocoa_bean,DUPLICATE_kokërr_kakao
+78,L04_14,meronyms - substance,clothing,,veshje
+79,,,,fabric,pëlhurë
+80,,,,leather,lëkurë
+82,L04_15,meronyms - substance,cloud,,re
+83,,,,vapor,avull
+84,,,,water,ujë
+85,,,,vapour,DUPLICATE_avull
+86,,,,water_vapour,DUPLICATE_avull_uji
+87,,,,water_vapor,avull_uji
+89,L04_16,meronyms - substance,cocktail,,koktej
+90,,,,alcohol,alkool
+91,,,,juice,lëng
+92,,,,water,ujë
+94,L04_17,meronyms - substance,concrete,,beton
+95,,,,silicon,silikon
+96,,,,cement,çimento
+97,,,,water,ujë
+98,,,,sand,rërë
+99,,,,atomic_number_14,numri_atomik_14
+100,,,,si,si
+102,L04_18,meronyms - substance,desk,,tavolinë
+103,,,,wood,dru
+104,,,,metal,metal
+105,,,,steel,çelik
+107,L04_19,meronyms - substance,diamond,,diamand
+108,,,,carbon,karbon
+110,L04_20,meronyms - substance,doorknob,,dorezë_dere
+111,,,,metal,metal
+112,,,,steel,çelik
+113,,,,bronze,bronz
+114,,,,wood,dru
+116,L04_21,meronyms - substance,flag,,flamur
+117,,,,fabric,pëlhurë
+118,,,,paper,letër
+120,L04_22,meronyms - substance,glacier,,akullnajë
+121,,,,ice,akull
+122,,,,water,ujë
+123,,,,oxygen,oksigjen
+124,,,,hydrogen,hidrogjen
+125,,,,h,h
+126,,,,h2o,h2o
+127,,,,atomic_number_8,numri_atomik_8
+128,,,,atomic_number_1,numri_atomik_1
+129,,,,o,o
+130,,,,water_ice,akull_uji
+132,L04_23,meronyms - substance,glass,,qelq
+133,,,,silicone,silikon
+135,L04_24,meronyms - substance,house,,shtëpi
+136,,,,bricks,tulla
+137,,,,cement,çimento
+138,,,,wood,dru
+139,,,,clay,argjilë
+141,L04_25,meronyms - substance,ice,,akull
+142,,,,water,ujë
+143,,,,oxygen,oksigjen
+144,,,,hydrogen,hidrogjen
+145,,,,h2o,h2o
+146,,,,atomic_number_1,numri_atomik_1
+147,,,,atomic_number_8,numri_atomik_8
+148,,,,h,h
+149,,,,o,o
+151,L04_26,meronyms - substance,icicle,,qiri_akulli
+152,,,,ice,akull
+153,,,,water,ujë
+155,L04_27,meronyms - substance,jam,,reçel
+156,,,,fruit,frut
+157,,,,sugar,sheqer
+158,,,,berries,manaferra
+160,L04_28,meronyms - substance,jeans,,xhinse
+161,,,,fabric,pëlhurë
+162,,,,denim,xhins
+164,L04_29,meronyms - substance,lawn,,lëndinë
+165,,,,grass,bar
+167,L04_30,meronyms - substance,lens,,lente
+168,,,,glass,xhami
+169,,,,plastic,plastike
+171,L04_31,meronyms - substance,mirror,,pasqyrë
+172,,,,glass,qelqi
+173,,,,bronze,bronzi
+175,L04_32,meronyms - substance,money,,para
+176,,,,paper,letër
+177,,,,metal,metal
+178,,,,silver,argjend
+179,,,,gold,flori
+180,,,,iron,hekur
+181,,,,copper,bakër
+182,,,,tin,teneqe
+184,L04_33,meronyms - substance,ocean,,oqean
+185,,,,water,ujë
+187,L04_34,meronyms - substance,omelette,,omëletë
+188,,,,eggs,vezë
+189,,,,egg,DUPLICATE_vezë
+190,,,,milk,qumësht
+191,,,,cheese,djathë
+193,L04_35,meronyms - substance,pastry,,ëmbëlsirë
+194,,,,flour,miell
+195,,,,egg,vezë
+196,,,,butter,gjalpë
+197,,,,filling,mbushje
+199,L04_36,meronyms - substance,penny,,qindarkë
+200,,,,metal,metal
+201,,,,alloy,aliazh
+202,,,,bronze,bronz
+203,,,,nickel,nikel
+204,,,,zinc,zink
+205,,,,copper,bakër
+206,,,,tin,teneqe
+208,L04_37,meronyms - substance,pill,,hape
+209,,,,medicine,ilaç
+210,,,,drug,DUPLICATE_ilaç
+212,L04_38,meronyms - substance,plastic,,plastikë
+213,,,,polymer,polimer
+214,,,,oil,naftë
+215,,,,gas,gaz
+216,,,,coal,qymyr
+218,L04_39,meronyms - substance,roof,,çati
+219,,,,shingles,tjegulla
+220,,,,tiles,tulla
+221,,,,wood,dru
+222,,,,metal,metal
+224,L04_40,meronyms - substance,sea,,det
+225,,,,water,ujë
+227,L04_41,meronyms - substance,snow,,borë
+228,,,,water,ujë
+229,,,,oxygen,oksigjen
+230,,,,hydrogen,hidrogjen
+231,,,,flake,flokë
+232,,,,ice,akull
+233,,,,snowflake,flokë_bore
+234,,,,snowflakes,DUPLICATE_flokë_bore
+235,,,,h2o,h2o
+236,,,,atomic_number_1,numri_atomik_1
+237,,,,atomic_number_8,numri_atomik_8
+238,,,,h,h
+239,,,,o,o
+241,L04_42,meronyms - substance,spoon,,lugë
+242,,,,aluminium,alumin
+243,,,,wood,dru
+244,,,,steel,çelik
+246,L04_43,meronyms - substance,steel,,çelik
+247,,,,iron,hekur
+248,,,,pearlite,perlit
+249,,,,carbon,karbon
+250,,,,cementite,çimentit
+251,,,,ferrite,ferrit
+252,,,,iron_carbide,karbit_i_hekurit
+253,,,,fe,fe
+254,,,,atomic_number_26,numri_atomik_26
+255,,,,alpha_iron,hekur_alfa
+257,L04_44,meronyms - substance,table,,tavolinë
+258,,,,wood,druri
+259,,,,metal,metali
+260,,,,plastic,plastike
+262,L04_45,meronyms - substance,wall,,mur
+263,,,,cement,çimento
+264,,,,bricks,tulla
+265,,,,stones,gurë
+266,,,,rocks,shkëmbinj
+267,,,,wood,dru
+268,,,,cardboard,karton
+269,,,,board,dërrasë
+270,,,,plank,dërrasë/parket
+271,,,,clay,argjilë
+272,,,,mud,baltë
+274,L04_46,meronyms - substance,water,,ujë
+275,,,,oxygen,oksigjen
+276,,,,hydrogen,hidrogjen
+277,,,,water,ujë
+278,,,,h2o,h2o
+279,,,,atomic_number_1,numri_atomik_1
+280,,,,atomic_number_8,numri_atomik_8
+281,,,,h,h
+282,,,,o,o
+284,L04_47,meronyms - substance,wig,,paruke
+285,,,,hair,flokë
+287,L04_48,meronyms - substance,wine,,verë
+288,,,,grapes,rrush
+289,,,,grape,rrusht
+291,L04_49,meronyms - substance,wire,,tel
+292,,,,metal,metal
+294,L04_50,meronyms - substance,yogurt,,kos
+295,,,,milk,qumësht

@@ -1,0 +1,237 @@
+,ID,Relation,Source,Target,ES
+0,L08_1,synonyms - exact,airplane,,aeroplano
+1,,,,aeroplane,aeronave
+2,,,,plane,avión
+4,L08_2,synonyms - exact,auto,,auto
+5,,,,car,coche
+6,,,,automobile,automovil
+7,,,,motorcar,motocarro
+9,L08_3,synonyms - exact,baby,,bebé
+10,,,,infant,infante
+11,,,,babe,nene
+13,L08_4,synonyms - exact,bicycle,,bicicleta
+14,,,,bike,bici
+15,,,,wheel,rueda
+16,,,,cycle,ciclo
+18,L08_5,synonyms - exact,child,,niño
+19,,,,kid,crio
+20,,,,youngster,joven
+21,,,,minor,menor
+22,,,,shaver,imberbe
+23,,,,nipper,cosita
+24,,,,small_fry,bichito
+25,,,,tiddler,niñito
+26,,,,tike,peque
+27,,,,tyke,pequeño
+28,,,,fry,nene
+29,,,,nestling,chico
+31,L08_6,synonyms - exact,cloth,,ropa
+32,,,,fabric,tela
+33,,,,material,material
+34,,,,textile,textil
+36,L08_7,synonyms - exact,clothes,,vestuario
+37,,,,clothing,ropas
+38,,,,apparel,indumentaria
+39,,,,dress,vestido
+41,L08_8,synonyms - exact,confused,,confuso
+42,,,,baffled,desconcertado
+43,,,,befuddled,aturdido
+44,,,,bemused,en_las_musarañas
+45,,,,bewildered,en_las_nubes
+46,,,,confounded,confundido
+47,,,,lost,perdido
+48,,,,mazed,desubicado
+49,,,,mixed-up,hecho_un_lio
+51,L08_9,synonyms - exact,dollars,,dolares
+52,,,,bucks,perras
+54,L08_10,synonyms - exact,emphasis,,énfasis
+55,,,,accent,acento
+56,,,,accentuaion,acentuación
+57,,,,importance,importancia
+58,,,,stress,subrayado
+59,,,,significance,significancia
+61,L08_11,synonyms - exact,father,,padre
+62,,,,dad,papá
+63,,,,daddy,papi
+65,L08_12,synonyms - exact,flower,,flor
+66,,,,blossom,floración
+67,,,,bloom,florecer
+69,L08_13,synonyms - exact,harbor,,puerto
+70,,,,seaport,puerto_marino
+71,,,,haven,DUPLICATE_puerto
+72,,,,harbour,DUPLICATE_puerto
+74,L08_14,synonyms - exact,help,,ayudar
+75,,,,aid,echar_una_mano
+76,,,,assist,asistir
+78,L08_15,synonyms - exact,hieroglyph,,jeroglífico
+79,,,,hieroglyphic,DUPLICATE_jeroglífico
+80,,,,pictogram,pictograma
+82,L08_16,synonyms - exact,homogeneous,,homogéneo
+83,,,,uniform,uniforme
+84,,,,unvarying,invariante
+86,L08_17,synonyms - exact,honest,,honesto
+87,,,,sincere,sincero
+88,,,,ingenuous,ingenuo
+89,,,,True,verdadero
+90,,,,direct,directo
+91,,,,truthful,de_verdad
+93,L08_18,synonyms - exact,identical,,idéntico
+94,,,,same,mismo
+95,,,,indistinguishable,indistinguible
+97,L08_19,synonyms - exact,incorrect,,incorrecto
+98,,,,wrong,mal
+99,,,,counterfactual,contrafactual
+100,,,,erroneous,erróneo
+101,,,,inaccurate,impreciso
+102,,,,specious,engañoso
+103,,,,unsound,inconsistente
+104,,,,untrue,falso
+107,L08_20,synonyms - exact,intelligent,,inteligente
+108,,,,clever,astuto
+109,,,,smart,listo
+111,L08_21,synonyms - exact,jewel,,joya
+112,,,,gem,gema
+113,,,,stone,piedra
+115,L08_22,synonyms - exact,lad,,colega
+116,,,,chap,compañero
+117,,,,fellow,tronco
+118,,,,feller,compa
+119,,,,fella,compi
+120,,,,gent,bro
+121,,,,blighter,tío
+122,,,,cuss,macho
+123,,,,bloke,guacho
+125,L08_23,synonyms - exact,lady,,señora
+126,,,,madam,madam
+127,,,,dame,dama
+128,,,,ma'am,doña
+129,,,,gentlewoman,señorita
+130,,,,madame,DUPLICATE_madam
+131,,,,woman,mujer
+132,,,,,damisela
+133,L08_24,synonyms - exact,lazy,,vago
+134,,,,indolent,indolente
+135,,,,faineant,gandul
+136,,,,otiose,ocioso
+137,,,,slothful,perezoso
+138,,,,work-shy,poco_trabajador
+140,L08_25,synonyms - exact,list,,lista
+141,,,,listing,listado
+142,,,,enumeration,enumeración
+144,L08_26,synonyms - exact,loyal,,leal
+145,,,,faithful,fiable
+146,,,,True,verdadero
+147,,,,dependable,de_confianza
+148,,,,devoted,devoto
+149,,,,reliable,confiable
+151,L08_27,synonyms - exact,market,,mercado
+152,,,,marketplace,supermercado
+153,,,,mart,mercadillo
+154,,,,bazaar,bazar
+156,L08_28,synonyms - exact,mend,,remendar
+157,,,,repair,remarar
+158,,,,fix,arreglar
+159,,,,fixing,arreglando
+160,,,,fixture,arreglo
+161,,,,mending,remiendo
+162,,,,reparation,reparación
+163,,,,patch,parche
+164,,,,darn,zurcir
+165,,,,darning,zurcido
+167,L08_29,synonyms - exact,mesh,,malla
+168,,,,gauze,gasa
+169,,,,netting,urdimbre
+170,,,,veiling,velo
+171,,,,hairnet,redecilla_de_pelo
+172,,,,reseau,redecilla
+173,,,,net,red
+174,,,,save-all,red_de_seguridad
+175,,,,snood,DUPLICATE_redecilla
+176,,,,sparker,NO_TRANSLATION
+177,,,,tulle,tul
+178,,,,wirework,alambrada
+179,,,,grillwork,entramado
+181,L08_30,synonyms - exact,monument,,monumento
+182,,,,memorial,memorial
+184,L08_31,synonyms - exact,mother,,madre
+185,,,,mom,mamá
+186,,,,mommy,mami
+187,,,,mum,ma
+189,L08_32,synonyms - exact,murder,,asesinato
+190,,,,slaying,mantanza
+191,,,,slay,muerte
+192,,,,execution,ejecución
+194,L08_33,synonyms - exact,new,,nuevo
+195,,,,modern,moderno
+196,,,,recent,reciente
+198,L08_34,synonyms - exact,obsolete,,obsoleto
+199,,,,outdated,anticuado
+200,,,,out-of-date,viejo
+201,,,,superannuated,desfasado
+203,L08_35,synonyms - exact,organized,,organizado
+204,,,,arranged,arreglado
+205,,,,configured,configurado
+206,,,,corporate,corporativo
+207,,,,incorporated,incorporado
+208,,,,re-formed,reformado
+209,,,,reorganized,reorganizado
+210,,,,reorganised,DUPLICATE_reorganizado
+212,L08_36,synonyms - exact,package,,paquete
+213,,,,parcel,parcela
+214,,,,pack,fardo
+215,,,,packet,bulto
+216,,,,bundle,paca
+218,L08_37,synonyms - exact,phone,,teléfono
+219,,,,telephone,DUPLICATE_teléfono
+220,,,,cell,móvil
+221,,,,cellphone,teléfono_móvil
+222,,,,smartphone,smartphone
+224,L08_38,synonyms - exact,portion,,porción
+225,,,,part,parte
+226,,,,component_part,parte_componente
+227,,,,component,componente
+228,,,,constituent,constituyente
+230,L08_39,synonyms - exact,railway,,vía_férrea
+231,,,,railroad,ferrocarril
+232,,,,,"vía,vía_de_ferrocarril"
+233,L08_40,synonyms - exact,rational,,racional
+234,,,,logical,lógico
+235,,,,coherent,coherente
+236,,,,reasonable,razonable
+237,,,,sane,cuerdo
+239,L08_41,synonyms - exact,reasonable,,razonable
+240,,,,sensible,sensible
+242,L08_42,synonyms - exact,rock,,roca
+243,,,,stone,piedra
+245,L08_43,synonyms - exact,shore,,litoral
+246,,,,coast,costa
+247,,,,strand,ribera
+248,,,,bank,orilla
+249,,,,beach,playa
+251,L08_44,synonyms - exact,snake,,serpiente
+252,,,,serpent,víbora
+253,,,,ophidian,ofidio
+255,L08_45,synonyms - exact,sofa,,sofá
+256,,,,couch,canapé
+257,,,,lounge,diván
+259,L08_46,synonyms - exact,spouse,,esposa
+260,,,,partner,pareja
+261,,,,mate,colega
+262,,,,better_half,media_naranja
+264,L08_47,synonyms - exact,style,,estilo
+265,,,,manner,forma
+266,,,,mode,modo
+267,,,,fashion,moda
+268,,,,way,trayectoría
+270,L08_48,synonyms - exact,sweets,,dulce
+271,,,,confectionery,confitería
+272,,,,dessert,postre
+273,,,,confection,confite
+275,L08_49,synonyms - exact,villain,,villano
+276,,,,scoundrel,sinvergüenza
+277,,,,rascal,granuja
+279,L08_50,synonyms - exact,vocabulary,,vocabulario
+280,,,,lexicon,lexicón
+281,,,,wordbook,libro_de_texto
+282,,,,dictionary,diccionario
+283,,,,glossary,glosario

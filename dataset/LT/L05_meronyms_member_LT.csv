@@ -1,0 +1,191 @@
+,ID,Relation,Source,Target,LT
+0,L05_1,meronyms - member,acrobat,,akrobatas
+1,,,,troupe,trupė
+3,L05_2,meronyms - member,antelope,,antilopė
+4,,,,herd,banda
+5,,,,,kaimenė
+6,L05_3,meronyms - member,bee,,bitė
+7,,,,swarm,spiečius
+8,,,,hive,šeima
+9,,,,colony,kolonija
+10,,,,drift,NO_TRANSLATION
+11,,,,cast,kasta
+12,,,,nest,lizdas
+13,,,,rabble,DUPLICATE_šeima
+14,,,,stand,stovas
+15,,,,,avilys
+16,L05_4,meronyms - member,bird,,paukštis
+17,,,,flock,pulkas
+19,L05_5,meronyms - member,book,,knyga
+20,,,,library,biblioteka
+21,,,,shelf,lentyna
+22,,,,collection,kolekcija
+23,,,,accounting,apskaita
+24,,,,accounting_system,apskaitos_sistema
+25,,,,method_of_accounting,apskaitos_metodas
+27,L05_6,meronyms - member,calf,,veršiukas
+28,,,,cattle,galvijai
+29,,,,herd,banda
+30,,,,,veršelis
+31,L05_7,meronyms - member,car,,vagonas
+32,,,,train,sąstatas
+33,,,,procession,NO_TRANSLATION
+35,L05_8,meronyms - member,cat,,katė
+36,,,,clowder,NO_TRANSLATION
+37,,,,glaring,veriantis_žvilgsnis
+38,,,,clutter,DUPLICATE_NO_TRANSLATION
+39,,,,pounce,staigus_šuolis
+40,,,,,staigus_užpuolimas
+41,L05_9,meronyms - member,cattle,,galvijai
+42,,,,herd,banda
+43,,,,,kaimenė
+44,L05_10,meronyms - member,christian,,krikščionis
+45,,,,congregation,kongregacija
+46,,,,church,bažnyčia
+47,,,,parish,parapija
+49,L05_11,meronyms - member,citizen,,pilietis
+50,,,,citizenry,piliečiai
+51,,,,country,šalis
+52,,,,state,valstybė
+54,L05_12,meronyms - member,college,,kolegija
+55,,,,university,universitetas
+56,,,,,koledžas
+57,L05_13,meronyms - member,county,,apygarda
+58,,,,state,valstybė
+59,,,,country,šalis
+60,,,,,valstija
+61,L05_14,meronyms - member,cow,,karvė
+62,,,,herd,banda
+63,,,,,kaimenė
+64,L05_15,meronyms - member,crow,,varna
+65,,,,murder,pulkas
+67,L05_16,meronyms - member,division,,padalinys
+68,,,,company,kompanija
+69,,,,business,verslas
+70,,,,platoon,NO_TRANSLATION
+71,,,,battle_group,DUPLICATE_NO_TRANSLATION
+72,,,,,"bendrovė,įmonė,firma,biznis"
+73,L05_17,meronyms - member,elephant,,dramblys
+74,,,,herd,banda
+75,,,,,kaimenė
+76,L05_18,meronyms - member,employee,,darbuotojas
+77,,,,staff,personalas
+78,,,,company,kompanija
+79,,,,,"bendrovė,įmonė,firma"
+80,L05_19,meronyms - member,fish,,žuvis
+81,,,,school,guotas
+83,L05_20,meronyms - member,flower,,gėlė
+84,,,,bouquet,puokštė
+85,,,,bunch,DUPLICATE_puokštė
+86,,,,,ryšulys
+87,L05_21,meronyms - member,galaxy,,galaktika
+88,,,,universe,visata
+90,L05_22,meronyms - member,goose,,žąsis
+91,,,,gaggle,pulkas
+93,L05_23,meronyms - member,juror,,prisiekusysis
+94,,,,jury,žiuri
+95,,,,,žiuri_narys
+96,L05_24,meronyms - member,kitten,,kačiukas
+97,,,,litter,kraikas
+99,L05_25,meronyms - member,letter,,raidė
+100,,,,alphabet,abėcėlė
+101,,,,,"alfabetas,raidynas"
+102,L05_26,meronyms - member,lion,,liūtas
+103,,,,pride,būrys
+105,L05_27,meronyms - member,listener,,klausytojas
+106,,,,audience,auditorija
+107,,,,,publika
+108,L05_28,meronyms - member,member,,narys
+109,,,,club,klubas
+110,,,,team,komanda
+111,,,,group,grupė
+112,,,,band,DUPLICATE_grupė
+113,,,,community,bendruomenė
+114,,,,,"ansamblis,orkestras"
+115,L05_29,meronyms - member,musician,,muzikantas
+116,,,,orchestra,orkestras
+117,,,,band,grupė
+119,L05_30,meronyms - member,nomad,,klajoklis
+120,,,,horde,orda
+121,,,,,nomadas
+122,L05_31,meronyms - member,page,,puslapis
+123,,,,book,knyga
+124,,,,notebook,užrašų_kygelė
+125,,,,website,interneto_svetainė
+126,,,,web-site,DUPLICATE_interneto_svetainė
+127,,,,,"sąsiuvinis,bloknotas"
+128,L05_32,meronyms - member,parishioner,,parapijietis
+129,,,,parish,parapija
+130,,,,church,bažnyčia
+132,L05_33,meronyms - member,person,,asmuo
+133,,,,society,visuomenė
+134,,,,company,kompanija
+135,,,,party,grupė
+136,,,,world,pasaulis
+137,,,,,būrys
+138,L05_34,meronyms - member,photo,,foto
+139,,,,album,albumas
+140,,,,collection,kolekcija
+141,,,,library,NO_TRANSLATION
+143,L05_35,meronyms - member,player,,muzikantas
+144,,,,team,kolektyvas
+145,,,,group,grupė
+146,,,,orchestra,orkestras
+147,,,,,ansamblis
+148,L05_36,meronyms - member,policeman,,policininkas
+149,,,,police,policija
+151,L05_37,meronyms - member,secretary,,sekretorius
+152,,,,staff,personalas
+154,L05_38,meronyms - member,senator,,senatorius
+155,,,,senate,senatas
+156,,,,house,rūmai
+158,L05_39,meronyms - member,sheep,,avis
+159,,,,flock,banda
+160,,,,,pulkas
+161,L05_40,meronyms - member,shrub,,krūmas
+162,,,,shrubbery,krūmynas
+163,,,,,krūmokšnynas
+164,L05_41,meronyms - member,singer,,daininkas
+165,,,,choir,choras
+166,,,,band,grupė
+167,,,,duo,duetas
+168,,,,trio,tercetas
+169,,,,quartet,kvartetas
+170,,,,,ansamblis
+171,L05_42,meronyms - member,soldier,,karys
+172,,,,army,armija
+173,,,,unit,dalinys
+174,,,,division,divizija
+175,,,,troop,būrys
+177,L05_43,meronyms - member,song,,daina
+178,,,,album,albumas
+179,,,,collection,rinkinys
+180,,,,antology,antologija
+181,,,,library,NO_TRANSLATION
+183,L05_44,meronyms - member,spouse,,sutuoktinis
+184,,,,couple,pora
+185,,,,relationship,santykiai
+186,,,,family,šeima
+188,L05_45,meronyms - member,star,,žvaigždė
+189,,,,constellation,žvaigždynas
+190,,,,galaxy,galaktika
+191,,,,,konsteliacija
+192,L05_46,meronyms - member,state,,valstybė
+193,,,,country,šalis
+194,,,,province,provincija
+195,,,,,kraštas
+196,L05_47,meronyms - member,student,,studentas
+197,,,,class,klasė
+198,,,,school,mokykla
+200,L05_48,meronyms - member,tree,,medis
+201,,,,forest,miškas
+202,,,,wood,giraitė
+203,,,,grove,DUPLICATE_giraitė
+204,,,,,"guotas,miškelis,sodelis"
+205,L05_49,meronyms - member,wolf,,vilkas
+206,,,,pack,gauja
+208,L05_50,meronyms - member,word,,žodis
+209,,,,paragraph,pastraipa
+210,,,,sentence,sakinys
+211,,,,text,tekstas
+212,,,,,paragrafas

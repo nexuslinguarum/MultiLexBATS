@@ -1,0 +1,168 @@
+,ID,Relation,Source,Target,BM
+0,L05_1,meronyms - member,acrobat,,NO_TRANSLATION
+1,,,,troupe,jɛkulu
+3,L05_2,meronyms - member,antelope,,antilope
+4,,,,herd,kuluw
+6,L05_3,meronyms - member,bee,,diden
+7,,,,swarm,didenkuluw
+8,,,,hive,diwaka
+9,,,,colony,didenkulu
+10,,,,drift,bɔlen_don
+11,,,,cast,ka_yelen
+12,,,,nest,ɲaa
+13,,,,rabble,jamakulu
+14,,,,stand,ka_jɔ
+16,L05_4,meronyms - member,bird,,kɔ̀nɔ
+17,,,,flock,kuluw
+18,,,,,kɔ̀nɔkuluw
+19,L05_5,meronyms - member,book,,gafe
+20,,,,library,gafekalanyɔrɔ
+21,,,,shelf,mɛ̀mɛ
+22,,,,collection,farankan
+23,,,,accounting,jatebɔ
+24,,,,accounting_system,jatebɔ_sigida
+25,,,,method_of_accounting,jatebɔcogo_kɛcogo
+27,L05_6,meronyms - member,calf,,misiden
+28,,,,cattle,misiw
+29,,,,herd,misikuluw
+31,L05_7,meronyms - member,car,,mɔbili
+32,,,,train,tɛrɛn
+33,,,,procession,taama-taama
+35,L05_8,meronyms - member,cat,,jakuma
+36,,,,clowder,fɛnɲɛnɛmaw
+37,,,,glaring,DUPLICATE_fɛnɲɛnɛmaw
+38,,,,clutter,DUPLICATE_fɛnɲɛnɛmaw
+39,,,,pounce,NO_TRANSLATION
+40,,,,,"kuluw,jakumakuluw"
+41,L05_9,meronyms - member,cattle,,misiw
+42,,,,herd,misikuluw
+43,,,,,kuluw
+44,L05_10,meronyms - member,christian,,kerecɛnw
+45,,,,congregation,jɛkulu_kɔnɔ
+46,,,,church,egilisi
+47,,,,parish,parɔsi
+49,L05_11,meronyms - member,citizen,,jamanaden
+50,,,,citizenry,fasodenɲumanya
+51,,,,country,jamana
+52,,,,state,faso
+54,L05_12,meronyms - member,college,,kolɛzi
+55,,,,university,kalansoba
+57,L05_13,meronyms - member,county,,marabolo
+58,,,,state,faso
+59,,,,country,jamana
+61,L05_14,meronyms - member,cow,,misiw
+62,,,,herd,misikuluw
+64,L05_15,meronyms - member,crow,,ka_kasi
+65,,,,murder,mɔgɔfaga
+67,L05_16,meronyms - member,division,,tilayɔrɔba
+68,,,,company,cakɛda
+69,,,,business,jago
+70,,,,platoon,NO_TRANSLATION
+71,,,,battle_group,kɛlɛ_jɛkulu
+73,L05_17,meronyms - member,elephant,,sama
+74,,,,herd,samakuluw
+76,L05_18,meronyms - member,employee,,baarakɛla
+77,,,,staff,baarakɛlaw
+78,,,,company,cakɛda
+80,L05_19,meronyms - member,fish,,jɛgɛ
+81,,,,school,kalanso
+83,L05_20,meronyms - member,flower,,filɛri
+84,,,,bouquet,caman
+85,,,,bunch,bandi
+87,L05_21,meronyms - member,galaxy,,NO_TRANSLATION
+88,,,,universe,diɲɛ_kɔnɔ
+90,L05_22,meronyms - member,goose,,uwa
+91,,,,gaggle,uwakulu
+93,L05_23,meronyms - member,juror,,jɔyɔrɔtigi
+94,,,,jury,kiritigɛjɛkulu
+96,L05_24,meronyms - member,kitten,,jakumaden
+97,,,,litter,ɲaman
+99,L05_25,meronyms - member,letter,,bataki
+100,,,,alphabet,"alfabɛti,_siginikidenw"
+102,L05_26,meronyms - member,lion,,"wara,_waraba"
+103,,,,pride,kuncɛbaya
+105,L05_27,meronyms - member,listener,,lamɛnbaga
+106,,,,audience,lamɛlijama
+108,L05_28,meronyms - member,member,,tɔnden_dɔ
+109,,,,club,kulɔbu
+110,,,,team,ekipu
+111,,,,group,jɛkulu
+112,,,,band,bandi
+113,,,,community,sigida
+115,L05_29,meronyms - member,musician,,fɔlikɛla
+116,,,,orchestra,NO_TRANSLATION
+117,,,,band,bandi
+119,L05_30,meronyms - member,nomad,,NO_TRANSLATION
+120,,,,horde,jamakuluba
+122,L05_31,meronyms - member,page,,ɲɛ
+123,,,,book,gafe
+124,,,,notebook,kaye_sɛbɛn
+125,,,,website,siti_in_kan
+126,,,,web-site,DUPLICATE_website
+128,L05_32,meronyms - member,parishioner,,pariti_mɔgɔ_dɔ
+129,,,,parish,parɔsi
+130,,,,church,egilisi
+132,L05_33,meronyms - member,person,,mɔgɔ
+133,,,,society,sosiyete
+134,,,,company,cakɛda
+135,,,,party,ɲɛnajɛ
+136,,,,world,duniya
+138,L05_34,meronyms - member,photo,,"ja,_foto"
+139,,,,album,albamu
+140,,,,collection,farankan
+141,,,,library,gafekalanyɔrɔ
+143,L05_35,meronyms - member,player,,ntolatanna
+144,,,,team,ekipu
+145,,,,group,jɛkulu
+146,,,,orchestra,fɔlikɛkulu
+148,L05_36,meronyms - member,policeman,,polisikɛla
+149,,,,police,polisi
+151,L05_37,meronyms - member,secretary,,sekeretɛri
+152,,,,staff,baarakɛlaw
+154,L05_38,meronyms - member,senator,,NO_TRANSLATION
+155,,,,senate,NO_TRANSLATION
+156,,,,house,so
+158,L05_39,meronyms - member,sheep,,saga
+159,,,,flock,sagakulu
+161,L05_40,meronyms - member,shrub,,jirisunba
+162,,,,shrubbery,jirisunw
+164,L05_41,meronyms - member,singer,,dɔnkilidala
+165,,,,choir,dɔnkilidalakulu
+166,,,,band,bandi
+167,,,,duo,fila
+168,,,,trio,saba
+169,,,,quartet,naani
+171,L05_42,meronyms - member,soldier,,sɔrɔdasi
+172,,,,army,kɛlɛbolo
+173,,,,unit,inite
+174,,,,division,tilayɔrɔba
+175,,,,troop,sɔrɔdasikulu
+177,L05_43,meronyms - member,song,,dɔnkili
+178,,,,album,albamu
+179,,,,collection,farankan
+180,,,,antology,antolozi
+181,,,,library,gafekalanyɔrɔ
+183,L05_44,meronyms - member,spouse,,furumuso
+184,,,,couple,cɛ_ni_muso
+185,,,,relationship,jɛɲɔgɔnya
+186,,,,family,denbaya
+188,L05_45,meronyms - member,star,,dolo
+189,,,,constellation,dolow_kuluba
+190,,,,galaxy,NO_TRANSLATION
+192,L05_46,meronyms - member,state,,faso
+193,,,,country,jamana
+194,,,,province,marali
+196,L05_47,meronyms - member,student,,kalanden
+197,,,,class,kilasi
+198,,,,school,kalanso
+200,L05_48,meronyms - member,tree,,yiri
+201,,,,forest,kunko
+202,,,,wood,yiriw
+203,,,,grove,foro_kɔnɔ
+204,,,,,"tu,dɔgɔ"
+205,L05_49,meronyms - member,wolf,,lugaru
+206,,,,pack,wulukuluw
+208,L05_50,meronyms - member,word,,daɲɛ
+209,,,,paragraph,dakun
+210,,,,sentence,kumasen
+211,,,,text,masalabolo

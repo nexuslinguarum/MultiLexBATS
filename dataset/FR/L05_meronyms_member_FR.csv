@@ -1,0 +1,163 @@
+,ID,Relation,Source,Target,FR
+0,L05_1,meronyms - member,acrobat,,acrobate
+1,,,,troupe,troupe
+3,L05_2,meronyms - member,antelope,,antilope
+4,,,,herd,troupeau
+6,L05_3,meronyms - member,bee,,abeille
+7,,,,swarm,essaim
+8,,,,hive,ruche
+9,,,,colony,colonie
+10,,,,drift,dérive
+11,,,,cast,coulée
+12,,,,nest,nid
+13,,,,rabble,populace
+14,,,,stand,stand
+16,L05_4,meronyms - member,bird,,oiseau
+17,,,,flock,volée
+19,L05_5,meronyms - member,book,,livre
+20,,,,library,bibliothèque
+21,,,,shelf,étagère
+22,,,,collection,collection
+23,,,,accounting,comptabilité
+24,,,,accounting_system,système_comptable
+25,,,,method_of_accounting,méthode_de_comptabilité
+27,L05_6,meronyms - member,calf,,veau
+28,,,,cattle,bovin
+29,,,,herd,troupeau
+31,L05_7,meronyms - member,car,,voiture
+32,,,,train,train
+33,,,,procession,cortège
+35,L05_8,meronyms - member,cat,,chat
+36,,,,clowder,poudrerie
+37,,,,glaring,éclatant
+38,,,,clutter,fouillis
+39,,,,pounce,bondir
+41,L05_9,meronyms - member,cattle,,bétail
+42,,,,herd,troupeau
+44,L05_10,meronyms - member,christian,,chrétien
+45,,,,congregation,congrégation
+46,,,,church,église
+47,,,,parish,paroisse
+49,L05_11,meronyms - member,citizen,,citoyen
+50,,,,citizenry,citoyenneté
+51,,,,country,pays
+52,,,,state,état
+54,L05_12,meronyms - member,college,,collège
+55,,,,university,université
+57,L05_13,meronyms - member,county,,comté
+58,,,,state,état
+59,,,,country,pays
+61,L05_14,meronyms - member,cow,,vache
+62,,,,herd,troupeau
+64,L05_15,meronyms - member,crow,,corbeau
+65,,,,murder,meurtre
+67,L05_16,meronyms - member,division,,division
+68,,,,company,DUPLICATE_entreprise
+69,,,,business,entreprise
+70,,,,platoon,peloton
+71,,,,battle_group,groupe_de_bataille
+73,L05_17,meronyms - member,elephant,,éléphant
+74,,,,herd,troupeau
+76,L05_18,meronyms - member,employee,,employé
+77,,,,staff,personnel
+78,,,,company,entreprise
+80,L05_19,meronyms - member,fish,,poisson
+81,,,,school,école
+83,L05_20,meronyms - member,flower,,fleur
+84,,,,bouquet,bouquet
+85,,,,bunch,DUPLICATE_bouquet
+87,L05_21,meronyms - member,galaxy,,galaxie
+88,,,,universe,univers
+90,L05_22,meronyms - member,goose,,oie
+91,,,,gaggle,gaggle
+93,L05_23,meronyms - member,juror,,juré
+94,,,,jury,jury
+96,L05_24,meronyms - member,kitten,,chaton
+97,,,,litter,litière
+99,L05_25,meronyms - member,letter,,lettre
+100,,,,alphabet,alphabet
+102,L05_26,meronyms - member,lion,,lion
+103,,,,pride,fierté
+105,L05_27,meronyms - member,listener,,auditeur
+106,,,,audience,public
+108,L05_28,meronyms - member,member,,membre
+109,,,,club,club
+110,,,,team,équipe
+111,,,,group,groupe
+112,,,,band,DUPLICATE_groupe
+113,,,,community,communauté
+115,L05_29,meronyms - member,musician,,musicien
+116,,,,orchestra,orchestre
+117,,,,band,groupe
+119,L05_30,meronyms - member,nomad,,nomade
+122,L05_31,meronyms - member,page,,page
+123,,,,book,livre
+124,,,,notebook,carnet_de_notes
+125,,,,website,site_web
+126,,,,web-site,DUPLICATE_site_web
+128,L05_32,meronyms - member,parishioner,,paroissien
+129,,,,parish,paroisse
+130,,,,church,église
+132,L05_33,meronyms - member,person,,personne
+133,,,,society,DUPLICATE_société
+134,,,,company,société
+135,,,,party,parti
+136,,,,world,monde
+138,L05_34,meronyms - member,photo,,photo
+139,,,,album,album
+140,,,,collection,collection
+141,,,,library,bibliothèque
+143,L05_35,meronyms - member,player,,joueur
+144,,,,team,équipe
+145,,,,group,groupe
+146,,,,orchestra,orchestre
+148,L05_36,meronyms - member,policeman,,policier
+149,,,,police,police
+151,L05_37,meronyms - member,secretary,,secrétaire
+152,,,,staff,personnel
+154,L05_38,meronyms - member,senator,,sénateur
+155,,,,senate,sénat
+156,,,,house,maison
+158,L05_39,meronyms - member,sheep,,mouton
+159,,,,flock,troupeau
+161,L05_40,meronyms - member,shrub,,arbuste
+162,,,,shrubbery,arbuste
+164,L05_41,meronyms - member,singer,,chanteur
+165,,,,choir,chorale
+166,,,,band,groupe
+167,,,,duo,duo
+168,,,,trio,trio
+169,,,,quartet,quatuor
+171,L05_42,meronyms - member,soldier,,soldat
+172,,,,army,armée
+173,,,,unit,unité
+174,,,,division,division
+175,,,,troop,troupe
+177,L05_43,meronyms - member,song,,chanson
+178,,,,album,album
+179,,,,collection,collection
+180,,,,antology,antologie
+181,,,,library,bibliothèque
+183,L05_44,meronyms - member,spouse,,conjoint
+184,,,,couple,couple
+185,,,,relationship,relation
+186,,,,family,famille
+188,L05_45,meronyms - member,star,,étoile
+189,,,,constellation,constellation
+190,,,,galaxy,galaxie
+192,L05_46,meronyms - member,state,,état
+193,,,,country,pays
+194,,,,province,province
+196,L05_47,meronyms - member,student,,élève
+197,,,,class,classe
+198,,,,school,école
+200,L05_48,meronyms - member,tree,,arbre
+201,,,,forest,forêt
+202,,,,wood,bois
+203,,,,grove,bosquet
+205,L05_49,meronyms - member,wolf,,loup
+206,,,,pack,meute
+208,L05_50,meronyms - member,word,,mot
+209,,,,paragraph,paragraphe
+210,,,,sentence,phrase
+211,,,,text,texte

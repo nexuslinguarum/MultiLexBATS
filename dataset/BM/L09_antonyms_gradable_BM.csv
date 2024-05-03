@@ -1,0 +1,143 @@
+,ID,Relation,Source,Target,BM
+0,L09_1,antonyms - gradable,able,,se
+1,,,,unable,se_tan
+2,,,,incapable,se_tɛ_min_ye
+3,,,,incompetent,seko_tɛ_minnu_na
+4,,,,unequal,bɛnbaliya
+6,L09_2,antonyms - gradable,abundant,,caman
+7,,,,scarce,dɔ́gɔ
+8,,,,rare,manteli_ka_kɛ
+9,,,,tight,ncɔyin
+10,,,,meager,min_ka_fasa
+11,,,,meagre,DUPLICATE_meager
+12,,,,meagerly,ni_fɛn_fitinin_ye
+13,,,,stingy,tɛgɛmagɛlɛ
+14,,,,scrimpy,fɛn_fitininw
+15,,,,insufficient,min_tɛ_dafa
+16,,,,deficient,dɛsɛ_bɛ_min_na
+18,L09_3,antonyms - gradable,aware,,hakilimaya
+19,,,,unaware,a_tɛ_dɔn
+20,,,,oblivious,hakilintan
+21,,,,unmindful,hakili_tɛ_min_na
+22,,,,unconscious,míiribali
+23,,,,unsuspecting,min_tɛ_sigasiga
+24,,,,asleep,ka_sunɔgɔ
+25,,,,insensible,DUPLICATE_hakili_tɛ_min_na
+26,,,,unwitting,k’a_sɔrɔ_a_ma_a_dɔn
+27,,,,ignorant,dɔnbaliya
+28,,,,indifferent,min_tɛ_a_janto_mɔgɔw_la
+30,L09_4,antonyms - gradable,beautiful,,cɛɲi
+31,,,,ugly,cɛjugu
+32,,,,disfigured,a_farikolo_tiɲɛnen
+33,,,,evil-looking,jinɛw_ka
+34,,,,fugly,DUPLICATE_cɛjugu
+36,,,,monstrous,DUPLICATE_
+37,,,,hideous,yecogo_jugu
+38,,,,repulsive,min_bɛ_mɔgɔ_fari_faga
+39,,,,ill-favored,min_tɛ_kanu
+40,,,,ill-favoured,DUPLICATE_min_tɛ_kanu
+41,,,,scrofulous,DUPLICATE_
+42,,,,unlovely,min_man_di
+43,,,,unpicturesque,DUPLICATE_hideous
+44,,,,unsightly,DUPLICATE_hideous
+45,,,,displeasing,DUPLICATE_min_man_di
+46,,,,unattractive,min_tɛ_mɔgɔ_ɲɛnajɛ
+47,,,,awkward,tɔɔrɔlan
+127,L09_7,antonyms - gradable,cheap,,sɔngɔ_duman
+128,,,,expensive,gɛlɛn
+129,,,,big-ticket,tikiti_belebeleba
+130,,,,high-ticket,sanfɛ-tikɛti
+131,,,,costly,musaka_caman_bɛ_bɔ
+132,,,,dear,n_balima
+133,,,,high-priced,sɔngɔ_gɛlɛnba
+134,,,,pricey,sɔngɔ_gɛlɛn
+135,,,,pricy,DUPLICATE_sɔngɔ_gɛlɛn
+136,,,,dearly-won,kanu-sɔrɔ
+137,,,,overpriced,sɔngɔ_ka_bon_kojugu
+138,,,,valuable,nafaman
+185,L09_9,antonyms - gradable,clear,,jɛman
+186,,,,vague,kɔnɔdun
+187,,,,obscure,dibilen
+188,,,,unclear,min_ma_jɛya
+189,,,,undefined,ɲɛfɔbali
+190,,,,indefinable,min_tɛ_se_ka_ɲɛfɔ
+191,,,,undefinable,DUPLICATE_indefinable
+193,L09_10,antonyms - gradable,close,,ka_datugu
+194,,,,distant,yɔrɔjan
+195,,,,remote,samanen
+196,,,,removed,bɔlen_don
+197,,,,far,jan
+198,,,,faraway,DUPLICATE_distant
+200,L09_11,antonyms - gradable,colorful,,kulɛrilenw
+201,,,,colorless,kulɛri_tɛ_min_na
+202,,,,colourless,DUPLICATE_colorless
+203,,,,dull,manamantanya
+204,,,,neutral,kelenna
+205,,,,pale,jɛ́
+206,,,,white,jɛman
+207,,,,bleached,bɔgɔlan
+209,,,,washed-out,kolen-ka-bɔ
+210,,,,washy,kolen_don
+211,,,,drab,DUPLICATE_
+212,,,,somber,dibi
+213,,,,sombre,DUPLICATE_
+214,,,,dulled,ka_dɔgɔya
+215,,,,greyed,bugurinjɛ
+216,,,,etiolate,DUPLICATE_
+217,,,,etiolated,DUPLICATE_
+218,,,,lurid,DUPLICATE_
+219,,,,waxen,DUPLICATE_
+220,,,,waxlike,DUPLICATE_
+221,,,,waxy,DUPLICATE_
+222,,,,whitened,a_finman_don
+224,L09_12,antonyms - gradable,common,,min_bɛ_deli_ka_kɛ
+225,,,,rare,manteli_ka_kɛ
+226,,,,infrequent,a_man_teli_ka_kɛ
+227,,,,scarce,dɔ́gɔ
+228,,,,uncommon,kɛrɛnkɛrɛnlen
+229,,,,extraordinary,kabakoma
+231,L09_13,antonyms - gradable,competent,,fàamuyalen
+232,,,,incompetent,seko_tɛ_minnu_na
+233,,,,unskilled,DUPLICATE_incompetent
+234,,,,unqualified,min_tɛ_se_ka_kɛ
+235,,,,inefficient,baarakɛbaliya
+237,L09_14,antonyms - gradable,concerned,,a_bɛ_a_la
+238,,,,unconcerned,hami_tɛ_min_na
+240,,,,blithe,nisɔndiyako
+241,,,,casual,nɔgɔma
+242,,,,insouciant,mɔgɔ_min_tɛ_mɔgɔw_bila_u_yɛrɛ_la
+243,,,,nonchalant,DUPLICATE_
+244,,,,degage,DUPLICATE_
+245,,,,detached,ka_bɔ_ɲɔgɔn_na
+246,,,,uninvolved,min_tɛ_a_sen_don_a_la
+247,,,,indifferent,min_tɛ_a_janto_mɔgɔw_la
+248,,,,careless,hamibali
+249,,,,untroubled,mada
+251,L09_15,antonyms - gradable,cooked,,tobilen_don
+252,,,,raw,kɛnɛ
+253,,,,half-baked,tila-tilalen
+254,,,,fresh,DUPLICATE_kɛnɛ
+255,,,,natural,yɛrɛyɛrɛ
+256,,,,underdone,baarakɛbaliya
+257,,,,rare,manteli_ka_kɛ
+258,,,,uncooked,min_ma_tobi
+259,,,,untoasted,DUPLICATE_uncooked
+261,L09_16,antonyms - gradable,dangerous,,faratima
+262,,,,safe,lakanalen
+264,,,,risk-free,farati_tɛ_min_na
+265,,,,riskless,DUPLICATE_risk-free
+266,,,,unhazardous,DUPLICATE_risk-free
+267,,,,safe-and-sound,lakana_ani_kɛnɛya
+268,,,,unhurt,min_ma_dimi
+269,,,,harmless,kojugu_tɛ_min_na
+270,,,,invulnerable,min_tɛ_se_ka_tiɲɛ
+271,,,,secure,lakanalen_don
+272,,,,uninjured,min_ma_jogin
+274,L09_17,antonyms - gradable,decisive,,ko_latigɛlen
+275,,,,hesitating,ka_sigasiga
+276,,,,indecisive,min_tɛ_se_ka_latigɛ
+277,,,,hesitant,DUPLICATE_ka_sigasiga
+278,,,,inconclusive,min_tɛ_dantigɛli_kɛ
+279,,,,irresolute,DUPLICATE_indecisive
+281,L09_18,antonyms - gradable,dry,,ka_ja
+282,,,,wet,ɲigin

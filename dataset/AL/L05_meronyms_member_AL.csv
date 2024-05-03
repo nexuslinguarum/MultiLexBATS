@@ -1,0 +1,164 @@
+,ID,Relation,Source,Target,AL
+0,L05_1,meronyms - member,acrobat,,akrobat
+1,,,,troupe,trupë
+3,L05_2,meronyms - member,antelope,,antilopë_
+4,,,,herd,kope
+6,L05_3,meronyms - member,bee,,bletë
+7,,,,swarm,roitje
+8,,,,hive,koshere
+9,,,,colony,koloni
+10,,,,drift,grumbull
+11,,,,cast,NO_TRANSLATION
+12,,,,nest,fole
+13,,,,rabble,tufë
+14,,,,stand,mbajtëse
+16,L05_4,meronyms - member,bird,,zog
+17,,,,flock,tufë
+19,L05_5,meronyms - member,book,,libër
+20,,,,library,bibliotekë
+21,,,,shelf,raft
+22,,,,collection,përmbledhje
+23,,,,accounting,kontabilitet
+24,,,,accounting_system,sistem_kontabiliteti
+25,,,,method_of_accounting,metodë_kontabiliteti
+27,L05_6,meronyms - member,calf,,viç
+28,,,,cattle,bagëti
+29,,,,herd,kope
+31,L05_7,meronyms - member,car,,makinë
+32,,,,train,tren
+33,,,,procession,kortezh
+35,L05_8,meronyms - member,cat,,mace
+36,,,,clowder,turmë
+37,,,,glaring,tufë
+38,,,,clutter,DUPLICATE_turmë
+39,,,,pounce,grumbull
+41,L05_9,meronyms - member,cattle,,bagëti
+42,,,,herd,kope
+44,L05_10,meronyms - member,christian,,i_krishterë
+45,,,,congregation,kongregacion
+46,,,,church,kishë
+47,,,,parish,famulli
+49,L05_11,meronyms - member,citizen,,qytetar
+50,,,,citizenry,qytetari
+51,,,,country,vend
+52,,,,state,shtet
+54,L05_12,meronyms - member,college,,kolegj
+55,,,,university,universitet
+57,L05_13,meronyms - member,county,,vend
+58,,,,state,shtet
+59,,,,country,vend
+61,L05_14,meronyms - member,cow,,lopë
+62,,,,herd,kope
+64,L05_15,meronyms - member,crow,,sorrë
+65,,,,murder,tufë
+67,L05_16,meronyms - member,division,,ndarje
+68,,,,company,kompani
+69,,,,business,biznes
+70,,,,platoon,togë
+71,,,,battle_group,grup_beteje
+73,L05_17,meronyms - member,elephant,,elefant
+74,,,,herd,kope
+76,L05_18,meronyms - member,employee,,punonjës
+77,,,,staff,staf
+78,,,,company,kompani
+80,L05_19,meronyms - member,fish,,peshk
+81,,,,school,shkollë
+83,L05_20,meronyms - member,flower,,lule
+84,,,,bouquet,buqetë
+85,,,,bunch,tufë
+87,L05_21,meronyms - member,galaxy,,galaksi
+88,,,,universe,univers
+90,L05_22,meronyms - member,goose,,patë
+91,,,,gaggle,tufë
+93,L05_23,meronyms - member,juror,,anëtar_jurie
+94,,,,jury,juri
+96,L05_24,meronyms - member,kitten,,kotele
+97,,,,litter,pjellë
+99,L05_25,meronyms - member,letter,,shkronjë
+100,,,,alphabet,alfabet
+102,L05_26,meronyms - member,lion,,luan
+103,,,,pride,grup_luanësh_femra
+105,L05_27,meronyms - member,listener,,dëgjues
+106,,,,audience,publik
+108,L05_28,meronyms - member,member,,anëtar
+109,,,,club,klub
+110,,,,team,skuadër
+111,,,,group,grup
+112,,,,band,bandë
+113,,,,community,komunitet
+115,L05_29,meronyms - member,musician,,muzikant
+116,,,,orchestra,orkestër
+117,,,,band,bandë
+119,L05_30,meronyms - member,nomad,,nomad
+120,,,,horde,turmë
+122,L05_31,meronyms - member,page,,faqe
+123,,,,book,libër
+124,,,,notebook,fletore
+125,,,,website,faqe_interneti
+126,,,,web-site,DUPLICATE_faqe_interneti
+128,L05_32,meronyms - member,parishioner,,famullitar
+129,,,,parish,famulli
+130,,,,church,kishë
+132,L05_33,meronyms - member,person,,person
+133,,,,society,shoqëri
+134,,,,company,DUPLICATE_shoqëri
+135,,,,party,palë
+136,,,,world,botë
+138,L05_34,meronyms - member,photo,,fotografi
+139,,,,album,album
+140,,,,collection,përmbledhje
+141,,,,library,bibliotekë
+143,L05_35,meronyms - member,player,,lojtar
+144,,,,team,skuadër
+145,,,,group,grup
+146,,,,orchestra,orkestër
+148,L05_36,meronyms - member,policeman,,polic
+149,,,,police,polici
+151,L05_37,meronyms - member,secretary,,sekretar
+152,,,,staff,staf
+154,L05_38,meronyms - member,senator,,senator
+155,,,,senate,senat
+156,,,,house,dhomë
+158,L05_39,meronyms - member,sheep,,dele
+159,,,,flock,tufë
+161,L05_40,meronyms - member,shrub,,shkurre
+162,,,,shrubbery,shkurrishtë
+164,L05_41,meronyms - member,singer,,këngëtar
+165,,,,choir,kor
+166,,,,band,bandë
+167,,,,duo,duet
+168,,,,trio,trio
+169,,,,quartet,kuartet
+171,L05_42,meronyms - member,soldier,,ushtar
+172,,,,army,ushtri
+173,,,,unit,njësi
+174,,,,division,divizion
+175,,,,troop,trupë
+177,L05_43,meronyms - member,song,,këngë
+178,,,,album,album
+179,,,,collection,përmbledhje
+180,,,,antology,antologji
+181,,,,library,bibliotekë
+183,L05_44,meronyms - member,spouse,,bashkëshort
+184,,,,couple,çift
+185,,,,relationship,marrëdhënie
+186,,,,family,familje
+188,L05_45,meronyms - member,star,,yll
+189,,,,constellation,yjësi
+190,,,,galaxy,galaksi
+192,L05_46,meronyms - member,state,,shtet
+193,,,,country,vend
+194,,,,province,provincë
+196,L05_47,meronyms - member,student,,nxënës
+197,,,,class,klasë
+198,,,,school,shkollë
+200,L05_48,meronyms - member,tree,,pemë
+201,,,,forest,pyll
+202,,,,wood,pyllishtë
+203,,,,grove,korije
+205,L05_49,meronyms - member,wolf,,ujk
+206,,,,pack,kope
+208,L05_50,meronyms - member,word,,fjalë
+209,,,,paragraph,paragraf
+210,,,,sentence,fjali
+211,,,,text,tekst

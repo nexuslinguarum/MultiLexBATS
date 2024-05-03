@@ -1,0 +1,168 @@
+,ID,Relation,Source,Target,PT
+0,L05_1,meronyms - member,acrobat,,acrobata
+1,,,,troupe,trupe
+3,L05_2,meronyms - member,antelope,,antílope
+4,,,,herd,manada
+6,L05_3,meronyms - member,bee,,abelha
+7,,,,swarm,enxame
+8,,,,hive,colmeia
+9,,,,colony,colónia
+10,,,,drift,deriva
+11,,,,cast,enxameamento
+12,,,,nest,ninho
+13,,,,rabble,ruído
+14,,,,stand,suporte
+16,L05_4,meronyms - member,bird,,pássaro
+17,,,,flock,bando
+19,L05_5,meronyms - member,book,,livro
+20,,,,library,biblioteca
+21,,,,shelf,prateleira
+22,,,,collection,colecção
+23,,,,accounting,contabilidade
+24,,,,accounting_system,sistema_contailístico
+25,,,,method_of_accounting,método_contabilístico
+27,L05_6,meronyms - member,calf,,bezerro
+28,,,,cattle,gado
+29,,,,herd,manada
+31,L05_7,meronyms - member,car,,carro
+32,,,,train,vagão
+33,,,,procession,carro_andor
+35,L05_8,meronyms - member,cat,,gato
+36,,,,clowder,gataria
+37,,,,glaring,vistoso
+38,,,,clutter,grupo_de_gatos
+39,,,,pounce,ataque_súbito
+41,L05_9,meronyms - member,cattle,,gado
+42,,,,herd,manada
+44,L05_10,meronyms - member,christian,,cristão
+45,,,,congregation,congregação
+46,,,,church,igreja
+47,,,,parish,paróquia
+49,L05_11,meronyms - member,citizen,,cidadão
+50,,,,citizenry,cidadania
+51,,,,country,país
+52,,,,state,estado
+54,L05_12,meronyms - member,college,,faculdade
+55,,,,university,universidade
+57,L05_13,meronyms - member,county,,condado
+58,,,,state,estado
+59,,,,country,país
+61,L05_14,meronyms - member,cow,,vaca
+62,,,,herd,manada
+64,L05_15,meronyms - member,crow,,corvo
+65,,,,murder,bando
+67,L05_16,meronyms - member,division,,divisão
+68,,,,company,companhia
+69,,,,business,empresa
+70,,,,platoon,pelotão
+71,,,,battle_group,grupo_de_combate
+73,L05_17,meronyms - member,elephant,,elefante
+74,,,,herd,manada
+76,L05_18,meronyms - member,employee,,empregado
+77,,,,staff,pessoal
+78,,,,company,companhia
+80,L05_19,meronyms - member,fish,,peixe
+81,,,,school,cardume
+83,L05_20,meronyms - member,flower,,flor
+84,,,,bouquet,ramalhete
+85,,,,bunch,DUPLICATE_ramalhete
+87,L05_21,meronyms - member,galaxy,,galáxia
+88,,,,universe,universo
+90,L05_22,meronyms - member,goose,,ganso
+91,,,,gaggle,bando
+93,L05_23,meronyms - member,juror,,jurado
+94,,,,jury,júri
+96,L05_24,meronyms - member,kitten,,gatinho
+97,,,,litter,ninhada
+99,L05_25,meronyms - member,letter,,letra
+100,,,,alphabet,alfabeto
+101,,,,,abecedário
+102,L05_26,meronyms - member,lion,,leão
+103,,,,pride,alcateia
+105,L05_27,meronyms - member,listener,,ouvinte
+106,,,,audience,audiência
+108,L05_28,meronyms - member,member,,membro
+109,,,,club,clube
+110,,,,team,equipa
+111,,,,group,grupo
+112,,,,band,bando
+113,,,,community,comunidade
+115,L05_29,meronyms - member,musician,,músico
+116,,,,orchestra,orquestra
+117,,,,band,banda
+118,,,,,grupo
+119,L05_30,meronyms - member,nomad,,nómada
+120,,,,horde,horda
+122,L05_31,meronyms - member,page,,página
+123,,,,book,livro
+124,,,,notebook,bloco_de_notas
+125,,,,website,sítio_web
+126,,,,web-site,DUPLICATE_sítio_web
+128,L05_32,meronyms - member,parishioner,,paroquiano
+129,,,,parish,paróquia
+130,,,,church,igreja
+132,L05_33,meronyms - member,person,,pessoa
+133,,,,society,sociedade
+134,,,,company,companhia
+135,,,,party,grupo
+136,,,,world,mundo
+138,L05_34,meronyms - member,photo,,fotografia
+139,,,,album,álbum
+140,,,,collection,colecção
+141,,,,library,fototeca
+143,L05_35,meronyms - member,player,,jogador
+144,,,,team,equipa
+145,,,,group,grupo
+146,,,,orchestra,orquestra
+148,L05_36,meronyms - member,policeman,,agente
+149,,,,police,polícia
+151,L05_37,meronyms - member,secretary,,secretário
+152,,,,staff,assessoria
+154,L05_38,meronyms - member,senator,,senador
+155,,,,senate,senado
+156,,,,house,câmara
+158,L05_39,meronyms - member,sheep,,ovelha
+159,,,,flock,rebanho
+161,L05_40,meronyms - member,shrub,,arbusto
+162,,,,shrubbery,plantação
+164,L05_41,meronyms - member,singer,,cantor
+165,,,,choir,coro
+166,,,,band,banda
+167,,,,duo,duo
+168,,,,trio,trio
+169,,,,quartet,quarteto
+170,,,,,"quinteto,sexteto"
+171,L05_42,meronyms - member,soldier,,soldado
+172,,,,army,exército
+173,,,,unit,unidade
+174,,,,division,divisão
+175,,,,troop,tropa
+177,L05_43,meronyms - member,song,,canção
+178,,,,album,álbum
+179,,,,collection,colecção
+180,,,,antology,antologia
+181,,,,library,fonoteca
+183,L05_44,meronyms - member,spouse,,conjuge
+184,,,,couple,casal
+185,,,,relationship,relacionamento
+186,,,,family,família
+188,L05_45,meronyms - member,star,,estrela
+189,,,,constellation,constelação
+190,,,,galaxy,galáxia
+192,L05_46,meronyms - member,state,,estado
+193,,,,country,país
+194,,,,province,pronvíncia
+196,L05_47,meronyms - member,student,,estudante
+197,,,,class,turma
+198,,,,school,escola
+200,L05_48,meronyms - member,tree,,árvore
+201,,,,forest,floresta
+202,,,,wood,bosque
+203,,,,grove,DUPLICATE_bosque
+205,L05_49,meronyms - member,wolf,,lobo
+206,,,,pack,alcateia
+208,L05_50,meronyms - member,word,,palavra
+209,,,,paragraph,parágrafo
+210,,,,sentence,frase
+211,,,,text,texto
+212,,,,,oração

@@ -1,0 +1,231 @@
+,ID,Relation,Source,Target,SK
+0,L10_1,antonyms - binary,after,,po
+1,,,,before,pred
+2,,,,earlier,skôr
+3,,,,previously,predtým
+5,L10_2,antonyms - binary,ahead,,vopred
+6,,,,behind,oneskorene
+7,,,,rear,zadný
+8,,,,after,po
+9,,,,tail,na_chvoste
+10,,,,beforehand,vopred
+12,L10_3,antonyms - binary,anterior,,predchádzajúci
+13,,,,posterior,nasledujúci
+15,L10_4,antonyms - binary,backward,,dozadu
+16,,,,forward,dopredu
+17,,,,forwards,vpred
+18,,,,frontward,NO_TRANSLATION
+19,,,,frontwards,DUPLICATE_NO_TRANSLATION
+20,,,,forrad,DUPLICATE_NO_TRANSLATION
+21,,,,forrard,DUPLICATE_NO_TRANSLATION
+22,,,,forth,napred
+23,,,,onward,DUPLICATE_napred
+25,L10_5,antonyms - binary,before,,predtým
+26,,,,after,potom
+27,,,,subsequently,následne
+28,,,,later,neskôr
+29,,,,afterwards,DUPLICATE_následne
+30,,,,afterward,DUPLICATE_následne
+31,,,,ahead,vpredu
+33,L10_6,antonyms - binary,beginning,,začiatočný
+34,,,,end,konečný
+35,,,,terminal,koncový
+36,,,,ending,končiaci
+37,,,,last,posledný
+38,,,,final,finálny
+39,,,,finish,cieľový
+40,,,,finale,finálný
+41,,,,conclusion,záver
+43,L10_7,antonyms - binary,below,,pod
+44,,,,above,nad
+45,,,,higher,vyššie
+46,,,,up,hore
+48,L10_8,antonyms - binary,climb,,stúpať
+49,,,,descend,klesať
+50,,,,declivitous,NO_TRANSLATION
+51,,,,downhill,dolu_kopcom
+52,,,,downward-sloping,DUPLICATE_NO_TRANSLATION
+53,,,,degressive,DUPLICATE_NO_TRANSLATION
+54,,,,descendant,DUPLICATE_NO_TRANSLATION
+55,,,,descendent,DUPLICATE_NO_TRANSLATION
+56,,,,down,dolu
+57,,,,downward,DUPLICATE_NO_TRANSLATION
+58,,,,downward-arching,DUPLICATE_NO_TRANSLATION
+59,,,,drizzling,DUPLICATE_NO_TRANSLATION
+60,,,,dropping,DUPLICATE_NO_TRANSLATION
+61,,,,falling,DUPLICATE_NO_TRANSLATION
+62,,,,raining,DUPLICATE_NO_TRANSLATION
+64,L10_9,antonyms - binary,dead,,mŕtvy
+65,,,,alive,živý
+66,,,,living,žijúci
+67,,,,live,nažive
+69,L10_10,antonyms - binary,decrement,,zníženie
+70,,,,increment,zvýšenie
+72,L10_11,antonyms - binary,descend,,pokles
+73,,,,ascend,stúpanie
+74,,,,climb,DUPLICATE_stúpanie
+75,,,,rise,nárast
+76,,,,upward,dohora
+77,,,,ascendent,stúpajúci
+78,,,,ascendant,DUPLICATE_stúpajúci
+80,L10_12,antonyms - binary,dive,,ponoriť_sa
+81,,,,emerge,vynoriť_sa
+83,L10_13,antonyms - binary,down,,dolný
+84,,,,up,horný
+85,,,,above,nad
+86,,,,ahead,NO_TRANSLATION
+87,,,,lead,DUPLICATE_NO_TRANSLATION
+88,,,,leading,DUPLICATE_NO_TRANSLATION
+89,,,,aweigh,DUPLICATE_NO_TRANSLATION
+90,,,,dormie,DUPLICATE_NO_TRANSLATION
+91,,,,dormy,DUPLICATE_NO_TRANSLATION
+92,,,,heavenward,DUPLICATE_NO_TRANSLATION
+93,,,,skyward,DUPLICATE_NO_TRANSLATION
+94,,,,risen,vystúpený
+95,,,,sprouted,DUPLICATE_NO_TRANSLATION
+96,,,,upbound,DUPLICATE_NO_TRANSLATION
+97,,,,upfield,DUPLICATE_NO_TRANSLATION
+98,,,,upward,smerujúci_hore
+100,L10_14,antonyms - binary,downslope,,dolu_kopcom
+101,,,,upslope,hore_kopcom
+102,,,,ascent,NO_TRANSLATION
+104,L10_15,antonyms - binary,drop,,pustiť
+105,,,,lift,zdvihnúť
+106,,,,pick_up,zodvihnúť
+108,L10_16,antonyms - binary,dynamic,,dynamický
+109,,,,static,statický
+110,,,,still,nehybný
+111,,,,unmoving,nepohyblivý
+112,,,,unchanging,nemenný
+114,L10_17,antonyms - binary,employ,,zmestnať
+115,,,,dismiss,prepustiť
+116,,,,fire,vyhodiť
+117,,,,sack,vyraziť
+118,,,,displace,NO_TRANSLATION
+119,,,,terminate,ukončiť_pracovný_pomer
+121,L10_18,antonyms - binary,exit,,východ
+122,,,,entrance,vchod
+123,,,,entranceway,NO_TRANSLATION
+124,,,,entryway,DUPLICATE_NO_TRANSLATION
+125,,,,entry,vstup
+126,,,,entree,DUPLICATE_NO_TRANSLATION
+128,L10_19,antonyms - binary,fall,,pád
+129,,,,rise,stúpanie
+130,,,,upward,DUPLICATE_stúpanie
+131,,,,climb,NO_TRANSLATION
+133,L10_20,antonyms - binary,first,,prvý
+134,,,,last,posledný
+135,,,,end,konečný
+136,,,,terminal,terminálny
+137,,,,ending,NO_TRANSLATION
+138,,,,final,finálny
+139,,,,finish,finiš
+140,,,,finale,finále
+141,,,,conclusion,záver
+143,L10_21,antonyms - binary,forget,,zabudnúť
+144,,,,remember,pamätať
+145,,,,retrieve,vyvolať_spomienku
+146,,,,recall,rozpamätať_sa
+147,,,,call_back,pripomenúť_si
+148,,,,call_up,NO_TRANSLATION
+149,,,,recollect,spomenúť_si
+151,L10_22,antonyms - binary,forward,,dopredu
+152,,,,backward,dozadu
+153,,,,back,vzad
+154,,,,backwards,NO_TRANSLATION
+155,,,,rearward,DUPLICATE_NO_TRANSLATION
+156,,,,rearwards,DUPLICATE_NO_TRANSLATION
+158,L10_23,antonyms - binary,front,,predný
+159,,,,back,zadný
+160,,,,rear,DUPLICATE_zadný
+161,,,,forepart,NO_TRANSLATION
+163,L10_24,antonyms - binary,in,,do
+164,,,,out,z
+165,,,,outer,vonkajší
+166,,,,exterior,externý
+167,,,,outside,zvonka
+169,L10_25,antonyms - binary,inbound,,prichádzajúci
+170,,,,outbound,odchádzajúci
+172,L10_26,antonyms - binary,inhale,,nadýchnuť_sa
+173,,,,exhale,vydýchnuť
+175,L10_27,antonyms - binary,input,,vstup
+176,,,,output,výstup
+178,L10_28,antonyms - binary,inside,,vnútrajšok
+179,,,,outside,vonkajšok
+180,,,,exterior,exteriér
+181,,,,out,NO_TRANSLATION
+183,L10_29,antonyms - binary,interior,,interiér
+184,,,,exterior,exteriér
+185,,,,outdoor,DUPLICATE_vonkajšok
+186,,,,out-of-door,NO_TRANSLATION
+187,,,,outside,vonkajšok
+189,L10_30,antonyms - binary,internal,,vnútorný
+190,,,,external,externý
+191,,,,outer,vonkajší
+194,L10_31,antonyms - binary,inverse,,?
+201,L10_32,antonyms - binary,mortal,,smrteľný
+202,,,,immortal,nesmrteľný
+204,L10_33,antonyms - binary,occupied,,obsadený
+205,,,,vacant,neobsadený
+206,,,,free,voľný
+208,L10_34,antonyms - binary,off,,vypnutý
+209,,,,on,zapnutý
+211,L10_35,antonyms - binary,out,,vonku
+212,,,,in,vnútri
+213,,,,inside,vovnútri
+215,L10_36,antonyms - binary,outward,,von
+220,L10_37,antonyms - binary,over,,nad
+221,,,,under,pod
+222,,,,below,popod
+223,,,,beneath,DUPLICATE_pod
+225,L10_38,antonyms - binary,previously,,predtým
+226,,,,subsequently,následne
+227,,,,later,neskôr
+228,,,,afterwards,potom
+229,,,,afterward,DUPLICATE_potom
+230,,,,after,po
+231,,,,subsequent,NO_TRANSLATION
+233,L10_39,antonyms - binary,proceed,,pokračovať
+234,,,,retreat,ustúpiť
+235,,,,return,vrátiť_sa
+237,L10_40,antonyms - binary,rise,,stúpať
+238,,,,sink,klesať
+239,,,,drop,NO_TRANSLATION
+240,,,,fall,padať
+242,L10_41,antonyms - binary,south,,juh
+243,,,,north,sever
+245,L10_42,antonyms - binary,southeast,,juhovýchod
+246,,,,southwest,juhozápad
+247,,,,northeast,severovýchod
+249,L10_43,antonyms - binary,submerge,,ponoriť
+250,,,,emerge,vynoriť
+252,L10_44,antonyms - binary,top,,vrch
+253,,,,bottom,spodok
+254,,,,underside,spodná_strana
+257,L10_45,antonyms - binary,toward,,k
+258,,,,away,preč
+259,,,,off,od
+260,,,,forth,NO_TRANSLATION
+261,,,,aside,DUPLICATE_NO_TRANSLATION
+263,L10_46,antonyms - binary,True,,pravdivý
+264,,,,False,nepravdivý
+265,,,,incorrect,nesprávny
+266,,,,wrong,zlý
+267,,,,mistaken,pomýlený
+269,L10_47,antonyms - binary,under,,pod
+270,,,,over,nad
+271,,,,above,ponad
+272,,,,up,hore_na
+274,L10_48,antonyms - binary,up,,hore
+275,,,,down,dolu
+276,,,,downwards,nadol
+277,,,,downward,DUPLICATE_nadol
+278,,,,downwardly,NO_TRANSLATION
+280,L10_49,antonyms - binary,uphill,,hore_kopcom
+281,,,,downhill,dolu_kopcom
+282,,,,decline,NO_TRANSLATION
+283,,,,fall,DUPLICATE_NO_TRANSLATION
+284,,,,declivitous,DUPLICATE_NO_TRANSLATION
+285,,,,downward-sloping,naklonený_dolu
+287,L10_50,antonyms - binary,west,,západ
+288,,,,east,východ

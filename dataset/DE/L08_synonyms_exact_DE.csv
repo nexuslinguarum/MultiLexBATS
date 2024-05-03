@@ -1,0 +1,259 @@
+,ID,Relation,Source,Target,DE
+0,L08_1,synonyms - exact,airplane,,Flugzeug
+1,,,,aeroplane,Flieger
+2,,,,plane,DUPLICATE_plane
+3,,,,,Aeroplan
+4,L08_2,synonyms - exact,auto,,Auto
+5,,,,car,DUPLICATE_Auto
+6,,,,automobile,Automobil
+7,,,,motorcar,DUPLICATE_Auto
+8,,,,,"PKW,Personenkraftwagen"
+9,L08_3,synonyms - exact,baby,,Baby
+10,,,,infant,Kleinkind
+11,,,,babe,DUPLICATE_Baby
+12,,,,,Neugeborenes
+13,L08_4,synonyms - exact,bicycle,,Fahrrad
+14,,,,bike,Zweirad
+15,,,,wheel,Rad
+16,,,,cycle,DUPLICATE_Rad
+17,,,,,Drahtesel
+18,L08_5,synonyms - exact,child,,Kind
+19,,,,kid,DUPLICATE_Kind
+20,,,,youngster,Jugendliche
+21,,,,minor,Minderjähriger
+22,,,,shaver,junger_Bursch
+23,,,,nipper,Wicht
+24,,,,small_fry,junges_Gemüse
+25,,,,tiddler,Knirps
+26,,,,tike,Bengel
+27,,,,tyke,Lümmel
+28,,,,fry,Brut
+29,,,,nestling,Nesthäkchen
+30,,,,,"Kleiner,Kleine"
+31,L08_6,synonyms - exact,cloth,,Stoff
+32,,,,fabric,DUPLICATE_Stoff
+33,,,,material,Material
+34,,,,textile,Textil-
+36,L08_7,synonyms - exact,clothes,,Kleider
+37,,,,clothing,Kleidung
+38,,,,apparel,Bekleidung
+39,,,,dress,Kleid
+41,L08_8,synonyms - exact,confused,,verwirrt_
+42,,,,baffled,verblüfft
+43,,,,befuddled,verdattert
+44,,,,bemused,benebelt
+45,,,,bewildered,DUPLICATE_verblüfft
+46,,,,confounded,DUPLICATE_verwirrt
+47,,,,lost,verloren
+48,,,,mazed,durcheinander
+49,,,,mixed-up,durcheinandergebracht
+50,,,,,"konfus,desorientiert"
+51,L08_9,synonyms - exact,dollars,,Dollars
+52,,,,bucks,Kohle
+54,L08_10,synonyms - exact,emphasis,,Betonung
+55,,,,accent,Akzent
+56,,,,accentuaion,DUPLICATE_Betonung
+57,,,,importance,Gewicht
+58,,,,stress,DUPLICATE_Betonung
+59,,,,significance,Signifikanz
+60,,,,,Emphase
+61,L08_11,synonyms - exact,father,,Vater
+62,,,,dad,DUPLICATE_Vater
+63,,,,daddy,Vati
+64,,,,,Papa
+65,L08_12,synonyms - exact,flower,,Blume
+66,,,,blossom,Blüte
+67,,,,bloom,DUPLICATE_Blüte
+69,L08_13,synonyms - exact,harbor,,Hafen
+70,,,,seaport,Seehafen
+71,,,,haven,Zufluchtsort
+72,,,,harbour,DUPLICATE_Hafen
+73,,,,,Anlegestelle
+74,L08_14,synonyms - exact,help,,Hilfe
+75,,,,aid,Unterstützung
+76,,,,assist,Assistenz
+78,L08_15,synonyms - exact,hieroglyph,,Hieroglyphe
+79,,,,hieroglyphic,hieroglyphisch
+80,,,,pictogram,Piktogramm
+81,,,,,Glyphe
+82,L08_16,synonyms - exact,homogeneous,,homogen
+83,,,,uniform,einheitlich
+84,,,,unvarying,invariant
+85,,,,,gleichförmig
+86,L08_17,synonyms - exact,honest,,ehrlich
+87,,,,sincere,aufrichtig
+88,,,,ingenuous,offen
+89,,,,True,wahr
+90,,,,direct,direkt
+91,,,,truthful,wahrhaftig
+92,,,,,geradeaus
+93,L08_18,synonyms - exact,identical,,identisch
+94,,,,same,gleich
+95,,,,indistinguishable,ununterscheidbar
+97,L08_19,synonyms - exact,incorrect,,falsch
+98,,,,wrong,DUPLICATE_falsch
+99,,,,counterfactual,widerlegt
+100,,,,erroneous,fehlerhaft
+101,,,,inaccurate,inakkurat
+102,,,,specious,irreführend
+103,,,,unsound,schlecht_fundiert
+104,,,,untrue,unwahr
+105,,,,False,DUPLICATE_falsch
+106,,,,,"unrichtig,nicht_zutreffend"
+107,L08_20,synonyms - exact,intelligent,,intelligent
+108,,,,clever,clever
+109,,,,smart,klug
+111,L08_21,synonyms - exact,jewel,,Juwel
+112,,,,gem,Edelstein
+113,,,,stone,Stein
+115,L08_22,synonyms - exact,lad,,Kerl
+116,,,,chap,Bursche
+117,,,,fellow,DUPLICATE_Bursche
+118,,,,feller,Kumpel
+119,,,,fella,DUPLICATE_Kumpel
+120,,,,gent,Herr
+121,,,,blighter,DUPLICATE_Kerl
+122,,,,cuss,DUPLICATE_Kerl
+123,,,,bloke,Typ
+124,,,,,"Mann,Macker,Knabe,Mannsbild"
+125,L08_23,synonyms - exact,lady,,Dame
+126,,,,madam,DUPLICATE_Frau
+127,,,,dame,DUPLICATE_Dame
+128,,,,ma'am,Herrin
+129,,,,gentlewoman,DUPLICATE_Dame
+130,,,,madame,Madam
+131,,,,woman,Frau
+133,L08_24,synonyms - exact,lazy,,faul
+134,,,,indolent,träge
+135,,,,faineant,untätig
+136,,,,otiose,müßig
+137,,,,slothful,nachlässig
+138,,,,work-shy,arbeitsscheu
+140,L08_25,synonyms - exact,list,,Liste
+141,,,,listing,Auflistung
+142,,,,enumeration,Aufzählung
+144,L08_26,synonyms - exact,loyal,,loyal
+145,,,,faithful,treu
+146,,,,True,wahr
+147,,,,dependable,verlässlich
+148,,,,devoted,ergeben
+149,,,,reliable,zuverlässig
+151,L08_27,synonyms - exact,market,,Markt
+152,,,,marketplace,Marktplatz
+153,,,,mart,Handelszentrum
+154,,,,bazaar,Basar
+156,L08_28,synonyms - exact,mend,,flicken
+157,,,,repair,reparieren
+158,,,,fix,DUPLICATE_reparieren
+159,,,,fixing,DUPLICATE_reparieren
+160,,,,fixture,Reparatur
+161,,,,mending,DUPLICATE_Reparatur
+162,,,,reparation,Wiedergutmachung
+163,,,,patch,Flicken
+164,,,,darn,ausbessern
+165,,,,darning,Stopfen
+166,,,,,"instand_setzen,richten,wiederherstellen"
+167,L08_29,synonyms - exact,mesh,,Netz
+168,,,,gauze,Gaze
+169,,,,netting,Netzgewebe
+170,,,,veiling,Verschleierung
+171,,,,hairnet,Haarnetz
+172,,,,reseau,Gitterplatte
+173,,,,net,DUPLICATE_Netz
+174,,,,save-all,Stofffänger
+175,,,,snood,DUPLICATE_Haarnetz
+176,,,,sparker,NO_TRANSLATION
+177,,,,tulle,Gittertüll
+178,,,,wirework,Verdrahtung
+179,,,,grillwork,Gitterwerk
+180,,,,,Geflecht
+181,L08_30,synonyms - exact,monument,,Denkmal
+182,,,,memorial,Gedenkstätte
+183,,,,,Mahnmal
+184,L08_31,synonyms - exact,mother,,Mutter
+185,,,,mom,Mama
+186,,,,mommy,DUPLICATE_Mama
+187,,,,mum,DUPLICATE_Mama
+188,,,,,"Mutti,Mami"
+189,L08_32,synonyms - exact,murder,,Mord
+190,,,,slaying,Ermordung
+191,,,,slay,ermorden
+192,,,,execution,Hinrichtung
+194,L08_33,synonyms - exact,new,,neu
+195,,,,modern,modern
+196,,,,recent,aktuell
+198,L08_34,synonyms - exact,obsolete,,obsolet
+199,,,,outdated,betagt
+200,,,,out-of-date,veraltet
+201,,,,superannuated,überholt
+203,L08_35,synonyms - exact,organized,,organisiert
+204,,,,arranged,arrangiert
+205,,,,configured,eingerichtet
+207,,,,incorporated,aufgenommen
+208,,,,re-formed,reformiert
+209,,,,reorganized,reorganisiert
+210,,,,reorganised,DUPLICATE_reorganisiert
+212,L08_36,synonyms - exact,package,,Paket
+213,,,,parcel,Päckchen
+214,,,,pack,DUPLICATE_Paket
+215,,,,packet,DUPLICATE_Paket
+216,,,,bundle,DUPLICATE_Paket
+218,L08_37,synonyms - exact,phone,,Telefon
+219,,,,telephone,DUPLICATE_Telefon
+220,,,,cell,Mobiltelefon
+221,,,,cellphone,DUPLICATE_Mobiltelefon
+222,,,,smartphone,Smartphone
+223,,,,,"Handy,Natel"
+224,L08_38,synonyms - exact,portion,,Stück
+225,,,,part,Teil
+226,,,,component_part,Komponente
+227,,,,component,DUPLICATE_Komponente
+228,,,,constituent,Bestandteil
+230,L08_39,synonyms - exact,railway,,Eisenbahn
+231,,,,railroad,DUPLICATE_Eisenbahn
+232,,,,,Bahn
+233,L08_40,synonyms - exact,rational,,rational
+234,,,,logical,logisch
+235,,,,coherent,zusammenhängend
+236,,,,reasonable,vernünftig
+237,,,,sane,geistig_gesund
+239,L08_41,synonyms - exact,reasonable,,sinnvoll
+240,,,,sensible,DUPLICATE_sinnvoll
+242,L08_42,synonyms - exact,rock,,Fels
+243,,,,stone,Stein
+245,L08_43,synonyms - exact,shore,,Ufer
+246,,,,coast,Küste
+247,,,,strand,Strand
+248,,,,bank,DUPLICATE_Ufer
+249,,,,beach,DUPLICATE_Strand
+251,L08_44,synonyms - exact,snake,,Schlange
+252,,,,serpent,DUPLICATE_Schlange
+253,,,,ophidian,DUPLICATE_Schlange
+255,L08_45,synonyms - exact,sofa,,Sofa
+256,,,,couch,Couch
+257,,,,lounge,DUPLICATE_Sofa
+258,,,,,Kanapee
+259,L08_46,synonyms - exact,spouse,,Gatte
+260,,,,partner,Ehepartner
+261,,,,mate,Gefährte
+262,,,,better_half,bessere_Hälfte
+264,L08_47,synonyms - exact,style,,Stil
+265,,,,manner,Art_und_Weise
+266,,,,mode,DUPLICATE_Mode
+267,,,,fashion,Mode
+268,,,,way,Art
+269,,,,,Weise
+270,L08_48,synonyms - exact,sweets,,Süßigkeiten
+271,,,,confectionery,Süßwaren
+272,,,,dessert,Dessert
+273,,,,confection,Konfekt
+274,,,,,"Süßes,Zuckerwerk"
+275,L08_49,synonyms - exact,villain,,Bösewicht
+276,,,,scoundrel,Schurke
+277,,,,rascal,Gauner
+279,L08_50,synonyms - exact,vocabulary,,Vokabular
+280,,,,lexicon,Lexikon
+281,,,,wordbook,DUPLICATE_Wörterbuch
+282,,,,dictionary,Wörterbuch
+283,,,,glossary,Glossar
+284,,,,,Nachschlagewerk

@@ -1,0 +1,236 @@
+,ID,Relation,Source,Target,AL
+0,L08_1,synonyms - exact,airplane,,avion
+1,,,,aeroplane,aeroplan
+2,,,,plane,avion
+4,L08_2,synonyms - exact,auto,,mjet_transporti
+5,,,,car,makinë
+6,,,,automobile,automobil
+7,,,,motorcar,veturë
+9,L08_3,synonyms - exact,baby,,fëmijë
+10,,,,infant,foshnje
+11,,,,babe,bebe
+13,L08_4,synonyms - exact,bicycle,,biçikletë
+14,,,,bike,DUPLICATE_biçikletë
+15,,,,wheel,rrotë
+16,,,,cycle,ngas_biçikletën
+18,L08_5,synonyms - exact,child,,fëmijë
+19,,,,kid,DUPLICATE_fëmijë
+20,,,,youngster,i_ri
+21,,,,minor,"minor,_i_mitur"
+22,,,,shaver,çunak
+23,,,,nipper,kalama
+24,,,,small_fry,i_mitur
+25,,,,tiddler,vogëlush
+26,,,,tike,DUPLICATE_vogëlush
+27,,,,tyke,DUPLICATE_kalama
+28,,,,fry,i_vogli
+29,,,,nestling,"zogth,_zogëz"
+31,L08_6,synonyms - exact,cloth,,pëlhurë
+32,,,,fabric,"copë,_pëlhurë"
+33,,,,material,material
+34,,,,textile,tekstile
+36,L08_7,synonyms - exact,clothes,,rroba
+37,,,,clothing,veshje
+38,,,,apparel,rrobë
+39,,,,dress,fustan
+41,L08_8,synonyms - exact,confused,,i_hutuar
+42,,,,baffled,i_çuditur
+43,,,,befuddled,DUPLICATE_i_hutuar
+44,,,,bemused,i_mahnitur
+45,,,,bewildered,DUPLICATE_i_hutuar
+46,,,,confounded,i_ngatërruar
+47,,,,lost,i_humbur
+48,,,,mazed,i_shastisur
+49,,,,mixed-up,lëmsh
+51,L08_9,synonyms - exact,dollars,,dollarë
+52,,,,bucks,DUPLICATE_dollarë
+54,L08_10,synonyms - exact,emphasis,,theks
+55,,,,accent,DUPLICATE_theks
+56,,,,accentuaion,theksim
+57,,,,importance,rëndësi
+58,,,,stress,"nënvizoj,_DUPLICATE_theks"
+59,,,,significance,domethënie
+61,L08_11,synonyms - exact,father,,baba
+62,,,,dad,babi
+63,,,,daddy,babush
+65,L08_12,synonyms - exact,flower,,lule
+66,,,,blossom,"lulëzim,_çel"
+67,,,,bloom,DUPLICATE_lulëzim
+69,L08_13,synonyms - exact,harbor,,port
+70,,,,seaport,porti_detar
+71,,,,haven,liman
+72,,,,harbour,port
+74,L08_14,synonyms - exact,help,,ndihmë
+75,,,,aid,DUPLICATE_ndihmë
+76,,,,assist,asistoj
+78,L08_15,synonyms - exact,hieroglyph,,herioglif
+79,,,,hieroglyphic,herioglife
+80,,,,pictogram,piktogram
+82,L08_16,synonyms - exact,homogeneous,,homogjene
+83,,,,uniform,trajtë
+84,,,,unvarying,i_pandryshueshëm
+86,L08_17,synonyms - exact,honest,,i_ndershëm
+87,,,,sincere,i_sinqertë
+88,,,,ingenuous,gjenial
+89,,,,True,i_vërtetë
+90,,,,direct,direkt
+91,,,,truthful,DUPLICATE_i_vërtetë
+93,L08_18,synonyms - exact,identical,,identik
+94,,,,same,i_njëjtë
+95,,,,indistinguishable,i_padallueshëm
+97,L08_19,synonyms - exact,incorrect,,i_pasaktë
+98,,,,wrong,i_gabuar
+99,,,,counterfactual,"fakte_kundërshtuese,_kundërfaktual"
+100,,,,erroneous,"e_gabuar,_DUPLICATE_i_gabuar"
+101,,,,inaccurate,DUPLICATE_i_pasaktë
+102,,,,specious,i_dyshimtë
+103,,,,unsound,i_pavlefshëm
+104,,,,untrue,i_pavërtetë
+105,,,,False,fals
+107,L08_20,synonyms - exact,intelligent,,inteligjent
+108,,,,clever,i_zgjuar
+109,,,,smart,i_mençur
+111,L08_21,synonyms - exact,jewel,,bizhuteri
+112,,,,gem,gur_i_çmuar
+113,,,,stone,DUPLICATE_gur_i_çmuar
+115,L08_22,synonyms - exact,lad,,djalosh
+116,,,,chap,djalë
+117,,,,fellow,DUPLICATE_djalosh
+118,,,,feller,NO_TRANSLATE
+119,,,,fella,DUPLICATE_djalë
+120,,,,gent,zotëri
+121,,,,blighter,DUPLICATE_djalosh
+122,,,,cuss,çun
+123,,,,bloke,çunak
+125,L08_23,synonyms - exact,lady,,zonjë
+126,,,,madam,DUPLICATE_zonjë
+127,,,,dame,grua_e_moshuar
+128,,,,ma'am,DUPLICATE_zonjë
+129,,,,gentlewoman,zonjë_fisnike
+130,,,,madame,zonjë_e_nderuar
+131,,,,woman,grua
+133,L08_24,synonyms - exact,lazy,,dembel
+134,,,,indolent,përtac
+135,,,,faineant,"dembel,_i_plogësht"
+136,,,,otiose,"i_kotë,_i_padobishëm"
+137,,,,slothful,DUPLICATE_përtac
+138,,,,work-shy,ia_përton_punës
+140,L08_25,synonyms - exact,list,,listë
+141,,,,listing,listim
+142,,,,enumeration,renditje
+144,L08_26,synonyms - exact,loyal,,besnik
+145,,,,faithful,DUPLICATE_besnik
+146,,,,True,i_vërtetë
+147,,,,dependable,i_besueshëm
+148,,,,devoted,i_devotshëm
+149,,,,reliable,DUPLICATE_i_besueshëm
+151,L08_27,synonyms - exact,market,,treg
+152,,,,marketplace,shesh_tregu
+153,,,,mart,DUPLICATE_pazar
+154,,,,bazaar,pazar
+156,L08_28,synonyms - exact,mend,,ndreq
+157,,,,repair,riparoj
+158,,,,fix,rregulloj
+159,,,,fixing,"duke_montuar,_duke_rregulluar"
+160,,,,fixture,instaloj
+161,,,,mending,duke_ndrequr
+162,,,,reparation,riparim
+163,,,,patch,arnim
+164,,,,darn,DUPLICATE_riparim
+165,,,,darning,duke_riparuar
+167,L08_29,synonyms - exact,mesh,,rrjetë
+168,,,,gauze,garzë
+169,,,,netting,tyl
+170,,,,veiling,vel
+171,,,,hairnet,rrjetë_flokësh
+172,,,,reseau,bordurë_dantelle
+173,,,,net,DUPLICATE_tyl
+174,,,,save-all,kullesë
+175,,,,snood,DUPLICATE_rrjetë_flokësh
+176,,,,sparker,NO_TRANSLATION
+177,,,,tulle,DUPLICATE_tyl
+178,,,,wirework,rrjetë_teli
+179,,,,grillwork,"rrjetë_hekuri,_zgarë"
+181,L08_30,synonyms - exact,monument,,monument
+182,,,,memorial,memorial
+184,L08_31,synonyms - exact,mother,,"mama,_nënë"
+185,,,,mom,mam
+186,,,,mommy,DUPLICATE_mami
+187,,,,mum,mami
+189,L08_32,synonyms - exact,murder,,vras
+190,,,,slaying,duke_vrarë
+191,,,,slay,vras
+192,,,,execution,ekzekutoj
+194,L08_33,synonyms - exact,new,,i_ri
+195,,,,modern,modern
+196,,,,recent,bashkëkohor
+198,L08_34,synonyms - exact,obsolete,,demode
+199,,,,outdated,i_vjetëruar
+200,,,,out-of-date,i_skaduar
+201,,,,superannuated,DUPLICATE_i_vjetëruar
+203,L08_35,synonyms - exact,organized,,i_organizuar
+204,,,,arranged,i_rregulluar
+205,,,,configured,i_konfiguruar
+206,,,,corporate,i_përbashkët
+207,,,,incorporated,i_bashkuar
+208,,,,re-formed,i_reformuar
+209,,,,reorganized,i_riorganizuar
+210,,,,reorganised,DUPLICATE_i_riorganizuar
+212,L08_36,synonyms - exact,package,,paketë
+213,,,,parcel,"parcelë,_ngastër"
+214,,,,pack,pako
+215,,,,packet,DUPLICATE_paketë
+216,,,,bundle,DUPLICATE_pako
+218,L08_37,synonyms - exact,phone,,telefon
+219,,,,telephone,DUPLICATE_telefon
+220,,,,cell,"qelizë_telefonike,_celular"
+221,,,,cellphone,DUPLICATE_celular
+222,,,,smartphone,"smartfon,_DUPLICATE_celular"
+224,L08_38,synonyms - exact,portion,,racion
+225,,,,part,pjesë
+226,,,,component_part,pjesë_përbërëse
+227,,,,component,përbërës
+228,,,,constituent,DUPLICATE_pjesë_përbërëse
+230,L08_39,synonyms - exact,railway,,hekurudhë
+231,,,,railroad,DUPLICATE_hekurudhë
+233,L08_40,synonyms - exact,rational,,racional
+234,,,,logical,i_logjikshëm
+235,,,,coherent,koherent
+236,,,,reasonable,i_arsyeshëm
+237,,,,sane,DUPLICATE_i_arsyeshëm
+239,L08_41,synonyms - exact,reasonable,,i_arsyeshëm
+240,,,,sensible,i_ndjeshëm
+242,L08_42,synonyms - exact,rock,,shkëmb
+243,,,,stone,gur
+245,L08_43,synonyms - exact,shore,,breg
+246,,,,coast,bregdet
+247,,,,strand,cekëtinë
+248,,,,bank,DUPLICATE_breg
+249,,,,beach,plazh
+251,L08_44,synonyms - exact,snake,,gjarpër
+252,,,,serpent,DUPLICATE_gjarpër
+253,,,,ophidian,DUPLICATE_gjarpër
+255,L08_45,synonyms - exact,sofa,,divan
+256,,,,couch,DUPLICATE_divan
+257,,,,lounge,sallë_ndenjeje
+259,L08_46,synonyms - exact,spouse,,bashkëshort
+260,,,,partner,partner
+261,,,,mate,DUPLICATE_bashkëshort
+262,,,,better_half,gjysma_më_e_mirë
+264,L08_47,synonyms - exact,style,,stil
+265,,,,manner,DUPLICATE_mënyrë
+266,,,,mode,modë
+267,,,,fashion,DUPLICATE_modë
+268,,,,way,mënyrë
+270,L08_48,synonyms - exact,sweets,,ëmbëlsira
+271,,,,confectionery,ëmbëltore
+272,,,,dessert,DUPLICATE_ëmbëlsirë
+273,,,,confection,konfeta
+275,L08_49,synonyms - exact,villain,,horr
+276,,,,scoundrel,faqezi
+277,,,,rascal,zuzar
+279,L08_50,synonyms - exact,vocabulary,,fjalor
+280,,,,lexicon,leksik
+281,,,,wordbook,fjalës
+282,,,,dictionary,DUPLICATE_fjalor
+283,,,,glossary,glosar

@@ -1,0 +1,164 @@
+,ID,Relation,Source,Target,HE
+0,L05_1,meronyms - member,acrobat,,אַקרוֹבָּט
+1,,,,troupe,לַהֲקָה
+3,L05_2,meronyms - member,antelope,,אַנְטִילוֹפָּה
+4,,,,herd,עֵדֶר
+6,L05_3,meronyms - member,bee,,דבורה
+7,,,,swarm,נָחִיל
+8,,,,hive,כוורת
+9,,,,colony,מוֹשָׁבָה
+10,,,,drift,סְחִיפָה
+11,,,,cast,ללהק
+12,,,,nest,קֵן
+13,,,,rabble,המון
+14,,,,stand,מעמד
+16,L05_4,meronyms - member,bird,,ציפור
+17,,,,flock,עֵדֶר
+19,L05_5,meronyms - member,book,,סֵפֶר
+20,,,,library,סִפְרִיָה
+21,,,,shelf,מַדָף
+22,,,,collection,אוסף
+23,,,,accounting,ראיית_חשבון
+24,,,,accounting_system,מערכת_ניהול_חשבונות
+25,,,,method_of_accounting,שיטת_החשבונאות
+27,L05_6,meronyms - member,calf,,עגל
+28,,,,cattle,בקר
+29,,,,herd,עֵדֶר
+31,L05_7,meronyms - member,car,,אוטו
+32,,,,train,רכבת
+33,,,,procession,תַהֲלוּכָה
+35,L05_8,meronyms - member,cat,,חתול
+36,,,,clowder,קבוצת_חתולים
+37,,,,glaring,נועץ_מט
+38,,,,clutter,עִרבּוּביָה
+39,,,,pounce,לְזַנֵק
+41,L05_9,meronyms - member,cattle,,בקר
+42,,,,herd,עֵדֶר
+44,L05_10,meronyms - member,christian,,נוצרי
+45,,,,congregation,עֵדָה
+46,,,,church,כְּנֵסִיָה
+47,,,,parish,קהילה
+49,L05_11,meronyms - member,citizen,,אֶזרָח
+50,,,,citizenry,ציבור_האזרחים
+51,,,,country,מדינה
+52,,,,state,DUPLICATE_מדינה
+54,L05_12,meronyms - member,college,,מִכלָלָה
+55,,,,university,אוּנִיבֶרְסִיטָה
+57,L05_13,meronyms - member,county,,מָחוֹז
+58,,,,state,DUPLICATE_מדינה
+59,,,,country,מדינה
+61,L05_14,meronyms - member,cow,,פָּרָה
+62,,,,herd,עֵדֶר
+64,L05_15,meronyms - member,crow,,עורב
+65,,,,murder,להקת_עורבים
+67,L05_16,meronyms - member,division,,חֲלוּקָה
+68,,,,company,חֶברָה
+69,,,,business,עֵסֶק
+70,,,,platoon,מחלקה_צבאית
+71,,,,battle_group,קבוצת_קרב
+73,L05_17,meronyms - member,elephant,,פיל
+74,,,,herd,עֵדֶר
+76,L05_18,meronyms - member,employee,,עוֹבֵד
+77,,,,staff,צוות
+78,,,,company,חֶברָה
+80,L05_19,meronyms - member,fish,,דג
+81,,,,school,להקה
+83,L05_20,meronyms - member,flower,,פֶּרַח
+84,,,,bouquet,זר
+85,,,,bunch,צְרוֹר
+87,L05_21,meronyms - member,galaxy,,גָלַקסִיָה
+88,,,,universe,יקום
+90,L05_22,meronyms - member,goose,,אווז
+91,,,,gaggle,לַהֲקָה
+93,L05_23,meronyms - member,juror,,מוּשׁבָּע
+94,,,,jury,חבר_מושבעים
+96,L05_24,meronyms - member,kitten,,גור_חתולים
+97,,,,litter,גורים
+99,L05_25,meronyms - member,letter,,מִכְתָב
+100,,,,alphabet,אלף_בית
+102,L05_26,meronyms - member,lion,,אַריֵה
+103,,,,pride,להקת_אריות
+105,L05_27,meronyms - member,listener,,מַאֲזִין
+106,,,,audience,קהל
+108,L05_28,meronyms - member,member,,חבר
+109,,,,club,מוֹעֲדוֹן
+110,,,,team,DUPLICATE_קבוצה
+111,,,,group,קְבוּצָה
+112,,,,band,להקה
+113,,,,community,קהילה
+115,L05_29,meronyms - member,musician,,מוּסִיקָאִי
+116,,,,orchestra,תִזמוֹרֶת
+117,,,,band,להקה
+119,L05_30,meronyms - member,nomad,,נווד
+120,,,,horde,שבט
+122,L05_31,meronyms - member,page,,עמוד
+123,,,,book,סֵפֶר
+124,,,,notebook,מחברת
+125,,,,website,אתר_אינטרנט
+126,,,,web-site,DUPLICATE_אתר_אינטרנט
+128,L05_32,meronyms - member,parishioner,,חֶברָ_הקהילה
+129,,,,parish,קְהילה
+130,,,,church,כְּנֵסִיָה
+132,L05_33,meronyms - member,person,,אדם
+133,,,,society,חֶברָה
+134,,,,company,חֶברָה_מסחרית
+135,,,,party,מפלגה
+136,,,,world,עוֹלָם
+138,L05_34,meronyms - member,photo,,תמונה
+139,,,,album,אַלבּוֹם
+140,,,,collection,אוסף
+141,,,,library,סִפְרִיָה
+143,L05_35,meronyms - member,player,,שחקן
+144,,,,team,DUPLICATE_קבוצה
+145,,,,group,קְבוּצָה
+146,,,,orchestra,אורכסטרה
+148,L05_36,meronyms - member,policeman,,שׁוֹטֵר
+149,,,,police,מִשׁטָרָה
+151,L05_37,meronyms - member,secretary,,מזכיר
+152,,,,staff,סגל
+154,L05_38,meronyms - member,senator,,סֵנָטוֹר
+155,,,,senate,סֵנָט
+156,,,,house,בַּיִת
+158,L05_39,meronyms - member,sheep,,כבשים
+159,,,,flock,עֵדֶר
+161,L05_40,meronyms - member,shrub,,שִׂיחַ
+162,,,,shrubbery,שִׂיחִים
+164,L05_41,meronyms - member,singer,,זמר
+165,,,,choir,מקהלה
+166,,,,band,להקה
+167,,,,duo,זוג
+168,,,,trio,שִׁלוּשׁ
+169,,,,quartet,רביעייה
+171,L05_42,meronyms - member,soldier,,לוֹחֶם
+172,,,,army,צָבָא
+173,,,,unit,יחידה
+174,,,,division,מחלקה
+175,,,,troop,גְדוּד
+177,L05_43,meronyms - member,song,,שִׁיר
+178,,,,album,אַלבּוֹם
+179,,,,collection,אוסף
+180,,,,antology,אַנתוֹלוֹגִיָה
+181,,,,library,סִפְרִיָה
+183,L05_44,meronyms - member,spouse,,בן_זוג
+184,,,,couple,זוּג
+185,,,,relationship,מערכת_יחסים
+186,,,,family,מִשׁפָּחָה
+188,L05_45,meronyms - member,star,,כוכב
+189,,,,constellation,קבוצת_כוכיבם
+190,,,,galaxy,גָלַקסִיָה
+192,L05_46,meronyms - member,state,,מדינה
+193,,,,country,DUPLICATE_מדינה
+194,,,,province,מָחוֹז
+196,L05_47,meronyms - member,student,,סטוּדֶנט
+197,,,,class,כיתה
+198,,,,school,בית_ספר
+200,L05_48,meronyms - member,tree,,עֵץ
+201,,,,forest,יַעַר
+202,,,,wood,DUPLICATE_עץ
+203,,,,grove,חוּרשָׁה
+205,L05_49,meronyms - member,wolf,,זְאֵב
+206,,,,pack,להקה
+208,L05_50,meronyms - member,word,,מִלָה
+209,,,,paragraph,פסקה
+210,,,,sentence,משפט
+211,,,,text,טֶקסט

@@ -1,0 +1,304 @@
+,ID,Relation,Source,Target,FR
+0,L07_1,synonyms - intensity,afraid,,effrayé
+1,,,,terrified,terrifié
+2,,,,horrified,horrifié
+3,,,,scared,apeuré
+4,,,,stiff,raide
+5,,,,petrified,pétrifié
+6,,,,fearful,craintif
+7,,,,panicky,paniqué
+9,L07_2,synonyms - intensity,angry,,en_colère
+10,,,,furious,furieux
+11,,,,enraged,enragé
+12,,,,outraged,outragé
+13,,,,aggrivated,agacé
+14,,,,irate,irascible
+15,,,,seething,DUPLICATE_furieux
+17,L07_3,synonyms - intensity,ask,,demander
+18,,,,beg,supplier
+19,,,,implore,implorer
+20,,,,pray,prier
+21,,,,entreat,adjurer
+22,,,,supplicate,DUPLICATE_supplier
+23,,,,insist,insister
+25,L07_4,synonyms - intensity,bad,,mauvais
+26,,,,awful,atroce
+27,,,,atrocious,DUPLICATE_atroce
+28,,,,abominable,abominable
+29,,,,dreadful,épouvantable
+30,,,,painful,douloureux
+31,,,,terrible,terrible
+32,,,,unspeakable,innommable
+34,L07_5,synonyms - intensity,boring,,ennuyeux
+35,,,,tedious,fastidieux
+36,,,,deadening,abrutissant
+37,,,,dull,terne
+38,,,,ho-hum,DUPLICATE_ennuyeux
+39,,,,irksome,assomant
+40,,,,tiresome,fatigant
+41,,,,wearisome,barbant
+43,L07_6,synonyms - intensity,cat,,chat
+44,,,,lion,lion
+45,,,,tiger,tigre
+46,,,,leopard,léopard
+47,,,,panther,panthère
+48,,,,jaguar,jaguar
+50,L07_7,synonyms - intensity,chuckle,,glousser
+51,,,,laugh,rire
+52,,,,guffaw,s'esclaffer
+53,,,,chortle,glousser
+54,,,,snicker,ricaner
+55,,,,snigger,DUPLICATE_ricaner
+56,,,,titter,titrer
+57,,,,roar,rugir
+59,L07_8,synonyms - intensity,confused,,confus
+60,,,,lost,perdu
+61,,,,bewildered,dérouté
+62,,,,trapped,piégé
+63,,,,desperate,désespéré
+65,L07_9,synonyms - intensity,creative,,créatif
+66,,,,ingenious,ingénieux
+67,,,,inventive,inventif
+68,,,,demiurgic,demiurgique
+69,,,,deviceful,DUPLICATE_ingénieux
+70,,,,innovational,innovant
+71,,,,innovative,DUPLICATE_innovant
+72,,,,innovatory,DUPLICATE_innovant
+73,,,,original,original
+74,,,,originative,DUPLICATE_original
+76,L07_10,synonyms - intensity,cry,,pleurer
+77,,,,scream,crier
+78,,,,shriek,hurler
+79,,,,screech,DUPLICATE_hurler
+80,,,,screeching,criant
+82,L07_11,synonyms - intensity,damp,,humide
+83,,,,drenched,trempé
+84,,,,dripping,dégoulinant
+85,,,,saturated,saturé
+86,,,,soaked,DUPLICATE_trempé
+87,,,,soaking,DUPLICATE_trempé
+88,,,,sodden,DUPLICATE_trempé
+89,,,,sopping,DUPLICATE_trempé
+90,,,,soppy,détrempé
+91,,,,soused,imbibé
+92,,,,wringing-wet,essoré
+94,L07_12,synonyms - intensity,dinner,,dîner
+95,,,,feast,festin
+96,,,,banquet,banquet
+97,,,,fiesta,fiesta
+99,L07_13,synonyms - intensity,dislike,,n'aime_pas
+100,,,,hate,haïr
+101,,,,abhor,abhorrer
+102,,,,detest,détester
+103,,,,loathe,DUPLICATE_détester
+104,,,,abominate,abominer
+105,,,,execrate,exécrer
+106,,,,contemn,mépriser
+107,,,,despise,DUPLICATE_mépriser
+108,,,,scorn,DUPLICATE_mépriser
+109,,,,disdain,dédaigner
+111,L07_14,synonyms - intensity,doze,,somnoler
+112,,,,sleep,dormir
+113,,,,slumber,sommeiller
+115,L07_15,synonyms - intensity,drizzle,,bruine
+116,,,,rain,pluie
+117,,,,shower,douche
+119,,,,deluge,déluge
+120,,,,rainfall,DUPLICATE_pluie
+122,L07_16,synonyms - intensity,excited,,excité
+123,,,,agitated,agité
+124,,,,nervous,nerveux
+126,L07_17,synonyms - intensity,faith,,foi
+127,,,,fanatism,fanatisme
+128,,,,fanaticism,DUPLICATE_fanatisme
+129,,,,zealotry,zèle
+130,,,,,ferveur
+131,L07_18,synonyms - intensity,giggle,,glousser
+132,,,,laugh,rire
+133,,,,guffaw,s'esclaffer
+134,,,,chortle,glousser
+135,,,,snicker,ricaner
+136,,,,snigger,DUPLICATE_ricaner
+137,,,,titter,pouffer
+138,,,,roar,rugir
+140,L07_19,synonyms - intensity,guilty,,coupable
+141,,,,remorseful,plein_de_remords
+142,,,,sorrowful,affligé
+143,,,,unworthy,indigne
+145,L07_20,synonyms - intensity,happy,,heureux
+146,,,,ecstatic,extatique
+147,,,,enraptured,enchanté
+148,,,,rapturous,enthousiaste
+149,,,,rapt,extasié
+150,,,,rhapsodic,rhapsodique
+152,L07_21,synonyms - intensity,house,,maison
+153,,,,palace,palais
+154,,,,castle,château
+156,L07_22,synonyms - intensity,hungry,,faim
+157,,,,starving,affamé
+158,,,,famished,DUPLICATE_affamé
+159,,,,peckish,DUPLICATE_affamé
+160,,,,ravenous,vorace
+161,,,,starved,DUPLICATE_affamé
+163,L07_23,synonyms - intensity,indulge,,se_faire_plaisir
+164,,,,pamper,choyer
+165,,,,spoil,gâter
+166,,,,coddle,dorloter
+168,L07_24,synonyms - intensity,interesting,,intéressant
+169,,,,exciting,excitant
+170,,,,exhilarant,exaltant
+171,,,,exhilarating,DUPLICATE_exaltant
+172,,,,exhilarative,DUPLICATE_exaltant
+173,,,,eye-popping,à_couper_le_souffle
+174,,,,inspiring,inspirant
+175,,,,intoxicating,enivrant
+176,,,,rousing,DUPLICATE_excitant
+177,,,,stimulating,stimulant
+178,,,,stirring,remuer
+179,,,,arresting,captivant
+180,,,,interesting,intéressant
+181,,,,intriguing,intriguant
+182,,,,moving,émouvant
+183,,,,provocative,provocant
+184,,,,heady,DUPLICATE_captivant
+185,,,,thrilling,palpitant
+187,L07_25,synonyms - intensity,irritate,,irriter
+188,,,,enrage,enrager
+189,,,,incense,encens
+190,,,,infuriate,exaspérer
+191,,,,ire,DUPLICATE_enrager
+192,,,,mad,fou
+193,,,,madden,DUPLICATE_fou
+194,,,,steam,vapeur
+195,,,,umbrage,umbrage
+197,L07_26,synonyms - intensity,jog,,jogging
+198,,,,run,courir
+199,,,,scarper,fuir
+200,,,,flee,DUPLICATE_fuir
+201,,,,fly,voler
+203,L07_27,synonyms - intensity,lake,,lac
+204,,,,sea,mer
+205,,,,ocean,océan
+207,L07_28,synonyms - intensity,like,,aimer
+208,,,,love,amour
+209,,,,care,soin
+210,,,,fond,aimer
+211,,,,crush,coup_de_cœur
+212,,,,infatuate,infatué
+214,L07_29,synonyms - intensity,love,,aimer
+215,,,,adore,adorer
+216,,,,fetishize,fétichiser
+217,,,,idolize,idolâtrer
+218,,,,idolise,DUPLICATE_idolâtrer
+219,,,,worship,DUPLICATE_adorer
+220,,,,hero-worship,adorer_les_héros
+221,,,,revere,vénérer
+223,L07_30,synonyms - intensity,monkey,,singe
+224,,,,gorilla,gorille
+226,L07_31,synonyms - intensity,nap,,sieste
+227,,,,sleep,dormir
+228,,,,slumber,sommeil
+230,L07_32,synonyms - intensity,necessary,,nécessaire
+231,,,,essential,essentiel
+232,,,,indispensable,indispensable
+233,,,,vital,vital
+234,,,,required,nécessaire
+236,L07_33,synonyms - intensity,opposed,,opposé
+237,,,,averse,opposé
+238,,,,antipathetic,antipathique
+239,,,,antipathetical,DUPLICATE_antipathique
+240,,,,indisposed,indisposé
+241,,,,loath,répugnant
+242,,,,loth,DUPLICATE_répugnant
+244,L07_34,synonyms - intensity,pain,,douleur
+245,,,,torment,tourmenter
+246,,,,torture,torture
+247,,,,agony,agonie
+249,L07_35,synonyms - intensity,pony,,poney
+250,,,,horse,cheval
+252,L07_36,synonyms - intensity,poorly,,mal
+253,,,,afflicted,affligé
+254,,,,sick,malade
+255,,,,ill,DUPLICATE_malade
+256,,,,stricken,frappé
+258,L07_37,synonyms - intensity,rain,,pluie
+259,,,,deluge,déluge
+260,,,,shower,pluie
+262,L07_38,synonyms - intensity,sad,,triste
+263,,,,desparate,désespéré
+264,,,,despondent,DUPLICATE_désespéré
+265,,,,despairing,DUPLICATE_désespéré
+266,,,,desponding,découragé
+267,,,,forlorn,DUPLICATE_désespéré
+268,,,,hopeless,DUPLICATE_désespéré
+269,,,,melancholy,mélancolique
+272,L07_39,synonyms - intensity,sea,,mer
+273,,,,ocean,océan
+275,L07_40,synonyms - intensity,snack,,snack
+276,,,,meal,repas
+277,,,,eat,manger
+279,L07_41,synonyms - intensity,sniffles,,renifler
+280,,,,pneumonia,pneumonie
+282,L07_42,synonyms - intensity,soon,,bientôt
+283,,,,immediately,immédiatement
+284,,,,promptly,rapidement
+285,,,,straightaway,tout_de_suite
+287,L07_43,synonyms - intensity,strong,,fort
+288,,,,powerful,puissant
+289,,,,forceful,DUPLICATE_puissant
+290,,,,super,super
+291,,,,potent,DUPLICATE_puissant
+293,L07_44,synonyms - intensity,tasty,,savoureux
+294,,,,delicious,délicieux
+295,,,,delectable,délectable
+296,,,,luscious,succulent
+297,,,,pleasant-tasting,agréable_au_goût
+298,,,,scrumptious,somptueux
+299,,,,toothsome,DUPLICATE_succulent
+300,,,,yummy,DUPLICATE_délicieux
+301,,,,mouth-watering,appétissant
+302,,,,ambrosial,ambrosien
+303,,,,heavenly,paradisiaque
+305,L07_45,synonyms - intensity,tired,,fatigué
+306,,,,exhausted,épuisé
+307,,,,drained,DUPLICATE_épuisé
+309,L07_46,synonyms - intensity,unfortunate,,malheureux
+310,,,,tragic,tragique
+311,,,,woeful,malheureux
+312,,,,grievous,pénible
+313,,,,wretched,misérable
+314,,,,miserable,DUPLICATE_misérable
+315,,,,awful,affreux
+316,,,,lamentable,lamentable
+317,,,,regrettable,regrettable
+318,,,,desperate,désespéré
+319,,,,hopeless,sans_espoir
+320,,,,disastrous,désastreux
+322,L07_47,synonyms - intensity,unhappy,,malheureux
+323,,,,miserable,misérable
+324,,,,suffering,souffrant
+325,,,,wretched,DUPLICATE_misérable
+327,L07_48,synonyms - intensity,want,,vouloir
+328,,,,crave,avoir_envie
+329,,,,hunger,faim
+330,,,,thirst,soif
+331,,,,starve,mourir_de_faim
+332,,,,lust,convoitise
+334,L07_49,synonyms - intensity,warm,,chaud
+335,,,,hot,chaud
+336,,,,fiery,ardent
+337,,,,flaming,flamboyant
+338,,,,heated,chauffé
+339,,,,red-hot,rougeoyant
+340,,,,sizzling,grésillant
+341,,,,sensual,sensuel
+342,,,,sultry,DUPLICATE_sensuel
+343,,,,torrid,torride
+344,,,,white-hot,chauffé_à_blanc
+346,L07_50,synonyms - intensity,well,,bien
+347,,,,flourishing,florissant
+348,,,,robust,robuste
+349,,,,booming,en_plein_essor
+350,,,,prospering,prospérant
+351,,,,prosperous,prospère
+352,,,,thriving,DUPLICATE_prospère

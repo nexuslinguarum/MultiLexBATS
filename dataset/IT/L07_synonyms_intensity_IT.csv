@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,IT
+0,L07_1,synonyms - intensity,afraid,,impaurito
+1,,,,terrified,terrorizzato
+2,,,,horrified,sconvolto
+3,,,,scared,spaventato
+4,,,,stiff,rigido
+5,,,,petrified,pietrificato
+6,,,,fearful,timoroso
+7,,,,panicky,preso_dal_panico
+9,L07_2,synonyms - intensity,angry,,arrabbiato
+10,,,,furious,furioso
+11,,,,enraged,infuriato
+12,,,,outraged,indignato
+13,,,,aggrivated,disturbato
+14,,,,irate,adirato
+15,,,,seething,DUPLICATE_arrabbiato
+17,L07_3,synonyms - intensity,ask,,chiedere
+18,,,,beg,supplicare
+19,,,,implore,implorare
+20,,,,pray,pregare
+21,,,,entreat,DUPLICATE_supplicare
+22,,,,supplicate,DUPLICATE_supplicare
+23,,,,insist,insistere
+25,L07_4,synonyms - intensity,bad,,cattivo
+26,,,,awful,tremendo
+27,,,,atrocious,atroce
+28,,,,abominable,abominevole
+29,,,,dreadful,DUPLICATE_tremendo
+30,,,,painful,doloroso
+31,,,,terrible,terribile
+32,,,,unspeakable,indicibile
+34,L07_5,synonyms - intensity,boring,,noioso
+35,,,,tedious,tedioso
+36,,,,deadening,svilente
+37,,,,dull,monotono
+38,,,,ho-hum,uffa
+39,,,,irksome,seccante
+40,,,,tiresome,DUPLICATE_noioso
+41,,,,wearisome,barboso
+43,L07_6,synonyms - intensity,cat,,gatto
+44,,,,lion,leone
+45,,,,tiger,tigre
+46,,,,leopard,leopardo
+47,,,,panther,pantera
+48,,,,jaguar,giaguaro
+50,L07_7,synonyms - intensity,chuckle,,sogghignare
+51,,,,laugh,ridere
+52,,,,guffaw,ridere_fragorosamente
+53,,,,chortle,ridacchiare
+54,,,,snicker,ridere_sotto_i_baffi
+55,,,,snigger,DUPLICATE_ridere_sotto_i_baffi
+56,,,,titter,DUPLICATE_ridacchiare
+57,,,,roar,ridere_forte
+59,L07_8,synonyms - intensity,confused,,confuso
+60,,,,lost,perso
+61,,,,bewildered,sbalordito
+62,,,,trapped,intrappolato
+63,,,,desperate,disperato
+65,L07_9,synonyms - intensity,creative,,creativo
+66,,,,ingenious,ingegnoso
+67,,,,inventive,fantasioso
+68,,,,demiurgic,demiurgico
+69,,,,deviceful,inventivo
+70,,,,innovational,DUPLICATE_innovativo
+71,,,,innovative,innovativo
+72,,,,innovatory,DUPLICATE_innovativo
+73,,,,original,originale
+74,,,,originative,DUPLICATE_originale
+76,L07_10,synonyms - intensity,cry,,piangere
+77,,,,scream,urlare
+78,,,,shriek,gridare
+79,,,,screech,strillare
+80,,,,screeching,DUPLICATE_strillare
+82,L07_11,synonyms - intensity,damp,,umido
+83,,,,drenched,inzuppato
+84,,,,dripping,sgocciolio
+85,,,,saturated,impregnato
+86,,,,soaked,zuppo
+87,,,,soaking,DUPLICATE_zuppo
+88,,,,sodden,DUPLICATE_inzuppato
+89,,,,sopping,fradicio
+90,,,,soppy,sdolcinato
+91,,,,soused,DUPLICATE_impregnato
+92,,,,wringing-wet,completamente_zuppo
+94,L07_12,synonyms - intensity,dinner,,cena
+95,,,,feast,banchetto
+96,,,,banquet,DUPLICATE_banchetto
+97,,,,fiesta,festa
+99,L07_13,synonyms - intensity,dislike,,non_piacere
+100,,,,hate,odiare
+101,,,,abhor,aborrire
+102,,,,detest,detestare
+103,,,,loathe,DUPLICATE_detestare
+104,,,,abominate,DUPLICATE_aborrire
+105,,,,execrate,DUPLICATE_detestare
+106,,,,contemn,disprezzare
+107,,,,despise,DUPLICATE_disprezzare
+108,,,,scorn,respingere
+109,,,,disdain,disdegnare
+111,L07_14,synonyms - intensity,doze,,dormicchiare
+112,,,,sleep,dormire
+113,,,,slumber,sonnecchiare
+115,L07_15,synonyms - intensity,drizzle,,pioggerella
+116,,,,rain,pioggia
+117,,,,shower,doccia
+118,,,,raifall,acquazzone
+119,,,,deluge,dilivio
+122,L07_16,synonyms - intensity,excited,,emozionato
+123,,,,agitated,agitato
+124,,,,nervous,nervoso
+126,L07_17,synonyms - intensity,faith,,fede
+127,,,,fanatism,DUPLICATE_fanatismo
+128,,,,fanaticism,fanatismo
+129,,,,zealotry,DUPLICATE_fanatismo
+131,L07_18,synonyms - intensity,giggle,,ridacchiare
+132,,,,laugh,ridere
+133,,,,guffaw,ridere_fragorosamente
+134,,,,chortle,ridacchiare
+135,,,,snicker,ridere_sotto_i_baffi
+136,,,,snigger,DUPLICATE_ridere_sotto_i_baffi
+137,,,,titter,DUPLICATE_ridacchiare
+138,,,,roar,ridere_forte
+140,L07_19,synonyms - intensity,guilty,,colpevole
+141,,,,remorseful,contrito
+142,,,,sorrowful,afflitto
+143,,,,unworthy,immeritevole
+145,L07_20,synonyms - intensity,happy,,felice
+146,,,,ecstatic,affascinato
+147,,,,enraptured,rapito
+148,,,,rapturous,entusiasta
+149,,,,rapt,assorto
+150,,,,rhapsodic,DUPLICATE_entusiasta
+152,L07_21,synonyms - intensity,house,,casa
+153,,,,palace,palazzo
+154,,,,castle,castello
+156,L07_22,synonyms - intensity,hungry,,affamato
+157,,,,starving,avere_una_fame_da_lupi
+158,,,,famished,DUPLICATE_affamato
+159,,,,peckish,avere_un_leggero_appetito
+160,,,,ravenous,DUPLICATE_affamato
+161,,,,starved,patire_la_fame
+163,L07_23,synonyms - intensity,indulge,,accontentare
+164,,,,pamper,viziare
+165,,,,spoil,DUPLICATE_viziare
+166,,,,coddle,coccolare
+168,L07_24,synonyms - intensity,interesting,,interessante
+169,,,,exciting,emozionante
+170,,,,exhilarant,esilarante
+171,,,,exhilarating,DUPLICATE_esilarante
+172,,,,exhilarative,DUPLICATE_esilarante
+173,,,,eye-popping,strabiliante
+174,,,,inspiring,DUPLICATE_stimolante
+175,,,,intoxicating,entusiasmante
+176,,,,rousing,DUPLICATE_stimolante
+177,,,,stimulating,stimolante
+178,,,,stirring,DUPLICATE_entusiasmante
+179,,,,arresting,che_attira_l'attenzione
+180,,,,interesting,DUPLICATE_interessante
+181,,,,intriguing,intrigante
+182,,,,moving,commovente
+183,,,,provocative,provocatorio
+184,,,,heady,che_dà_alla_testa
+185,,,,thrilling,DUPLICATE_emozionante
+187,L07_25,synonyms - intensity,irritate,,irritare
+188,,,,enrage,rendere_furioso
+189,,,,incense,far_inferocire
+190,,,,infuriate,far_infuriare
+191,,,,ire,ira
+192,,,,mad,arrabbiato
+193,,,,madden,far_arrabbiare
+194,,,,steam,innervosirsi
+195,,,,umbrage,offesa
+197,L07_26,synonyms - intensity,jog,,fare_jogging
+198,,,,run,correre
+199,,,,scarper,svignarsela
+200,,,,flee,fuggire
+201,,,,fly,volare
+203,L07_27,synonyms - intensity,lake,,lago
+204,,,,sea,mare
+205,,,,ocean,oceano
+207,L07_28,synonyms - intensity,like,,piacere
+208,,,,love,amare
+209,,,,care,interessare
+210,,,,fond,affezionato
+211,,,,crush,cotta
+212,,,,infatuate,infatuare
+214,L07_29,synonyms - intensity,love,,amare
+215,,,,adore,adorare
+216,,,,fetishize,feticizzare
+217,,,,idolize,idolatrare
+218,,,,idolise,DUPLICATE_idolatrare
+219,,,,worship,venerare
+220,,,,hero-worship,idealizzare
+221,,,,revere,riverire
+223,L07_30,synonyms - intensity,monkey,,scimmia
+224,,,,gorilla,gorilla
+226,L07_31,synonyms - intensity,nap,,pisolino
+227,,,,sleep,dormire
+228,,,,slumber,sonnellino
+230,L07_32,synonyms - intensity,necessary,,necessario
+231,,,,essential,essenziale
+232,,,,indispensable,indispensabile
+233,,,,vital,vitale
+234,,,,required,richiesto
+236,L07_33,synonyms - intensity,opposed,,opposto
+237,,,,averse,avverso
+238,,,,antipathetic,contrario
+239,,,,antipathetical,DUPLICATE_contrario
+240,,,,indisposed,indisposto
+241,,,,loath,essere_restio
+242,,,,loth,DUPLICATE_essere_restio
+244,L07_34,synonyms - intensity,pain,,dolore
+245,,,,torment,tormento
+246,,,,torture,tortura
+247,,,,agony,agonia
+249,L07_35,synonyms - intensity,pony,,pony
+250,,,,horse,cavallo
+252,L07_36,synonyms - intensity,poorly,,male_____
+253,,,,afflicted,afflitto
+254,,,,sick,malato
+255,,,,ill,DUPLICATE_malato
+256,,,,stricken,colpito
+258,L07_37,synonyms - intensity,rain,,pioggia
+259,,,,deluge,diluvio
+260,,,,shower,doccia
+262,L07_38,synonyms - intensity,sad,,triste
+263,,,,desparate,disperato
+264,,,,despondent,abbattuto
+265,,,,despairing,DUPLICATE_disperato
+266,,,,desponding,infelice
+267,,,,forlorn,misero
+268,,,,hopeless,senza_speranza
+269,,,,melancholy,malinconico
+272,L07_39,synonyms - intensity,sea,,mare
+273,,,,ocean,oceano
+275,L07_40,synonyms - intensity,snack,,spuntino
+276,,,,meal,pasto
+277,,,,eat,mangiare
+279,L07_41,synonyms - intensity,sniffles,,tirare_su_con_il_naso
+280,,,,pneumonia,polmonite
+282,L07_42,synonyms - intensity,soon,,presto
+283,,,,immediately,immediatamente
+284,,,,promptly,subito
+285,,,,straightaway,DUPLICATE_subito
+287,L07_43,synonyms - intensity,strong,,forte
+288,,,,powerful,potente
+289,,,,forceful,convincente
+290,,,,super,ottimo
+291,,,,potent,DUPLICATE_forte
+293,L07_44,synonyms - intensity,tasty,,gustoso
+294,,,,delicious,delizioso
+295,,,,delectable,squisito
+296,,,,luscious,stucchevole
+297,,,,pleasant-tasting,sapore_piacevole
+298,,,,scrumptious,DUPLICATE_delizioso
+299,,,,toothsome,DUPLICATE_gustoso
+300,,,,yummy,da_leccarsi_i_baffi
+301,,,,mouth-watering,acquolina_in_bocca
+302,,,,ambrosial,divino
+303,,,,heavenly,paradisiaco
+305,L07_45,synonyms - intensity,tired,,stanco
+306,,,,exhausted,esausto
+307,,,,drained,spossato
+309,L07_46,synonyms - intensity,unfortunate,,sfortunato
+310,,,,tragic,tragico
+311,,,,woeful,deplorevole
+312,,,,grievous,grave
+313,,,,wretched,abbietto
+314,,,,miserable,miserabile
+315,,,,awful,terribile
+316,,,,lamentable,spiacevole
+317,,,,regrettable,DUPLICATE_spiacevole
+318,,,,desperate,disperato
+319,,,,hopeless,senza_speranza
+320,,,,disastrous,disastroso
+322,L07_47,synonyms - intensity,unhappy,,infelice
+323,,,,miserable,miserabile
+324,,,,suffering,sofferente
+325,,,,wretched,abbietto
+327,L07_48,synonyms - intensity,want,,volere
+328,,,,crave,bramare
+329,,,,hunger,fame
+330,,,,thirst,sete
+331,,,,starve,patire_la_fame
+332,,,,lust,desiderio
+334,L07_49,synonyms - intensity,warm,,mite
+335,,,,hot,caldo
+336,,,,fiery,ardente
+337,,,,flaming,in_fiamme
+338,,,,heated,acceso
+339,,,,red-hot,rovente
+340,,,,sizzling,sfrigolante
+341,,,,sensual,sensuale
+342,,,,sultry,afoso
+343,,,,torrid,torrido
+344,,,,white-hot,DUPLICATE_rovente
+346,L07_50,synonyms - intensity,well,,bene
+347,,,,flourishing,fiorente
+348,,,,robust,robusto
+349,,,,booming,rimbombante
+350,,,,prospering,prospero
+351,,,,prosperous,DUPLICATE_prospero
+352,,,,thriving,florido

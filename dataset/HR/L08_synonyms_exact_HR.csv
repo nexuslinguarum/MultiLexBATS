@@ -1,0 +1,257 @@
+,ID,Relation,Source,Target,HR
+0,L08_1,synonyms - exact,airplane,,zrakoplov
+1,,,,aeroplane,DUPLICATE_zrakoplov
+2,,,,plane,avion
+4,L08_2,synonyms - exact,auto,,auto
+5,,,,car,DUPLICATE_auto
+6,,,,automobile,automobil
+7,,,,motorcar,motorno_vozilo
+9,L08_3,synonyms - exact,baby,,beba
+10,,,,infant,dijete
+11,,,,babe,DUPLICATE_beba
+12,,,,,čedo
+13,L08_4,synonyms - exact,bicycle,,bicikl
+14,,,,bike,DUPLICATE_bicikl
+15,,,,wheel,bajk
+16,,,,cycle,bajs
+17,,,,,bic
+18,L08_5,synonyms - exact,child,,dijete
+19,,,,kid,klinac
+20,,,,youngster,mladac
+21,,,,minor,maloljetnik
+22,,,,shaver,DUPLICATE_klinac
+23,,,,nipper,klipan
+24,,,,small_fry,NO_TRANSLATION
+25,,,,tiddler,DUPLICATE_NO_TRANSLATION
+26,,,,tike,deran
+27,,,,tyke,DUPLICATE_deran
+28,,,,fry,DUPLICATE_NO_TRANSLATION
+29,,,,nestling,mladunče
+30,,,,,klinjo
+31,L08_6,synonyms - exact,cloth,,tkanina
+32,,,,fabric,DUPLICATE_tkanina
+33,,,,material,materijal
+34,,,,textile,tekstil
+35,,,,,sukno
+36,L08_7,synonyms - exact,clothes,,odjeća
+37,,,,clothing,DUPLICATE_odjeća
+38,,,,apparel,DUPLICATE_odjeća
+39,,,,dress,DUPLICATE_odjeća
+40,,,,,nošnja
+41,L08_8,synonyms - exact,confused,,zbunjen
+42,,,,baffled,smeten
+43,,,,befuddled,DUPLICATE_zbunjen
+44,,,,bemused,DUPLICATE_smeten
+45,,,,bewildered,DUPLICATE_zbunjen
+46,,,,confounded,DUPLICATE_zbunjen
+47,,,,lost,izgubljen
+48,,,,mazed,dezorijentiran
+49,,,,mixed-up,zbrčkan
+50,,,,,pogubljen
+51,L08_9,synonyms - exact,dollars,,dolari
+52,,,,bucks,DUPLICATE_dolari
+54,L08_10,synonyms - exact,emphasis,,naglasak
+55,,,,accent,DUPLICATE_naglasak
+56,,,,accentuaion,isticanje
+57,,,,importance,važnost
+58,,,,stress,DUPLICATE_naglasak
+59,,,,significance,značaj
+61,L08_11,synonyms - exact,father,,otac
+62,,,,dad,tata
+63,,,,daddy,tatica
+65,L08_12,synonyms - exact,flower,,cvijet
+66,,,,blossom,DUPLICATE_cvijet
+67,,,,bloom,cvat
+69,L08_13,synonyms - exact,harbor,,luka
+70,,,,seaport,pristanište
+71,,,,haven,utočište
+72,,,,harbour,DUPLICATE_luka
+74,L08_14,synonyms - exact,help,,pomagati
+75,,,,aid,DUPLICATE_pomagati
+76,,,,assist,DUPLICATE_pomagati
+77,,,,,pomoći
+78,L08_15,synonyms - exact,hieroglyph,,hijeroglif
+79,,,,hieroglyphic,DUPLICATE_hijeroglif
+80,,,,pictogram,piktogram
+82,L08_16,synonyms - exact,homogeneous,,homogen
+83,,,,uniform,jednoobrazan
+84,,,,unvarying,nepromjenjiv
+86,L08_17,synonyms - exact,honest,,iskren
+87,,,,sincere,DUPLICATE_iskren
+88,,,,ingenuous,otvoren
+89,,,,True,točan
+90,,,,direct,izravan
+91,,,,truthful,istinoljubiv
+92,,,,,"istinit,vjeran"
+93,L08_18,synonyms - exact,identical,,identičan
+94,,,,same,jednak
+95,,,,indistinguishable,neraspoznatljiv
+97,L08_19,synonyms - exact,incorrect,,netočan
+98,,,,wrong,pogrešan
+99,,,,counterfactual,protučinjenični
+100,,,,erroneous,DUPLICATE_pogrešan
+101,,,,inaccurate,DUPLICATE_netočan
+102,,,,specious,varljiv
+103,,,,unsound,nepouzdan
+104,,,,untrue,neistinit
+105,,,,False,DUPLICATE_netočan
+106,,,,,"neispravan,neosnovan"
+107,L08_20,synonyms - exact,intelligent,,inteligentan
+108,,,,clever,pametan
+109,,,,smart,DUPLICATE_pametan
+110,,,,,bistar
+111,L08_21,synonyms - exact,jewel,,dragulj
+112,,,,gem,dragi_kamen
+113,,,,stone,kamen
+115,L08_22,synonyms - exact,lad,,dečko
+116,,,,chap,momak
+117,,,,fellow,DUPLICATE_momak
+118,,,,feller,DUPLICATE_tip
+119,,,,fella,tip
+120,,,,gent,DUPLICATE_tip
+121,,,,blighter,klinac
+122,,,,cuss,DUPLICATE_lik
+123,,,,bloke,lik
+124,,,,,mladić
+125,L08_23,synonyms - exact,lady,,dama
+126,,,,madam,gospođa
+127,,,,dame,DUPLICATE_dama
+128,,,,ma'am,DUPLICATE_gospođa
+129,,,,gentlewoman,DUPLICATE_dama
+130,,,,madame,NO_TRANSLATION
+131,,,,woman,žena
+133,L08_24,synonyms - exact,lazy,,lijen
+134,,,,indolent,indolentan
+135,,,,faineant,DUPLICATE_indolentan
+136,,,,otiose,beskoristan
+137,,,,slothful,DUPLICATE_lijen
+138,,,,work-shy,DUPLICATE_lijen
+140,L08_25,synonyms - exact,list,,popis
+141,,,,listing,lista
+142,,,,enumeration,nabrajanje
+144,L08_26,synonyms - exact,loyal,,vjeran
+145,,,,faithful,odan
+146,,,,True,DUPLICATE_vjeran
+147,,,,dependable,pouzdan
+148,,,,devoted,DUPLICATE_odan
+149,,,,reliable,DUPLICATE_pouzdan
+151,L08_27,synonyms - exact,market,,plac
+152,,,,marketplace,tržnica
+153,,,,mart,pijaca
+154,,,,bazaar,bazar
+156,L08_28,synonyms - exact,mend,,popraviti
+157,,,,repair,DUPLICATE_popraviti
+158,,,,fix,DUPLICATE_popraviti
+159,,,,fixing,popravljanje
+160,,,,fixture,popravak
+161,,,,mending,saniranje
+162,,,,reparation,DUPLICATE_popravak
+163,,,,patch,zakrpa
+164,,,,darn,DUPLICATE_zakrpa
+165,,,,darning,krpanje
+166,,,,,krpiti
+167,L08_29,synonyms - exact,mesh,,mreža
+168,,,,gauze,gaza
+169,,,,netting,DUPLICATE_mreža
+170,,,,veiling,veo
+171,,,,hairnet,mrežica_za_kosu
+172,,,,reseau,mrežica
+173,,,,net,DUPLICATE_mreža
+174,,,,save-all,zaštitna_mreža
+175,,,,snood,DUPLICATE_mrežica_za_kosu
+176,,,,sparker,NO_TRANSLATION
+177,,,,tulle,til
+178,,,,wirework,DUPLICATE_mreža
+179,,,,grillwork,rešetka
+181,L08_30,synonyms - exact,monument,,spomenik
+182,,,,memorial,memorijal
+184,L08_31,synonyms - exact,mother,,majka
+185,,,,mom,mama
+186,,,,mommy,mamica
+187,,,,mum,DUPLICATE_mama
+188,,,,,mater
+189,L08_32,synonyms - exact,murder,,ubojstvo
+190,,,,slaying,ubijanje
+191,,,,slay,DUPLICATE_ubojstvo
+192,,,,execution,egzekucija
+193,,,,,umorstvo
+194,L08_33,synonyms - exact,new,,nov
+195,,,,modern,moderan
+196,,,,recent,suvremen
+198,L08_34,synonyms - exact,obsolete,,zastario
+199,,,,outdated,staromodan
+200,,,,out-of-date,DUPLICATE_zastario
+201,,,,superannuated,DUPLICATE_zastario
+203,L08_35,synonyms - exact,organized,,organiziran
+204,,,,arranged,uređen
+205,,,,configured,konfiguriran
+206,,,,corporate,ustrojen
+207,,,,incorporated,ugrađen
+208,,,,re-formed,reformiran
+209,,,,reorganized,preustrojen
+210,,,,reorganised,DUPLICATE_preustrojen
+211,,,,,reorganiziran
+212,L08_36,synonyms - exact,package,,paket
+213,,,,parcel,pošiljka
+214,,,,pack,DUPLICATE_paket
+215,,,,packet,DUPLICATE_paket
+216,,,,bundle,svežanj
+217,,,,,zamotuljak
+218,L08_37,synonyms - exact,phone,,telefon
+219,,,,telephone,DUPLICATE_telefon
+220,,,,cell,mob
+221,,,,cellphone,mobitel
+222,,,,smartphone,pametni_telefon
+224,L08_38,synonyms - exact,portion,,udio
+225,,,,part,dio
+226,,,,component_part,sastavni_dio
+227,,,,component,komponenta
+228,,,,constituent,sastavnica
+230,L08_39,synonyms - exact,railway,,željeznica
+231,,,,railroad,željeznička_pruga
+232,,,,,pruga
+233,L08_40,synonyms - exact,rational,,racionalan
+234,,,,logical,logičan
+235,,,,coherent,koherentan
+236,,,,reasonable,razuman
+237,,,,sane,razborit
+239,L08_41,synonyms - exact,reasonable,,razuman
+240,,,,sensible,razborit
+242,L08_42,synonyms - exact,rock,,kamen
+243,,,,stone,stijena
+245,L08_43,synonyms - exact,shore,,obala
+246,,,,coast,DUPLICATE_obala
+247,,,,strand,žal
+248,,,,bank,DUPLICATE_obala
+249,,,,beach,plaža
+250,,,,,"priobalje,sprud"
+251,L08_44,synonyms - exact,snake,,zmija
+252,,,,serpent,DUPLICATE_zmija
+253,,,,ophidian,DUPLICATE_zmija
+254,,,,,guja
+255,L08_45,synonyms - exact,sofa,,sofa
+256,,,,couch,kauč
+257,,,,lounge,divan
+259,L08_46,synonyms - exact,spouse,,bračni_drug
+260,,,,partner,partner
+261,,,,mate,drug
+262,,,,better_half,bolja_polovica
+263,,,,,družica
+264,L08_47,synonyms - exact,style,,stil
+265,,,,manner,manira
+266,,,,mode,način
+267,,,,fashion,moda
+268,,,,way,DUPLICATE_način
+270,L08_48,synonyms - exact,sweets,,slatkiši
+271,,,,confectionery,slastice
+272,,,,dessert,desert
+273,,,,confection,DUPLICATE_slatkiši
+275,L08_49,synonyms - exact,villain,,zlikovac
+276,,,,scoundrel,nitkov
+277,,,,rascal,lupež
+278,,,,,hulja
+279,L08_50,synonyms - exact,vocabulary,,vokabular
+280,,,,lexicon,leksikon
+281,,,,wordbook,DUPLICATE_rječnik
+282,,,,dictionary,rječnik
+283,,,,glossary,glosar

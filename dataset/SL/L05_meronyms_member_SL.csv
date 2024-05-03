@@ -1,0 +1,164 @@
+,ID,Relation,Source,Target,SL
+0,L05_1,meronyms - member,acrobat,,akrobat
+1,,,,troupe,skupina
+3,L05_2,meronyms - member,antelope,,antilopa
+4,,,,herd,čreda
+6,L05_3,meronyms - member,bee,,čebela
+7,,,,swarm,roj
+8,,,,hive,panj
+9,,,,colony,kolonija
+10,,,,drift,zanos
+11,,,,cast,igralska_zasedba
+12,,,,nest,gnezdo
+13,,,,rabble,drhal
+14,,,,stand,stojalo
+16,L05_4,meronyms - member,bird,,ptica
+17,,,,flock,jata
+19,L05_5,meronyms - member,book,,knjiga
+20,,,,library,knjižnica
+21,,,,shelf,polica
+22,,,,collection,zbirja
+23,,,,accounting,računovodstvo
+24,,,,accounting_system,računovodski_sistem
+25,,,,method_of_accounting,metoda_zaračunavanja
+27,L05_6,meronyms - member,calf,,teleta
+28,,,,cattle,govedo
+29,,,,herd,čreda
+31,L05_7,meronyms - member,car,,avto
+32,,,,train,vlak
+33,,,,procession,procesija
+35,L05_8,meronyms - member,cat,,mačka
+36,,,,clowder,krdelo
+37,,,,glaring,bleščeče
+38,,,,clutter,navlaka
+39,,,,pounce,poskakovanje
+41,L05_9,meronyms - member,cattle,,govedo
+42,,,,herd,čreda
+44,L05_10,meronyms - member,christian,,krščanski
+45,,,,congregation,kongregacija
+46,,,,church,cerkev
+47,,,,parish,župnija
+49,L05_11,meronyms - member,citizen,,državljan
+50,,,,citizenry,državljanstvo
+51,,,,country,država
+52,,,,state,zvezna_država
+54,L05_12,meronyms - member,college,,fakulteta
+55,,,,university,univerza
+57,L05_13,meronyms - member,county,,okrožje
+58,,,,state,zvezna_država
+59,,,,country,država
+61,L05_14,meronyms - member,cow,,krava
+62,,,,herd,čreda
+64,L05_15,meronyms - member,crow,,vrana
+65,,,,murder,umor
+67,L05_16,meronyms - member,division,,divizija
+68,,,,company,podjetje
+69,,,,business,posel
+70,,,,platoon,čreda
+71,,,,battle_group,bojna_skupina
+73,L05_17,meronyms - member,elephant,,slon
+74,,,,herd,čreda
+76,L05_18,meronyms - member,employee,,zaposleni
+77,,,,staff,osebje
+78,,,,company,podjetje
+80,L05_19,meronyms - member,fish,,riba
+81,,,,school,šola
+83,L05_20,meronyms - member,flower,,roža
+84,,,,bouquet,šopek
+85,,,,bunch,šop
+87,L05_21,meronyms - member,galaxy,,galaksija
+88,,,,universe,vesolje
+90,L05_22,meronyms - member,goose,,gos
+91,,,,gaggle,čreda
+93,L05_23,meronyms - member,juror,,porotnik
+94,,,,jury,porota
+96,L05_24,meronyms - member,kitten,,mucka
+97,,,,litter,leglo
+99,L05_25,meronyms - member,letter,,pismo
+100,,,,alphabet,abeceda
+102,L05_26,meronyms - member,lion,,lev
+103,,,,pride,ponos
+105,L05_27,meronyms - member,listener,,poslušalec
+106,,,,audience,publika
+108,L05_28,meronyms - member,member,,član
+109,,,,club,klub
+110,,,,team,ekipa
+111,,,,group,skupina
+112,,,,band,bend
+113,,,,community,skupnost
+115,L05_29,meronyms - member,musician,,glasbenik
+116,,,,orchestra,orkester
+117,,,,band,bend
+119,L05_30,meronyms - member,nomad,,nomad
+120,,,,horde,horda
+122,L05_31,meronyms - member,page,,stran
+123,,,,book,knjiga
+124,,,,notebook,zvezek
+125,,,,website,spletišče
+126,,,,web-site,DUPLICATE_spletišče
+128,L05_32,meronyms - member,parishioner,,župnik
+129,,,,parish,župnija
+130,,,,church,cerkev
+132,L05_33,meronyms - member,person,,oseba
+133,,,,society,družba
+134,,,,company,podjetje
+135,,,,party,zabava
+136,,,,world,svet
+138,L05_34,meronyms - member,photo,,fotografija
+139,,,,album,album
+140,,,,collection,zbirka
+141,,,,library,knjižnica
+143,L05_35,meronyms - member,player,,igralec
+144,,,,team,ekipa
+145,,,,group,skupina
+146,,,,orchestra,orkester
+148,L05_36,meronyms - member,policeman,,policist
+149,,,,police,policija
+151,L05_37,meronyms - member,secretary,,sekretar
+152,,,,staff,osebje
+154,L05_38,meronyms - member,senator,,senator
+155,,,,senate,senat
+156,,,,house,hiša
+158,L05_39,meronyms - member,sheep,,ovca
+159,,,,flock,jata
+161,L05_40,meronyms - member,shrub,,grm
+162,,,,shrubbery,grmičevje
+164,L05_41,meronyms - member,singer,,pevka
+165,,,,choir,zbor
+166,,,,band,bend
+167,,,,duo,duet
+168,,,,trio,trio
+169,,,,quartet,kvartet
+171,L05_42,meronyms - member,soldier,,vojak
+172,,,,army,vojska
+173,,,,unit,enota
+174,,,,division,divizija
+175,,,,troop,četa
+177,L05_43,meronyms - member,song,,pesem
+178,,,,album,album
+179,,,,collection,zbirka
+180,,,,antology,antologija
+181,,,,library,knjižnica
+183,L05_44,meronyms - member,spouse,,zakonec
+184,,,,couple,par
+185,,,,relationship,razmerje
+186,,,,family,družina
+188,L05_45,meronyms - member,star,,zvezda
+189,,,,constellation,ozvezdje
+190,,,,galaxy,galaksija
+192,L05_46,meronyms - member,state,,zvezna_država
+193,,,,country,država
+194,,,,province,provinca
+196,L05_47,meronyms - member,student,,študent
+197,,,,class,razred
+198,,,,school,šola
+200,L05_48,meronyms - member,tree,,drevo
+201,,,,forest,gozd
+202,,,,wood,les
+203,,,,grove,nasad
+205,L05_49,meronyms - member,wolf,,volk
+206,,,,pack,krdelo
+208,L05_50,meronyms - member,word,,beseda
+209,,,,paragraph,odstavek
+210,,,,sentence,stavek
+211,,,,text,besedilo

@@ -1,0 +1,239 @@
+,ID,Relation,Source,Target,BM
+0,L08_1,synonyms - exact,airplane,,_pankurun
+1,,,,aeroplane,DUPLICATE__pankurun
+2,,,,plane,DUPLICATE__pankurun
+3,,,,,awiyɔn
+4,L08_2,synonyms - exact,auto,,mɔbili
+5,,,,car,DUPLICATE_mɔbili
+6,,,,automobile,DUPLICATE_mɔbili
+7,,,,motorcar,DUPLICATE_mɔbili
+9,L08_3,synonyms - exact,baby,,den
+10,,,,infant,DUPLICATE_den
+11,,,,babe,DUPLICATE_den
+13,L08_4,synonyms - exact,bicycle,,nɛgɛso
+14,,,,bike,nɛgɛso
+15,,,,wheel,DUPLICATE_nɛgɛso
+16,,,,cycle,DUPLICATE_nɛgɛso
+18,L08_5,synonyms - exact,child,,_denmisɛn
+19,,,,kid,DUPLICATE__denmisɛn
+20,,,,youngster,kamalennin
+21,,,,minor,dɔgɔmani
+23,,,,nipper,cɛni
+24,,,,small_fry,NO_TRANSLATION
+25,,,,tiddler,DUPLICATE_NO_TRANSLATION
+26,,,,tike,DUPLICATE_NO_TRANSLATION
+27,,,,tyke,DUPLICATE_NO_TRANSLATION
+29,,,,nestling,denmisɛnninw
+31,L08_6,synonyms - exact,cloth,,fini
+32,,,,fabric,finimugu
+33,,,,material,NO_TRANSLATION
+34,,,,textile,finiko
+36,L08_7,synonyms - exact,clothes,,fini_
+37,,,,clothing,finiw_don
+38,,,,apparel,finiw_doncogo
+39,,,,dress,DUPLICATE_fini
+41,L08_8,synonyms - exact,confused,,ɲaamilen
+42,,,,baffled,hakili_ɲagami
+43,,,,befuddled,DUPLICATE_hakili_ɲagami
+44,,,,bemused,hakili_ɲagaminen
+45,,,,bewildered,DUPLICATE_hakili_ɲagaminen
+46,,,,confounded,DUPLICATE_hakili_ɲagaminen
+47,,,,lost,tununi
+48,,,,mazed,NO_TRANSLATION
+49,,,,mixed-up,ɲagami-ka-bɔ
+51,L08_9,synonyms - exact,dollars,,dollars
+52,,,,bucks,warimisen
+53,,,,,wari
+54,L08_10,synonyms - exact,emphasis,,faranfasiya
+55,,,,accent,DUPLICATE_faranfasiya
+56,,,,accentuaion,DUPLICATE_faranfasiya
+57,,,,importance,nafa
+58,,,,stress,hamina
+59,,,,significance,DUPLICATE_importance
+61,L08_11,synonyms - exact,father,,fa
+62,,,,dad,"fa,_ba_,_baba"
+63,,,,daddy,baba
+64,,,,,facɛ
+65,L08_12,synonyms - exact,flower,,filɛri
+66,,,,blossom,falen-falen
+67,,,,bloom,DUPLICATE_falen-falen
+69,L08_13,synonyms - exact,harbor,,gunkan
+70,,,,seaport,kɔgɔjida
+71,,,,haven,dogoyɔrɔ
+72,,,,harbour,DUPLICATE_gunkan
+73,,,,,"pɔri,kurunboli_yɔrɔ"
+74,L08_14,synonyms - exact,help,,dɛmɛ
+75,,,,aid,dɛmɛ_don
+76,,,,assist,dɛmɛli
+78,L08_15,synonyms - exact,hieroglyph,,NO_TRANSLATION
+79,,,,hieroglyphic,NO_TRANSLATION
+80,,,,pictogram,DUPLICATE_NO_TRANSLATION
+82,L08_16,synonyms - exact,homogeneous,,kelen-kelen
+83,,,,uniform,NO_TRANSLATION
+84,,,,unvarying,min_te_falen
+86,L08_17,synonyms - exact,honest,,_kilennen_
+87,,,,sincere,DUPLICATE__kilennen
+88,,,,ingenuous,hakilitigi
+89,,,,True,sɛbɛ
+90,,,,direct,DUPLICATE__kilennen
+91,,,,truthful,tiɲɛ_na
+92,,,,,"ladri,tiɲɛtigi,sɛbɛ"
+93,L08_18,synonyms - exact,identical,,kelen
+94,,,,same,DUPLICATE_kelen
+95,,,,indistinguishable,DUPLICATE_kelen
+97,L08_19,synonyms - exact,incorrect,,tiɲɛtɛ
+98,,,,wrong,hakɛ
+99,,,,counterfactual,min_bɛ_ɲɔgɔn_sɔsɔ
+100,,,,erroneous,DUPLICATE_hakɛ
+101,,,,inaccurate,min_tɛ_tiɲɛ_ye
+102,,,,specious,NO_TRANSLATION
+103,,,,unsound,min_tɛ_mankan_bɔ
+104,,,,untrue,tiɲɛ_tɛ
+105,,,,False,galon
+107,L08_20,synonyms - exact,intelligent,,hakiliduman
+108,,,,clever,kegun
+109,,,,smart,DUPLICATE_kegun
+111,L08_21,synonyms - exact,jewel,,kabakurun
+112,,,,gem,NO_TRANSLATION
+113,,,,stone,gabakurun
+115,L08_22,synonyms - exact,lad,,cɛmani
+116,,,,chap,ngacɛ
+117,,,,fellow,jɛɲɔgɔn
+118,,,,feller,NO_TRANSLATION
+119,,,,fella,mɔgɔw
+120,,,,gent,jama
+121,,,,blighter,DUPLICATE_ngacɛ
+122,,,,cuss,DUPLICATE_NO_TRANSLATION
+123,,,,bloke,DUPLICATE_ngacɛ
+125,L08_23,synonyms - exact,lady,,muso
+126,,,,madam,madamu
+127,,,,dame,DUPLICATE_muso
+128,,,,ma'am,DUPLICATE_madamu
+129,,,,gentlewoman,muso_cɛɲi
+130,,,,madame,DUPLICATE_madamu
+131,,,,woman,DUPLICATE_lady
+133,L08_24,synonyms - exact,lazy,,salabaatɔ
+134,,,,indolent,baarakɛbaliya
+135,,,,faineant,DUPLICATE_indolent
+136,,,,otiose,kolon
+137,,,,slothful,sɛgɛnbagatɔw
+138,,,,work-shy,NO_TRANSLATION
+140,L08_25,synonyms - exact,list,,lisi
+141,,,,listing,DUPLICATE_lisi
+142,,,,enumeration,jatebɔcogo
+144,L08_26,synonyms - exact,loyal,,kantigi
+145,,,,faithful,DUPLICATE_loyal
+146,,,,True,SƐBƐ
+147,,,,dependable,"lakanalen,jaati"
+148,,,,devoted,kariyalen
+149,,,,reliable,lanayabaa
+151,L08_27,synonyms - exact,market,,sugu
+152,,,,marketplace,suguba_dɔ
+153,,,,mart,DUPLICATE_market
+154,,,,bazaar,NO_TRANSLATION
+156,L08_28,synonyms - exact,mend,,ka_labɛn
+157,,,,repair,ka_dilan
+158,,,,fix,DUPLICATE_ka_dilan
+159,,,,fixing,DUPLICATE_ka_dilan
+160,,,,fixture,NO_TRANSLATION
+161,,,,mending,fɛnw_ladilancogo
+162,,,,reparation,dilanni
+163,,,,patch,ka_bari
+164,,,,darn,Kɔrɔtɔli
+165,,,,darning,DUPLICATE_NO_TRANSLATION
+167,L08_29,synonyms - exact,mesh,,mesɛri
+168,,,,gauze,NO_TRANSLATION
+169,,,,netting,juru
+170,,,,veiling,finimugu_dacogo
+171,,,,hairnet,kunsigi_tigɛ
+172,,,,reseau,erezo
+173,,,,net,neti
+174,,,,save-all,DUPLICATE_NO_TRANSLATION
+175,,,,snood,DUPLICATE_NO_TRANSLATION
+176,,,,sparker,DUPLICATE_NO_TRANSLATION
+177,,,,tulle,DUPLICATE_NO_TRANSLATION
+178,,,,wirework,DUPLICATE_NO_TRANSLATION
+179,,,,grillwork,DUPLICATE_NO_TRANSLATION
+181,L08_30,synonyms - exact,monument,,kabakomayɔrɔ
+182,,,,memorial,hakilijigin_don
+184,L08_31,synonyms - exact,mother,,bamuso
+185,,,,mom,"ba,na"
+186,,,,mommy,DUPLICATE_ba
+187,,,,mum,DUPLICATE_ba
+188,,,,,ma
+189,L08_32,synonyms - exact,murder,,mɔgɔfaga
+190,,,,slaying,fagali
+191,,,,slay,DUPLICATE_fagali
+192,,,,execution,DUPLICATE_fagali
+194,L08_33,synonyms - exact,new,,kura
+195,,,,modern,DUPLICATE_new
+196,,,,recent,kɔsa_in_na
+198,L08_34,synonyms - exact,obsolete,,datibanen
+199,,,,outdated,DUPLICATE_datibanen
+200,,,,out-of-date,dati_bana
+201,,,,superannuated,kɔrɔlen_don
+203,L08_35,synonyms - exact,organized,,labɛnna
+204,,,,arranged,DUPLICATE_labɛnna
+205,,,,configured,DUPLICATE_labɛnna
+206,,,,corporate,tɔnba_dɔ
+207,,,,incorporated,NO_TRANSLATION
+208,,,,re-formed,ladilanni_kɛra
+209,,,,reorganized,labɛnna_kokura
+212,L08_36,synonyms - exact,package,,pake
+213,,,,parcel,bɛnbɛli
+214,,,,pack,ka_faraɲɔgɔn_kan
+215,,,,packet,DUPLICATE_ka_faraɲɔgɔn_kan
+216,,,,bundle,fɔrifɛ
+218,L08_37,synonyms - exact,phone,,telefɔni
+219,,,,telephone,DUPLICATE_phone
+220,,,,cell,selili
+221,,,,cellphone,telefɔni_selilɛri
+222,,,,smartphone,NO_TRANSLATION
+224,L08_38,synonyms - exact,portion,,yɔrɔ_dɔ
+225,,,,part,"fan,niyɔrɔ"
+226,,,,component_part,NO_TRANSLATION
+227,,,,component,DUPLICATE_yɔrɔ_dɔ
+228,,,,constituent,DUPLICATE_NO_TRANSLATION
+230,L08_39,synonyms - exact,railway,,nɛgɛsiraba
+231,,,,railroad,nɛgɛsira
+233,L08_40,synonyms - exact,rational,,nafaman
+234,,,,logical,hakilinata-jɔ-cogow
+235,,,,coherent,bɛnkansɛbɛnw
+236,,,,reasonable,fisa
+237,,,,sane,kɛnɛman
+239,L08_41,synonyms - exact,reasonable,,fisa
+240,,,,sensible,fɛgɛya
+242,L08_42,synonyms - exact,rock,,farakurun
+243,,,,stone,gabakurun
+245,L08_43,synonyms - exact,shore,,jida
+246,,,,coast,kɔgɔjida
+247,,,,strand,jiribolo
+248,,,,bank,waribon
+249,,,,beach,jida
+251,L08_44,synonyms - exact,snake,,sa
+252,,,,serpent,DUPLICATE_snake
+253,,,,ophidian,dugumanfen
+255,L08_45,synonyms - exact,sofa,,sofa
+256,,,,couch,dilan
+257,,,,lounge,salɔn
+259,L08_46,synonyms - exact,spouse,,furumuso
+260,,,,partner,jɛɲɔgɔn
+261,,,,mate,tɔɲɔgɔn
+262,,,,better_half,tɔkelen
+264,L08_47,synonyms - exact,style,,mɔdɛli
+265,,,,manner,"cogo,_toko"
+266,,,,mode,"cogo_la,_toko_la"
+267,,,,fashion,DUPLICATE_mɔdɛli
+268,,,,way,DUPLICATE_mɔdɛli
+270,L08_48,synonyms - exact,sweets,,dumunifɛn_dumanw
+271,,,,confectionery,konfesiyɔnw_dilanni
+272,,,,dessert,desɛri
+273,,,,confection,konfesiyɔn
+275,L08_49,synonyms - exact,villain,,cɛjugu
+276,,,,scoundrel,mɔgɔ_nɔgɔlen
+277,,,,rascal,nalonmaya
+279,L08_50,synonyms - exact,vocabulary,,wokabilɛri
+280,,,,lexicon,daɲɛgafe
+281,,,,wordbook,DUPLICATE_lexicon
+282,,,,dictionary,DUPLICATE_lexicon
+283,,,,glossary,daɲɛgafe_kɔnɔ

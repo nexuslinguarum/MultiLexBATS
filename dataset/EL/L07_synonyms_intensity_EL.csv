@@ -1,0 +1,322 @@
+,ID,Relation,Source,Target,EL
+0,L07_1,synonyms - intensity,afraid,,φοβισμένος
+1,,,,terrified,τρομοκρατημένος
+2,,,,horrified,DUPLICATE_τρομοκρατημένος
+3,,,,scared,DUPLICATE_φοβισμένος
+4,,,,stiff,σφιγμένος
+5,,,,petrified,πετρωμένος
+6,,,,fearful,γεμάτος_φόβο
+7,,,,panicky,πανικόβλητος
+9,L07_2,synonyms - intensity,angry,,θυμωμένος
+10,,,,furious,έξαλλος
+11,,,,enraged,οργισμένος
+12,,,,outraged,εξοργισμένος
+13,,,,aggrivated,νευριασμένος
+14,,,,irate,τσαντισμένος
+15,,,,seething,DUPLICATE_θυμωμένος
+17,L07_3,synonyms - intensity,ask,,ζητάω
+18,,,,beg,παρακαλάω
+19,,,,implore,ικετεύω
+20,,,,pray,προσεύχομαι
+21,,,,entreat,εκλιπαρώ
+22,,,,supplicate,DUPLICATE_εκλιπαρώ
+23,,,,insist,επιμένω
+25,L07_4,synonyms - intensity,bad,,κακός
+26,,,,awful,απαίσιος
+27,,,,atrocious,απεχθής
+28,,,,abominable,αποκρουστικός
+29,,,,dreadful,τρομακτικός
+30,,,,painful,οδυνηρός
+31,,,,terrible,τρομερός
+32,,,,unspeakable,ανείπωτος
+34,L07_5,synonyms - intensity,boring,,βαρετός
+35,,,,tedious,ανιαρός
+36,,,,deadening,παραλυτικός
+37,,,,dull,μονότονος
+38,,,,ho-hum,NO_TRANSLATION
+39,,,,irksome,ενοχλητικός
+40,,,,tiresome,κουραστικός
+41,,,,wearisome,κοπιαστικός
+43,L07_6,synonyms - intensity,cat,,γάτα
+44,,,,lion,λιοντάρι
+45,,,,tiger,τίγρης
+46,,,,leopard,λεοπάρδαλη
+47,,,,panther,πάνθηρας
+48,,,,jaguar,ιαγουάρος
+49,,,,,λέοντας
+50,L07_7,synonyms - intensity,chuckle,,χαχανητό
+51,,,,laugh,γέλιο
+52,,,,guffaw,δυνατό_γέλιο
+53,,,,chortle,κρυφό_γέλιο
+54,,,,snicker,ειρωνικό_γέλιο
+55,,,,snigger,DUPLICATE_ειρωνικό_γέλιο
+56,,,,titter,νευρικό_γελάκι
+57,,,,roar,βρυχηθμός
+58,,,,,"γελάκι,πνιχτό_γέλιο"
+59,L07_8,synonyms - intensity,confused,,μπερδεμένος
+60,,,,lost,χαμένος
+61,,,,bewildered,αγριεμένος
+62,,,,trapped,παγιδευμένος
+63,,,,desperate,απελπισμένος
+64,,,,,"συγχυσμένος,μπλεγμένος"
+65,L07_9,synonyms - intensity,creative,,δημιουργικός
+66,,,,ingenious,ευρηματικός
+67,,,,inventive,εφευρετικός
+68,,,,demiurgic,DUPLICATE_δημιουργικός
+69,,,,deviceful,πολυμήχανος
+70,,,,innovational,καινοτόμος
+71,,,,innovative,DUPLICATE_καινοτόμος
+72,,,,innovatory,DUPLICATE_καινοτόμος
+73,,,,original,πρωτότυπος
+74,,,,originative,νεοτεριστικός
+75,,,,,"δαιμόνιος,νεοτεριστής"
+76,L07_10,synonyms - intensity,cry,,φωνή
+77,,,,scream,ουρλιαχτό
+78,,,,shriek,τσίριγμα
+79,,,,screech,στριγκλιά
+80,,,,screeching,στρίγκλισμα
+82,L07_11,synonyms - intensity,damp,,υγρός
+83,,,,drenched,νωτισμένος
+84,,,,dripping,που_στάζει
+85,,,,saturated,εμποτισμένος
+86,,,,soaked,μουλιασμένος
+87,,,,soaking,νωπός
+88,,,,sodden,μουσκεμένος
+89,,,,sopping,μούσκεμα
+90,,,,soppy,DUPLICATE_μούσκεμα
+91,,,,soused,καταβρεγμένος
+92,,,,wringing-wet,μουσκίδι
+93,,,,,διαποτισμένος
+94,L07_12,synonyms - intensity,dinner,,δείπνο
+95,,,,feast,γεύμα
+96,,,,banquet,συμπόσιο
+97,,,,fiesta,γιορτή
+98,,,,,"επίσημο_δείπνο,φιέστα"
+99,L07_13,synonyms - intensity,dislike,,αντιπαθώ
+100,,,,hate,μισώ
+101,,,,abhor,αποστρέφομαι
+102,,,,detest,σιχαίνομαι
+103,,,,loathe,απεχθάνομαι
+104,,,,abominate,DUPLICATE_απεχθάνομαι
+105,,,,execrate,DUPLICATE_απεχθάνομαι
+106,,,,contemn,περιφρονώ
+107,,,,despise,DUPLICATE_απεχθάνομαι
+108,,,,scorn,καταφρονώ
+109,,,,disdain,απαξιώνω
+110,,,,,σνομπάρω
+111,L07_14,synonyms - intensity,doze,,λαγοκοιμάμαι
+112,,,,sleep,κοιμάμαι
+113,,,,slumber,DUPLICATE_κοιμάμαι
+115,L07_15,synonyms - intensity,drizzle,,ψιλόβροχο
+116,,,,rain,βροχή
+117,,,,shower,DUPLICATE_βροχή
+118,,,,raifall,βροχόπτωση
+119,,,,deluge,κατακλυσμός
+121,,,,,"πλημμύρα,καταιγίδα"
+122,L07_16,synonyms - intensity,excited,,ξεσηκωμένος
+123,,,,agitated,ταραγμένος
+124,,,,nervous,νευρικός
+125,,,,,ανήσυχος
+126,L07_17,synonyms - intensity,faith,,πίστη
+127,,,,fanatism,φανατισμός
+128,,,,fanaticism,DUPLICATE_φανατισμός
+129,,,,zealotry,πώρωση
+131,L07_18,synonyms - intensity,giggle,,χαχανητό
+132,,,,laugh,γέλιο
+133,,,,guffaw,δυνατό_γέλιο
+134,,,,chortle,κρυφό_γέλιο
+135,,,,snicker,ειρωνικό_γέλιο
+136,,,,snigger,DUPLICATE_ειρωνικό_γέλιο
+137,,,,titter,νευρικό_γελάκι
+138,,,,roar,βρυχηθμός
+139,,,,,"γελάκι,πνιχτό_γέλιο"
+140,L07_19,synonyms - intensity,guilty,,ένοχος
+141,,,,remorseful,μεταμελημένος
+142,,,,sorrowful,λυπημένος
+143,,,,unworthy,ανάξιος
+144,,,,,μετανιωμένος
+145,L07_20,synonyms - intensity,happy,,ευτυχισμένος
+146,,,,ecstatic,εκστατικός
+147,,,,enraptured,ενθουσιασμένος
+148,,,,rapturous,μαγεμένος
+149,,,,rapt,συνεπαρμένος
+150,,,,rhapsodic,κατενθουσιασμένος
+151,,,,,"ενθουσιώδης,εκστασιασμένος"
+152,L07_21,synonyms - intensity,house,,σπίτι
+153,,,,palace,παλάτι
+154,,,,castle,κάστρο
+156,L07_22,synonyms - intensity,hungry,,πεινασμένος
+157,,,,starving,λυσσασμένος_της_πείνας
+158,,,,famished,που_λιμοκτονεί
+159,,,,peckish,ψιλοπεινσμένος
+160,,,,ravenous,λυσσασμένος
+161,,,,starved,που_πεθαίνει_της_πείνας
+163,L07_23,synonyms - intensity,indulge,,καλομαθαίνω
+164,,,,pamper,DUPLICATE_καλομαθαίνω
+165,,,,spoil,κακομαθαίνω
+166,,,,coddle,φροντίζω
+167,,,,,περιποιούμαι
+168,L07_24,synonyms - intensity,interesting,,ενδιαφέρων
+169,,,,exciting,συναρπαστικός
+170,,,,exhilarant,DUPLICATE_συναρπαστικός
+171,,,,exhilarating,DUPLICATE_συναρπαστικός
+172,,,,exhilarative,DUPLICATE_συναρπαστικός
+173,,,,eye-popping,που_πετάει_τα_μάτια_έξω
+174,,,,inspiring,που_εμπνέει
+175,,,,intoxicating,μεθυστικός
+176,,,,rousing,ξεσηκωτικός
+177,,,,stimulating,συγκλονιστικός
+178,,,,stirring,εμπνευσμένος
+179,,,,arresting,εντυπωσιακός
+181,,,,intriguing,που_κεντρίζει_το_ενδιαφέρον
+182,,,,moving,συγκινητικός
+183,,,,provocative,προκλητικός
+184,,,,heady,απολαυστικός
+185,,,,thrilling,που_προκαλεί_έκπληξη
+186,,,,,"συγκλονιστικός,μαγευτικός,εμψυχωτικός"
+187,L07_25,synonyms - intensity,irritate,,νευριάζω
+188,,,,enrage,εκνευρίζω
+189,,,,incense,εξοργίζω
+190,,,,infuriate,κάνω_έξω_φρενών
+191,,,,ire,DUPLICATE_εκνευρίζω
+192,,,,mad,τρελαίνω
+193,,,,madden,ξετρελαίνω
+194,,,,steam,φορτώνω
+195,,,,umbrage,κάνω_πυρ_και_μανία
+197,L07_26,synonyms - intensity,jog,,κάνω_τζόγκιν
+198,,,,run,τρέχω
+199,,,,scarper,το_σκάω
+200,,,,flee,την_κοπανάω
+201,,,,fly,DUPLICATE_το_σκάω
+203,L07_27,synonyms - intensity,lake,,λίμνη
+204,,,,sea,θάλασσα
+205,,,,ocean,ωκεανός
+207,L07_28,synonyms - intensity,like,,μου_αρέσει
+208,,,,love,αγαπώ
+209,,,,care,νοιάζομαι
+210,,,,fond,μου_αρέσει
+211,,,,crush,καψουρεύομαι
+212,,,,infatuate,γοητεύω
+213,,,,,σαγηνεύω
+214,L07_29,synonyms - intensity,love,,αγαπώ
+215,,,,adore,λατρεύω
+216,,,,fetishize,έχω_φετίχ
+217,,,,idolize,θεοποιώ
+218,,,,idolise,DUPLICATE_θεοποιώ
+219,,,,worship,DUPLICATE_λατρεύω
+220,,,,hero-worship,ηρωοποιώ
+221,,,,revere,τιμάω
+223,L07_30,synonyms - intensity,monkey,,πίθηκος
+224,,,,gorilla,γορίλας
+226,L07_31,synonyms - intensity,nap,,υπνάκος
+227,,,,sleep,ύπνος
+228,,,,slumber,DUPLICATE_ύπνος
+230,L07_32,synonyms - intensity,necessary,,αναγκαίος
+231,,,,essential,ουσιαστικός
+232,,,,indispensable,απαραίτητος
+233,,,,vital,ζωτικός
+234,,,,required,απαιτούμενος
+235,,,,,"ουσιώδης,κρίσιμος,βασικός"
+236,L07_33,synonyms - intensity,opposed,,αντίθετος
+237,,,,averse,που_απεχθάνεται
+238,,,,antipathetic,αντιπαθητικός
+239,,,,antipathetical,DUPLICATE_αντιπαθητικός
+240,,,,indisposed,άρρωστος
+241,,,,loath,που_σιχαίνεται
+242,,,,loth,απρόθυμος
+244,L07_34,synonyms - intensity,pain,,πόνος
+245,,,,torment,βάσανο
+246,,,,torture,βασανιστήριο
+247,,,,agony,αγωνία
+249,L07_35,synonyms - intensity,pony,,πόνι
+250,,,,horse,άλογο
+252,L07_36,synonyms - intensity,poorly,,άσχημα
+253,,,,afflicted,που_έχει_πληγεί
+254,,,,sick,άρρωστος
+255,,,,ill,ασθενής
+256,,,,stricken,που_έχει_επηρεαστεί
+258,L07_37,synonyms - intensity,rain,,βροχή
+259,,,,deluge,κατακλυσμός
+260,,,,shower,DUPLICATE_βροχή
+262,L07_38,synonyms - intensity,sad,,λυπημένος
+263,,,,desparate,στενοχωρημένος
+264,,,,despondent,αποκαρδιωμένος
+265,,,,despairing,απεγνωσμένος
+266,,,,desponding,DUPLICATE_αποκαρδιωμένος
+267,,,,forlorn,DUPLICATE_στενοχωρημένος
+268,,,,hopeless,απελπισμένος
+269,,,,melancholy,μελαγχολικός
+271,,,,,δυστυχισμένος
+272,L07_39,synonyms - intensity,sea,,θάλασσα
+273,,,,ocean,ωκεανός
+275,L07_40,synonyms - intensity,snack,,σνακ
+276,,,,meal,γεύμα
+277,,,,eat,τρώω
+279,L07_41,synonyms - intensity,sniffles,,συνάχι
+280,,,,pneumonia,πνευμονία
+282,L07_42,synonyms - intensity,soon,,σύντομα
+283,,,,immediately,άμεσα
+284,,,,promptly,έγκαιρα
+285,,,,straightaway,αμέσως
+286,,,,,"γρήγορα,εγκαίρως,πάραυτα"
+287,L07_43,synonyms - intensity,strong,,δυνατός
+288,,,,powerful,ισχυρός
+289,,,,forceful,δυναμικός
+290,,,,super,σούπερ
+291,,,,potent,DUPLICATE_δυνατός
+293,L07_44,synonyms - intensity,tasty,,γευστικός
+294,,,,delicious,εύγευστος
+295,,,,delectable,λαχταριστός
+296,,,,luscious,απολαυστικός
+297,,,,pleasant-tasting,ορεκτικός
+298,,,,scrumptious,πεντανόστιμος
+299,,,,toothsome,νοστιμότατος
+300,,,,yummy,DUPLICATE_ορεκτικός
+301,,,,mouth-watering,γευστικότατος
+302,,,,ambrosial,θεσπέσιος
+303,,,,heavenly,ουράνιος
+305,L07_45,synonyms - intensity,tired,,κουρασμένος
+306,,,,exhausted,εξαντλημένος
+307,,,,drained,εξουθενωμένος
+309,L07_46,synonyms - intensity,unfortunate,,άτυχος
+310,,,,tragic,τραγικός
+311,,,,woeful,θλιβερός
+312,,,,grievous,οδυνηρός
+313,,,,wretched,καταρρακωμένος
+314,,,,miserable,άθλιος
+315,,,,awful,οικτρός
+316,,,,lamentable,αξιοθρήνητος
+317,,,,regrettable,λυπηρός
+318,,,,desperate,απεγνωσμένος
+319,,,,hopeless,απελπισμένος
+320,,,,disastrous,καταστροφικός
+322,L07_47,synonyms - intensity,unhappy,,δυστυχισμένος
+323,,,,miserable,άθλιος
+324,,,,suffering,που_υποφέρει
+325,,,,wretched,καταρρακωμένος
+327,L07_48,synonyms - intensity,want,,επιθυμία
+328,,,,crave,λαχτάρα
+329,,,,hunger,πείνα
+330,,,,thirst,δίψα
+331,,,,starve,λύσσα
+332,,,,lust,πόθος
+333,,,,,λαγνεία
+334,L07_49,synonyms - intensity,warm,,ζεστός
+335,,,,hot,καυτός
+336,,,,fiery,πύρινος
+337,,,,flaming,φλεγόμενος
+338,,,,heated,θερμαινόμενος
+339,,,,red-hot,DUPLICATE_καυτός
+340,,,,sizzling,ζεματιστός
+341,,,,sensual,αισθησιακός
+342,,,,sultry,αποπνικτικός
+343,,,,torrid,DUPLICATE_καυτός
+344,,,,white-hot,DUPLICATE_καυτός
+346,L07_50,synonyms - intensity,well,,καλός
+347,,,,flourishing,ανθηρός
+348,,,,robust,γερός
+349,,,,booming,που_ανθίζει
+350,,,,prospering,που_ευδοκιμεί
+351,,,,prosperous,DUPLICATE_που_ευδοκιμεί
+352,,,,thriving,που_ακμάζει
+353,,,,,ακμάζων

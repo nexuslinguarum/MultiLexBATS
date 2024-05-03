@@ -1,0 +1,241 @@
+,ID,Relation,Source,Target,SL
+0,L10_1,antonyms - binary,after,,po
+1,,,,before,prej
+2,,,,earlier,predtem
+3,,,,previously,predhodno
+5,L10_2,antonyms - binary,ahead,,spredaj
+6,,,,behind,zadaj
+7,,,,rear,zadek
+8,,,,after,po
+9,,,,tail,DUPLICATE_zadek
+10,,,,beforehand,vnaprej
+12,L10_3,antonyms - binary,anterior,,aprioren
+13,,,,posterior,posterioren
+15,L10_4,antonyms - binary,backward,,nazaj
+16,,,,forward,naprej
+17,,,,forwards,DUPLICATE_naprej
+18,,,,frontward,DUPLICATE_naprej
+19,,,,frontwards,DUPLICATE_naprej
+20,,,,forrad,usmerjen_naprej
+21,,,,forrard,DUPLICATE_usmerjen_naprej
+22,,,,forth,DUPLICATE_naprej
+23,,,,onward,nadaljevati_naprej
+25,L10_5,antonyms - binary,before,,prej
+26,,,,after,potem
+27,,,,subsequently,pozneje
+28,,,,later,kasneje
+29,,,,afterwards,DUPLICATE_zatem
+30,,,,afterward,zatem
+31,,,,ahead,dalje
+33,L10_6,antonyms - binary,beginning,,začetek
+34,,,,end,konec
+35,,,,terminal,končni
+36,,,,ending,DUPLICATE_konec
+37,,,,last,zadnji
+38,,,,final,finalni
+39,,,,finish,cilj
+40,,,,finale,finale
+41,,,,conclusion,zaključek
+43,L10_7,antonyms - binary,below,,spodaj
+44,,,,above,zgoraj
+45,,,,higher,višje
+46,,,,up,gor
+48,L10_8,antonyms - binary,climb,,vzpon
+49,,,,descend,spust
+50,,,,declivitous,postopen_spust
+51,,,,downhill,DUPLICATE_navzdol
+52,,,,downward-sloping,hitro_spuščanje
+53,,,,degressive,DUPLICATE_postopen_spust
+54,,,,descendant,potomec
+55,,,,descendent,DUPLICATE_potomec
+56,,,,down,dol
+57,,,,downward,navzdol
+58,,,,downward-arching,bočno_navzdol
+59,,,,drizzling,drskanje
+60,,,,dropping,spuščanje
+61,,,,falling,padati
+62,,,,raining,deževati
+64,L10_9,antonyms - binary,dead,,mrtev
+65,,,,alive,živ
+66,,,,living,živeti
+67,,,,live,živo
+69,L10_10,antonyms - binary,decrement,,zmanjšanje
+70,,,,increment,povečanje
+72,L10_11,antonyms - binary,descend,,spust
+73,,,,ascend,vzpon
+74,,,,climb,dvig
+75,,,,rise,vstajanje
+76,,,,upward,navzgor
+77,,,,ascendent,naraščajoč
+78,,,,ascendant,DUPLICATE_naraščajoč
+80,L10_12,antonyms - binary,dive,,potop
+81,,,,emerge,dvig
+83,L10_13,antonyms - binary,down,,dol
+84,,,,up,gor
+85,,,,above,zgoraj
+86,,,,ahead,spredaj
+87,,,,lead,vodja
+88,,,,leading,vodilni
+89,,,,aweigh,NO_TRANSLATION
+90,,,,dormie,DUPLICATE_NO_TRANSLATION
+91,,,,dormy,DUPLICATE_NO_TRANSLATION
+92,,,,heavenward,proti_nebesom
+93,,,,skyward,proti_nebu
+94,,,,risen,vstajanje
+95,,,,sprouted,vzklik
+96,,,,upbound,omejeno_navzgor
+97,,,,upfield,DUPLICATE_navzgor
+98,,,,upward,navzgor
+100,L10_14,antonyms - binary,downslope,,navzdol
+101,,,,upslope,navzgor
+102,,,,ascent,vzpon
+104,L10_15,antonyms - binary,drop,,ispustit
+105,,,,lift,dvig
+106,,,,pick_up,pobrati
+108,L10_16,antonyms - binary,dynamic,,dinamično
+109,,,,static,statično
+110,,,,still,mirno
+111,,,,unmoving,nepremikajoče
+112,,,,unchanging,nespremenljivo
+114,L10_17,antonyms - binary,employ,,zaposliti
+115,,,,dismiss,sprostiti
+116,,,,fire,odpustiti
+117,,,,sack,odvreči
+118,,,,displace,premestiti
+119,,,,terminate,prekiniti
+121,L10_18,antonyms - binary,exit,,izhod
+122,,,,entrance,vhod
+123,,,,entranceway,pot_proti_vhodu
+124,,,,entryway,DUPLICATE_pot_proti_vhodu
+125,,,,entry,vstop
+126,,,,entree,DUPLICATE_vstop
+128,L10_19,antonyms - binary,fall,,padec
+129,,,,rise,vzpon
+130,,,,upward,navzgor
+131,,,,climb,dvig
+133,L10_20,antonyms - binary,first,,prvi
+134,,,,last,zadnji
+135,,,,end,konec
+136,,,,terminal,končni
+137,,,,ending,zaključek
+138,,,,final,zaključni
+139,,,,finish,cilj
+140,,,,finale,finale
+141,,,,conclusion,DUPLICATE_zaključek
+143,L10_21,antonyms - binary,forget,,pozabiti
+144,,,,remember,spomniti_se
+145,,,,retrieve,pridobiti
+146,,,,recall,priklicati_nazaj
+147,,,,call_back,poklicati_nazaj
+148,,,,call_up,poklicati
+149,,,,recollect,obuditi
+151,L10_22,antonyms - binary,forward,,naprej
+152,,,,backward,nazaj
+153,,,,back,zadaj
+154,,,,backwards,DUPLICATE_nazaj
+155,,,,rearward,zadnje
+156,,,,rearwards,DUPLICATE_zadnje
+158,L10_23,antonyms - binary,front,,spredaj
+159,,,,back,zadaj
+160,,,,rear,zadek
+161,,,,forepart,sprednji_del
+163,L10_24,antonyms - binary,in,,noter
+164,,,,out,zunaj
+165,,,,outer,zunanji
+166,,,,exterior,zunanjost
+167,,,,outside,DUPLICATE_zunaj
+169,L10_25,antonyms - binary,inbound,,navznoter
+170,,,,outbound,navzven
+172,L10_26,antonyms - binary,inhale,,vdih
+173,,,,exhale,izdih
+175,L10_27,antonyms - binary,input,,vhod
+176,,,,output,izhod
+178,L10_28,antonyms - binary,inside,,noter
+179,,,,outside,ven
+180,,,,exterior,zunanjost
+181,,,,out,zunaj
+183,L10_29,antonyms - binary,interior,,notranjost
+184,,,,exterior,zunanjost
+185,,,,outdoor,na_prostem
+186,,,,out-of-door,stran_od_vrat
+187,,,,outside,zunaj
+189,L10_30,antonyms - binary,internal,,notranje
+190,,,,external,zunanje
+191,,,,outer,zunanji
+192,,,,outside,zunaj
+194,L10_31,antonyms - binary,inverse,,obratno
+195,,,,reverse,vzvratno
+196,,,,reversion,vzvratnost
+197,,,,reversal,preobrat
+198,,,,turnabout,obračanje
+199,,,,turnaround,obrnitev
+201,L10_32,antonyms - binary,mortal,,smrten
+202,,,,immortal,nesmrten
+204,L10_33,antonyms - binary,occupied,,zaseden
+205,,,,vacant,prazen
+206,,,,free,prost
+208,L10_34,antonyms - binary,off,,ugasnjen
+209,,,,on,prižgan
+211,L10_35,antonyms - binary,out,,ven
+212,,,,in,noter
+213,,,,inside,znotraj
+215,L10_36,antonyms - binary,outward,,navzven
+216,,,,upward,navzgor
+217,,,,up,gor
+218,,,,upwards,DUPLICATE_navzgor
+220,L10_37,antonyms - binary,over,,čez
+221,,,,under,spodaj
+222,,,,below,DUPLICATE_spodaj
+223,,,,beneath,DUPLICATE_spodaj
+225,L10_38,antonyms - binary,previously,,predhodno
+226,,,,subsequently,sledeče
+227,,,,later,kasneje
+228,,,,afterwards,potem
+229,,,,afterward,zatem
+230,,,,after,po
+231,,,,subsequent,sledeči
+233,L10_39,antonyms - binary,proceed,,nadaljuj
+234,,,,retreat,umik
+235,,,,return,vrnitev
+237,L10_40,antonyms - binary,rise,,vzhod
+238,,,,sink,odtok
+239,,,,drop,spust
+240,,,,fall,padec
+242,L10_41,antonyms - binary,south,,jug
+243,,,,north,sever
+245,L10_42,antonyms - binary,southeast,,jugovzhod
+246,,,,southwest,jugozahod
+247,,,,northeast,severovzhod
+249,L10_43,antonyms - binary,submerge,,potop
+250,,,,emerge,dvig
+252,L10_44,antonyms - binary,top,,vrh
+253,,,,bottom,dno
+254,,,,underside,spodnja_stran
+255,,,,undersurface,spodnja_površina
+257,L10_45,antonyms - binary,toward,,proti
+258,,,,away,stran
+259,,,,off,proč
+260,,,,forth,spredaj
+261,,,,aside,na_stran
+263,L10_46,antonyms - binary,True,,PRAVILNO
+264,,,,False,NAPAČNO
+265,,,,incorrect,nepravilno
+266,,,,wrong,narobe
+267,,,,mistaken,zmotno
+269,L10_47,antonyms - binary,under,,spodaj
+270,,,,over,čez
+271,,,,above,zgoraj
+272,,,,up,gor
+274,L10_48,antonyms - binary,up,,gor
+275,,,,down,dol
+276,,,,downwards,navzdol
+277,,,,downward,DUPLICATE_navzdol
+278,,,,downwardly,DUPLICATE_navzdol
+280,L10_49,antonyms - binary,uphill,,navkreber
+281,,,,downhill,navzdol
+282,,,,decline,upad
+283,,,,fall,padec
+284,,,,declivitous,padajoče
+285,,,,downward-sloping,nadnjeno_navzdol
+287,L10_50,antonyms - binary,west,,zahod
+288,,,,east,vzhod

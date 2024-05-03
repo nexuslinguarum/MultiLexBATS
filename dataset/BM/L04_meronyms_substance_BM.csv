@@ -1,0 +1,237 @@
+,ID,Relation,Source,Target,BM
+0,L04_1,meronyms - substance,atmosphere,,fiɲɛbɔyɔrɔ
+1,,,,gas,gazi
+2,,,,oxygen,ɔkisizɛni
+3,,,,hydrogen,hidrɔzɛni
+4,,,,nitrogen,NO_TRANSLATION
+5,,,,ozone,ozɔni
+7,L04_2,meronyms - substance,bag,,saki
+8,,,,leather,golo
+9,,,,fabric,finimugu
+10,,,,plastic,manan
+12,L04_3,meronyms - substance,beach,,jida
+13,,,,sand,cɛncɛn
+14,,,,silicon,siliyɔmu
+15,,,,rocks,farakurun
+16,,,,pebbles,kabakurunw
+17,,,,atomic_number_14,NO_TRANSLATION
+18,,,,si,DUPLICATE_NO_TRANSLATION
+20,L04_4,meronyms - substance,beard,,bonbonsi
+21,,,,hair,kunsigi
+23,L04_5,meronyms - substance,body,,farikolo
+24,,,,flesh,farisogo
+25,,,,bones,"kolotugudaw,_kolo"
+27,L04_6,meronyms - substance,boots,,samarabaw
+28,,,,leather,golo
+29,,,,canvas,NO_TRANSLATION
+31,L04_7,meronyms - substance,bottle,,buteli
+32,,,,glass,wɛɛrɛ
+33,,,,plastic,manan
+35,L04_8,meronyms - substance,bowl,,tasa
+36,,,,glass,wɛɛrɛ
+37,,,,china,bɔgɔni
+38,,,,aluminium,funka
+39,,,,wood,yiri
+40,,,,steel,nɛgɛ
+41,,,,plastic,manan
+42,,,,clay,bɔgɔ
+44,L04_9,meronyms - substance,box,,buwati
+45,,,,cardboard,kartɔn_papiye
+46,,,,tin,NO_TRANSLATION
+47,,,,boxwood,kɛsu_jiri
+48,,,,turkish_boxwood,DUPLICATE_NO_TRANSLATION
+50,L04_10,meronyms - substance,bread,,buru
+51,,,,flour,mugu
+52,,,,yeast,fununnan
+54,L04_11,meronyms - substance,bronze,,sira
+55,,,,copper,dɛn
+56,,,,tin,NO_TRANSLATION
+57,,,,cu,DUPLICATE_NO_TRANSLATION
+58,,,,atomic_number_29,DUPLICATE_NO_TRANSLATION
+60,L04_12,meronyms - substance,candy,,bonbonw
+61,,,,sugar,sukaro
+62,,,,nougat,NO_TRANSLATION
+63,,,,chocolate,sokola
+64,,,,gelatin,DUPLICATE_NO_TRANSLATION
+65,,,,molasses,melasi
+66,,,,syrup,siro
+67,,,,honey,di
+68,,,,fruit,yiriden
+69,,,,nuts,DUPLICATE_NO_TRANSLATION
+71,L04_13,meronyms - substance,chocolate,,sokola
+72,,,,cocoa,kakawo
+73,,,,bean,sɔ
+74,,,,cacao,DUPLICATE_cocoa
+75,,,,cacao_bean,DUPLICATE_cocoa
+76,,,,cocoa_bean,DUPLICATE_cocoa
+78,L04_14,meronyms - substance,clothing,,finiw_don
+79,,,,fabric,finimugu
+80,,,,leather,golo
+82,L04_15,meronyms - substance,cloud,,kabanɔgɔ
+83,,,,vapor,sisi
+84,,,,water,ji
+85,,,,vapour,DUPLICATE_vapor
+94,L04_17,meronyms - substance,concrete,,bɛtɔn
+95,,,,silicon,NO_TRANSLATION
+96,,,,cement,siman
+97,,,,water,ji
+98,,,,sand,cɛncɛn
+99,,,,atomic_number_14,DUPLICATE_NO_TRANSLATION
+100,,,,si,DUPLICATE_NO_TRANSLATION
+102,L04_18,meronyms - substance,desk,,tabali
+103,,,,wood,yiri
+104,,,,metal,nɛgɛ
+105,,,,steel,DUPLICATE_metal
+107,L04_19,meronyms - substance,diamond,,diamant
+110,L04_20,meronyms - substance,doorknob,,da_sɔgɔlen
+111,,,,metal,nɛgɛ
+112,,,,steel,DUPLICATE_metal
+113,,,,bronze,sira
+114,,,,wood,yiri
+116,L04_21,meronyms - substance,flag,,darapo
+117,,,,fabric,finimugu
+118,,,,paper,papiye
+120,L04_22,meronyms - substance,glacier,,jikuru
+121,,,,ice,"glasi,_jikuru"
+122,,,,water,ji
+123,,,,oxygen,ɔkisizɛni
+124,,,,hydrogen,hidrɔzɛni
+125,,,,h,NO_TRANSLATION
+126,,,,h2o,DUPLICATE_NO_TRANSLATION
+127,,,,atomic_number_8,DUPLICATE_NO_TRANSLATION
+128,,,,atomic_number_1,DUPLICATE_NO_TRANSLATION
+129,,,,o,DUPLICATE_NO_TRANSLATION
+130,,,,water_ice,jikuruw
+132,L04_23,meronyms - substance,glass,,wɛɛrɛ
+133,,,,silicone,NO_TRANSLATION
+135,L04_24,meronyms - substance,house,,so
+136,,,,bricks,birikiw
+137,,,,cement,siman
+138,,,,wood,yiri
+139,,,,clay,bɔgɔ
+141,L04_25,meronyms - substance,ice,,glasi
+142,,,,water,ji
+143,,,,oxygen,ɔkisizɛni
+144,,,,hydrogen,hidrɔzɛni
+145,,,,h2o,NO_TRANSLATION
+146,,,,atomic_number_1,DUPLICATE_NO_TRANSLATION
+147,,,,atomic_number_8,DUPLICATE_NO_TRANSLATION
+148,,,,h,DUPLICATE_NO_TRANSLATION
+149,,,,o,DUPLICATE_NO_TRANSLATION
+151,L04_26,meronyms - substance,icicle,,jikuruba
+152,,,,ice,glasi
+153,,,,water,ji
+155,L04_27,meronyms - substance,jam,,NO_TRANSLATION
+156,,,,fruit,yiriden
+157,,,,sugar,sukaro
+158,,,,berries,DUPLICATE_yiriden
+160,L04_28,meronyms - substance,jeans,,NO_TRANSLATION
+161,,,,fabric,finimugu
+162,,,,denim,NO_TRANSLATION
+164,L04_29,meronyms - substance,lawn,,gazɔn
+165,,,,grass,bin
+167,L04_30,meronyms - substance,lens,,lensɛri
+168,,,,glass,wɛɛrɛ
+169,,,,plastic,mana
+171,L04_31,meronyms - substance,mirror,,dugalen
+172,,,,glass,wɛɛrɛ
+173,,,,bronze,sira
+175,L04_32,meronyms - substance,money,,wari
+176,,,,paper,papiye
+177,,,,metal,nɛgɛ
+178,,,,silver,warijɛ
+179,,,,gold,sanu
+180,,,,iron,DUPLICATE_metal
+181,,,,copper,dɛn
+182,,,,tin,NO_TRANSLATION
+184,L04_33,meronyms - substance,ocean,,kɔgɔjiba
+185,,,,water,ji
+187,L04_34,meronyms - substance,omelette,,sɛfan_yiranen
+188,,,,eggs,sɛfanw
+189,,,,egg,sɛfan
+190,,,,milk,nɔnɔ
+191,,,,cheese,foromazi
+193,L04_35,meronyms - substance,pastry,,patisri
+194,,,,flour,mugu
+195,,,,egg,sɛfan
+196,,,,butter,naare
+197,,,,filling,ka_fa
+199,L04_36,meronyms - substance,penny,,warijɛ
+200,,,,metal,nɛgɛ
+201,,,,alloy,nɛgɛkurun
+202,,,,bronze,sira
+203,,,,nickel,nikɛri
+204,,,,zinc,NO_TRANSLATION
+205,,,,copper,dɛn
+206,,,,tin,DUPLICATE_NO_TRANSLATION
+208,L04_37,meronyms - substance,pill,,furakisɛ
+209,,,,medicine,fura
+210,,,,drug,dɔrɔguw
+212,L04_38,meronyms - substance,plastic,,mana
+213,,,,polymer,NO_TRANSLATION
+214,,,,oil,tulu
+215,,,,gas,gazi
+216,,,,coal,sarabon
+218,L04_39,meronyms - substance,roof,,bili
+219,,,,shingles,NO_TRANSALATION
+220,,,,tiles,DUPLICATE_NO_TRANSALATION
+221,,,,wood,yiri
+222,,,,metal,nɛgɛ
+224,L04_40,meronyms - substance,sea,,kɔgɔji
+225,,,,water,ji
+227,L04_41,meronyms - substance,snow,,nɛzi
+228,,,,water,ji
+229,,,,oxygen,ɔkisizɛni
+230,,,,hydrogen,hidrɔzɛni
+231,,,,flake,NO_TRANSLATION
+232,,,,ice,"glasi,jikuru"
+233,,,,snowflake,DUPLICATE_NO_TRANSLATION
+234,,,,snowflakes,DUPLICATE_NO_TRANSLATION
+235,,,,h2o,DUPLICATE_NO_TRANSLATION
+236,,,,atomic_number_1,DUPLICATE_NO_TRANSLATION
+237,,,,atomic_number_8,DUPLICATE_NO_TRANSLATION
+238,,,,h,DUPLICATE_NO_TRANSLATION
+239,,,,o,DUPLICATE_NO_TRANSLATION
+241,L04_42,meronyms - substance,spoon,,kuyɛri
+242,,,,aluminium,fukan
+243,,,,wood,yiri
+244,,,,steel,nɛgɛ
+246,L04_43,meronyms - substance,steel,,nɛgɛ
+247,,,,iron,DUPLICATE_steel
+249,,,,carbon,sarabon
+250,,,,cementite,cementite
+252,,,,iron_carbide,NO_TRANSLATION
+253,,,,fe,DUPLICATE_NO_TRANSLATION
+254,,,,atomic_number_26,DUPLICATE_NO_TRANSLATION
+255,,,,alpha_iron,DUPLICATE_NO_TRANSLATION
+257,L04_44,meronyms - substance,table,,tabali
+258,,,,wood,yiri
+259,,,,metal,nɛgɛ
+260,,,,plastic,mana
+262,L04_45,meronyms - substance,wall,,kogo
+263,,,,cement,siman
+264,,,,bricks,birikiw
+265,,,,stones,kabakurunw
+266,,,,rocks,faraw
+267,,,,wood,yiri
+268,,,,cardboard,kartɔn_papiye
+269,,,,board,tabulo
+270,,,,plank,pan
+271,,,,clay,bɔgɔ
+272,,,,mud,DUPLICATE_clay
+274,L04_46,meronyms - substance,water,,ji
+275,,,,oxygen,ɔkisizɛni
+276,,,,hydrogen,hidrɔzɛni
+277,,,,water,ji
+278,,,,h2o,NO_TRANSLATION
+279,,,,atomic_number_1,DUPLICATE_NO_TRANSLATION
+280,,,,atomic_number_8,DUPLICATE_NO_TRANSLATION
+281,,,,h,DUPLICATE_NO_TRANSLATION
+282,,,,o,DUPLICATE_NO_TRANSLATION
+287,L04_48,meronyms - substance,wine,,diwɛn
+288,,,,grapes,rezɛnw
+289,,,,grape,rezɛn
+291,L04_49,meronyms - substance,wire,,filijuru
+292,,,,metal,nɛgɛ
+294,L04_50,meronyms - substance,yogurt,,nɔnɔkumu
+295,,,,milk,nɔnɔ

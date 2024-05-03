@@ -1,0 +1,164 @@
+,ID,Relation,Source,Target,RO
+0,L05_1,meronyms - member,acrobat,,acrobat
+1,,,,troupe,trupă
+3,L05_2,meronyms - member,antelope,,antelopă
+4,,,,herd,turmă
+6,L05_3,meronyms - member,bee,,albina
+7,,,,swarm,roi
+8,,,,hive,stup
+9,,,,colony,colonie
+10,,,,drift,derivă
+11,,,,cast,turnat
+12,,,,nest,cuib
+13,,,,rabble,gloată
+14,,,,stand,stand
+16,L05_4,meronyms - member,bird,,pasăre
+17,,,,flock,stol
+19,L05_5,meronyms - member,book,,carte
+20,,,,library,bibliotecă
+21,,,,shelf,raft
+22,,,,collection,colecție
+23,,,,accounting,contabilitate
+24,,,,accounting_system,sistem_de_contabilitate
+25,,,,method_of_accounting,metodă_de_contabilitate
+27,L05_6,meronyms - member,calf,,vițel
+28,,,,cattle,bovină
+29,,,,herd,turmă
+31,L05_7,meronyms - member,car,,mașină
+32,,,,train,tren
+33,,,,procession,procesiune
+35,L05_8,meronyms - member,cat,,pisică
+36,,,,clowder,NO_TRASNLATION
+37,,,,glaring,țipător
+38,,,,clutter,zăpăceală
+39,,,,pounce,ghiară
+41,L05_9,meronyms - member,cattle,,buvină
+42,,,,herd,turnă
+44,L05_10,meronyms - member,christian,,creștin
+45,,,,congregation,congregație
+46,,,,church,biserică
+47,,,,parish,parohie
+49,L05_11,meronyms - member,citizen,,cetățean
+50,,,,citizenry,cetățenie
+51,,,,country,țară
+52,,,,state,stat
+54,L05_12,meronyms - member,college,,colegiu
+55,,,,university,universitate
+57,L05_13,meronyms - member,county,,județ
+58,,,,state,stat
+59,,,,country,țară
+61,L05_14,meronyms - member,cow,,vacă
+62,,,,herd,turmă
+64,L05_15,meronyms - member,crow,,cioară
+65,,,,murder,stol
+67,L05_16,meronyms - member,division,,divizie
+68,,,,company,companie
+69,,,,business,afacere
+70,,,,platoon,pluton
+71,,,,battle_group,grup_de_luptă
+73,L05_17,meronyms - member,elephant,,elefant
+74,,,,herd,turmă
+76,L05_18,meronyms - member,employee,,angajat
+77,,,,staff,personal
+78,,,,company,companie
+80,L05_19,meronyms - member,fish,,pește
+81,,,,school,banc_de_pești
+83,L05_20,meronyms - member,flower,,floare
+84,,,,bouquet,buchet
+85,,,,bunch,mănunchi
+87,L05_21,meronyms - member,galaxy,,galaxie
+88,,,,universe,univers
+90,L05_22,meronyms - member,goose,,găscă
+91,,,,gaggle,cârd_de_gâște
+93,L05_23,meronyms - member,juror,,jurat
+94,,,,jury,juriu
+96,L05_24,meronyms - member,kitten,,pisoi
+97,,,,litter,murdărie
+99,L05_25,meronyms - member,letter,,literă
+100,,,,alphabet,alfabet
+102,L05_26,meronyms - member,lion,,leu
+103,,,,pride,mândrie
+105,L05_27,meronyms - member,listener,,ascultător
+106,,,,audience,public
+108,L05_28,meronyms - member,member,,membru
+109,,,,club,club
+110,,,,team,echipă
+111,,,,group,grup
+112,,,,band,formație
+113,,,,community,comunitate
+115,L05_29,meronyms - member,musician,,muzician
+116,,,,orchestra,orchestră
+117,,,,band,formație
+119,L05_30,meronyms - member,nomad,,nomad
+120,,,,horde,hoardă
+122,L05_31,meronyms - member,page,,pagină
+123,,,,book,carte
+124,,,,notebook,caiet
+125,,,,website,site_web
+126,,,,web-site,DUPLICATE_site_web
+128,L05_32,meronyms - member,parishioner,,enoriaș
+129,,,,parish,parohie
+130,,,,church,biserică
+132,L05_33,meronyms - member,person,,persoană
+133,,,,society,societate
+134,,,,company,companie
+135,,,,party,grup
+136,,,,world,lume
+138,L05_34,meronyms - member,photo,,fotografie
+139,,,,album,album
+140,,,,collection,colecție
+141,,,,library,bibliotecă
+143,L05_35,meronyms - member,player,,jucător
+144,,,,team,echipă
+145,,,,group,grup
+146,,,,orchestra,orchestră
+148,L05_36,meronyms - member,policeman,,polițist
+149,,,,police,poliție
+151,L05_37,meronyms - member,secretary,,secretar
+152,,,,staff,personal
+154,L05_38,meronyms - member,senator,,senator
+155,,,,senate,senat
+156,,,,house,casă
+158,L05_39,meronyms - member,sheep,,oaie
+159,,,,flock,turmă
+161,L05_40,meronyms - member,shrub,,arbust
+162,,,,shrubbery,trufiș
+164,L05_41,meronyms - member,singer,,cântăreț
+165,,,,choir,cor
+166,,,,band,formație
+167,,,,duo,duo
+168,,,,trio,trio
+169,,,,quartet,cuarted
+171,L05_42,meronyms - member,soldier,,soldat
+172,,,,army,armată
+173,,,,unit,unitate
+174,,,,division,divizie
+175,,,,troop,pluton
+177,L05_43,meronyms - member,song,,cântec
+178,,,,album,albun
+179,,,,collection,colecție
+180,,,,antology,antologie
+181,,,,library,bibliotecă
+183,L05_44,meronyms - member,spouse,,consoartă
+184,,,,couple,cuplu
+185,,,,relationship,relație
+186,,,,family,familie
+188,L05_45,meronyms - member,star,,stea
+189,,,,constellation,constelație
+190,,,,galaxy,galaxie
+192,L05_46,meronyms - member,state,,stat
+193,,,,country,țară
+194,,,,province,provincie
+196,L05_47,meronyms - member,student,,student
+197,,,,class,clasă
+198,,,,school,școală
+200,L05_48,meronyms - member,tree,,copac
+201,,,,forest,pădure
+202,,,,wood,codru
+203,,,,grove,dumbravă
+205,L05_49,meronyms - member,wolf,,lup
+206,,,,pack,haită
+208,L05_50,meronyms - member,word,,cuvânt
+209,,,,paragraph,frază
+210,,,,sentence,propoziție
+211,,,,text,text

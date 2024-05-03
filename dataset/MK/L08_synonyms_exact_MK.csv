@@ -1,0 +1,234 @@
+,ID,Relation,Source,Target,MK
+0,L08_1,synonyms - exact,airplane,,авион
+1,,,,aeroplane,DUPLICATE_авион
+2,,,,plane,DUPLICATE_авион
+4,L08_2,synonyms - exact,auto,,авто
+5,,,,car,кола
+6,,,,automobile,автомобил
+7,,,,motorcar,моторно_возило
+9,L08_3,synonyms - exact,baby,,бебе
+10,,,,infant,доенче
+11,,,,babe,NO_TRANSLATION
+13,L08_4,synonyms - exact,bicycle,,велосипед
+14,,,,bike,точак
+15,,,,wheel,тркало
+16,,,,cycle,NO_TRANSLATION
+18,L08_5,synonyms - exact,child,,дете
+19,,,,kid,DUPLICATE_дете
+20,,,,youngster,младинец
+21,,,,minor,малолетник
+22,,,,shaver,NO_TRANSLATION
+23,,,,nipper,DUPLICATE_NO_TRANSLATION
+24,,,,small_fry,DUPLICATE_NO_TRANSLATION
+25,,,,tiddler,пилиштарец
+26,,,,tike,DUPLICATE_NO_TRANSLATION
+27,,,,tyke,DUPLICATE_пилиштарец
+28,,,,fry,DUPLICATE_NO_TRANSLATION
+29,,,,nestling,DUPLICATE_NO_TRANSLATION
+31,L08_6,synonyms - exact,cloth,,платно
+32,,,,fabric,ткаенина
+33,,,,material,материјал
+34,,,,textile,текстил
+36,L08_7,synonyms - exact,clothes,,гардероба
+37,,,,clothing,алиште
+38,,,,apparel,облека
+39,,,,dress,"алишта,_облека"
+41,L08_8,synonyms - exact,confused,,"збунет,_збркан,_сметен,_конфузен"
+42,,,,baffled,DUPLICATE_збунет
+43,,,,befuddled,DUPLICATE_збунет
+44,,,,bemused,DUPLICATE_збунет
+45,,,,bewildered,DUPLICATE_збунет
+46,,,,confounded,DUPLICATE_збунет
+47,,,,lost,izguben
+48,,,,mazed,зачуден
+49,,,,mixed-up,smotan
+51,L08_9,synonyms - exact,dollars,,долари
+52,,,,bucks,DUPLICATE_долари
+54,L08_10,synonyms - exact,emphasis,,емфаза
+55,,,,accent,"акцент,_нагласка"
+56,,,,accentuaion,"нагласок,_нагласување"
+57,,,,importance,важност
+58,,,,stress,потенцира
+59,,,,significance,значајност
+61,L08_11,synonyms - exact,father,,татко
+62,,,,dad,тате
+63,,,,daddy,татче
+65,L08_12,synonyms - exact,flower,,цвет
+66,,,,blossom,цут
+67,,,,bloom,расцути
+69,L08_13,synonyms - exact,harbor,,сидриште
+70,,,,seaport,пристаниште
+71,,,,haven,пристан
+72,,,,harbour,DUPLICATE_пристаниште
+74,L08_14,synonyms - exact,help,,помага
+75,,,,aid,помош
+76,,,,assist,"асистира,_потпомага,_припомага"
+78,L08_15,synonyms - exact,hieroglyph,,хиероглиф
+79,,,,hieroglyphic,хиероглифски
+80,,,,pictogram,пиктограм
+82,L08_16,synonyms - exact,homogeneous,,хомоген
+83,,,,uniform,едниличен
+84,,,,unvarying,непроменлив
+86,L08_17,synonyms - exact,honest,,"искрен,_отворен,_чесен"
+87,,,,sincere,искрен
+88,,,,ingenuous,невин
+89,,,,True,вистина
+90,,,,direct,"директен,_отворен"
+91,,,,truthful,"верен,_вистинит,_вистинољубив"
+93,L08_18,synonyms - exact,identical,,истоветен
+94,,,,same,ист
+95,,,,indistinguishable,непрепознатлив
+97,L08_19,synonyms - exact,incorrect,,неисправен
+98,,,,wrong,погрешен
+99,,,,counterfactual,противречен
+100,,,,erroneous,грешен
+101,,,,inaccurate,непрецизен
+102,,,,specious,NO_TRANSLATION
+103,,,,unsound,неоснован
+104,,,,untrue,невистинит
+105,,,,False,лага
+107,L08_20,synonyms - exact,intelligent,,интелигентен
+108,,,,clever,"бистар,_умен"
+109,,,,smart,сезнајко
+111,L08_21,synonyms - exact,jewel,,накит
+112,,,,gem,скапоцен_камен
+113,,,,stone,камен
+115,L08_22,synonyms - exact,lad,,дечко
+116,,,,chap,NO_TRANSLATION
+117,,,,fellow,колега
+118,,,,feller,DUPLICATE_NO_TRANSLATION
+119,,,,fella,DUPLICATE_NO_TRANSLATION
+120,,,,gent,"господин,_кавалер"
+121,,,,blighter,DUPLICATE_NO_TRANSLATION
+122,,,,cuss,DUPLICATE_NO_TRANSLATION
+123,,,,bloke,DUPLICATE_NO_TRANSLATION
+125,L08_23,synonyms - exact,lady,,"дама,_леди"
+126,,,,madam,госпоѓа
+127,,,,dame,дама
+128,,,,ma'am,DUPLICATE_госпоѓа
+129,,,,gentlewoman,благородничка
+130,,,,madame,DUPLICATE_госпоѓа
+131,,,,woman,жена
+133,L08_24,synonyms - exact,lazy,,мрзелив
+134,,,,indolent,рамнодушен
+135,,,,faineant,NO_TRANSLATION
+136,,,,otiose,DUPLICATE_NO_TRANSLATION
+137,,,,slothful,DUPLICATE_мрзелив
+138,,,,work-shy,DUPLICATE_NO_TRANSLATION
+140,L08_25,synonyms - exact,list,,листа
+141,,,,listing,листинг
+142,,,,enumeration,набројување
+144,L08_26,synonyms - exact,loyal,,лојален
+145,,,,faithful,верен
+146,,,,True,вистина
+147,,,,dependable,сигурен
+148,,,,devoted,посветен
+149,,,,reliable,"доверлив,_надежен"
+151,L08_27,synonyms - exact,market,,маркет
+152,,,,marketplace,трговиште
+153,,,,mart,NO_TRANSLATION
+154,,,,bazaar,"базар,_пазар"
+156,L08_28,synonyms - exact,mend,,закрпи
+157,,,,repair,поправи
+158,,,,fix,прицврсти
+159,,,,fixing,фиксира
+160,,,,fixture,NO_TRANSLATION
+161,,,,mending,поправка
+162,,,,reparation,DUPLICATE_поправка
+163,,,,patch,закрпа
+164,,,,darn,DUPLICATE_NO_TRANSLATION
+165,,,,darning,DUPLICATE_NO_TRANSLATION
+167,L08_29,synonyms - exact,mesh,,"котелец,_преплет"
+168,,,,gauze,газа
+169,,,,netting,NO_TRANSLATION
+170,,,,veiling,"превез,_вел"
+171,,,,hairnet,мрежа_за_коса
+172,,,,reseau,DUPLICATE_NO_TRANSLATION
+173,,,,net,мрежа
+174,,,,save-all,DUPLICATE_NO_TRANSLATION
+175,,,,snood,DUPLICATE_NO_TRANSLATION
+176,,,,sparker,DUPLICATE_NO_TRANSLATION
+177,,,,tulle,"тил,_тул,_вел"
+178,,,,wirework,DUPLICATE_NO_TRANSLATION
+179,,,,grillwork,DUPLICATE_NO_TRANSLATION
+181,L08_30,synonyms - exact,monument,,споменик
+182,,,,memorial,меморијал
+184,L08_31,synonyms - exact,mother,,мајка
+185,,,,mom,мама
+186,,,,mommy,DUPLICATE_мама
+187,,,,mum,DUPLICATE_мама
+189,L08_32,synonyms - exact,murder,,убиство
+190,,,,slaying,увивање
+191,,,,slay,DUPLICATE_убивање
+192,,,,execution,"погуба,_егзекуција"
+194,L08_33,synonyms - exact,new,,нов
+195,,,,modern,модерен
+196,,,,recent,неодамнешен
+198,L08_34,synonyms - exact,obsolete,,излишен
+199,,,,outdated,застарен
+200,,,,out-of-date,"демоде,_одживеан"
+201,,,,superannuated,NO_TRANSLATION
+203,L08_35,synonyms - exact,organized,,организиран
+204,,,,arranged,аранжиран
+205,,,,configured,уреден
+206,,,,corporate,корпоративен
+207,,,,incorporated,вклучен
+208,,,,re-formed,реформиран
+209,,,,reorganized,реорганиизран
+210,,,,reorganised,преуреден
+212,L08_36,synonyms - exact,package,,спакуван
+213,,,,parcel,"завиток,_пакетче"
+214,,,,pack,пакло
+215,,,,packet,пакет
+216,,,,bundle,бовча
+218,L08_37,synonyms - exact,phone,,телефон
+219,,,,telephone,DUPLICATE_телефон
+220,,,,cell,мобилен
+221,,,,cellphone,мобилен_телефон
+222,,,,smartphone,паметен_телефон
+224,L08_38,synonyms - exact,portion,,оброк
+225,,,,part,дел
+226,,,,component_part,составен_дел
+227,,,,component,компонента
+228,,,,constituent,составка
+230,L08_39,synonyms - exact,railway,,железница
+231,,,,railroad,пруга
+233,L08_40,synonyms - exact,rational,,разумен
+234,,,,logical,логичен
+235,,,,coherent,кохерентен
+236,,,,reasonable,разборит
+237,,,,sane,пресметлив
+239,L08_41,synonyms - exact,reasonable,,разборит
+240,,,,sensible,разумен
+242,L08_42,synonyms - exact,rock,,карпа
+243,,,,stone,камен
+245,L08_43,synonyms - exact,shore,,крајбрежје
+246,,,,coast,брег
+247,,,,strand,NO_TRANSLATION
+248,,,,bank,насип
+249,,,,beach,плажа
+251,L08_44,synonyms - exact,snake,,змија
+252,,,,serpent,DUPLICATE_змија
+253,,,,ophidian,ophidian
+255,L08_45,synonyms - exact,sofa,,отоман
+256,,,,couch,кауч
+257,,,,lounge,салон
+259,L08_46,synonyms - exact,spouse,,сопружник
+260,,,,partner,партнер
+261,,,,mate,другар
+262,,,,better_half,подобра_половина
+264,L08_47,synonyms - exact,style,,стил
+265,,,,manner,манир
+266,,,,mode,модел
+267,,,,fashion,мода
+270,L08_48,synonyms - exact,sweets,,слатка
+271,,,,confectionery,кондиторски_производи
+272,,,,dessert,десерт
+275,L08_49,synonyms - exact,villain,,злобник
+276,,,,scoundrel,гнаса
+277,,,,rascal,гнасник
+279,L08_50,synonyms - exact,vocabulary,,речник
+280,,,,lexicon,лексикон
+281,,,,wordbook,зборник
+282,,,,dictionary,поимник
+283,,,,glossary,глосар

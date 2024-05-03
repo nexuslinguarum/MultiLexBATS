@@ -1,0 +1,116 @@
+,ID,Relation,Source,Target,MK
+0,L06_1,meronyms - part,academia,,akademska_zajednica
+1,,,,college,koledž
+2,,,,university,sveučilište
+3,,,,institute,institut
+5,L06_2,meronyms - part,apartment,,stan
+6,,,,bedroom,spavaća_soba
+7,,,,room,soba
+8,,,,bathroom,kupaonica
+9,,,,kitchen,kuhinja
+10,,,,kitchenette,kuhinjica
+11,,,,living_room,"dnevni_boravak,_dnevna_soba"
+12,,,,pantry,smočnica
+13,,,,toilet,zahod
+14,,,,shower_room,tuš?
+16,L06_3,meronyms - part,bird,,ptica
+72,L06_4,meronyms - part,brush,,četka
+82,L06_5,meronyms - part,bus,,autobus
+83,,,,seats,sjedala
+84,,,,conductor,kondukter
+85,,,,window,prozor
+86,,,,driver,vozač
+87,,,,roof,krov
+89,L06_6,meronyms - part,byte,,bajt
+90,,,,bit,bit
+92,L06_7,meronyms - part,car,,auto
+93,,,,engine,motor
+197,L06_8,meronyms - part,castle,,dvorac
+207,L06_9,meronyms - part,cat,,mačka
+208,,,,whiskers,brkovi
+209,,,,coat,krzno
+210,,,,paw,šapa
+211,,,,paws,šape
+212,,,,fur,DUPLICATE_krzno
+213,,,,eyes,oči
+214,,,,back,leđa
+215,,,,claws,kandže
+216,,,,tail,rep
+217,,,,teeth,zubi
+219,L06_10,meronyms - part,chair,,stolica
+220,,,,seat,sjedište
+221,,,,armrest,naslon_za_ruke
+222,,,,headrest,naslon_za_glavu
+223,,,,armrests,nasloni_za_ruke
+231,L06_11,meronyms - part,church,,crkva
+232,,,,altar,oltar
+258,L06_12,meronyms - part,comb,,češalj
+265,L06_13,meronyms - part,day,,dan
+266,,,,hour,sat
+316,L06_14,meronyms - part,deer,,jelen
+323,L06_15,meronyms - part,dollar,,dolar
+324,,,,cent,cent
+326,L06_16,meronyms - part,door,,vrata
+327,,,,hinge,šarka
+328,,,,keyhole,ključanica
+329,,,,threshold,prag
+330,,,,doorframe,okvir_vrata
+331,,,,bolt,zasun
+332,,,,deadbolt,DUPLICATE_zasun
+333,,,,doorjamb,dovratnik
+335,,,,doorpost,DUPLICATE_dovratnik
+336,,,,doorstep,DUPLICATE_prag
+337,,,,doorcase,DUPLICATE_okvir_vrata
+338,,,,case,DUPLICATE_okvir_vrata
+339,,,,lock,brava
+340,,,,casing,kućište
+341,,,,doorsill,DUPLICATE_prag
+343,L06_17,meronyms - part,dress,,haljina
+344,,,,sleeve,rukav
+362,L06_19,meronyms - part,flower,,cvijet
+363,,,,petal,latica
+364,,,,leaf,list
+389,L06_20,meronyms - part,gigabit,,gigabit
+397,L06_21,meronyms - part,gramm,,gram
+398,,,,milligram,miligram
+399,,,,mg,mg
+411,L06_22,meronyms - part,guitar,,gitara
+421,L06_23,meronyms - part,gun,,pištolj
+422,,,,trigger,okidač
+464,L06_24,meronyms - part,harbor,,luka
+476,L06_25,meronyms - part,jail,,zatvor
+484,L06_26,meronyms - part,jewellery,,nakit
+497,L06_27,meronyms - part,litre,,litra
+514,L06_28,meronyms - part,movie,,film
+515,,,,scene,scena
+516,,,,subtitles,titlovi
+517,,,,footage,odjavna_špica
+518,,,,credit,zahvale
+519,,,,episode,epizoda
+520,,,,shot,kadar
+521,,,,sequence,sekvenca
+522,,,,credits,DUPLICATE_zahvale
+525,L06_29,meronyms - part,orthography,,pravopis
+532,L06_30,meronyms - part,piano,,klavir
+559,L06_31,meronyms - part,pie,,pita
+570,L06_32,meronyms - part,poem,,pjesma
+584,L06_33,meronyms - part,pub,,pub
+591,L06_34,meronyms - part,radio,,radio
+607,L06_35,meronyms - part,railcar,,vagon
+614,L06_36,meronyms - part,seafront,,obala
+628,L06_37,meronyms - part,shilling,,šiling
+629,,,,pence,peni
+631,L06_38,meronyms - part,shirt,,košulja
+632,,,,button,dugme
+645,L06_39,meronyms - part,sonata,,sonata
+650,L06_40,meronyms - part,staircase,,stubište
+658,L06_41,meronyms - part,sword,,mač
+673,L06_42,meronyms - part,table,,stol
+679,L06_43,meronyms - part,teapot,,čajnik
+690,L06_44,meronyms - part,telephone,,telefon
+699,L06_45,meronyms - part,tonne,,tona
+733,L06_46,meronyms - part,torso,,torzo
+871,L06_47,meronyms - part,tripod,,tronožac
+875,L06_48,meronyms - part,typewriter,,pisaća_mašina
+895,L06_49,meronyms - part,window,,prozor
+917,L06_50,meronyms - part,womb,,utroba

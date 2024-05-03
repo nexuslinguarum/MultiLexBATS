@@ -1,0 +1,249 @@
+,ID,Relation,Source,Target,LT
+0,L10_1,antonyms - binary,after,,po
+1,,,,before,prieš
+2,,,,earlier,anksčiau
+3,,,,previously,pirma
+5,L10_2,antonyms - binary,ahead,,priešakyje
+6,,,,behind,už
+7,,,,rear,užpakalinis
+8,,,,after,po
+9,,,,tail,galas
+10,,,,beforehand,iš_anksto
+12,L10_3,antonyms - binary,anterior,,priešakinis
+13,,,,posterior,vėlesnis
+15,L10_4,antonyms - binary,backward,,atgalinis
+16,,,,forward,priekyje
+17,,,,forwards,tolyn
+18,,,,frontward,į_priekį
+19,,,,frontwards,toliau
+20,,,,forrad,nukreiptas_pirmyn
+21,,,,forrard,link_priekio
+22,,,,forth,pirmyn
+23,,,,onward,nukreiptas_į_priekį
+25,L10_5,antonyms - binary,before,,prieš
+26,,,,after,po
+27,,,,subsequently,paskui
+28,,,,later,vėliau
+29,,,,afterwards,po_to
+30,,,,afterward,DUPLICATE_po_to
+31,,,,ahead,priekyje
+33,L10_6,antonyms - binary,beginning,,pradžia
+34,,,,end,pabaiga
+35,,,,terminal,galinė_riba
+36,,,,ending,DUPLICATE_pabaiga
+37,,,,last,galas
+38,,,,final,finalas
+39,,,,finish,DUPLICATE_pabaiga
+40,,,,finale,DUPLICATE_finalas
+41,,,,conclusion,užbaigimas
+42,,,,,"baigtis,epilogas,galutinė_riba"
+43,L10_7,antonyms - binary,below,,žemiau
+44,,,,above,viršuje
+45,,,,higher,aukščiau
+46,,,,up,aukštyn
+48,L10_8,antonyms - binary,climb,,kopti
+49,,,,descend,nusileisti
+50,,,,declivitous,statokas
+51,,,,downhill,einantis_į_pakalnę
+52,,,,downward-sloping,nuožulnus
+53,,,,degressive,proporcingai_mažėjantis
+54,,,,descendant,judantis_žemyn
+55,,,,descendent,DUPLICATE_judantis_žemyn
+56,,,,down,DUPLICATE_judantis_žemyn
+57,,,,downward,DUPLICATE_judantis_žemyn
+58,,,,downward-arching,vingiuojantis_žemyn
+59,,,,drizzling,lynojantis
+60,,,,dropping,varvantis
+61,,,,falling,krentantis
+62,,,,raining,lyjantis
+64,L10_9,antonyms - binary,dead,,miręs
+65,,,,alive,gyvas
+66,,,,living,gyvenantis
+67,,,,live,DUPLICATE_gyvas
+68,,,,,nemiręs
+69,L10_10,antonyms - binary,decrement,,padidėjimas
+70,,,,increment,sumažėjimas
+72,L10_11,antonyms - binary,descend,,nusileisti
+73,,,,ascend,pakilti
+74,,,,climb,kopti
+75,,,,rise,kilti
+76,,,,upward,kylantis
+77,,,,ascendent,DUPLICATE_kylantis
+78,,,,ascendant,DUPLICATE_kylantis
+80,L10_12,antonyms - binary,dive,,panerti
+81,,,,emerge,iškilti
+83,L10_13,antonyms - binary,down,,žemyn
+84,,,,up,aukštyn
+85,,,,above,virš
+86,,,,ahead,priekyje
+87,,,,lead,vadovaujantis
+88,,,,leading,priekinis
+89,,,,aweigh,pakeltas
+90,,,,dormie,pirmaujantis
+91,,,,dormy,DUPLICATE_pirmaujantis
+92,,,,heavenward,dangun
+93,,,,skyward,į_dangų
+94,,,,risen,pakilęs
+95,,,,sprouted,išdygęs
+96,,,,upbound,vykstantis_šiaurės_kryptimi
+97,,,,upfield,pirmyn
+98,,,,upward,į_viršų
+99,,,,,sužėlęs
+100,L10_14,antonyms - binary,downslope,,nuokalnė
+101,,,,upslope,įkalnė
+102,,,,ascent,DUPLICATE_įkalnė
+104,L10_15,antonyms - binary,drop,,mesti
+105,,,,lift,kelti
+106,,,,pick_up,pakelti
+108,L10_16,antonyms - binary,dynamic,,dinamiškas
+109,,,,static,statiškas
+110,,,,still,ramus
+111,,,,unmoving,nejudantis
+112,,,,unchanging,nesikeičiantis
+113,,,,,"pastovus,nekintantis"
+114,L10_17,antonyms - binary,employ,,įdarbinti
+115,,,,dismiss,atleisti
+116,,,,fire,išmesti_iš_darbo
+117,,,,sack,DUPLICATE_išmesti_iš_darbo
+118,,,,displace,DUPLICATE_atleisti
+119,,,,terminate,nutraukti_sutartį
+121,L10_18,antonyms - binary,exit,,išėjimas
+122,,,,entrance,įėjimas
+123,,,,entranceway,DUPLICATE_įėjimas
+124,,,,entryway,DUPLICATE_įėjimas
+125,,,,entry,DUPLICATE_įėjimas
+126,,,,entree,įėjimo_teisė
+127,,,,,"įvažiavimas,įėjimo_durys,įvažiavimo_vartai"
+128,L10_19,antonyms - binary,fall,,kirsti
+129,,,,rise,kilti
+130,,,,upward,aukštyn
+131,,,,climb,kopti
+133,L10_20,antonyms - binary,first,,pirmas
+134,,,,last,paskutinis
+135,,,,end,galutinis
+136,,,,terminal,galinis
+137,,,,ending,baigiamasis
+138,,,,final,finalinis
+139,,,,finish,DUPLICATE_galutinis
+140,,,,finale,DUPLICATE_finalinis
+141,,,,conclusion,DUPLICATE_baigiamasis
+143,L10_21,antonyms - binary,forget,,užmiršti
+144,,,,remember,prisiminti
+145,,,,retrieve,atgaminti
+146,,,,recall,DUPLICATE_prisiminti
+147,,,,call_back,DUPLICATE_prisiminti
+148,,,,call_up,DUPLICATE_prisiminti
+149,,,,recollect,atsiminti
+151,L10_22,antonyms - binary,forward,,pirmyn
+152,,,,backward,atgal
+153,,,,back,DUPLICATE_atgal
+154,,,,backwards,DUPLICATE_atgal
+155,,,,rearward,DUPLICATE_atgalios
+156,,,,rearwards,DUPLICATE_atgalios
+158,L10_23,antonyms - binary,front,,priekinis
+159,,,,back,galinis
+160,,,,rear,užpakalinis
+161,,,,forepart,NO_TRANSLATION
+163,L10_24,antonyms - binary,in,,vidinis
+164,,,,out,išorinis
+165,,,,outer,DUPLICATE_išorinis
+166,,,,exterior,DUPLICATE_išorinis
+167,,,,outside,DUPLICATE_išorinis
+169,L10_25,antonyms - binary,inbound,,atskrendantis
+170,,,,outbound,išskrendantis
+171,,,,,"išplaukiantis,įplaukiantis"
+172,L10_26,antonyms - binary,inhale,,įkvėpti
+173,,,,exhale,iškvėpti
+175,L10_27,antonyms - binary,input,,indėlis
+176,,,,output,išeiga
+178,L10_28,antonyms - binary,inside,,viduje
+179,,,,outside,išorėje
+180,,,,exterior,DUPLICATE_išorėje
+181,,,,out,DUPLICATE_išorėje
+183,L10_29,antonyms - binary,interior,,vidinis
+184,,,,exterior,išorinis
+185,,,,outdoor,lauko
+186,,,,out-of-door,DUPLICATE_lauko
+187,,,,outside,DUPLICATE_išorinis
+189,L10_30,antonyms - binary,internal,,vidinis
+190,,,,external,išorinis
+191,,,,outer,DUPLICATE_išorinis
+192,,,,outside,DUPLICATE_išorinis
+194,L10_31,antonyms - binary,inverse,,atvirkštinis
+195,,,,reverse,priešingas
+196,,,,reversion,grįžimas
+197,,,,reversal,apsivertimas
+198,,,,turnabout,posūkis
+199,,,,turnaround,DUPLICATE_posūkis
+201,L10_32,antonyms - binary,mortal,,mirtingas
+202,,,,immortal,nemirtingas
+204,L10_33,antonyms - binary,occupied,,užimtas
+205,,,,vacant,neužimtas
+206,,,,free,laisvas
+208,L10_34,antonyms - binary,off,,nuo
+209,,,,on,ant
+211,L10_35,antonyms - binary,out,,iš
+212,,,,in,į
+213,,,,inside,DUPLICATE_į
+215,L10_36,antonyms - binary,outward,,išorėn
+216,,,,upward,aukštyn
+217,,,,up,į_viršų
+218,,,,upwards,DUPLICATE_aukštyn
+220,L10_37,antonyms - binary,over,,virš
+221,,,,under,po
+222,,,,below,apačioje
+223,,,,beneath,žemiau
+225,L10_38,antonyms - binary,previously,,DUBLICATE_anksčiau
+226,,,,subsequently,paskui
+227,,,,later,vėliau
+228,,,,afterwards,DUPLICATE_vėliau
+229,,,,afterward,DUPLICATE_vėliau
+230,,,,after,po
+231,,,,subsequent,paskesnis
+233,L10_39,antonyms - binary,proceed,,tęsti
+234,,,,retreat,atsitraukti
+235,,,,return,sugrįžti
+237,L10_40,antonyms - binary,rise,,kilti
+238,,,,sink,skęsti
+239,,,,drop,kristi
+240,,,,fall,DUPLICATE_kristi
+242,L10_41,antonyms - binary,south,,pietūs
+243,,,,north,šiaurė
+245,L10_42,antonyms - binary,southeast,,pietryčiai
+246,,,,southwest,pietvakariai
+247,,,,northeast,šiaurės_rytai
+249,L10_43,antonyms - binary,submerge,,nugrimzti
+250,,,,emerge,pasirodyti
+252,L10_44,antonyms - binary,top,,viršus
+253,,,,bottom,apačia
+254,,,,underside,DUPLICATE_apačia
+255,,,,undersurface,DUPLICATE_apačia
+257,L10_45,antonyms - binary,toward,,link
+258,,,,away,šalin
+259,,,,off,nuo
+260,,,,forth,tolyn
+261,,,,aside,DUPLICATE_šalin
+262,,,,,šalia
+263,L10_46,antonyms - binary,True,,teisingas
+264,,,,False,klaidingas
+265,,,,incorrect,neteisingas
+266,,,,wrong,blogas
+267,,,,mistaken,neteisus
+269,L10_47,antonyms - binary,under,,po
+270,,,,over,virš
+271,,,,above,viršuje
+272,,,,up,aukštyn
+273,,,,,aukščiau
+274,L10_48,antonyms - binary,up,,aukštyn
+275,,,,down,žemyn
+276,,,,downwards,DUPLICATE_žemyn
+277,,,,downward,DUPLICATE_žemėjantis
+278,,,,downwardly,žemėjančiai
+280,L10_49,antonyms - binary,uphill,,įkalnė
+281,,,,downhill,nuokalnė
+282,,,,decline,nuolydis
+283,,,,fall,kritimas
+284,,,,declivitous,nuožulnus
+285,,,,downward-sloping,žemėjantis
+287,L10_50,antonyms - binary,west,,vakarai
+288,,,,east,rytai

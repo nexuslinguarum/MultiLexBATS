@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,AL
+0,L07_1,synonyms - intensity,afraid,,frikë
+1,,,,terrified,i_tmerruar
+2,,,,horrified,DUPLICATE_i_tmerruar
+3,,,,scared,i_frikësuar
+4,,,,stiff,i_ngrirë
+5,,,,petrified,i_ngurosur
+6,,,,fearful,"DUPLICATE_i_frikësuar,_i_frikshëm"
+7,,,,panicky,i_panikosur
+9,L07_2,synonyms - intensity,angry,,i_nervozuar
+10,,,,furious,i_furishëm
+11,,,,enraged,i_tërbuar
+12,,,,outraged,i_indinjuar
+13,,,,aggrivated,i_rënduar
+14,,,,irate,i_zemëruar
+15,,,,seething,NO_TRANSLATE
+17,L07_3,synonyms - intensity,ask,,pyes
+18,,,,beg,lutem
+19,,,,implore,përgjerohem
+20,,,,pray,"falem,_lutem"
+21,,,,entreat,DUPLICATE_përgjërohem
+22,,,,supplicate,DUPLICATE_përgjërohem
+23,,,,insist,këmbëngul
+25,L07_4,synonyms - intensity,bad,,i_keq
+26,,,,awful,e_shpifur
+27,,,,atrocious,DUPLICATE_e_tmerrshme
+28,,,,abominable,e_neveritshme
+29,,,,dreadful,tmerruese
+30,,,,painful,e_dhimbshme
+31,,,,terrible,e_tmerrshme
+32,,,,unspeakable,i_papërshkrueshëm
+34,L07_5,synonyms - intensity,boring,,i_mërzitshëm
+35,,,,tedious,i_lodhshëm
+36,,,,deadening,vdekjeprurëse
+37,,,,dull,DUPLICATE_e_mërzitshme
+38,,,,ho-hum,DUPLICATE_e_mërzitshme
+39,,,,irksome,DUPLICATE_i_mërzitshëm
+40,,,,tiresome,e_lodhshme
+41,,,,wearisome,lodhëse
+43,L07_6,synonyms - intensity,cat,,mace
+44,,,,lion,luan
+45,,,,tiger,tigër
+46,,,,leopard,leopard
+47,,,,panther,panterë
+48,,,,jaguar,xhaguar
+50,L07_7,synonyms - intensity,chuckle,,nënqesh
+51,,,,laugh,qesh
+52,,,,guffaw,gajasem
+53,,,,chortle,qesh_me_lot
+54,,,,snicker,përqesh
+55,,,,snigger,qesh_nën_hundë
+56,,,,titter,kukuris
+57,,,,roar,gjëmoj
+59,L07_8,synonyms - intensity,confused,,"i_ngatërruar,_i_hutuar"
+60,,,,lost,i_humbur
+61,,,,bewildered,DUPLICATE_i_hutuar
+62,,,,trapped,i_bllokuar
+63,,,,desperate,i_dëshpëruar
+65,L07_9,synonyms - intensity,creative,,krijues
+66,,,,ingenious,gjeniale
+67,,,,inventive,i_shpikur
+68,,,,demiurgic,NO_TRANSLATION
+69,,,,deviceful,i_pajisur
+70,,,,innovational,bashkëkohor
+71,,,,innovative,inovator
+72,,,,innovatory,DUPLICATE_bashkëkohor
+73,,,,original,origjinal
+74,,,,originative,DUPLICATE_origjinal
+76,L07_10,synonyms - intensity,cry,,qaj
+77,,,,scream,bërtas
+78,,,,shriek,ulëras
+79,,,,screech,klith
+80,,,,screeching,duke_klithur
+82,L07_11,synonyms - intensity,damp,,e_lagësht
+83,,,,drenched,i_lagur
+84,,,,dripping,"DUPLICATE_e_lagësht,_që_pikon"
+85,,,,saturated,i_ngopur
+86,,,,soaked,i_njomur
+87,,,,soaking,duke_njomur
+88,,,,sodden,DUPLICATE_i_njomur
+89,,,,sopping,duke_lagur
+90,,,,soppy,qull_i_lagur
+91,,,,soused,DUPLICATE_i_lagur
+92,,,,wringing-wet,i_shtrydhur
+94,L07_12,synonyms - intensity,dinner,,darkë
+95,,,,feast,gosti
+96,,,,banquet,banket
+97,,,,fiesta,"mbrëmje,_festë"
+99,L07_13,synonyms - intensity,dislike,,mospëlqim
+100,,,,hate,urrej
+101,,,,abhor,DUPLICATE_urrej
+102,,,,detest,neveris
+103,,,,loathe,DUPLICATE_urrej
+104,,,,abominate,i_neveritshëm
+105,,,,execrate,"urrej,_mallkoj"
+106,,,,contemn,përbuz
+107,,,,despise,përçmoj
+108,,,,scorn,DUPLICATE_përbuz
+109,,,,disdain,"nuk_denjoj,_begenis"
+111,L07_14,synonyms - intensity,doze,,kotem
+112,,,,sleep,flej
+113,,,,slumber,dremis
+115,L07_15,synonyms - intensity,drizzle,,vesë
+116,,,,rain,shi
+117,,,,shower,rrebesh
+118,,,,raifall,reshje
+119,,,,deluge,përmbytje
+122,L07_16,synonyms - intensity,excited,,i_emocionuar
+123,,,,agitated,i_shqetësuar
+124,,,,nervous,nervoz
+126,L07_17,synonyms - intensity,faith,,besim
+127,,,,fanatism,fanatizëm
+128,,,,fanaticism,DUPLICATE_fanatizëm
+129,,,,zealotry,DUPLICATE_fanatizëm
+131,L07_18,synonyms - intensity,giggle,,qesh
+132,,,,laugh,DUPLICATE_qesh
+133,,,,guffaw,gajasem
+134,,,,chortle,qesh_me_lot
+135,,,,snicker,përqesh
+136,,,,snigger,qesh_nën_hundë
+137,,,,titter,kukuris
+138,,,,roar,gjëmoj
+140,L07_19,synonyms - intensity,guilty,,fajtor
+141,,,,remorseful,i_penduar
+142,,,,sorrowful,i_pikëlluar
+143,,,,unworthy,i_padenjë
+145,L07_20,synonyms - intensity,happy,,i_lumtur
+146,,,,ecstatic,i_dalldisur_nga_lumturia
+147,,,,enraptured,i_magjepsur
+148,,,,rapturous,i_ngazëllyer
+149,,,,rapt,i_mahnitur
+150,,,,rhapsodic,rapsodik
+152,L07_21,synonyms - intensity,house,,shtëpi
+153,,,,palace,pallat
+154,,,,castle,kështjellë
+156,L07_22,synonyms - intensity,hungry,,i_uritur
+157,,,,starving,vdes_urie
+158,,,,famished,DUPLICATE_i_uritur
+159,,,,peckish,disi_i_uritur
+160,,,,ravenous,i_pangopur
+161,,,,starved,DUPLICATE_i_uritur
+163,L07_23,synonyms - intensity,indulge,,llastoj
+164,,,,pamper,përkëdhel
+165,,,,spoil,DUPLICATE_llastoj
+166,,,,coddle,"mbaj_me_pekule,_mbaj_me_të_mira"
+168,L07_24,synonyms - intensity,interesting,,interesante
+169,,,,exciting,emocionuese
+170,,,,exhilarant,ngazëllyes
+171,,,,exhilarating,ngazëllyese
+172,,,,exhilarative,DUPLICATE_ngazëllyese
+173,,,,eye-popping,DUPLICATE_drithëruese
+174,,,,inspiring,frymëzuese
+175,,,,intoxicating,dehëse
+176,,,,rousing,e_gjallë
+177,,,,stimulating,stimuluese
+178,,,,stirring,energjike
+179,,,,arresting,mahnitëse
+180,,,,interesting,DUPLICATE_interesante
+181,,,,intriguing,intriguese
+182,,,,moving,prekëse
+183,,,,provocative,provokative
+184,,,,heady,marramendëse
+185,,,,thrilling,drithëruese
+187,L07_25,synonyms - intensity,irritate,,irritues
+188,,,,enrage,tërboj
+189,,,,incense,zemëroj
+190,,,,infuriate,xhindos
+191,,,,ire,inat
+192,,,,mad,i_çmendur
+193,,,,madden,çmendem
+194,,,,steam,"avull,_energjik"
+195,,,,umbrage,përbuzje
+197,L07_26,synonyms - intensity,jog,,vrapoj
+198,,,,run,vrapoj
+199,,,,scarper,NO_TRANSLATION
+200,,,,flee,zhduket
+201,,,,fly,fluturoj
+203,L07_27,synonyms - intensity,lake,,liqen
+204,,,,sea,det
+205,,,,ocean,oqean
+207,L07_28,synonyms - intensity,like,,pëlqej
+208,,,,love,dashuroj
+209,,,,care,kujdesem
+210,,,,fond,i_dhënë_pas
+211,,,,crush,thërrmoj
+212,,,,infatuate,magjeps
+214,L07_29,synonyms - intensity,love,,dashuroj
+215,,,,adore,adhuroj
+216,,,,fetishize,fetishizoj
+217,,,,idolize,hyjnizoj
+218,,,,idolise,DUPLICATE_hyjnizoj
+219,,,,worship,DUPLICATE_adhuroj
+220,,,,hero-worship,DUPLICATE_admiroj
+221,,,,revere,nderoj
+223,L07_30,synonyms - intensity,monkey,,majmun
+224,,,,gorilla,gorillë
+226,L07_31,synonyms - intensity,nap,,dremis
+227,,,,sleep,flej
+228,,,,slumber,DUPLICATE_dremis
+230,L07_32,synonyms - intensity,necessary,,e_nevojshme
+231,,,,essential,thelbësore
+232,,,,indispensable,e_domosdoshme
+233,,,,vital,e_gjallë
+234,,,,required,e_kërkuar
+236,L07_33,synonyms - intensity,opposed,,i_kundërt
+237,,,,averse,kundërshtues
+238,,,,antipathetic,antipatik
+239,,,,antipathetical,DUPLICATE_antipatik
+240,,,,indisposed,i_padisponueshëm
+241,,,,loath,ngurrues
+242,,,,loth,DUPLICATE_ngurrues
+244,L07_34,synonyms - intensity,pain,,dhimbje
+245,,,,torment,vuajtje
+246,,,,torture,torturë
+247,,,,agony,agoni
+249,L07_35,synonyms - intensity,pony,,mëz
+250,,,,horse,kalë
+252,L07_36,synonyms - intensity,poorly,,i_varfër
+253,,,,afflicted,i_vuajtur
+254,,,,sick,i_sëmurë
+255,,,,ill,DUPLICATE_i_sëmurë
+256,,,,stricken,i_plagosur
+258,L07_37,synonyms - intensity,rain,,shi
+259,,,,deluge,përmbytje
+260,,,,shower,rrebesh
+262,L07_38,synonyms - intensity,sad,,i_mërzitur
+263,,,,desparate,i_dëshpëruar
+264,,,,despondent,i_brengosur
+265,,,,despairing,i_pashpresë
+266,,,,desponding,dëshpëruese
+267,,,,forlorn,i_mjerë
+268,,,,hopeless,DUPLICATE_i_pashpresë
+269,,,,melancholy,melankolik
+272,L07_39,synonyms - intensity,sea,,det
+273,,,,ocean,oqean
+275,L07_40,synonyms - intensity,snack,,vakt_i_ndërmjetëm
+276,,,,meal,"vakt,_ushqim"
+277,,,,eat,ha
+279,L07_41,synonyms - intensity,sniffles,,nuhatje
+280,,,,pneumonia,pneumoni
+282,L07_42,synonyms - intensity,soon,,shpejt
+283,,,,immediately,menjëherë
+284,,,,promptly,me_shpejtësi
+285,,,,straightaway,drejtpërsëdrejti
+287,L07_43,synonyms - intensity,strong,,i_fortë
+288,,,,powerful,i_fuqishëm
+289,,,,forceful,DUPLICATE_i_fortë
+290,,,,super,super
+291,,,,potent,potent
+293,L07_44,synonyms - intensity,tasty,,i_shijshëm
+294,,,,delicious,DUPLICATE_i_shijshëm
+295,,,,delectable,"DUPLICATE_i_shijshëm,_i_këndshëm"
+296,,,,luscious,i_ëmbël
+297,,,,pleasant-tasting,shije_e_këndshme
+298,,,,scrumptious,DUPLICATE_i_shijshëm
+299,,,,toothsome,me_shije_të_këndshme
+300,,,,yummy,DUPLICATE_i_shijshëm
+301,,,,mouth-watering,të_lëshon_goja_lëng
+302,,,,ambrosial,NO_TRANSLATION
+303,,,,heavenly,i_mrekullueshëm
+305,L07_45,synonyms - intensity,tired,,i_lodhur
+306,,,,exhausted,i_rraskapitur
+307,,,,drained,i_mbaruar
+309,L07_46,synonyms - intensity,unfortunate,,i_pafat
+310,,,,tragic,tragjike
+311,,,,woeful,DUPLICATE_i_mjerë
+312,,,,grievous,i_brengosur
+313,,,,wretched,fatkeq
+314,,,,miserable,i_mjerë
+315,,,,awful,i_tmerrshëm
+316,,,,lamentable,vajtuese
+317,,,,regrettable,i_keqardhur
+318,,,,desperate,i_trishtuar
+319,,,,hopeless,i_pashpresë
+320,,,,disastrous,i_shkatërruar
+322,L07_47,synonyms - intensity,unhappy,,i_pakënaqur
+323,,,,miserable,i_mjerë
+324,,,,suffering,vuajtëse
+325,,,,wretched,fatkeq
+327,L07_48,synonyms - intensity,want,,dëshiroj
+328,,,,crave,lakmoj
+329,,,,hunger,vdes_nga_dëshira
+330,,,,thirst,i_etur_për
+331,,,,starve,i_uritur_për
+332,,,,lust,i_djegur_për
+334,L07_49,synonyms - intensity,warm,,i_ngrohtë
+335,,,,hot,i_nxehtë
+336,,,,fiery,i_zjarrtë
+337,,,,flaming,flakëruese
+338,,,,heated,i_ngrohur
+339,,,,red-hot,e_nxehtë_flakë
+340,,,,sizzling,shumë_e_nxehtë
+341,,,,sensual,e_ndjeshme
+342,,,,sultry,DUPLICATE_i_zjarrtë
+343,,,,torrid,përvëlues
+344,,,,white-hot,NO_TRANSLATION
+346,L07_50,synonyms - intensity,well,,i_mirë
+347,,,,flourishing,i_lulëzuar
+348,,,,robust,i_fuqishëm
+349,,,,booming,në_lulëzim
+350,,,,prospering,i_begatë
+351,,,,prosperous,i_begatshëm
+352,,,,thriving,duke_lulëzuar

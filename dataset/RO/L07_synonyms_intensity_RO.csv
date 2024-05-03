@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,RO
+0,L07_1,synonyms - intensity,afraid,,frică
+1,,,,terrified,îngrozit
+2,,,,horrified,consternat
+3,,,,scared,speriat
+4,,,,stiff,rigid
+5,,,,petrified,împietrit
+6,,,,fearful,fricos
+7,,,,panicky,panicat
+9,L07_2,synonyms - intensity,angry,,mânios
+10,,,,furious,furios
+11,,,,enraged,înfuriat
+12,,,,outraged,revoltat
+13,,,,aggrivated,agravat
+14,,,,irate,iritat
+15,,,,seething,clocotind
+17,L07_3,synonyms - intensity,ask,,întreba
+18,,,,beg,cerși
+19,,,,implore,implora
+20,,,,pray,ruga
+21,,,,entreat,ruga_stăruitor
+22,,,,supplicate,cere_îndrumare
+23,,,,insist,insista
+25,L07_4,synonyms - intensity,bad,,rău
+26,,,,awful,îngrozitor
+27,,,,atrocious,atroce
+28,,,,abominable,abominabil
+29,,,,dreadful,groaznic
+30,,,,painful,direros
+31,,,,terrible,teribil
+32,,,,unspeakable,negrăit
+34,L07_5,synonyms - intensity,boring,,plictisitor
+35,,,,tedious,anost
+36,,,,deadening,amorțitor
+37,,,,dull,plicticos
+38,,,,ho-hum,NO_TRANSLATION
+39,,,,irksome,supărător
+40,,,,tiresome,istovitor
+41,,,,wearisome,obositor
+43,L07_6,synonyms - intensity,cat,,pisică
+44,,,,lion,leu
+45,,,,tiger,tigru
+46,,,,leopard,leopard
+47,,,,panther,panteră
+48,,,,jaguar,jaguar
+50,L07_7,synonyms - intensity,chuckle,,chicot
+51,,,,laugh,râs
+52,,,,guffaw,hohot
+53,,,,chortle,chicoti
+54,,,,snicker,nechezat
+55,,,,snigger,zâmbet_cu_înțeles
+56,,,,titter,hlizeală
+57,,,,roar,răcnet
+59,L07_8,synonyms - intensity,confused,,nedumerit
+60,,,,lost,pierdut
+61,,,,bewildered,derutat
+62,,,,trapped,prins
+63,,,,desperate,deznădăjduit
+65,L07_9,synonyms - intensity,creative,,creativ
+66,,,,ingenious,ingenios
+67,,,,inventive,inventiv
+68,,,,demiurgic,NO_TRANSLATION
+69,,,,deviceful,DUPLICATE_NO_TRANSLATION
+70,,,,innovational,inovator
+71,,,,innovative,inovativ
+72,,,,innovatory,DUPLICATE_NO_TRANSLATION
+73,,,,original,original
+74,,,,originative,DUPLICATE_NO_TRANSLATION
+76,L07_10,synonyms - intensity,cry,,plâns
+77,,,,scream,urlet
+78,,,,shriek,țipăt
+79,,,,screech,scârțâit
+80,,,,screeching,scârțâitor
+82,L07_11,synonyms - intensity,damp,,umed
+83,,,,drenched,ud_până_la_piele
+84,,,,dripping,picurat
+85,,,,saturated,saturat
+86,,,,soaked,înmuiat
+87,,,,soaking,înmuiere
+88,,,,sodden,îmbibat
+89,,,,sopping,leoarcă
+90,,,,soppy,ploios
+91,,,,soused,afumat
+92,,,,wringing-wet,ud_leoarcă
+94,L07_12,synonyms - intensity,dinner,,cină
+95,,,,feast,sărbătoare
+96,,,,banquet,banchet
+97,,,,fiesta,petrecere
+99,L07_13,synonyms - intensity,dislike,,aversiune
+100,,,,hate,ură
+101,,,,abhor,scârbit
+102,,,,detest,detesta
+103,,,,loathe,repulsie
+104,,,,abominate,nu_putea_suferi
+105,,,,execrate,execra
+106,,,,contemn,dispreț
+107,,,,despise,disprețui
+108,,,,scorn,nesocoti
+109,,,,disdain,descomsidera
+111,L07_14,synonyms - intensity,doze,,moțăi
+112,,,,sleep,somn
+113,,,,slumber,dormi
+115,L07_15,synonyms - intensity,drizzle,,burnița
+116,,,,rain,ploie
+117,,,,shower,aversă
+119,,,,deluge,inundație
+120,,,,rainfall,precipitații
+122,L07_16,synonyms - intensity,excited,,excitat
+123,,,,agitated,agitat
+124,,,,nervous,neliniștit
+126,L07_17,synonyms - intensity,faith,,credință
+127,,,,fanatism,fanatism
+128,,,,fanaticism,DUPLICATE_fanatism
+129,,,,zealotry,bigotism
+131,L07_18,synonyms - intensity,giggle,,chicoti
+132,,,,laugh,râs
+133,,,,guffaw,hohot
+134,,,,chortle,DUPLICATE_chicoti
+135,,,,snicker,chicotit
+136,,,,snigger,DUPLICATE_chicotit
+137,,,,titter,chicot
+138,,,,roar,hohote
+140,L07_19,synonyms - intensity,guilty,,vinovat
+141,,,,remorseful,pocăit
+142,,,,sorrowful,trist
+143,,,,unworthy,nedemn
+145,L07_20,synonyms - intensity,happy,,fericit
+146,,,,ecstatic,extatic
+147,,,,enraptured,extaziat
+148,,,,rapturous,entuziast
+149,,,,rapt,fascinat
+150,,,,rhapsodic,emfatic
+152,L07_21,synonyms - intensity,house,,casa
+153,,,,palace,palat
+154,,,,castle,castel
+156,L07_22,synonyms - intensity,hungry,,flămând
+157,,,,starving,îmfometat
+158,,,,famished,lihnit
+159,,,,peckish,DUPLICATE_flămând
+160,,,,ravenous,hămesit
+161,,,,starved,mort_de_foame
+163,L07_23,synonyms - intensity,indulge,,tolera
+164,,,,pamper,răsfăța
+165,,,,spoil,strica
+166,,,,coddle,menaja
+168,L07_24,synonyms - intensity,interesting,,interesant
+169,,,,exciting,captivant
+170,,,,exhilarant,exaltant
+171,,,,exhilarating,înveselitor
+172,,,,exhilarative,DUPLICATE_exaltant
+173,,,,eye-popping,zdrobitoare
+174,,,,inspiring,inspirator
+175,,,,intoxicating,îmbătător
+176,,,,rousing,vibrant
+177,,,,stimulating,stimulatoare
+178,,,,stirring,agitând
+179,,,,arresting,arestând
+180,,,,interesting,DUPLICATE_interesant
+181,,,,intriguing,intrigant
+182,,,,moving,emoșionant
+183,,,,provocative,provocator
+184,,,,heady,impetuos
+185,,,,thrilling,palpitant
+187,L07_25,synonyms - intensity,irritate,,irita
+188,,,,enrage,înfuria
+189,,,,incense,ațâța
+190,,,,infuriate,mânia
+191,,,,ire,supăra
+192,,,,mad,nebun
+193,,,,madden,înnebuni
+194,,,,steam,fumega
+195,,,,umbrage,ofensa
+197,L07_26,synonyms - intensity,jog,,a_se_mișca_încet
+198,,,,run,alerga
+199,,,,scarper,răzuitor
+200,,,,flee,fugi
+201,,,,fly,zbura
+203,L07_27,synonyms - intensity,lake,,lac
+204,,,,sea,mare
+205,,,,ocean,ocean
+207,L07_28,synonyms - intensity,like,,place
+208,,,,love,iubi
+209,,,,care,ține
+210,,,,fond,pasionat
+211,,,,crush,cădea_cu_tronc
+212,,,,infatuate,infatuat
+214,L07_29,synonyms - intensity,love,,iubi
+215,,,,adore,adora
+216,,,,fetishize,NO_TRANSLATION
+217,,,,idolize,idolatiza
+218,,,,idolise,DUPLICATE_idolatiza
+219,,,,worship,venera
+220,,,,hero-worship,slăvire
+221,,,,revere,onora
+223,L07_30,synonyms - intensity,monkey,,maimuță
+224,,,,gorilla,gorilă
+226,L07_31,synonyms - intensity,nap,,moțăi
+227,,,,sleep,somn
+228,,,,slumber,dormi
+230,L07_32,synonyms - intensity,necessary,,necesar
+231,,,,essential,esențial
+232,,,,indispensable,indispensabil
+233,,,,vital,vital
+234,,,,required,obligatoriu
+236,L07_33,synonyms - intensity,opposed,,contrat
+237,,,,averse,împotriva
+238,,,,antipathetic,antipatic
+239,,,,antipathetical,DUPLICATE_antipatic
+240,,,,indisposed,indispus
+241,,,,loath,potrivnic
+242,,,,loth,ostil
+244,L07_34,synonyms - intensity,pain,,durere
+245,,,,torment,chin
+246,,,,torture,tortură
+247,,,,agony,agonie
+249,L07_35,synonyms - intensity,pony,,ponei
+250,,,,horse,cal
+252,L07_36,synonyms - intensity,poorly,,sărăcăcios
+253,,,,afflicted,îmbolnăvit
+254,,,,sick,căruia_îi_vine_greaţă
+255,,,,ill,bolnav
+256,,,,stricken,lovit_de_o_nenorocire
+258,L07_37,synonyms - intensity,rain,,ploie
+259,,,,deluge,inundație
+260,,,,shower,aversă
+262,L07_38,synonyms - intensity,sad,,tristețe
+264,,,,despondent,abătut
+265,,,,despairing,deznădăjduit
+266,,,,desponding,DUPLICATE_abătut
+267,,,,forlorn,dezamăgit
+268,,,,hopeless,fără_speranță
+269,,,,melancholy,melancolie
+270,,,,desperate,disperat
+272,L07_39,synonyms - intensity,sea,,mare
+273,,,,ocean,ocean
+275,L07_40,synonyms - intensity,snack,,gustare
+276,,,,meal,masă
+277,,,,eat,mâncare
+279,L07_41,synonyms - intensity,sniffles,,mucos
+280,,,,pneumonia,penumonie
+282,L07_42,synonyms - intensity,soon,,curând
+283,,,,immediately,imediat
+284,,,,promptly,prompt
+285,,,,straightaway,acum
+287,L07_43,synonyms - intensity,strong,,voinic
+288,,,,powerful,puternic
+289,,,,forceful,viguros
+290,,,,super,super
+291,,,,potent,potent
+293,L07_44,synonyms - intensity,tasty,,gustos
+294,,,,delicious,delicios
+295,,,,delectable,delectabil
+296,,,,luscious,savuros
+297,,,,pleasant-tasting,cu_gust_plăcut
+298,,,,scrumptious,DUPLICATE_delicios
+299,,,,toothsome,suculent
+300,,,,yummy,DUPLICATE_delicios
+301,,,,mouth-watering,lasă_gura_apă
+302,,,,ambrosial,ambrizic
+303,,,,heavenly,ceresc
+305,L07_45,synonyms - intensity,tired,,obosit
+306,,,,exhausted,epuizat
+307,,,,drained,extenuat
+309,L07_46,synonyms - intensity,unfortunate,,regretabil
+310,,,,tragic,tragic
+311,,,,woeful,jalnic
+312,,,,grievous,dureros
+313,,,,wretched,nenorocit
+314,,,,miserable,mizerabil
+315,,,,awful,îngrozitor
+316,,,,lamentable,lamentabil
+317,,,,regrettable,regretabil
+318,,,,desperate,disperat
+319,,,,hopeless,fără_speranță
+320,,,,disastrous,dezastruos
+322,L07_47,synonyms - intensity,unhappy,,nefericit
+323,,,,miserable,mizerabil
+324,,,,suffering,suferind
+325,,,,wretched,nenorocit
+327,L07_48,synonyms - intensity,want,,vrea
+328,,,,crave,pofti
+329,,,,hunger,flămânzi
+330,,,,thirst,înseta
+331,,,,starve,muri_de_foame
+332,,,,lust,dori
+334,L07_49,synonyms - intensity,warm,,calduț
+335,,,,hot,cald
+336,,,,fiery,înfocat
+337,,,,flaming,înflăcărat
+338,,,,heated,încălzit
+339,,,,red-hot,roșu_aprins
+340,,,,sizzling,sfârâit
+341,,,,sensual,senzual
+342,,,,sultry,sufocant
+343,,,,torrid,torid
+344,,,,white-hot,alb_fierbinte
+346,L07_50,synonyms - intensity,well,,bine
+347,,,,flourishing,înfloritor
+348,,,,robust,robust
+349,,,,booming,DUPLICATE_înfloritor
+350,,,,prospering,prosperând
+351,,,,prosperous,prosper
+352,,,,thriving,înbelșugat

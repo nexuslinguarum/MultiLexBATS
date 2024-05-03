@@ -1,0 +1,248 @@
+,ID,Relation,Source,Target,FR
+0,L04_1,meronyms - substance,atmosphere,,atmosphère
+1,,,,gas,gaz
+2,,,,oxygen,oxygène
+3,,,,hydrogen,hydrogène
+4,,,,nitrogen,azote
+5,,,,ozone,ozone
+7,L04_2,meronyms - substance,bag,,sac
+8,,,,leather,cuir
+9,,,,fabric,tissu
+10,,,,plastic,plastique
+12,L04_3,meronyms - substance,beach,,plage
+13,,,,sand,sable
+14,,,,silicon,silicium
+15,,,,rocks,roches
+16,,,,pebbles,cailloux
+17,,,,atomic_number_14,numéro_atomique_14
+18,,,,si,si
+20,L04_4,meronyms - substance,beard,,barbe
+21,,,,hair,cheveux
+23,L04_5,meronyms - substance,body,,corps
+24,,,,flesh,chair
+25,,,,bones,os
+27,L04_6,meronyms - substance,boots,,bottes
+28,,,,leather,cuir
+29,,,,canvas,toile
+31,L04_7,meronyms - substance,bottle,,bouteille
+32,,,,glass,verre
+33,,,,plastic,plastique
+35,L04_8,meronyms - substance,bowl,,bol
+36,,,,glass,verre
+37,,,,china,chine
+38,,,,aluminium,aluminium
+39,,,,wood,bois
+40,,,,steel,acier
+41,,,,plastic,plastique
+42,,,,clay,argile
+44,L04_9,meronyms - substance,box,,boîte
+45,,,,cardboard,carton
+46,,,,tin,étain
+47,,,,boxwood,buis
+48,,,,turkish_boxwood,buis_turc
+50,L04_10,meronyms - substance,bread,,pain
+51,,,,flour,farine
+52,,,,yeast,levure
+54,L04_11,meronyms - substance,bronze,,bronze
+55,,,,copper,cuivre
+56,,,,tin,étain
+57,,,,cu,cu
+58,,,,atomic_number_29,nombre_atomique_29
+60,L04_12,meronyms - substance,candy,,bonbons
+61,,,,sugar,sucre
+62,,,,nougat,nougat
+63,,,,chocolate,chocolat
+64,,,,gelatin,gélatine
+65,,,,molasses,mélasse
+66,,,,syrup,sirop
+67,,,,honey,miel
+68,,,,fruit,fruits
+69,,,,nuts,noix
+71,L04_13,meronyms - substance,chocolate,,chocolat
+72,,,,cocoa,cacao
+73,,,,bean,fève
+74,,,,cacao,DUPLICATE_cacao
+75,,,,cacao_bean,fève_de_cacao
+76,,,,cocoa_bean,fève_cacao
+78,L04_14,meronyms - substance,clothing,,vêtements
+79,,,,fabric,tissu
+80,,,,leather,cuir
+82,L04_15,meronyms - substance,cloud,,nuage
+83,,,,vapor,vapeur
+84,,,,water,eau
+85,,,,vapour,DUPLICATE_vapeur
+86,,,,water_vapour,eau_vapeur
+87,,,,water_vapor,vapeur_d'eau
+89,L04_16,meronyms - substance,cocktail,,cocktail
+90,,,,alcohol,alcool
+91,,,,juice,jus
+92,,,,water,eau
+94,L04_17,meronyms - substance,concrete,,béton
+95,,,,silicon,silicium
+96,,,,cement,ciment
+97,,,,water,eau
+98,,,,sand,sable
+99,,,,atomic_number_14,nombre_atomique_14
+100,,,,si,si
+102,L04_18,meronyms - substance,desk,,bureau
+103,,,,wood,bois
+104,,,,metal,métal
+105,,,,steel,acier
+107,L04_19,meronyms - substance,diamond,,diamant
+108,,,,carbon,carbone
+110,L04_20,meronyms - substance,doorknob,,poignée_de_porte
+111,,,,metal,métal
+112,,,,steel,acier
+113,,,,bronze,bronze
+114,,,,wood,bois
+116,L04_21,meronyms - substance,flag,,drapeau
+117,,,,fabric,tissu
+118,,,,paper,papier
+120,L04_22,meronyms - substance,glacier,,glacier
+121,,,,ice,glace
+122,,,,water,eau
+123,,,,oxygen,oxygène
+124,,,,hydrogen,hydrogène
+125,,,,h,h
+126,,,,h2o,h2o
+127,,,,atomic_number_8,numéro_atomique_8
+128,,,,atomic_number_1,numéro_atomique_1
+129,,,,o,o
+130,,,,water_ice,eau_glace
+132,L04_23,meronyms - substance,glass,,verre
+133,,,,silicone,silicone
+135,L04_24,meronyms - substance,house,,maison
+136,,,,bricks,briques
+137,,,,cement,ciment
+138,,,,wood,bois
+139,,,,clay,argile
+141,L04_25,meronyms - substance,ice,,glace
+142,,,,water,eau
+143,,,,oxygen,oxygène
+144,,,,hydrogen,hydrogène
+145,,,,h2o,h2o
+146,,,,atomic_number_1,numéro_atomique_1
+147,,,,atomic_number_8,numéro_atomique_8
+148,,,,h,h
+149,,,,o,o
+151,L04_26,meronyms - substance,icicle,,glaçon
+152,,,,ice,glace
+153,,,,water,eau
+155,L04_27,meronyms - substance,jam,,confiture
+156,,,,fruit,fruit
+157,,,,sugar,sucre
+158,,,,berries,baies
+160,L04_28,meronyms - substance,jeans,,jeans
+161,,,,fabric,tissu
+162,,,,denim,denim
+164,L04_29,meronyms - substance,lawn,,pelouse
+165,,,,grass,herbe
+167,L04_30,meronyms - substance,lens,,lentille
+168,,,,glass,verre
+169,,,,plastic,plastique
+171,L04_31,meronyms - substance,mirror,,miroir
+172,,,,glass,verre
+173,,,,bronze,bronze
+175,L04_32,meronyms - substance,money,,argent
+176,,,,paper,papier
+177,,,,metal,métal
+178,,,,silver,argent
+179,,,,gold,or
+180,,,,iron,fer
+181,,,,copper,cuivre
+182,,,,tin,étain
+184,L04_33,meronyms - substance,ocean,,océan
+185,,,,water,eau
+187,L04_34,meronyms - substance,omelette,,omelette
+188,,,,eggs,œufs
+189,,,,egg,œuf
+190,,,,milk,lait
+191,,,,cheese,fromage
+193,L04_35,meronyms - substance,pastry,,pâtisserie
+194,,,,flour,farine
+195,,,,egg,œuf
+196,,,,butter,beurre
+197,,,,filling,garniture
+199,L04_36,meronyms - substance,penny,,penny
+200,,,,metal,métal
+201,,,,alloy,alliage
+202,,,,bronze,bronze
+203,,,,nickel,nickel
+204,,,,zinc,zinc
+205,,,,copper,cuivre
+206,,,,tin,étain
+208,L04_37,meronyms - substance,pill,,pilule
+209,,,,medicine,médicament
+210,,,,drug,DUPLICATE_médicament
+212,L04_38,meronyms - substance,plastic,,plastique
+213,,,,polymer,polymère
+214,,,,oil,huile
+215,,,,gas,gaz
+216,,,,coal,charbon
+218,L04_39,meronyms - substance,roof,,toit
+219,,,,shingles,bardeaux
+220,,,,tiles,tuiles
+221,,,,wood,bois
+222,,,,metal,métal
+224,L04_40,meronyms - substance,sea,,mer
+225,,,,water,eau
+227,L04_41,meronyms - substance,snow,,neige
+228,,,,water,eau
+229,,,,oxygen,oxygène
+230,,,,hydrogen,hydrogène
+231,,,,flake,flocon
+232,,,,ice,glace
+233,,,,snowflake,flocon_de_neige
+234,,,,snowflakes,flocons_de_neige
+235,,,,h2o,h2o
+236,,,,atomic_number_1,numéro_atomique_1
+237,,,,atomic_number_8,nombre_atomique_8
+238,,,,h,h
+239,,,,o,o
+241,L04_42,meronyms - substance,spoon,,cuillère
+242,,,,aluminium,aluminium
+243,,,,wood,bois
+244,,,,steel,acier
+246,L04_43,meronyms - substance,steel,,acier
+247,,,,iron,fer
+248,,,,pearlite,perlite
+249,,,,carbon,carbone
+250,,,,cementite,cémentite
+251,,,,ferrite,ferrite
+252,,,,iron_carbide,carbure_de_fer
+253,,,,fe,fe
+254,,,,atomic_number_26,numéro_atomique_26
+255,,,,alpha_iron,alpha_fer
+257,L04_44,meronyms - substance,table,,table
+258,,,,wood,bois
+259,,,,metal,métal
+260,,,,plastic,plastique
+262,L04_45,meronyms - substance,wall,,mur
+263,,,,cement,ciment
+264,,,,bricks,briques
+265,,,,stones,pierres
+266,,,,rocks,roches
+267,,,,wood,bois
+268,,,,cardboard,carton
+269,,,,board,planche
+270,,,,plank,DUPLICATE_planche
+271,,,,clay,argile
+272,,,,mud,boue
+274,L04_46,meronyms - substance,water,,eau
+275,,,,oxygen,oxygène
+276,,,,hydrogen,hydrogène
+277,,,,water,eau
+278,,,,h2o,h2o
+279,,,,atomic_number_1,numéro_atomique_1
+280,,,,atomic_number_8,numéro_atomique_8
+281,,,,h,h
+282,,,,o,o
+284,L04_47,meronyms - substance,wig,,perruque
+285,,,,hair,cheveux
+287,L04_48,meronyms - substance,wine,,vin
+288,,,,grapes,raisin
+289,,,,grape,DUPLICATE_raisin
+291,L04_49,meronyms - substance,wire,,fil_de_fer
+292,,,,metal,métal
+294,L04_50,meronyms - substance,yogurt,,yaourt
+295,,,,milk,lait

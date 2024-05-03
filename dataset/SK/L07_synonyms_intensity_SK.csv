@@ -1,0 +1,317 @@
+,ID,Relation,Source,Target,SK
+0,L07_1,synonyms - intensity,afraid,,NO_TRANSLATION
+1,,,,terrified,vydesený
+2,,,,horrified,zdesený
+3,,,,scared,vystrašený
+4,,,,stiff,stuhnutý
+5,,,,petrified,skamenený
+6,,,,fearful,bojazlivý
+7,,,,panicky,panický
+9,L07_2,synonyms - intensity,angry,,nahnevaný
+10,,,,furious,zúrivý
+11,,,,enraged,rozzúrený
+12,,,,outraged,nazurený
+13,,,,aggrivated,NO_TRANSLATION
+14,,,,irate,zlostný
+15,,,,seething,kypiaci
+17,L07_3,synonyms - intensity,ask,,pýtať_si
+18,,,,beg,prosiť
+19,,,,implore,zaprisahať
+20,,,,pray,žiadať
+21,,,,entreat,uprosovať
+22,,,,supplicate,naliehať
+23,,,,insist,vyžadovať
+25,L07_4,synonyms - intensity,bad,,zlý
+26,,,,awful,hrozný
+27,,,,atrocious,zverský
+28,,,,abominable,ohavný
+29,,,,dreadful,príšerný
+30,,,,painful,bolestivý
+31,,,,terrible,strašný
+32,,,,unspeakable,nevysloviteľný
+34,L07_5,synonyms - intensity,boring,,nudný
+35,,,,tedious,zdĺhavý
+36,,,,deadening,ubíjajúci
+37,,,,dull,fádny
+38,,,,ho-hum,nezáživný
+39,,,,irksome,DUPLICATE_nudný
+40,,,,tiresome,únavný
+41,,,,wearisome,úmorný
+43,L07_6,synonyms - intensity,cat,,mačka
+44,,,,lion,lev
+45,,,,tiger,tiger
+46,,,,leopard,leopard
+47,,,,panther,panter
+48,,,,jaguar,jaguár
+50,L07_7,synonyms - intensity,chuckle,,chichot
+51,,,,laugh,smiech
+52,,,,guffaw,rehot
+53,,,,chortle,radostný_smiech
+54,,,,snicker,chechot
+55,,,,snigger,chechtanie
+56,,,,titter,chichúňanie
+57,,,,roar,hurónsky_smiech
+59,L07_8,synonyms - intensity,confused,,zmätený
+60,,,,lost,stratený
+61,,,,bewildered,popletený
+62,,,,trapped,v_pasci
+63,,,,desperate,zúfalý
+65,L07_9,synonyms - intensity,creative,,tvorivý
+66,,,,ingenious,dôvtipný
+67,,,,inventive,invenčný
+68,,,,demiurgic,stvoriteľský
+69,,,,deviceful,vynaliezavý
+70,,,,innovational,DUPLICATE_inovatívny
+71,,,,innovative,inovatívny
+72,,,,innovatory,DUPLICATE_inovatívny
+73,,,,original,originálny
+74,,,,originative,DUPLICATE_originálny
+75,,,,,"vynachádzavý,dômyselný,duchaplný"
+76,L07_10,synonyms - intensity,cry,,plakať
+77,,,,scream,vrieskať
+78,,,,shriek,vrešťať
+79,,,,screech,škriekať
+80,,,,screeching,NO_TRANSLATION
+82,L07_11,synonyms - intensity,damp,,vlhký
+83,,,,drenched,premočený
+84,,,,dripping,kvapkajúci
+85,,,,saturated,nasýtený
+86,,,,soaked,nasiaknutý
+87,,,,soaking,premoknutý
+88,,,,sodden,DUPLICATE_premočený
+89,,,,sopping,DUPLICATE_nasiaknutý
+90,,,,soppy,DUPLICATE_nasiaknutý
+91,,,,soused,namočený
+92,,,,wringing-wet,NO_TRANSLATION
+93,,,,,"mokrý,zmoknutý,zvlhčený,navlhčený"
+94,L07_12,synonyms - intensity,dinner,,večera
+95,,,,feast,hostina
+96,,,,banquet,banket
+97,,,,fiesta,fiesta
+99,L07_13,synonyms - intensity,dislike,,nemať_rád
+100,,,,hate,nenávidieť
+101,,,,abhor,hnusiť_sa
+102,,,,detest,protiviť_sa
+103,,,,loathe,bridiť_sa
+104,,,,abominate,mať_odpor
+105,,,,execrate,hroziť_sa
+106,,,,contemn,opovrhovať
+107,,,,despise,DUPLICATE_pohŕdať
+108,,,,scorn,pohŕdať
+109,,,,disdain,DUPLICATE_pohŕdať
+110,,,,,"zaznávať,neznášať"
+111,L07_14,synonyms - intensity,doze,,podriemkávať
+112,,,,sleep,spať
+113,,,,slumber,driemať
+115,L07_15,synonyms - intensity,drizzle,,mrholenie
+116,,,,rain,dážď
+117,,,,shower,prehánky
+118,,,,raifall,lejak
+119,,,,deluge,prietrž
+122,L07_16,synonyms - intensity,excited,,vzrušený
+123,,,,agitated,rozrušený
+124,,,,nervous,nervózny
+126,L07_17,synonyms - intensity,faith,,viera
+127,,,,fanatism,fanatizmus
+128,,,,fanaticism,náboženský_fanatizmus
+129,,,,zealotry,bigotnosť
+131,L07_18,synonyms - intensity,giggle,,chichot
+132,,,,laugh,smiech
+133,,,,guffaw,rehot
+134,,,,chortle,radostný_smiech
+135,,,,snicker,chechot
+136,,,,snigger,chechtanie
+137,,,,titter,chichúňanie
+138,,,,roar,hurónsky_smiech
+140,L07_19,synonyms - intensity,guilty,,vinný
+141,,,,remorseful,kajúcny
+142,,,,sorrowful,trúchlivý
+143,,,,unworthy,nehodný
+145,L07_20,synonyms - intensity,happy,,šťastný
+146,,,,ecstatic,extatický
+147,,,,enraptured,očarený
+148,,,,rapturous,úchvatný
+149,,,,rapt,uchvátený
+150,,,,rhapsodic,vo_vytržení
+152,L07_21,synonyms - intensity,house,,dom
+153,,,,palace,palác
+154,,,,castle,hrad
+156,L07_22,synonyms - intensity,hungry,,hladný
+157,,,,starving,hladujúci
+158,,,,famished,DUPLICATE_vyhladovaný
+159,,,,peckish,NO_TRANSLATION
+160,,,,ravenous,pažravý
+161,,,,starved,vyhladovaný
+162,,,,,nenažraný
+163,L07_23,synonyms - intensity,indulge,,dožičiť
+164,,,,pamper,hýčkať
+165,,,,spoil,rozmaznávať
+166,,,,coddle,rozmaznať
+168,L07_24,synonyms - intensity,interesting,,zaujímavý
+169,,,,exciting,vzrušujúci
+170,,,,exhilarant,povznášajúci
+171,,,,exhilarating,DUPLICATE_povznášajúci
+172,,,,exhilarative,DUPLICATE_povznášajúci
+173,,,,eye-popping,NO_TRANSLATION
+174,,,,inspiring,inšpirujúci
+175,,,,intoxicating,opojný
+176,,,,rousing,DUPLICATE_NO_TRANSLATION
+177,,,,stimulating,stimulujúci
+178,,,,stirring,strhujúci
+179,,,,arresting,DUPLICATE_NO_TRANSLATION
+181,,,,intriguing,pútavý
+182,,,,moving,dojemný
+183,,,,provocative,provokatívny
+184,,,,heady,stúpajúci_do_hlavy
+185,,,,thrilling,napínavý
+186,,,,,"fascinujúci,pôsobivý,dych_vyrážajúci,farbistý,sugestívny,obsažný"
+187,L07_25,synonyms - intensity,irritate,,iritovať
+188,,,,enrage,rozzúriť
+189,,,,incense,popudiť
+190,,,,infuriate,nahnevať
+191,,,,ire,nazlostiť
+192,,,,mad,DUPLICATE_rozčúliť
+193,,,,madden,rozčúliť
+194,,,,steam,NO_TRANSLATION
+195,,,,umbrage,pohoršiť
+196,,,,,"najedovať,nasrať,najebať"
+197,L07_26,synonyms - intensity,jog,,klusať
+198,,,,run,bežať
+199,,,,scarper,zdrhnúť
+200,,,,flee,utiecť
+201,,,,fly,ujsť
+203,L07_27,synonyms - intensity,lake,,jazero
+204,,,,sea,more
+205,,,,ocean,oceán
+207,L07_28,synonyms - intensity,like,,páčiť_sa
+208,,,,love,milovať
+209,,,,care,mať_záujem
+210,,,,fond,mať_rád
+211,,,,crush,zaľúbenie
+212,,,,infatuate,zaslepiť
+214,L07_29,synonyms - intensity,love,,milovať
+215,,,,adore,zbožňovať
+216,,,,fetishize,fetišizovať
+217,,,,idolize,idolizovať
+218,,,,idolise,DUPLICATE_idolizovať
+219,,,,worship,uctievať
+220,,,,hero-worship,NO_TRANSLATION
+221,,,,revere,ctiť
+222,,,,,"obdivovať,ľúbiť,deifikovať"
+223,L07_30,synonyms - intensity,monkey,,opica
+224,,,,gorilla,gorila
+226,L07_31,synonyms - intensity,nap,,zdriemnuť_si
+227,,,,sleep,spať
+228,,,,slumber,driemať
+230,L07_32,synonyms - intensity,necessary,,nevyhnutný
+231,,,,essential,esenciálny
+232,,,,indispensable,DUPLICATE_nevyhnutný
+233,,,,vital,životne_dôležitý
+234,,,,required,vyžadovaný
+235,,,,,nutný
+236,L07_33,synonyms - intensity,opposed,,protichodný
+237,,,,averse,proti
+238,,,,antipathetic,antipatický
+239,,,,antipathetical,DUPLICATE_antipatický
+240,,,,indisposed,neochotný
+241,,,,loath,DUPLICATE_neochotný
+242,,,,loth,DUPLICATE_neochotný
+244,L07_34,synonyms - intensity,pain,,bolesť
+245,,,,torment,muky
+246,,,,torture,mučenie
+247,,,,agony,agónia
+249,L07_35,synonyms - intensity,pony,,poník
+250,,,,horse,kôň
+252,L07_36,synonyms - intensity,poorly,,chorľavý
+253,,,,afflicted,postihnutý
+254,,,,sick,nezdravý
+255,,,,ill,chorý
+256,,,,stricken,NO_TRANSLATION
+257,,,,,nemocný
+258,L07_37,synonyms - intensity,rain,,dážď
+259,,,,deluge,prietrž
+260,,,,shower,prehánky
+262,L07_38,synonyms - intensity,sad,,smutný
+263,,,,desparate,zúfalý
+264,,,,despondent,skormútený
+265,,,,despairing,zúfajúci_si
+266,,,,desponding,skleslý
+267,,,,forlorn,bezútešný
+268,,,,hopeless,beznádejný
+269,,,,melancholy,melancholický
+272,L07_39,synonyms - intensity,sea,,more
+273,,,,ocean,oceán
+275,L07_40,synonyms - intensity,snack,,snack
+276,,,,meal,jedlo
+277,,,,eat,jedenie
+279,L07_41,synonyms - intensity,sniffles,,sople
+280,,,,pneumonia,zápal_pľǔc
+282,L07_42,synonyms - intensity,soon,,skoro
+283,,,,immediately,okamžite
+284,,,,promptly,promptne
+285,,,,straightaway,hneď
+287,L07_43,synonyms - intensity,strong,,silný
+288,,,,powerful,mocný
+289,,,,forceful,DUPLICATE_mocný
+290,,,,super,super
+291,,,,potent,potentný
+292,,,,,nezdolný
+293,L07_44,synonyms - intensity,tasty,,chutný
+294,,,,delicious,znamenitý
+295,,,,delectable,lahodný
+296,,,,luscious,NO_TRANSLATION
+297,,,,pleasant-tasting,chutiaci
+298,,,,scrumptious,fajnový
+299,,,,toothsome,DUPLICATE_NO_TRANSLATION
+300,,,,yummy,DUPLICATE_NO_TRANSLATION
+301,,,,mouth-watering,DUPLICATE_NO_TRANSLATION
+302,,,,ambrosial,ako_ambrózia
+303,,,,heavenly,DUPLICATE_NO_TRANSLATION
+304,,,,,"šťavnatý,chrumkavý,príma"
+305,L07_45,synonyms - intensity,tired,,unavený
+306,,,,exhausted,vyčerpaný
+307,,,,drained,DUPLICATE_vyčerpaný
+308,,,,,ustatý
+309,L07_46,synonyms - intensity,unfortunate,,nešťastný
+310,,,,tragic,tragický
+311,,,,woeful,žalostný
+312,,,,grievous,bolestný
+313,,,,wretched,úbohý
+314,,,,miserable,biedny
+315,,,,awful,hrozný
+316,,,,lamentable,poľutovaniahodný
+317,,,,regrettable,DUPLICATE_poľutovaniahodný
+318,,,,desperate,zúfalý
+319,,,,hopeless,beznádejný
+320,,,,disastrous,katastrofálny
+321,,,,,smutný
+322,L07_47,synonyms - intensity,unhappy,,nešťastný
+323,,,,miserable,biedny
+324,,,,suffering,trpiaci
+325,,,,wretched,úbohý
+327,L07_48,synonyms - intensity,want,,chcieť
+328,,,,crave,bažiť
+329,,,,hunger,hladovať
+330,,,,thirst,smädiť
+331,,,,starve,NO_TRANSLATION
+332,,,,lust,túžiť
+333,,,,,priať_si
+334,L07_49,synonyms - intensity,warm,,teplý
+335,,,,hot,horúci
+336,,,,fiery,ohnivý
+337,,,,flaming,plamenný
+338,,,,heated,zohriaty
+339,,,,red-hot,žeravý
+340,,,,sizzling,rozpálený
+341,,,,sensual,NO_TRANSLATION
+342,,,,sultry,dusný
+343,,,,torrid,spálený
+344,,,,white-hot,rozžeravený_do_biela
+346,L07_50,synonyms - intensity,well,,dobre_na_tom
+347,,,,flourishing,prekvitajúci
+348,,,,robust,robustný
+349,,,,booming,bujnejúci
+350,,,,prospering,prosperujúci
+351,,,,prosperous,DUPLICATE_prosperujúci
+352,,,,thriving,úspešný
+353,,,,,rozvíjajúci_sa

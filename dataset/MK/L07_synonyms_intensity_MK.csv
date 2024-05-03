@@ -1,0 +1,303 @@
+,ID,Relation,Source,Target,MK
+0,L07_1,synonyms - intensity,afraid,,уплашен
+1,,,,terrified,престрашен
+2,,,,horrified,NO_TRANSLATION
+3,,,,scared,наморничав
+4,,,,stiff,втренчен
+5,,,,petrified,вкаменет
+6,,,,fearful,DUPLICATE_NO_TRANSLATION
+7,,,,panicky,DUPLICATE_наморничав
+9,L07_2,synonyms - intensity,angry,,лут
+10,,,,furious,бесен
+11,,,,enraged,побеснет
+12,,,,outraged,NO_TRANSLATION
+13,,,,aggrivated,DUPLICATE_NO_TRANSLATION
+14,,,,irate,DUPLICATE_NO_TRANSLATION
+15,,,,seething,DUPLICATE_NO_TRANSLATION
+17,L07_3,synonyms - intensity,ask,,прашува
+18,,,,beg,проси
+19,,,,implore,жити
+20,,,,pray,моли
+21,,,,entreat,NO_TRANSLATION
+22,,,,supplicate,DUPLICATE_NO_TRANSLATION
+23,,,,insist,настојува
+25,L07_4,synonyms - intensity,bad,,лош
+26,,,,awful,пеколен
+27,,,,atrocious,NO_TRANSLATION
+28,,,,abominable,DUPLICATE_NO_TRANSLATION
+29,,,,dreadful,DUPLICATE_NO_TRANSLATION
+30,,,,painful,жеглив
+31,,,,terrible,грозен
+32,,,,unspeakable,неизречлив
+34,L07_5,synonyms - intensity,boring,,здодевен
+35,,,,tedious,NO_TRANSLATION
+36,,,,deadening,DUPLICATE_NO_TRANSLATION
+37,,,,dull,затапен
+38,,,,ho-hum,DUPLICATE_NO_TRANSLATION
+39,,,,irksome,DUPLICATE_NO_TRANSLATION
+40,,,,tiresome,усилен
+41,,,,wearisome,DUPLICATE_NO_TRANSLATION
+43,L07_6,synonyms - intensity,cat,,мачка
+44,,,,lion,лав
+45,,,,tiger,тигар
+46,,,,leopard,леопард
+47,,,,panther,пантер
+48,,,,jaguar,јагуар
+50,L07_7,synonyms - intensity,chuckle,,гргор
+51,,,,laugh,смев
+52,,,,guffaw,NO_TRANSLATION
+53,,,,chortle,DUPLICATE_NO_TRANSLATION
+54,,,,snicker,DUPLICATE_NO_TRANSLATION
+55,,,,snigger,DUPLICATE_NO_TRANSLATION
+56,,,,titter,DUPLICATE_NO_TRANSLATION
+57,,,,roar,рик
+59,L07_8,synonyms - intensity,confused,,збунет
+60,,,,lost,изгубен
+61,,,,bewildered,NO_TRANSLATION
+62,,,,trapped,вклештен
+63,,,,desperate,безнадежен
+65,L07_9,synonyms - intensity,creative,,креативен
+66,,,,ingenious,"генијален,_ингениозен"
+67,,,,inventive,досетлив
+68,,,,demiurgic,NO_TRANSLATION
+69,,,,deviceful,DUPLICATE_NO_TRANSLATION
+70,,,,innovational,иновациски
+71,,,,innovative,"новаторки,_иновативен"
+72,,,,innovatory,DUPLICATE_NO_TRANSLATION
+73,,,,original,оригинален
+74,,,,originative,DUPLICATE_NO_TRANSLATION
+76,L07_10,synonyms - intensity,cry,,плаче
+77,,,,scream,вриска
+78,,,,shriek,клик
+79,,,,screech,NO_TRANSLATION
+80,,,,screeching,DUPLICATE_NO_TRANSLATION
+82,L07_11,synonyms - intensity,damp,,влажен
+83,,,,drenched,NO_TRANSLATION
+84,,,,dripping,капнат
+85,,,,saturated,заситен
+86,,,,soaked,накиснат
+87,,,,soaking,раскиснување
+88,,,,sodden,DUPLICATE_NO_TRANSLATION
+89,,,,sopping,DUPLICATE_NO_TRANSLATION
+90,,,,soppy,DUPLICATE_NO_TRANSLATION
+91,,,,soused,DUPLICATE_NO_TRANSLATION
+92,,,,wringing-wet,DUPLICATE_NO_TRANSLATION
+94,L07_12,synonyms - intensity,dinner,,вечера
+95,,,,feast,гозба
+96,,,,banquet,банкет
+97,,,,fiesta,фиеста
+99,L07_13,synonyms - intensity,dislike,,мрази
+100,,,,hate,замрази
+101,,,,abhor,NO_TRANSLATION
+102,,,,detest,згнаси
+103,,,,loathe,DUPLICATE_NO_TRANSLATION
+104,,,,abominate,DUPLICATE_NO_TRANSLATION
+105,,,,execrate,DUPLICATE_NO_TRANSLATION
+106,,,,contemn,DUPLICATE_NO_TRANSLATION
+107,,,,despise,презира
+108,,,,scorn,DUPLICATE_NO_TRANSLATION
+109,,,,disdain,презир
+111,L07_14,synonyms - intensity,doze,,дреме
+112,,,,sleep,спие
+113,,,,slumber,NO_TRANSLATION
+115,L07_15,synonyms - intensity,drizzle,,роси
+116,,,,rain,дожд
+117,,,,shower,DUPLICATE_дожд
+118,,,,raifall,NO_TRANSLATION
+119,,,,deluge,поплава
+122,L07_16,synonyms - intensity,excited,,возбуден
+123,,,,agitated,изнервиран
+124,,,,nervous,нервозен
+126,L07_17,synonyms - intensity,faith,,вера
+127,,,,fanatism,NO_TRANSLATION
+128,,,,fanaticism,фанатизам
+129,,,,zealotry,DUPLICATE_NO_TRANSLATION
+131,L07_18,synonyms - intensity,giggle,,закикоти
+132,,,,laugh,смеа
+133,,,,guffaw,NO_TRANSLATION
+134,,,,chortle,DUPLICATE_NO_TRANSLATION
+135,,,,snicker,DUPLICATE_NO_TRANSLATION
+136,,,,snigger,DUPLICATE_NO_TRANSLATION
+137,,,,titter,DUPLICATE_NO_TRANSLATION
+138,,,,roar,рик
+140,L07_19,synonyms - intensity,guilty,,виновен
+141,,,,remorseful,NO_TRANSLATION
+142,,,,sorrowful,тажен
+143,,,,unworthy,недостоен
+145,L07_20,synonyms - intensity,happy,,среќен
+146,,,,ecstatic,екстатичен
+147,,,,enraptured,NO_TRANSLATION
+148,,,,rapturous,DUPLICATE_NO_TRANSLATION
+149,,,,rapt,DUPLICATE_NO_TRANSLATION
+150,,,,rhapsodic,DUPLICATE_NO_TRANSLATION
+152,L07_21,synonyms - intensity,house,,куќа
+153,,,,palace,палата
+154,,,,castle,дворец
+156,L07_22,synonyms - intensity,hungry,,гладен
+157,,,,starving,NO_TRANSLATION
+158,,,,famished,DUPLICATE_NO_TRANSLATION
+159,,,,peckish,DUPLICATE_NO_TRANSLATION
+160,,,,ravenous,DUPLICATE_NO_TRANSLATION
+161,,,,starved,изгладнет
+163,L07_23,synonyms - intensity,indulge,,самозаборавува
+164,,,,pamper,NO_TRANSLATION
+165,,,,spoil,разгалува
+166,,,,coddle,DUPLICATE_NO_TRANSLATION
+168,L07_24,synonyms - intensity,interesting,,интересен
+169,,,,exciting,возбудлив
+170,,,,exhilarant,NO_TRANSLATION
+171,,,,exhilarating,DUPLICATE_NO_TRANSLATION
+172,,,,exhilarative,DUPLICATE_NO_TRANSLATION
+173,,,,eye-popping,DUPLICATE_NO_TRANSLATION
+174,,,,inspiring,инспиративен
+175,,,,intoxicating,опоен
+176,,,,rousing,DUPLICATE_NO_TRANSLATION
+177,,,,stimulating,стимулативен
+178,,,,stirring,DUPLICATE_NO_TRANSLATION
+179,,,,arresting,DUPLICATE_NO_TRANSLATION
+180,,,,interesting,интересен
+181,,,,intriguing,интригантен
+182,,,,moving,DUPLICATE_NO_TRANSLATION
+183,,,,provocative,провокативен
+184,,,,heady,DUPLICATE_NO_TRANSLATION
+185,,,,thrilling,DUPLICATE_NO_TRANSLATION
+187,L07_25,synonyms - intensity,irritate,,иритира
+188,,,,enrage,налути
+189,,,,incense,NO_TRANSLATION
+190,,,,infuriate,испопали
+191,,,,ire,DUPLICATE_NO_TRANSLATION
+192,,,,mad,бесен
+193,,,,madden,збудален
+194,,,,steam,DUPLICATE_NO_TRANSLATION
+195,,,,umbrage,DUPLICATE_NO_TRANSLATION
+197,L07_26,synonyms - intensity,jog,,џогира
+198,,,,run,трча
+199,,,,scarper,NO_TRANSLATION
+200,,,,flee,скубне
+201,,,,fly,лета
+203,L07_27,synonyms - intensity,lake,,езеро
+204,,,,sea,море
+205,,,,ocean,океан
+207,L07_28,synonyms - intensity,like,,сака
+208,,,,love,љуби
+209,,,,care,се_грижи
+210,,,,fond,NO_TRANSLATION
+211,,,,crush,здроби
+212,,,,infatuate,DUPLICATE_NO_TRANSLATION
+214,L07_29,synonyms - intensity,love,,љуби
+215,,,,adore,обожува
+216,,,,fetishize,NO_TRANSLATION
+217,,,,idolize,идолизира
+218,,,,idolise,DUPLICATE_идолизира
+219,,,,worship,DUPLICATE_обожува
+220,,,,hero-worship,DUPLICATE_NO_TRANSLATION
+221,,,,revere,DUPLICATE_NO_TRANSLATION
+223,L07_30,synonyms - intensity,monkey,,мајмун
+224,,,,gorilla,горило
+226,L07_31,synonyms - intensity,nap,,дреме
+227,,,,sleep,спие
+228,,,,slumber,NO_TRANSLATION
+230,L07_32,synonyms - intensity,necessary,,неопходен
+231,,,,essential,битен
+232,,,,indispensable,NO_TRANSLATION
+233,,,,vital,витален
+234,,,,required,пропишан
+236,L07_33,synonyms - intensity,opposed,,спротиставен
+237,,,,averse,NO_TRANSLATION
+238,,,,antipathetic,DUPLICATE_NO_TRANSLATION
+239,,,,antipathetical,DUPLICATE_NO_TRANSLATION
+240,,,,indisposed,индиспониран
+241,,,,loath,DUPLICATE_NO_TRANSLATION
+242,,,,loth,DUPLICATE_NO_TRANSLATION
+244,L07_34,synonyms - intensity,pain,,болка
+245,,,,torment,тегообност
+246,,,,torture,тортура
+247,,,,agony,агонија
+249,L07_35,synonyms - intensity,pony,,пони
+250,,,,horse,коњ
+252,L07_36,synonyms - intensity,poorly,,сиротно
+253,,,,afflicted,NO_TRANSLATION
+254,,,,sick,заболен
+255,,,,ill,болен
+256,,,,stricken,DUPLICATE_NO_TRANSLATION
+258,L07_37,synonyms - intensity,rain,,дожд
+259,,,,deluge,поплава
+260,,,,shower,DUPLICATE_дожд
+262,L07_38,synonyms - intensity,sad,,тажен
+263,,,,desparate,очаен
+264,,,,despondent,NO_TRANSLATION
+265,,,,despairing,DUPLICATE_NO_TRANSLATION
+266,,,,desponding,DUPLICATE_NO_TRANSLATION
+267,,,,forlorn,зафрлен
+268,,,,hopeless,безнадежен
+269,,,,melancholy,меланхолија
+272,L07_39,synonyms - intensity,sea,,море
+273,,,,ocean,океан
+275,L07_40,synonyms - intensity,snack,,снек
+276,,,,meal,оброк
+277,,,,eat,јаде
+279,L07_41,synonyms - intensity,sniffles,,шмркавица
+280,,,,pneumonia,пневмонија
+282,L07_42,synonyms - intensity,soon,,наскоро
+283,,,,immediately,веднаш
+284,,,,promptly,итно
+285,,,,straightaway,директен
+287,L07_43,synonyms - intensity,strong,,силен
+288,,,,powerful,моќен
+289,,,,forceful,NO_TRANSLATION
+290,,,,super,супер
+291,,,,potent,потентен
+293,L07_44,synonyms - intensity,tasty,,вкусен
+294,,,,delicious,деликатесен
+295,,,,delectable,NO_TRANSLATION
+296,,,,luscious,DUPLICATE_NO_TRANSLATION
+297,,,,pleasant-tasting,убаво_на_вкус
+298,,,,scrumptious,DUPLICATE_NO_TRANSLATION
+299,,,,toothsome,DUPLICATE_NO_TRANSLATION
+300,,,,yummy,DUPLICATE_NO_TRANSLATION
+301,,,,mouth-watering,DUPLICATE_NO_TRANSLATION
+302,,,,ambrosial,DUPLICATE_NO_TRANSLATION
+303,,,,heavenly,боженствено
+305,L07_45,synonyms - intensity,tired,,уморен
+306,,,,exhausted,исцрпен
+307,,,,drained,испиен
+309,L07_46,synonyms - intensity,unfortunate,,несреќен
+310,,,,tragic,трагичен
+311,,,,woeful,NO_TRANSLATION
+312,,,,grievous,нажален
+313,,,,wretched,беден
+314,,,,miserable,мизерен
+315,,,,awful,пеколен
+316,,,,lamentable,DUPLICATE_NO_TRANSLATION
+317,,,,regrettable,DUPLICATE_NO_TRANSLATION
+318,,,,desperate,беспомошен
+319,,,,hopeless,безнадежен
+320,,,,disastrous,поразен
+322,L07_47,synonyms - intensity,unhappy,,несреќен
+323,,,,miserable,мизерен
+324,,,,suffering,страдален
+325,,,,wretched,беден
+327,L07_48,synonyms - intensity,want,,сака
+328,,,,crave,загори
+329,,,,hunger,глад
+330,,,,thirst,жед
+331,,,,starve,испостен
+332,,,,lust,блуд
+334,L07_49,synonyms - intensity,warm,,топол
+335,,,,hot,врел
+336,,,,fiery,огнен
+337,,,,flaming,загорен
+338,,,,heated,вжештен
+339,,,,red-hot,NO_TRANSLATION
+340,,,,sizzling,DUPLICATE_NO_TRANSLATION
+341,,,,sensual,сензуален
+342,,,,sultry,DUPLICATE_NO_TRANSLATION
+343,,,,torrid,DUPLICATE_NO_TRANSLATION
+344,,,,white-hot,DUPLICATE_NO_TRANSLATION
+346,L07_50,synonyms - intensity,well,,арен
+347,,,,flourishing,расцветан
+348,,,,robust,робусен
+349,,,,booming,NO_TRANSLATION
+350,,,,prospering,DUPLICATE_NO_TRANSLATION
+351,,,,prosperous,просперитетен
+352,,,,thriving,DUPLICATE_NO_TRANSLATION

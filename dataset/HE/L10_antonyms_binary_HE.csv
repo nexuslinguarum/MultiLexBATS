@@ -1,0 +1,241 @@
+,ID,Relation,Source,Target,HE
+0,L10_1,antonyms - binary,after,,לאחר
+1,,,,before,לפני
+2,,,,earlier,מוקדם_יותר
+3,,,,previously,קוֹדֶם
+5,L10_2,antonyms - binary,ahead,,קָדִימָה
+6,,,,behind,מֵאָחוֹר
+7,,,,rear,חלק_אחורי
+8,,,,after,לאחר
+9,,,,tail,זָנָב
+10,,,,beforehand,מִרֹאשׁ
+12,L10_3,antonyms - binary,anterior,,קִדמִי
+13,,,,posterior,אֲחוֹרִי
+15,L10_4,antonyms - binary,backward,,לְאָחוֹר
+16,,,,forward,קָדִימָה
+17,,,,forwards,DUPLICATE_קדימה
+18,,,,frontward,מקדימה
+19,,,,frontwards,קדמית
+20,,,,forrad,להתקדם
+21,,,,forrard,DUPLICATE_קדימה
+22,,,,forth,הָלְאָה
+23,,,,onward,DUPLICATE_הלאה
+25,L10_5,antonyms - binary,before,,לפני
+26,,,,after,לאחר
+27,,,,subsequently,כתוצאה_מכך
+28,,,,later,מאוחר_יותר
+29,,,,afterwards,לאחר_מכן
+30,,,,afterward,אחר_כך
+31,,,,ahead,קָדִימָה
+33,L10_6,antonyms - binary,beginning,,התחלה
+34,,,,end,סוֹף
+35,,,,terminal,מָסוֹף
+36,,,,ending,סִיוּם
+37,,,,last,אחרון
+38,,,,final,סופי
+39,,,,finish,סיים
+40,,,,finale,DUPLICATE_סִיוּם
+41,,,,conclusion,סיכום
+43,L10_7,antonyms - binary,below,,לְמַטה
+44,,,,above,מֵעַל
+45,,,,higher,גבוה_יותר
+46,,,,up,לְמַעלָה
+48,L10_8,antonyms - binary,climb,,לְטַפֵּס
+49,,,,descend,לָרֶדֶת
+50,,,,declivitous,מדרוני
+51,,,,downhill,בְּמִדרוֹן
+52,,,,downward-sloping,משופע_כלפי_מטה
+53,,,,degressive,גרסיבי
+54,,,,descendant,צאֱצא
+55,,,,descendent,DUPLICATE_צאצא
+56,,,,down,מטה
+57,,,,downward,כלפי_מטה
+58,,,,downward-arching,קשת_כלפי_מטה
+59,,,,drizzling,טִפטוּף
+60,,,,dropping,הַפָּלָה
+61,,,,falling,נופל
+62,,,,raining,יורד_גשם
+64,L10_9,antonyms - binary,dead,,מֵת
+65,,,,alive,בחיים
+66,,,,living,חַי
+67,,,,live,לחיות
+69,L10_10,antonyms - binary,decrement,,ירידה
+70,,,,increment,עליה
+72,L10_11,antonyms - binary,descend,,לָרֶדֶת
+73,,,,ascend,DUPLICATE_לעלות
+74,,,,climb,לְטַפֵּס
+75,,,,rise,לעלות
+76,,,,upward,למעלה
+77,,,,ascendent,DUPLICATE_עולה
+78,,,,ascendant,עולה
+80,L10_12,antonyms - binary,dive,,לִצְלוֹל
+81,,,,emerge,לָצֵאת
+83,L10_13,antonyms - binary,down,,מטה
+84,,,,up,לְמַעלָה
+85,,,,above,מֵעַל
+86,,,,ahead,קָדִימָה
+87,,,,lead,הובלה
+88,,,,leading,מוֹבִיל
+89,,,,aweigh,עוגן_מורם
+90,,,,dormie,DUPLICATE_להתקדם_בגולף
+91,,,,dormy,להתקדם_בגולף
+92,,,,heavenward,לכיוון_השמים
+93,,,,skyward,לשמיים
+94,,,,risen,קם
+95,,,,sprouted,הנץ
+96,,,,upbound,מעלה
+97,,,,upfield,במעלה_השדה
+98,,,,upward,DUPLICATE_למעלה
+100,L10_14,antonyms - binary,downslope,,מדרון
+101,,,,upslope,בשיפוע
+102,,,,ascent,מַעֲלֶה
+104,L10_15,antonyms - binary,drop,,נפילה
+105,,,,lift,להרים
+106,,,,pick_up,לאסוף
+108,L10_16,antonyms - binary,dynamic,,דִינָמִי
+109,,,,static,סטָטִי
+110,,,,still,בלי_נוע
+111,,,,unmoving,חסר_תנועה
+112,,,,unchanging,לא_משתנה
+114,L10_17,antonyms - binary,employ,,לְהַעֲסִיק
+115,,,,dismiss,לשחרר
+116,,,,fire,לפטר
+117,,,,sack,פיטורין
+118,,,,displace,העביר_מתפקיד
+119,,,,terminate,לבטל
+121,L10_18,antonyms - binary,exit,,יְצִיאָה
+122,,,,entrance,DUPLICATE_כניסה
+123,,,,entranceway,DUPLICATE_כניסה
+124,,,,entryway,DUPLICATE_כניסה
+125,,,,entry,DUPLICATE_כניסה
+126,,,,entree,זכות_כניסה
+128,L10_19,antonyms - binary,fall,,נפילה
+129,,,,rise,לעלות
+130,,,,upward,למעלה
+131,,,,climb,לְטַפֵּס
+133,L10_20,antonyms - binary,first,,ראשון
+134,,,,last,אחרון
+135,,,,end,סוֹף
+136,,,,terminal,מָסוֹף
+137,,,,ending,סִיוּם
+138,,,,final,סופי
+139,,,,finish,סיים
+140,,,,finale,קטע_סיום
+141,,,,conclusion,סיכום
+143,L10_21,antonyms - binary,forget,,לשכוח
+144,,,,remember,לזכור
+145,,,,retrieve,להחזיר
+146,,,,recall,DUPLICATE_לזכור
+147,,,,call_back,להיזכר
+148,,,,call_up,להזכיר
+149,,,,recollect,DUPLICATE_לזכור
+151,L10_22,antonyms - binary,forward,,קָדִימָה
+152,,,,backward,לְאָחוֹר
+153,,,,back,חזור
+154,,,,backwards,אֲחוֹרָה
+155,,,,rearward,אחורי
+156,,,,rearwards,DUPLICATE_אחורי
+158,L10_23,antonyms - binary,front,,חֲזִית
+159,,,,back,אחור
+160,,,,rear,חלק_אחורי
+161,,,,forepart,קדמה
+163,L10_24,antonyms - binary,in,,בפנים
+164,,,,out,הַחוּצָה
+165,,,,outer,חִיצוֹנִי
+166,,,,exterior,DUPLICATE_חיצוני
+167,,,,outside,בחוץ
+169,L10_25,antonyms - binary,inbound,,נכנס
+170,,,,outbound,יוצא
+172,L10_26,antonyms - binary,inhale,,לִשְׁאוֹף
+173,,,,exhale,לִנְשׁוֹף
+175,L10_27,antonyms - binary,input,,קֶלֶט
+176,,,,output,פלט
+178,L10_28,antonyms - binary,inside,,בְּתוֹך
+179,,,,outside,בחוץ
+180,,,,exterior,חִיצוֹנִי
+181,,,,out,הַחוּצָה
+183,L10_29,antonyms - binary,interior,,פְּנִים
+184,,,,exterior,חִיצוֹנִי
+185,,,,outdoor,DUPLICATE_בחוץ
+186,,,,out-of-door,מחוץ_לדלת
+187,,,,outside,בחוץ
+189,L10_30,antonyms - binary,internal,,פְּנִימִי
+190,,,,external,חיצוני
+191,,,,outer,DUPLICATE_חיצוני
+192,,,,outside,בחוץ
+194,L10_31,antonyms - binary,inverse,,הפוך
+195,,,,reverse,לַהֲפוֹך
+196,,,,reversion,חֲזָרָה
+197,,,,reversal,הִתְהַפְּכוּת
+198,,,,turnabout,תַפנִית
+199,,,,turnaround,להסתובב
+201,L10_32,antonyms - binary,mortal,,בן_תמותה
+202,,,,immortal,בן_אלמוות
+204,L10_33,antonyms - binary,occupied,,כָּבוּשׁ
+205,,,,vacant,רֵיק
+206,,,,free,חינם
+208,L10_34,antonyms - binary,off,,כבוי
+209,,,,on,דלוק
+211,L10_35,antonyms - binary,out,,הַחוּצָה
+212,,,,in,בְּפנים
+213,,,,inside,בְּתוֹך
+215,L10_36,antonyms - binary,outward,,הַחוּצָה
+216,,,,upward,DUPLICATE_למעלה
+217,,,,up,לְמַעלָה
+218,,,,upwards,כלפי_מעלה
+220,L10_37,antonyms - binary,over,,על
+221,,,,under,תַחַת
+222,,,,below,למטה
+223,,,,beneath,DUPLICATE_תחת
+225,L10_38,antonyms - binary,previously,,קוֹדֶם
+226,,,,subsequently,כתוצאה_מכך
+227,,,,later,מאוחר_יותר
+228,,,,afterwards,לאחר_מכן
+229,,,,afterward,אחר_כך
+230,,,,after,לאחר
+231,,,,subsequent,DUPLICATE_לאחר_מכן
+233,L10_39,antonyms - binary,proceed,,להמשיך
+234,,,,retreat,לָסֶגֶת
+235,,,,return,לַחֲזוֹר
+237,L10_40,antonyms - binary,rise,,לעלות
+238,,,,sink,לשקוע
+239,,,,drop,יְרִידָה
+240,,,,fall,נפילה
+242,L10_41,antonyms - binary,south,,דָרוֹם
+243,,,,north,צָפוֹן
+245,L10_42,antonyms - binary,southeast,,דְרום_מזרח
+246,,,,southwest,דְרום_מערב
+247,,,,northeast,צפון_מזרח
+249,L10_43,antonyms - binary,submerge,,לִצְלוֹל
+250,,,,emerge,לָצֵאת
+252,L10_44,antonyms - binary,top,,חלק_עליון
+253,,,,bottom,תַחתִית
+254,,,,underside,חלק_תחתון
+255,,,,undersurface,משטח_תחתון
+257,L10_45,antonyms - binary,toward,,לקראת
+258,,,,away,רָחוֹק
+259,,,,off,כבוי
+260,,,,forth,הָלְאָה
+261,,,,aside,בַּצַד
+263,L10_46,antonyms - binary,True,,נָכוֹן
+264,,,,False,שֶׁקֶר
+265,,,,incorrect,לא_נכון
+266,,,,wrong,לא_בסדר
+267,,,,mistaken,טוֹעֶה
+269,L10_47,antonyms - binary,under,,תַחַת
+270,,,,over,על
+271,,,,above,מֵעַל
+272,,,,up,לְמַעלָה
+274,L10_48,antonyms - binary,up,,לְמַעלָה
+275,,,,down,מטה
+276,,,,downwards,DUPLICATE_כלפי_מטה
+277,,,,downward,כלפי_מטה
+278,,,,downwardly,DUPLICATE_כלפי_מטה
+280,L10_49,antonyms - binary,uphill,,במעלה_ההר
+281,,,,downhill,בְּמִדרוֹן
+282,,,,decline,יְרִידָה
+283,,,,fall,נפילה
+284,,,,declivitous,מדרוני
+285,,,,downward-sloping,משופע_כלפי_מטה
+287,L10_50,antonyms - binary,west,,מַעֲרָב
+288,,,,east,מזרח

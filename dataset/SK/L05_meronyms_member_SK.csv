@@ -1,0 +1,171 @@
+,ID,Relation,Source,Target,SK
+0,L05_1,meronyms - member,acrobat,,akrobat
+1,,,,troupe,súbor
+3,L05_2,meronyms - member,antelope,,antilopa
+4,,,,herd,stádo
+6,L05_3,meronyms - member,bee,,včela
+7,,,,swarm,roj
+8,,,,hive,úľ
+9,,,,colony,kolónia
+10,,,,drift,NO_TRANSLATION
+11,,,,cast,DUPLICATE_NO_TRANSLATION
+12,,,,nest,hniezdo
+13,,,,rabble,DUPLICATE_roj
+14,,,,stand,DUPLICATE_NO_TRANSLATION
+16,L05_4,meronyms - member,bird,,vták
+17,,,,flock,kŕdeľ
+19,L05_5,meronyms - member,book,,kniha
+20,,,,library,knižnica
+21,,,,shelf,polička
+22,,,,collection,zbierka
+23,,,,accounting,účtovníctvo
+24,,,,accounting_system,účtovný_systém
+25,,,,method_of_accounting,učtovná_metóda
+27,L05_6,meronyms - member,calf,,teľa
+28,,,,cattle,dobytok
+29,,,,herd,črieda
+31,L05_7,meronyms - member,car,,vagón
+32,,,,train,vlak
+33,,,,procession,NO_TRANSLATION
+34,,,,,súprava
+35,L05_8,meronyms - member,cat,,mačka
+36,,,,clowder,NO_TRANSLATION
+37,,,,glaring,DUPLICATE_NO_TRANSLATION
+38,,,,clutter,DUPLICATE_NO_TRANSLATION
+39,,,,pounce,DUPLICATE_NO_TRANSLATION
+40,,,,,"kŕdeľ,stádo,horda"
+41,L05_9,meronyms - member,cattle,,dobytok
+42,,,,herd,stádo
+44,L05_10,meronyms - member,christian,,kresťan
+45,,,,congregation,kongregácia
+46,,,,church,cirkev
+47,,,,parish,farnosť
+49,L05_11,meronyms - member,citizen,,občan
+50,,,,citizenry,NO_TRANSLATION
+51,,,,country,krajina
+52,,,,state,štát
+53,,,,,občianska_spoločnosť
+54,L05_12,meronyms - member,college,,fakulta
+55,,,,university,univerzita
+57,L05_13,meronyms - member,county,,okres
+58,,,,state,štát
+59,,,,country,krajina
+61,L05_14,meronyms - member,cow,,krava
+62,,,,herd,stádo
+64,L05_15,meronyms - member,crow,,vrana
+65,,,,murder,NO_TRANSLATION
+66,,,,,kŕdeľ
+67,L05_16,meronyms - member,division,,divízia
+68,,,,company,spoločnosť
+69,,,,business,obchod
+70,,,,platoon,čata
+71,,,,battle_group,vojenská_jednotka
+73,L05_17,meronyms - member,elephant,,slon
+74,,,,herd,stádo
+76,L05_18,meronyms - member,employee,,zamestanec
+77,,,,staff,personál
+78,,,,company,spoločnosť
+80,L05_19,meronyms - member,fish,,ryba
+81,,,,school,kŕdeľ
+83,L05_20,meronyms - member,flower,,kvet
+84,,,,bouquet,kytica
+85,,,,bunch,zväzok
+87,L05_21,meronyms - member,galaxy,,galaxia
+88,,,,universe,vesmír
+90,L05_22,meronyms - member,goose,,hus
+91,,,,gaggle,kŕdeľ
+93,L05_23,meronyms - member,juror,,porotca
+94,,,,jury,porota
+96,L05_24,meronyms - member,kitten,,mačiatko
+97,,,,litter,vrh
+99,L05_25,meronyms - member,letter,,písmeno
+100,,,,alphabet,abeceda
+102,L05_26,meronyms - member,lion,,lev
+103,,,,pride,stádo
+105,L05_27,meronyms - member,listener,,poslucháč
+106,,,,audience,obecenstvo
+108,L05_28,meronyms - member,member,,člen
+109,,,,club,klub
+110,,,,team,tím
+111,,,,group,skupina
+112,,,,band,DUPLICATE_skupina
+113,,,,community,komunita
+114,,,,,družina
+115,L05_29,meronyms - member,musician,,hudobník
+116,,,,orchestra,orchester
+117,,,,band,hodina
+119,L05_30,meronyms - member,nomad,,nomád
+120,,,,horde,horda
+122,L05_31,meronyms - member,page,,strana
+123,,,,book,kniha
+124,,,,notebook,zápisník
+125,,,,website,NO_TRANSLATION
+126,,,,web-site,DUPLICATE_NO_TRANSLATION
+128,L05_32,meronyms - member,parishioner,,farník
+129,,,,parish,fara
+130,,,,church,cirkev
+132,L05_33,meronyms - member,person,,osoba
+133,,,,society,spoločnosť
+134,,,,company,DUPLICATE_spoločnosť
+135,,,,party,NO_TRANSLATION
+136,,,,world,svet
+137,,,,,"spoločenstvo,združenie"
+138,L05_34,meronyms - member,photo,,fotografia
+139,,,,album,album
+140,,,,collection,zbierka_fotografií
+141,,,,library,NO_TRANSLATION
+142,,,,,fotoalbum
+143,L05_35,meronyms - member,player,,hráč
+144,,,,team,tím
+145,,,,group,skupina
+146,,,,orchestra,orchester
+148,L05_36,meronyms - member,policeman,,policajt
+149,,,,police,polícia
+151,L05_37,meronyms - member,secretary,,sekretárka
+152,,,,staff,personál
+154,L05_38,meronyms - member,senator,,senátor
+155,,,,senate,senát
+156,,,,house,komora
+158,L05_39,meronyms - member,sheep,,ovca
+159,,,,flock,stádo
+161,L05_40,meronyms - member,shrub,,krík
+162,,,,shrubbery,kríky
+164,L05_41,meronyms - member,singer,,spevák
+165,,,,choir,zbor
+166,,,,band,skupina
+167,,,,duo,duo
+168,,,,trio,trio
+169,,,,quartet,kvarteto
+171,L05_42,meronyms - member,soldier,,vojak
+172,,,,army,armáda
+173,,,,unit,jednotka
+174,,,,division,divízia
+175,,,,troop,oddiel
+177,L05_43,meronyms - member,song,,pesnička
+178,,,,album,album
+179,,,,collection,zbierka_piesní
+180,,,,antology,antológia
+181,,,,library,hudobná_knižnica
+183,L05_44,meronyms - member,spouse,,manželský_partner
+184,,,,couple,pár
+185,,,,relationship,vzťah
+186,,,,family,rodina
+188,L05_45,meronyms - member,star,,hviezda
+189,,,,constellation,súhvezdie
+190,,,,galaxy,galaxia
+192,L05_46,meronyms - member,state,,štát
+193,,,,country,krajina
+194,,,,province,provincia
+196,L05_47,meronyms - member,student,,žiak
+197,,,,class,trieda
+198,,,,school,škola
+200,L05_48,meronyms - member,tree,,strom
+201,,,,forest,les
+202,,,,wood,háj
+203,,,,grove,lesík
+205,L05_49,meronyms - member,wolf,,vlk
+206,,,,pack,svorka
+208,L05_50,meronyms - member,word,,slovo
+209,,,,paragraph,odsek
+210,,,,sentence,veta
+211,,,,text,text
